@@ -1,0 +1,1355 @@
+﻿X,Y,FID,Call_Taken,Customer,Location,X_Coord,Y_Coord,Ward_numbe,Neighborho,Community,Day_identi,TowDist
+-93.222912,44.901953,1,12/12/2016 03:56am,Snow Emergency,"5555 34 ave s,Minneapolis,MN",44.901953,-93.222912,12,Morris Park,Nokomis,2,6
+-93.267517,44.969486,2,12/12/2016 03:57am,Snow Emergency,"grant st e / porland ave,Minneapolis,MN",44.969486,-93.267517,7,Elliot Park,Central,2,3
+-93.278242,44.924943,3,12/12/2016 03:58am,Snow Emergency,"4300 Nicollet ,Minneapolis,MN",44.924943,-93.278242,8,Kingfield,Southwest,2,5
+-93.242156,44.964005,4,12/12/2016 04:06am,Snow Emergency,"2109 9th st s ,Minneapolis,MN",44.964005,-93.242156,6,Seward,Longfellow,2,4
+-93.222647,44.902582,5,12/12/2016 04:09am,Snow Emergency,"5535 34th Ave. so,Minneapolis,MN",44.902582,-93.222647,12,Morris Park,Nokomis,2,6
+-93.259686,44.968855,6,12/12/2016 04:09am,Snow Emergency,"14th St e and 10th Ave s,Minneapolis,MN",44.968855,-93.259686,6,Elliot Park,Central,2,3
+-93.232356,44.899498,7,12/12/2016 04:14am,Snow Emergency,"5749 28 ave s,Minneapolis,MN",44.899498,-93.232356,11,Wenonah,Nokomis,2,6
+-93.239589,44.963997,8,12/12/2016 04:25am,Snow Emergency,"2220 9th street s,Minneapolis,MN",44.963997,-93.239589,6,Seward,Longfellow,2,4
+-93.29957,44.947829,9,12/12/2016 04:43am,Snow Emergency,"3000 Holmes Ave S ,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.259686,44.968855,10,12/12/2016 04:45am,Snow Emergency,"14th and 10th Ave s,Minneapolis,MN",44.968855,-93.259686,6,Elliot Park,Central,2,3
+-93.29957,44.947829,11,12/12/2016 04:47am,Snow Emergency,"3000 Holmes Ave S,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.259686,44.968855,12,12/12/2016 04:48am,Snow Emergency,"14th and 10th Ave s,Minneapolis,MN",44.968855,-93.259686,6,Elliot Park,Central,2,3
+-93.287698,45.00088,13,12/11/2016 09:18pm,Snow Emergency,"2118 Lyndale Ave n. ,Minneapolis,MN",45.00088,-93.287698,5,Hawthorne,Near-North,1,1
+-93.239905,44.963688,14,12/12/2016 04:54am,Snow Emergency,"2211 9th st s,Minneapolis,MN",44.963688,-93.239905,6,Seward,Longfellow,2,4
+-93.252505,44.987425,15,12/12/2016 08:19am,Snow Emergency,"422 2ND AVE SE,Minneapolis,MN",44.987425,-93.252505,3,Marcy-Holmes,University,2,4
+-93.287773,45.015044,16,12/11/2016 09:40pm,Snow Emergency,"3300 Lyndale Ave N,Minneapolis,MN",45.015044,-93.287773,4,McKinley,Camden,1,1
+-93.262979,44.946941,17,12/11/2016 09:44pm,Snow Emergency,"3044 Chicago ave s,Minneapolis,MN",44.946941,-93.262979,9,Central,Powderhorn,1,5
+-93.25252,44.987406,18,12/12/2016 08:21am,Snow Emergency,"420 2nd ave se,Minneapolis,MN",44.987406,-93.25252,3,Marcy-Holmes,University,2,4
+-93.287959,45.007733,19,12/11/2016 09:44pm,Snow Emergency,"2700 Lyndale Ave n,Minneapolis,MN",45.007733,-93.287959,5,Hawthorne,Near-North,1,1
+-93.250984,44.989348,20,12/12/2016 08:25am,Snow Emergency,"604 2nd ave se,Minneapolis,MN",44.989348,-93.250984,3,Marcy-Holmes,University,2,4
+-93.288016,45.011634,21,12/11/2016 09:48pm,Snow Emergency,"3021 Lyndale ave n ,Minneapolis,MN",45.011634,-93.288016,5,Hawthorne,Near-North,1,1
+-93.290901,44.964934,22,12/12/2016 08:33am,Snow Emergency,"1810 Bryant Ave s,Minneapolis,MN",44.964934,-93.290901,7,Lowry Hill,Calhoun-Isles,2,3
+-93.28806,45.017451,23,12/11/2016 09:53pm,Snow Emergency,"3425 Lyndale Ave N,Minneapolis,MN",45.017451,-93.28806,4,McKinley,Camden,1,1
+-93.290641,44.985977,24,12/12/2016 08:38am,Snow Emergency,"738 aldrich ave n,Minneapolis,MN",44.985977,-93.290641,5,Sumner-Glenwood,Near-North,2,1
+-93.29447,44.951575,25,12/11/2016 09:55pm,Snow Emergency,"2800-2899 EMERSON AVE S,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.304977,44.947827,26,12/12/2016 08:39am,Snow Emergency,"3012 Knox Ave s,Minneapolis,MN",44.947827,-93.304977,10,ECCO,Calhoun-Isles,2,5
+-93.29071,44.987907,27,12/12/2016 08:41am,Snow Emergency,"946 Aldrich Avenue North ,Minneapolis,MN",44.987907,-93.29071,5,Sumner-Glenwood,Near-North,2,1
+-93.29447,44.951575,28,12/11/2016 09:58pm,Snow Emergency,"2800-2899 EMERSON AVE S,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.304665,44.947761,29,12/12/2016 08:41am,Snow Emergency,"3014 Knox Ave s,Minneapolis,MN",44.947761,-93.304665,10,ECCO,Calhoun-Isles,2,5
+-93.2945,44.950149,30,12/11/2016 10:01pm,Snow Emergency,"2888 emerson ave s,Minneapolis,MN",44.950149,-93.2945,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.290966,44.986532,31,12/12/2016 08:41am,Snow Emergency,"804 aldrich ave n,Minneapolis,MN",44.986532,-93.290966,5,Sumner-Glenwood,Near-North,2,1
+-93.254723,44.928738,32,12/12/2016 08:44am,Snow Emergency,"1416 41st st e,Minneapolis,MN",44.928738,-93.254723,8,Bancroft,Powderhorn,2,6
+-93.262645,44.943959,33,12/11/2016 10:03pm,Snow Emergency,"3222 chicago,Minneapolis,MN",44.943959,-93.262645,9,Central,Powderhorn,1,5
+-93.29054,44.96589,34,12/12/2016 08:45am,Snow Emergency,"1776 bryant ave s,Minneapolis,MN",44.96589,-93.29054,7,Lowry Hill,Calhoun-Isles,2,3
+-93.291011,44.986211,35,12/12/2016 08:45am,Snow Emergency,"758 Aldrich Ave n ,Minneapolis,MN",44.986211,-93.291011,5,Sumner-Glenwood,Near-North,2,1
+-93.294442,44.951946,36,12/11/2016 10:09pm,Snow Emergency,"28th & Emerson Ave S,Minneapolis,MN",44.951946,-93.294442,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.291797,44.985623,37,12/12/2016 08:46am,Snow Emergency,"708 Bryant Ave. N. ,Minneapolis,MN",44.985623,-93.291797,5,Sumner-Glenwood,Near-North,2,1
+-93.29054,44.965848,38,12/12/2016 08:48am,Snow Emergency,"1778 bryant ave s,Minneapolis,MN",44.965848,-93.29054,7,Lowry Hill,Calhoun-Isles,2,3
+-93.294294,45.008695,39,12/11/2016 10:14pm,Snow Emergency,"2800 emerson av ,Minneapolis,MN",45.008695,-93.294294,5,Hawthorne,Near-North,1,1
+-93.249027,44.947744,40,12/12/2016 02:06pm,Snow Emergency,"3016 18th ave s,Minneapolis,MN",44.947744,-93.249027,9,Powderhorn,Powderhorn,2,6
+-93.291023,44.988344,41,12/12/2016 08:48am,Snow Emergency,"1040 Aldrich Ave n ,Minneapolis,MN",44.988344,-93.291023,5,Sumner-Glenwood,Near-North,2,1
+-93.258876,44.947688,42,12/12/2016 03:37pm,Snow Emergency,"3018 11th Avenue South,Minneapolis,MN",44.947688,-93.258876,9,Powderhorn,Powderhorn,2,6
+-93.262977,44.942439,43,12/11/2016 10:14pm,Snow Emergency,"3322 Chicago ave s,Minneapolis,MN",44.942439,-93.262977,9,Central,Powderhorn,1,5
+-93.251351,44.986114,44,12/12/2016 08:54am,Snow Emergency,"314 3rd ave se,Minneapolis,MN",44.986114,-93.251351,3,Marcy-Holmes,University,2,4
+-93.262577,45.007283,45,12/12/2016 02:08pm,Snow Emergency,"338 19th ave ne,Minneapolis,MN",45.007283,-93.262577,1,Holland,Northeast,2,2
+-93.29054,44.965805,46,12/12/2016 08:54am,Snow Emergency,"1780 BRYANT AVE S,Minneapolis,MN",44.965805,-93.29054,7,Lowry Hill,Calhoun-Isles,2,3
+-93.314263,44.992308,47,12/12/2016 03:38pm,Snow Emergency,"1320 upton ave n,Minneapolis,MN",44.992308,-93.314263,5,Willard-Hay,Near-North,2,1
+-93.243275,44.984349,48,12/12/2016 02:11pm,Snow Emergency,"420 8th Ave se,Minneapolis,MN",44.984349,-93.243275,3,Marcy-Holmes,University,2,4
+-93.270468,44.943042,49,12/11/2016 10:15pm,Snow Emergency,"3300 4TH AVE S,Minneapolis,MN",44.943042,-93.270468,9,Central,Powderhorn,1,5
+-93.253104,44.992344,50,12/12/2016 08:55am,Snow Emergency,"616 3rd ave ne,Minneapolis,MN",44.992344,-93.253104,3,St. Anthony East,Northeast,2,2
+-93.314366,44.987305,51,12/12/2016 03:40pm,Snow Emergency,"908 upton ave n,Minneapolis,MN",44.987305,-93.314366,5,Willard-Hay,Near-North,2,1
+-93.284418,44.966577,52,12/12/2016 02:11pm,Snow Emergency,"322 Clifton Ave ,Minneapolis,MN",44.966577,-93.284418,7,Loring Park,Central,2,3
+-93.25657,44.939068,53,12/12/2016 08:58am,Snow Emergency,"3510 13th ave,Minneapolis,MN",44.939068,-93.25657,9,Powderhorn,Powderhorn,2,6
+-93.270308,44.948333,54,12/11/2016 10:16pm,Snow Emergency,"3000 4TH AVE S ,Minneapolis,MN",44.948333,-93.270308,9,Central,Powderhorn,1,5
+-93.28603,44.931903,55,12/12/2016 03:42pm,Snow Emergency,"3908 Harriet ave s,Minneapolis,MN",44.931903,-93.28603,8,Kingfield,Southwest,2,5
+-93.292209,44.965438,56,12/12/2016 02:14pm,Snow Emergency,"1008 summit s,Minneapolis,MN",44.965438,-93.292209,7,Lowry Hill,Calhoun-Isles,2,3
+-93.292146,44.964284,57,12/12/2016 08:58am,Snow Emergency,"1900 COLFAX AVE S,Minneapolis,MN",44.964284,-93.292146,7,Lowry Hill,Calhoun-Isles,2,3
+-93.280834,45.01493,58,12/11/2016 10:17pm,Snow Emergency,"3300 2nd St N,Minneapolis,MN",45.01493,-93.280834,4,McKinley,Camden,1,1
+-93.228779,44.947469,59,12/12/2016 03:42pm,Snow Emergency,"3024 30TH AVE S,Minneapolis,MN",44.947469,-93.228779,2,Longfellow,Longfellow,2,6
+-93.305705,44.989997,60,12/12/2016 02:14pm,Snow Emergency,"1206 newton ave n,Minneapolis,MN",44.989997,-93.305705,5,Near-North,Near-North,2,1
+-93.25107,44.988796,61,12/12/2016 08:58am,Snow Emergency,"520 2nd Avenue Southeast ,Minneapolis,MN",44.988796,-93.25107,3,Marcy-Holmes,University,2,4
+-93.270637,44.944805,62,12/11/2016 10:19pm,Snow Emergency,"3200 4th ave s,Minneapolis,MN",44.944805,-93.270637,9,Central,Powderhorn,1,5
+-93.257464,44.933935,63,12/12/2016 10:14am,Snow Emergency,"3802 12th ave,Minneapolis,MN",44.933935,-93.257464,8,Bancroft,Powderhorn,2,6
+-93.284201,44.96193,64,12/12/2016 03:42pm,Snow Emergency,"2022 grand ave s,Minneapolis,MN",44.96193,-93.284201,10,Whittier,Powderhorn,2,3
+-93.28323,44.965906,65,12/12/2016 02:15pm,Snow Emergency,"326 CLIFTON AVE,Minneapolis,MN",44.965906,-93.28323,7,Loring Park,Central,2,3
+-93.254966,44.923104,66,12/12/2016 09:00am,Snow Emergency,"4450 14th ave,Minneapolis,MN",44.923104,-93.254966,11,Northrop,Nokomis,2,6
+-93.290811,44.983576,67,12/12/2016 10:15am,Snow Emergency,"520 Bryant ave n,Minneapolis,MN",44.983576,-93.290811,5,Sumner-Glenwood,Near-North,2,3
+-93.29447,44.951575,68,12/11/2016 10:20pm,Snow Emergency,"2800-2899 Emerson ave s,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.250702,45.016588,69,12/12/2016 03:45pm,Snow Emergency,"800 27th ave ne,Minneapolis,MN",45.016588,-93.250702,1,Holland,Northeast,2,2
+-93.260524,44.963947,70,12/12/2016 02:16pm,Snow Emergency,"910 19th St e,Minneapolis,MN",44.963947,-93.260524,6,Ventura Village,Phillips,2,3
+-93.252032,44.98569,71,12/12/2016 09:02am,Snow Emergency,"300 3rd Ave se,Minneapolis,MN",44.98569,-93.252032,3,Marcy-Holmes,University,2,4
+-93.298167,44.989549,72,12/12/2016 10:15am,Snow Emergency,"1120 humblolt ave n,Minneapolis,MN",44.989549,-93.298167,5,Near-North,Near-North,2,1
+-93.308517,44.993335,73,12/12/2016 03:45pm,Snow Emergency,"2222 14th Ave N,Minneapolis,MN",44.993335,-93.308517,5,Willard-Hay,Near-North,2,1
+-93.236901,45.016234,74,12/11/2016 10:20pm,Snow Emergency,"2635 Johnson St NE,Minneapolis,MN",45.016234,-93.236901,1,Audubon Park,Northeast,1,2
+-93.280854,44.966908,75,12/12/2016 09:04am,Snow Emergency,"1536 spruce pl,Minneapolis,MN",44.966908,-93.280854,7,Loring Park,Central,2,3
+-93.305451,44.989944,76,12/12/2016 02:17pm,Snow Emergency,"1204 newton ave n,Minneapolis,MN",44.989944,-93.305451,5,Near-North,Near-North,2,1
+-93.309487,44.992296,77,12/12/2016 03:48pm,Snow Emergency,"1342 queen Ave n ,Minneapolis,MN",44.992296,-93.309487,5,Willard-Hay,Near-North,2,1
+-93.279508,45.006418,78,12/11/2016 10:20pm,Snow Emergency,"2600 2nd st n ,Minneapolis,MN",45.006418,-93.279508,5,Hawthorne,Near-North,1,1
+-93.258811,44.990596,79,12/12/2016 09:05am,Snow Emergency,"220 3rd ave ne,Minneapolis,MN",44.990596,-93.258811,3,St. Anthony West,Northeast,2,2
+-93.291598,45.0123,80,12/12/2016 03:49pm,Snow Emergency,"3106 Colfax Ave. n. ,Minneapolis,MN",45.0123,-93.291598,5,Hawthorne,Near-North,2,1
+-93.241075,44.987266,81,12/12/2016 02:18pm,Snow Emergency,"718 8th ave se,Minneapolis,MN",44.987266,-93.241075,3,Marcy-Holmes,University,2,4
+-93.291023,44.988331,82,12/12/2016 09:06am,Snow Emergency,"1038 aldrich ave n,Minneapolis,MN",44.988331,-93.291023,5,Sumner-Glenwood,Near-North,2,1
+-93.29447,44.951575,83,12/11/2016 09:57pm,Snow Emergency,"2800 Emerson Ave S,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.208801,44.925246,84,12/12/2016 03:49pm,Snow Emergency,"4510 43rd st e,Minneapolis,MN",44.925246,-93.208801,12,Hiawatha,Longfellow,2,6
+-93.283231,44.965906,85,12/12/2016 02:18pm,Snow Emergency,"328 Clifton ave ,Minneapolis,MN",44.965906,-93.283231,7,Loring Park,Central,2,3
+-93.268307,44.975118,86,12/12/2016 09:06am,Snow Emergency,"706 3rd ave ne,Minneapolis,MN",44.975118,-93.268307,7,Downtown West,Central,2,3
+-93.288016,45.011634,87,12/11/2016 10:21pm,Snow Emergency,"3021 Lyndale ave n,Minneapolis,MN",45.011634,-93.288016,5,Hawthorne,Near-North,1,1
+-93.309346,44.980028,88,12/12/2016 03:51pm,Snow Emergency,"302 queen av n,Minneapolis,MN",44.980028,-93.309346,5,Harrison,Near-North,2,3
+-93.283615,44.966307,89,12/12/2016 02:18pm,Snow Emergency,"310 CLIFTON AVE,Minneapolis,MN",44.966307,-93.283615,7,Loring Park,Central,2,3
+-93.237155,45.015903,90,12/11/2016 10:22pm,Snow Emergency,"2628 Johnson St NE,Minneapolis,MN",45.015903,-93.237155,1,Audubon Park,Northeast,1,2
+-93.268276,44.975156,91,12/12/2016 09:08am,Snow Emergency,"702 3rd ave ne,Minneapolis,MN",44.975156,-93.268276,7,Downtown West,Central,2,3
+-93.249135,45.01462,92,12/12/2016 03:52pm,Snow Emergency,"2550 jackson st ne,Minneapolis,MN",45.01462,-93.249135,1,Holland,Northeast,2,2
+-93.245472,44.982034,93,12/12/2016 02:18pm,Snow Emergency,"218 8th ave se,Minneapolis,MN",44.982034,-93.245472,3,Marcy-Holmes,University,2,4
+-93.257503,44.938224,94,12/12/2016 10:16am,Snow Emergency,"3542 12th ave,Minneapolis,MN",44.938224,-93.257503,9,Powderhorn,Powderhorn,2,6
+-93.293454,44.965023,95,12/12/2016 09:08am,Snow Emergency,"1808 dupont ave s,Minneapolis,MN",44.965023,-93.293454,7,Lowry Hill,Calhoun-Isles,2,3
+-93.270231,44.941355,96,12/11/2016 10:23pm,Snow Emergency,"3400 4th Ave s,Minneapolis,MN",44.941355,-93.270231,9,Central,Powderhorn,1,5
+-93.249137,45.015187,97,12/12/2016 03:54pm,Snow Emergency,"2604 Jackson st ne,Minneapolis,MN",45.015187,-93.249137,1,Holland,Northeast,2,2
+-93.306597,44.994426,98,12/12/2016 02:20pm,Snow Emergency,"1504 Oliver Ave n ,Minneapolis,MN",44.994426,-93.306597,5,Willard-Hay,Near-North,2,1
+-93.293086,44.965178,99,12/12/2016 09:10am,Snow Emergency,"1802 dupont ave s,Minneapolis,MN",44.965178,-93.293086,7,Lowry Hill,Calhoun-Isles,2,3
+-93.245365,44.982167,100,12/12/2016 03:56pm,Snow Emergency,"232 8th ave se,Minneapolis,MN",44.982167,-93.245365,3,Marcy-Holmes,University,2,4
+-93.279867,44.994216,101,12/11/2016 10:23pm,Snow Emergency,"1500 2nd st N. ,Minneapolis,MN",44.994216,-93.279867,5,Near-North,Near-North,1,1
+-93.248871,44.984682,102,12/12/2016 10:17am,Snow Emergency,"308 5th ave se,Minneapolis,MN",44.984682,-93.248871,3,Marcy-Holmes,University,2,4
+-93.252536,44.987386,103,12/12/2016 09:10am,Snow Emergency,"418 2nd Avenue Southeast,Minneapolis,MN",44.987386,-93.252536,3,Marcy-Holmes,University,2,4
+-93.243565,44.984472,104,12/12/2016 02:21pm,Snow Emergency,"430 8th ave se,Minneapolis,MN",44.984472,-93.243565,3,Marcy-Holmes,University,2,4
+-93.2369,45.010471,105,12/11/2016 10:23pm,Snow Emergency,"2227 Johnson St NE,Minneapolis,MN",45.010471,-93.2369,1,Windom Park,Northeast,1,2
+-93.287201,44.939051,106,12/12/2016 03:57pm,Snow Emergency,"3510 Garfield Ave s,Minneapolis,MN",44.939051,-93.287201,8,Lyndale,Powderhorn,2,5
+-93.256206,44.931706,107,12/12/2016 09:11am,Snow Emergency,"3918 13th ave s,Minneapolis,MN",44.931706,-93.256206,8,Bancroft,Powderhorn,2,6
+-93.244904,44.989696,108,12/12/2016 10:18am,Snow Emergency,"808 5th ave se,Minneapolis,MN",44.989696,-93.244904,3,Marcy-Holmes,University,2,4
+-93.245083,44.989471,109,12/12/2016 02:21pm,Snow Emergency,"802 5th ave se,Minneapolis,MN",44.989471,-93.245083,3,Marcy-Holmes,University,2,4
+-93.270308,44.948333,110,12/11/2016 10:23pm,Snow Emergency,"3000 4TH AVE S,Minneapolis,MN",44.948333,-93.270308,9,Central,Powderhorn,1,5
+-93.311792,44.994473,111,12/12/2016 03:58pm,Snow Emergency,"1510 Sheridan Ave N,Minneapolis,MN",44.994473,-93.311792,5,Willard-Hay,Near-North,2,1
+-93.250491,44.987639,112,12/12/2016 09:13am,Snow Emergency,"500 3rd Avenue Southeast,Minneapolis,MN",44.987639,-93.250491,3,Marcy-Holmes,University,2,4
+-93.289017,45.007978,113,12/12/2016 02:21pm,Snow Emergency,"2706 aldrich ave n,Minneapolis,MN",45.007978,-93.289017,5,Hawthorne,Near-North,2,1
+-93.258984,44.996429,114,12/12/2016 10:18am,Snow Emergency,"424 7th ave ne,Minneapolis,MN",44.996429,-93.258984,3,St. Anthony West,Northeast,2,2
+-93.255739,45.016601,115,12/12/2016 03:58pm,Snow Emergency,"2650 Jefferson st ne,Minneapolis,MN",45.016601,-93.255739,1,Holland,Northeast,2,2
+-93.25028,44.987903,116,12/12/2016 09:15am,Snow Emergency,"508 3rd ave se,Minneapolis,MN",44.987903,-93.25028,3,Marcy-Holmes,University,2,4
+-93.306983,44.988389,117,12/12/2016 02:22pm,Snow Emergency,"1012 Oliver Ave N,Minneapolis,MN",44.988389,-93.306983,5,Near-North,Near-North,2,1
+-93.262904,44.940941,118,12/11/2016 10:26pm,Snow Emergency,"3408 Chicago Ave.,Minneapolis,MN",44.940941,-93.262904,9,Central,Powderhorn,1,5
+-93.29026,45.010666,119,12/12/2016 03:59pm,Snow Emergency,"2938. Bryant Ave n,Minneapolis,MN",45.010666,-93.29026,5,Hawthorne,Near-North,2,1
+-93.27468,44.963968,120,12/12/2016 10:22am,Snow Emergency,"124 19TH st e,Minneapolis,MN",44.963968,-93.27468,6,Stevens Square,Central,2,3
+-93.249837,44.988081,121,12/12/2016 09:16am,Snow Emergency,"516 3rd ave se,Minneapolis,MN",44.988081,-93.249837,3,Marcy-Holmes,University,2,4
+-93.306943,44.994366,122,12/12/2016 02:22pm,Snow Emergency,"1502 Oliver Ave N,Minneapolis,MN",44.994366,-93.306943,5,Willard-Hay,Near-North,2,1
+-93.2448,44.982878,123,12/12/2016 04:00pm,Snow Emergency,"302 8th Avenue Southeast,Minneapolis,MN",44.982878,-93.2448,3,Marcy-Holmes,University,2,4
+-93.2705,44.93222,124,12/11/2016 10:27pm,Snow Emergency,"3900 4th Ave s,Minneapolis,MN",44.93222,-93.2705,8,Bryant,Powderhorn,1,5
+-93.25656,44.937326,125,12/12/2016 09:16am,Snow Emergency,"3608 13th ave s,Minneapolis,MN",44.937326,-93.25656,9,Powderhorn,Powderhorn,2,6
+-93.261373,44.945294,126,12/12/2016 02:24pm,Snow Emergency,"3140 elliot,Minneapolis,MN",44.945294,-93.261373,9,Powderhorn,Powderhorn,2,6
+-93.240642,44.945236,127,12/12/2016 04:00pm,Snow Emergency,"3144 22nd Ave S,Minneapolis,MN",44.945236,-93.240642,9,Corcoran,Powderhorn,2,6
+-93.256618,44.996761,128,12/12/2016 10:22am,Snow Emergency,"636 Summer st ne,Minneapolis,MN",44.996761,-93.256618,3,St. Anthony East,Northeast,2,2
+-93.268385,44.975021,129,12/12/2016 09:17am,Snow Emergency,"716 3rd ave ne,Minneapolis,MN",44.975021,-93.268385,7,Downtown West,Central,2,3
+-93.287248,44.93803,130,12/12/2016 04:00pm,Snow Emergency,"3542 Garfield Ave s,Minneapolis,MN",44.93803,-93.287248,8,Lyndale,Powderhorn,2,5
+-93.268401,44.975001,131,12/12/2016 09:19am,Snow Emergency,"718 3rd ave ne,Minneapolis,MN",44.975001,-93.268401,7,Downtown West,Central,2,3
+-93.266883,44.943205,132,12/12/2016 10:23am,Snow Emergency,"614 33rd st e,Minneapolis,MN",44.943205,-93.266883,9,Central,Powderhorn,2,5
+-93.268282,44.968046,133,12/11/2016 11:47pm,Snow Emergency,"509 15th st e,Minneapolis,MN",44.968046,-93.268282,6,Elliot Park,Central,1,3
+-93.264013,45.005143,134,12/12/2016 02:24pm,Snow Emergency,"308 17th ave ne,Minneapolis,MN",45.005143,-93.264013,3,Sheridan,Northeast,2,2
+-93.249428,45.013948,135,12/12/2016 04:01pm,Snow Emergency,"2520 Jackson St ,Minneapolis,MN",45.013948,-93.249428,1,Holland,Northeast,2,2
+-93.248829,44.989133,136,12/12/2016 09:20am,Snow Emergency,"618 3rd ave se,Minneapolis,MN",44.989133,-93.248829,3,Marcy-Holmes,University,2,4
+-93.262273,44.947259,137,12/11/2016 10:29pm,Snow Emergency,"3033 Chicago ave s,Minneapolis,MN",44.947259,-93.262273,9,Powderhorn,Powderhorn,1,6
+-93.291806,45.040782,138,12/11/2016 11:47pm,Snow Emergency,"4715 Bryant Ave n,Minneapolis,MN",45.040782,-93.291806,4,Lind-Bohanon,Camden,1,1
+-93.299289,44.999224,139,12/12/2016 10:25am,Snow Emergency,"1904 Irving Ave n ,Minneapolis,MN",44.999224,-93.299289,5,Willard-Hay,Near-North,2,1
+-93.309346,44.980028,140,12/12/2016 04:01pm,Snow Emergency,"308 queen ave n,Minneapolis,MN",44.980028,-93.309346,5,Harrison,Near-North,2,3
+-93.257184,45.005095,141,12/12/2016 02:25pm,Snow Emergency,"626 17th ave ne,Minneapolis,MN",45.005095,-93.257184,1,Logan Park,Northeast,2,2
+-93.251466,44.945959,142,12/12/2016 11:29am,Snow Emergency,"3116 16th ave s,Minneapolis,MN",44.945959,-93.251466,9,Powderhorn,Powderhorn,2,6
+-93.248041,44.986262,143,12/12/2016 10:27am,Snow Emergency,"424 5th ave se,Minneapolis,MN",44.986262,-93.248041,3,Marcy-Holmes,University,2,4
+-93.268609,44.968075,144,12/11/2016 11:48pm,Snow Emergency,"502 15th st e,Minneapolis,MN",44.968075,-93.268609,7,Elliot Park,Central,1,3
+-93.243035,44.987064,145,12/12/2016 04:02pm,Snow Emergency,"700 7th st se,Minneapolis,MN",44.987064,-93.243035,3,Marcy-Holmes,University,2,4
+-93.251666,44.986154,146,12/12/2016 09:20am,Snow Emergency,"310 3rd Ave Southeast,Minneapolis,MN",44.986154,-93.251666,3,Marcy-Holmes,University,2,4
+-93.299232,44.992469,147,12/12/2016 11:29am,Snow Emergency,"1320 Irving Ave n ,Minneapolis,MN",44.992469,-93.299232,5,Near-North,Near-North,2,1
+-93.295846,44.940292,148,12/12/2016 02:25pm,Snow Emergency,"3430 Fremont ave s,Minneapolis,MN",44.940292,-93.295846,10,CARAG,Calhoun-Isles,2,5
+-93.262085,44.932959,149,12/11/2016 10:29pm,Snow Emergency,"3837 chicago ave,Minneapolis,MN",44.932959,-93.262085,8,Bancroft,Powderhorn,1,6
+-93.268724,44.968322,150,12/11/2016 11:49pm,Snow Emergency,"500 15th st e,Minneapolis,MN",44.968322,-93.268724,7,Elliot Park,Central,1,3
+-93.246534,44.98766,151,12/12/2016 10:27am,Snow Emergency,"622 5th Ave se,Minneapolis,MN",44.98766,-93.246534,3,Marcy-Holmes,University,2,4
+-93.28708,44.947758,152,12/12/2016 04:02pm,Snow Emergency,"3014 GARFIELD AVE S ,Minneapolis,MN",44.947758,-93.28708,8,Lyndale,Powderhorn,2,5
+-93.295631,44.991984,153,12/12/2016 09:23am,Snow Emergency,"1212 Fremont Ave. N. ,Minneapolis,MN",44.991984,-93.295631,5,Near-North,Near-North,2,1
+-93.261787,44.935969,154,12/12/2016 11:29am,Snow Emergency,"810 37th st e,Minneapolis,MN",44.935969,-93.261787,9,Powderhorn,Powderhorn,2,6
+-93.237933,44.944769,155,12/12/2016 02:25pm,Snow Emergency,"2320 32nd St E,Minneapolis,MN",44.944769,-93.237933,9,Corcoran,Powderhorn,2,6
+-93.293203,44.951233,156,12/11/2016 11:50pm,Snow Emergency,"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.257784,44.939055,157,12/12/2016 10:27am,Snow Emergency,"3512 12th ave s,Minneapolis,MN",44.939055,-93.257784,9,Powderhorn,Powderhorn,2,6
+-93.24064,44.981258,158,12/12/2016 04:02pm,Snow Emergency,"308 11th Ave se,Minneapolis,MN",44.981258,-93.24064,3,Marcy-Holmes,University,2,4
+-93.285967,44.968442,159,12/11/2016 10:31pm,Snow Emergency,"424 15th st w,Minneapolis,MN",44.968442,-93.285967,7,Loring Park,Central,1,3
+-93.295631,44.991984,160,12/12/2016 09:25am,Snow Emergency,"1210 Fremont Ave n,Minneapolis,MN",44.991984,-93.295631,5,Near-North,Near-North,2,1
+-93.271839,44.965232,161,12/12/2016 11:30am,Snow Emergency,"316 18th st e,Minneapolis,MN",44.965232,-93.271839,6,Stevens Square,Central,2,3
+-93.299144,44.994531,162,12/12/2016 10:27am,Snow Emergency,"1510 Irving Ave n,Minneapolis,MN",44.994531,-93.299144,5,Near-North,Near-North,2,1
+-93.279643,45.00496,163,12/11/2016 11:50pm,Snow Emergency,"2500 2nd st north,Minneapolis,MN",45.00496,-93.279643,5,Hawthorne,Near-North,1,1
+-93.240273,44.981685,164,12/12/2016 04:03pm,Snow Emergency,"314 11th Avenue Southeast,Minneapolis,MN",44.981685,-93.240273,3,Marcy-Holmes,University,2,4
+-93.281287,44.961159,165,12/12/2016 02:25pm,Snow Emergency,"2128 Pillsbury ave s,Minneapolis,MN",44.961159,-93.281287,10,Whittier,Powderhorn,2,3
+-93.262839,44.979297,166,12/12/2016 09:25am,Snow Emergency,"208 4th ave ne,Minneapolis,MN",44.979297,-93.262839,3,Downtown West,Central,2,3
+-93.236878,45.016118,167,12/11/2016 10:33pm,Snow Emergency,"2633 Johnson St NE,Minneapolis,MN",45.016118,-93.236878,1,Audubon Park,Northeast,1,2
+-93.259083,44.92621,168,12/12/2016 11:30am,Snow Emergency,"4220 11th ave s,Minneapolis,MN",44.92621,-93.259083,8,Northrop,Nokomis,2,6
+-93.262244,44.906435,169,12/11/2016 11:51pm,Snow Emergency,"5317 Chicago ave s,Minneapolis,MN",44.906435,-93.262244,11,Hale,Nokomis,1,6
+-93.290548,45.019114,170,12/12/2016 04:03pm,Snow Emergency,"3516 Bryant Ave n,Minneapolis,MN",45.019114,-93.290548,4,McKinley,Camden,2,1
+-93.253677,44.933707,171,12/12/2016 10:28am,Snow Emergency,"3810 15th ave s,Minneapolis,MN",44.933707,-93.253677,8,Bancroft,Powderhorn,2,6
+-93.261731,44.947488,172,12/12/2016 02:26pm,Snow Emergency,"3026 elliot,Minneapolis,MN",44.947488,-93.261731,9,Powderhorn,Powderhorn,2,6
+-93.250195,44.985696,173,12/12/2016 09:25am,Snow Emergency,"324. 4Th ave se,Minneapolis,MN",44.985696,-93.250195,3,Marcy-Holmes,University,2,4
+-93.315443,44.991732,174,12/11/2016 11:53pm,Snow Emergency,"2716 Plymouth ave n,Minneapolis,MN",44.991732,-93.315443,5,Willard-Hay,Near-North,1,1
+-93.251218,45.015775,175,12/12/2016 04:04pm,Snow Emergency,"2620 Quincy St ne,Minneapolis,MN",45.015775,-93.251218,1,Holland,Northeast,2,2
+-93.243525,44.989113,176,12/12/2016 11:30am,Snow Emergency,"828 6th av se,Minneapolis,MN",44.989113,-93.243525,3,Marcy-Holmes,University,2,4
+-93.276854,44.968291,177,12/11/2016 10:34pm,Snow Emergency,"16 15th at w,Minneapolis,MN",44.968291,-93.276854,7,Loring Park,Central,1,3
+-93.255884,44.996765,178,12/12/2016 10:28am,Snow Emergency,"646 Summer St ne,Minneapolis,MN",44.996765,-93.255884,3,St. Anthony East,Northeast,2,2
+-93.283417,45.007342,179,12/12/2016 09:26am,Snow Emergency,"2714 3rd st. N. ,Minneapolis,MN",45.007342,-93.283417,5,Hawthorne,Near-North,2,1
+-93.262243,44.914973,180,12/11/2016 11:54pm,Snow Emergency,"4829 chicago ave,Minneapolis,MN",44.914973,-93.262243,11,Northrop,Nokomis,1,6
+-93.241121,44.945971,181,12/12/2016 04:04pm,Snow Emergency,"3116 22nd Ave S,Minneapolis,MN",44.945971,-93.241121,9,Corcoran,Powderhorn,2,6
+-93.289006,45.009992,182,12/12/2016 02:26pm,Snow Emergency,"2914 aldrich ave n,Minneapolis,MN",45.009992,-93.289006,5,Hawthorne,Near-North,2,1
+-93.271236,44.965233,183,12/12/2016 11:32am,Snow Emergency,"324 e 1 8th st,Minneapolis,MN",44.965233,-93.271236,6,Stevens Square,Central,2,3
+-93.285968,44.968412,184,12/11/2016 10:35pm,Snow Emergency,"401 15th st w ,Minneapolis,MN",44.968412,-93.285968,7,Loring Park,Central,1,3
+-93.281623,44.968129,185,12/12/2016 09:30am,Snow Emergency,"1424 spruce pl,Minneapolis,MN",44.968129,-93.281623,7,Loring Park,Central,2,3
+-93.246693,44.987465,186,12/12/2016 10:28am,Snow Emergency,"602 5th Avenue Southeast ,Minneapolis,MN",44.987465,-93.246693,3,Marcy-Holmes,University,2,4
+-93.287104,44.94708,187,12/12/2016 04:04pm,Snow Emergency,"3036 GARFIELD AVE S ,Minneapolis,MN",44.94708,-93.287104,8,Lyndale,Powderhorn,2,5
+-93.293203,44.951233,188,12/11/2016 11:54pm,Snow Emergency,"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.275106,44.965229,189,12/12/2016 11:32am,Snow Emergency,"122 18 st e,Minneapolis,MN",44.965229,-93.275106,6,Stevens Square,Central,2,3
+-93.291031,45.000525,190,12/12/2016 02:26pm,Snow Emergency,"2108 Bryant Ave. n,Minneapolis,MN",45.000525,-93.291031,5,Hawthorne,Near-North,2,1
+-93.297309,44.9569,191,12/12/2016 09:31am,Snow Emergency,"2508 girard ave s,Minneapolis,MN",44.9569,-93.297309,7,East Isles,Calhoun-Isles,2,3
+-93.246645,44.987524,192,12/12/2016 10:29am,Snow Emergency,"608 5th ave se,Minneapolis,MN",44.987524,-93.246645,3,Marcy-Holmes,University,2,4
+-93.309716,44.984535,193,12/12/2016 04:05pm,Snow Emergency,"412 queen av n,Minneapolis,MN",44.984535,-93.309716,5,Willard-Hay,Near-North,2,1
+-93.285899,44.968418,194,12/11/2016 10:36pm,Snow Emergency,"316 15th st w,Minneapolis,MN",44.968418,-93.285899,7,Loring Park,Central,1,3
+-93.303665,44.947448,195,12/12/2016 09:33am,Snow Emergency,"3024 James ave ,Minneapolis,MN",44.947448,-93.303665,10,ECCO,Calhoun-Isles,2,5
+-93.281287,44.961166,196,12/12/2016 02:27pm,Snow Emergency,"2126 Pillsbury ave s,Minneapolis,MN",44.961166,-93.281287,10,Whittier,Powderhorn,2,3
+-93.245629,45.006948,197,12/12/2016 04:10pm,Snow Emergency,"1816 Polk St ne,Minneapolis,MN",45.006948,-93.245629,1,Windom Park,Northeast,2,2
+-93.280853,44.968504,198,12/12/2016 09:34am,Snow Emergency,"1300 spruce pl,Minneapolis,MN",44.968504,-93.280853,7,Loring Park,Central,2,3
+-93.253517,44.996917,199,12/12/2016 10:29am,Snow Emergency,"682 summer st ne,Minneapolis,MN",44.996917,-93.253517,3,St. Anthony East,Northeast,2,2
+-93.279708,44.998397,200,12/11/2016 10:39pm,Snow Emergency,"1900 block 2nd st n,Minneapolis,MN",44.998397,-93.279708,5,Near-North,Near-North,1,1
+-93.286874,44.946336,201,12/12/2016 04:13pm,Snow Emergency,"3106 Garfield Ave s,Minneapolis,MN",44.946336,-93.286874,8,Lyndale,Powderhorn,2,5
+-93.266708,44.999805,202,12/12/2016 02:27pm,Snow Emergency,"158 12th ave ne,Minneapolis,MN",44.999805,-93.266708,3,Sheridan,Northeast,2,2
+-93.289541,44.996094,203,12/12/2016 09:36am,Snow Emergency,"1708 Aldrich Ave n ,Minneapolis,MN",44.996094,-93.289541,5,Near-North,Near-North,2,1
+-93.242508,45.012819,204,12/12/2016 04:15pm,Snow Emergency,"2418 Fillmore st ne,Minneapolis,MN",45.012819,-93.242508,1,Windom Park,Northeast,2,2
+-93.29447,44.951575,205,12/11/2016 10:39pm,Snow Emergency,"2800 Emerson s,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.243579,44.984454,206,12/12/2016 02:27pm,Snow Emergency,"426 8th ave se,Minneapolis,MN",44.984454,-93.243579,3,Marcy-Holmes,University,2,4
+-93.250212,44.985675,207,12/12/2016 09:36am,Snow Emergency,"320 4th Avenue Southeast ,Minneapolis,MN",44.985675,-93.250212,3,Marcy-Holmes,University,2,4
+-93.293203,44.951233,208,12/11/2016 10:41pm,Snow Emergency,"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.287162,44.945296,209,12/12/2016 04:15pm,Snow Emergency,"3136 Garfield Ave s,Minneapolis,MN",44.945296,-93.287162,8,Lyndale,Powderhorn,2,5
+-93.308307,44.986102,210,12/12/2016 04:15pm,Snow Emergency,"2202 8th Ave n ,Minneapolis,MN",44.986102,-93.308307,5,Willard-Hay,Near-North,2,1
+-93.297742,45.018731,211,12/12/2016 09:37am,Snow Emergency,"3500 humboldt ave,Minneapolis,MN",45.018731,-93.297742,4,Folwell,Camden,2,1
+-93.29447,44.951575,212,12/11/2016 10:43pm,Snow Emergency,"2800 Emerson s,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.24898,44.995462,213,12/12/2016 02:28pm,Snow Emergency,"610 van buren st ne,Minneapolis,MN",44.995462,-93.24898,3,St. Anthony East,Northeast,2,2
+-93.290328,44.988667,214,12/11/2016 11:54pm,Snow Emergency,"1049 7th St N,Minneapolis,MN",44.988667,-93.290328,5,Sumner-Glenwood,Near-North,1,1
+-93.284965,44.957355,215,12/12/2016 04:15pm,Snow Emergency,"436 25th st w,Minneapolis,MN",44.957355,-93.284965,10,Whittier,Powderhorn,2,3
+-93.244428,44.989841,216,12/12/2016 10:30am,Snow Emergency,"816 5th Avenue Southeast,Minneapolis,MN",44.989841,-93.244428,3,Marcy-Holmes,University,2,4
+-93.26665,44.968329,217,12/11/2016 11:55pm,Snow Emergency,"614 15th Street East,Minneapolis,MN",44.968329,-93.26665,7,Elliot Park,Central,1,3
+-93.247775,44.98607,218,12/12/2016 10:30am,Snow Emergency,"422 5th ave se,Minneapolis,MN",44.98607,-93.247775,3,Marcy-Holmes,University,2,4
+-93.278489,44.967591,219,12/11/2016 10:45pm,Snow Emergency,"11 15th st w,Minneapolis,MN",44.967591,-93.278489,7,Loring Park,Central,1,3
+-93.262791,44.979354,220,12/12/2016 09:38am,Snow Emergency,"202 4th ave ne,Minneapolis,MN",44.979354,-93.262791,3,Downtown West,Central,2,3
+-93.29619,44.940576,221,12/12/2016 02:29pm,Snow Emergency,"3420 Fremont ave s,Minneapolis,MN",44.940576,-93.29619,10,CARAG,Calhoun-Isles,2,5
+-93.266994,44.968071,222,12/11/2016 11:57pm,Snow Emergency,"608 15th st e,Minneapolis,MN",44.968071,-93.266994,7,Elliot Park,Central,1,3
+-93.255585,44.991982,223,12/12/2016 11:35am,Snow Emergency,"288 5th st ne,Minneapolis,MN",44.991982,-93.255585,3,St. Anthony East,Northeast,2,2
+-93.257839,44.93865,224,12/12/2016 10:31am,Snow Emergency,"3520 12th ave s,Minneapolis,MN",44.93865,-93.257839,9,Powderhorn,Powderhorn,2,6
+-93.264171,44.965239,225,12/12/2016 04:15pm,Snow Emergency,"736 18th St e,Minneapolis,MN",44.965239,-93.264171,6,Ventura Village,Phillips,2,3
+-93.303687,44.945294,226,12/12/2016 09:38am,Snow Emergency,"3136 james ave s,Minneapolis,MN",44.945294,-93.303687,10,ECCO,Calhoun-Isles,2,5
+-93.242811,44.985417,227,12/12/2016 02:29pm,Snow Emergency,"520 8th av se,Minneapolis,MN",44.985417,-93.242811,3,Marcy-Holmes,University,2,4
+-93.273326,44.987216,228,12/11/2016 10:47pm,Snow Emergency,"500 2nd st n,Minneapolis,MN",44.987216,-93.273326,3,North Loop,Central,1,1
+-93.262624,44.904799,229,12/12/2016 12:00am,Snow Emergency,"5409 Chicago a e s,Minneapolis,MN",44.904799,-93.262624,11,Hale,Nokomis,2,6
+-93.27405,44.963518,230,12/12/2016 10:32am,Snow Emergency,"1912 2nd Ave s,Minneapolis,MN",44.963518,-93.27405,6,Stevens Square,Central,2,3
+-93.302811,45.015278,231,12/12/2016 04:16pm,Snow Emergency,"3306 Logan Ave. N. ,Minneapolis,MN",45.015278,-93.302811,4,Folwell,Camden,2,1
+-93.276156,44.963968,232,12/12/2016 11:35am,Snow Emergency,"104 19th Street East,Minneapolis,MN",44.963968,-93.276156,6,Stevens Square,Central,2,3
+-93.262807,44.979335,233,12/12/2016 09:40am,Snow Emergency,"204 4th ave ne,Minneapolis,MN",44.979335,-93.262807,3,Downtown West,Central,2,3
+-93.239974,44.944765,234,12/12/2016 02:30pm,Snow Emergency,"2210 32nd St E,Minneapolis,MN",44.944765,-93.239974,9,Corcoran,Powderhorn,2,6
+-93.268576,44.968075,235,12/12/2016 12:01am,Snow Emergency,"504 15th st e,Minneapolis,MN",44.968075,-93.268576,7,Elliot Park,Central,2,3
+-93.284223,44.959453,236,12/12/2016 04:16pm,Snow Emergency,"2318 grand ave s,Minneapolis,MN",44.959453,-93.284223,10,Whittier,Powderhorn,2,3
+-93.283396,45.012026,237,12/12/2016 10:34am,Snow Emergency,"3104 3rd st n,Minneapolis,MN",45.012026,-93.283396,5,Hawthorne,Near-North,2,1
+-93.273132,44.939683,238,12/11/2016 10:47pm,Snow Emergency,"3450 3rd Avenue South,Minneapolis,MN",44.939683,-93.273132,9,Central,Powderhorn,1,5
+-93.255825,44.991624,239,12/12/2016 11:36am,Snow Emergency,"226 5th st ne,Minneapolis,MN",44.991624,-93.255825,3,St. Anthony West,Northeast,2,2
+-93.249086,44.928815,240,12/12/2016 09:40am,Snow Emergency,"1712 41st,Minneapolis,MN",44.928815,-93.249086,8,Bancroft,Powderhorn,2,6
+-93.27276,44.940325,241,12/12/2016 12:01am,Snow Emergency,"3431 3rd ave s,Minneapolis,MN",44.940325,-93.27276,9,Central,Powderhorn,2,5
+-93.260812,44.995765,242,12/12/2016 10:34am,Snow Emergency,"314 7th ave ne,Minneapolis,MN",44.995765,-93.260812,3,St. Anthony West,Northeast,2,2
+-93.267388,44.965175,243,12/12/2016 04:19pm,Snow Emergency,"610 18th St e,Minneapolis,MN",44.965175,-93.267388,6,Ventura Village,Phillips,2,3
+-93.241506,44.987068,244,12/12/2016 02:31pm,Snow Emergency,"710 8th Avenue Southeast ,Minneapolis,MN",44.987068,-93.241506,3,Marcy-Holmes,University,2,4
+-93.280542,44.967889,245,12/11/2016 10:48pm,Snow Emergency,"8 15th st w,Minneapolis,MN",44.967889,-93.280542,7,Loring Park,Central,1,3
+-93.270545,44.964795,246,12/12/2016 11:38am,Snow Emergency,"1810 4TH av s,Minneapolis,MN",44.964795,-93.270545,6,Stevens Square,Central,2,3
+-93.250562,44.985242,247,12/12/2016 10:35am,Snow Emergency,"302 4th Avenue Southeast,Minneapolis,MN",44.985242,-93.250562,3,Marcy-Holmes,University,2,4
+-93.291471,45.04086,248,12/12/2016 12:02am,Snow Emergency,"4717 Bryant Ave n ,Minneapolis,MN",45.04086,-93.291471,4,Lind-Bohanon,Camden,2,1
+-93.249458,45.014209,249,12/12/2016 04:19pm,Snow Emergency,"2530 Jackson St ne,Minneapolis,MN",45.014209,-93.249458,1,Holland,Northeast,2,2
+-93.30369,44.946432,250,12/12/2016 09:41am,Snow Emergency,"3100 james ave s,Minneapolis,MN",44.946432,-93.30369,10,ECCO,Calhoun-Isles,2,5
+-93.218194,44.94785,251,12/12/2016 02:31pm,Snow Emergency,"3010 38th ave s,Minneapolis,MN",44.94785,-93.218194,2,Longfellow,Longfellow,2,6
+-93.273326,44.987216,252,12/11/2016 10:50pm,Snow Emergency,"500 2nd st n ,Minneapolis,MN",44.987216,-93.273326,3,North Loop,Central,1,1
+-93.284701,45.021125,253,12/12/2016 11:38am,Snow Emergency,"3626 4th st. N. ,Minneapolis,MN",45.021125,-93.284701,4,McKinley,Camden,2,1
+-93.268542,44.968074,254,12/12/2016 12:03am,Snow Emergency,"506 15th St e,Minneapolis,MN",44.968074,-93.268542,7,Elliot Park,Central,2,3
+-93.260027,44.93754,255,12/12/2016 10:35am,Snow Emergency,"3602 10th ave,Minneapolis,MN",44.93754,-93.260027,9,Powderhorn,Powderhorn,2,6
+-93.221352,44.946841,256,12/12/2016 04:21pm,Snow Emergency,"3524 31ST ST E,Minneapolis,MN",44.946841,-93.221352,2,Longfellow,Longfellow,2,6
+-93.262855,44.979278,257,12/12/2016 09:41am,Snow Emergency,"210 4th ave ne,Minneapolis,MN",44.979278,-93.262855,3,Downtown West,Central,2,3
+-93.215294,44.947924,258,12/12/2016 02:36pm,Snow Emergency,"3008 40th ave s,Minneapolis,MN",44.947924,-93.215294,2,Cooper,Longfellow,2,6
+-93.254691,44.990659,259,12/12/2016 11:39am,Snow Emergency,"124 5th st ne,Minneapolis,MN",44.990659,-93.254691,3,Nicollet Island,University,2,2
+-93.262314,44.906322,260,12/12/2016 12:05am,Snow Emergency,"5323 Chicago Ave.,Minneapolis,MN",44.906322,-93.262314,11,Hale,Nokomis,2,6
+-93.280999,45.016702,261,12/11/2016 10:50pm,Snow Emergency,"3400 2nd st n,Minneapolis,MN",45.016702,-93.280999,4,McKinley,Camden,1,1
+-93.283401,45.005996,262,12/12/2016 10:35am,Snow Emergency,"2606 3rd st n,Minneapolis,MN",45.005996,-93.283401,5,Hawthorne,Near-North,2,1
+-93.312541,44.973301,263,12/12/2016 04:21pm,Snow Emergency,"404 Sheridan ave s,Minneapolis,MN",44.973301,-93.312541,7,Bryn-Mawr,Calhoun-Isles,2,3
+-93.290132,44.988375,264,12/12/2016 12:05am,Snow Emergency,"1021 7th st n,Minneapolis,MN",44.988375,-93.290132,5,Sumner-Glenwood,Near-North,2,1
+-93.248184,44.930475,265,12/12/2016 09:42am,Snow Emergency,"1808 40th st,Minneapolis,MN",44.930475,-93.248184,8,Bancroft,Powderhorn,2,6
+-93.259439,44.996174,266,12/12/2016 10:37am,Snow Emergency,"414 7th ave ne,Minneapolis,MN",44.996174,-93.259439,3,St. Anthony West,Northeast,2,2
+-93.274051,44.963447,267,12/12/2016 11:39am,Snow Emergency,"1914 2nd Avenue South,Minneapolis,MN",44.963447,-93.274051,6,Stevens Square,Central,2,3
+-93.262859,44.937048,268,12/11/2016 10:51pm,Snow Emergency,"3620 Chicago,Minneapolis,MN",44.937048,-93.262859,8,Central,Powderhorn,1,5
+-93.242353,44.985517,269,12/12/2016 02:39pm,Snow Emergency,"526 8th ave se,Minneapolis,MN",44.985517,-93.242353,3,Marcy-Holmes,University,2,4
+-93.298186,44.988135,270,12/12/2016 04:21pm,Snow Emergency,"1302 Barnes Place N,Minneapolis,MN",44.988135,-93.298186,5,Near-North,Near-North,2,1
+-93.295631,44.991984,271,12/12/2016 09:45am,Snow Emergency,"1206 Fremont ave n ,Minneapolis,MN",44.991984,-93.295631,5,Near-North,Near-North,2,1
+-93.273173,44.942647,272,12/12/2016 12:06am,Snow Emergency,"3312 3RD AVE S,Minneapolis,MN",44.942647,-93.273173,9,Central,Powderhorn,2,5
+-93.246869,44.986801,273,12/12/2016 10:37am,Snow Emergency,"516 5th Ave se,Minneapolis,MN",44.986801,-93.246869,3,Marcy-Holmes,University,2,4
+-93.254688,44.990655,274,12/12/2016 11:40am,Snow Emergency,"122 5th st ne,Minneapolis,MN",44.990655,-93.254688,3,Nicollet Island,University,2,2
+-93.274552,44.988078,275,12/11/2016 10:51pm,Snow Emergency,"600 2nd st n. ,Minneapolis,MN",44.988078,-93.274552,3,North Loop,Central,1,1
+-93.243798,44.98418,276,12/12/2016 02:41pm,Snow Emergency,"410 8th Ave se,Minneapolis,MN",44.98418,-93.243798,3,Marcy-Holmes,University,2,4
+-93.240681,44.981225,277,12/12/2016 04:24pm,Snow Emergency,"304 11th Ave se,Minneapolis,MN",44.981225,-93.240681,3,Marcy-Holmes,University,2,4
+-93.280854,44.966908,278,12/12/2016 09:46am,Snow Emergency,"1538 Spruce Place,Minneapolis,MN",44.966908,-93.280854,7,Loring Park,Central,2,3
+-93.274372,44.962974,279,12/12/2016 10:38am,Snow Emergency,"1920 s 2nd ave,Minneapolis,MN",44.962974,-93.274372,6,Stevens Square,Central,2,3
+-93.268434,44.968074,280,12/12/2016 12:06am,Snow Emergency,"516 15TH st e,Minneapolis,MN",44.968074,-93.268434,7,Elliot Park,Central,2,3
+-93.299423,44.990849,281,12/12/2016 11:42am,Snow Emergency,"1226 Irving Ave. N. ,Minneapolis,MN",44.990849,-93.299423,5,Near-North,Near-North,2,1
+-93.262852,44.936807,282,12/11/2016 10:51pm,Snow Emergency,"3628 Chicago ave s,Minneapolis,MN",44.936807,-93.262852,8,Central,Powderhorn,1,5
+-93.240701,44.981208,283,12/12/2016 04:24pm,Snow Emergency,"302 11th ave se,Minneapolis,MN",44.981208,-93.240701,3,Marcy-Holmes,University,2,4
+-93.242537,44.985371,284,12/12/2016 02:42pm,Snow Emergency,"524 8th ave se,Minneapolis,MN",44.985371,-93.242537,3,Marcy-Holmes,University,2,4
+-93.245635,44.988779,285,12/12/2016 10:39am,Snow Emergency,"708 5th ave se,Minneapolis,MN",44.988779,-93.245635,3,Marcy-Holmes,University,2,4
+-93.267948,44.976399,286,12/12/2016 09:47am,Snow Emergency,"256 6th st ne,Minneapolis,MN",44.976399,-93.267948,7,Downtown West,Central,2,3
+-93.250303,45.016766,287,12/12/2016 11:43am,Snow Emergency,"810 st ne,Minneapolis,MN",45.016766,-93.250303,1,Holland,Northeast,2,2
+-93.298313,44.948207,288,12/12/2016 12:07am,Snow Emergency,"3000 block of Hennepin Avenue South,Minneapolis,MN",44.948207,-93.298313,10,ECCO,Calhoun-Isles,2,5
+-93.314233,45.000141,289,12/12/2016 04:25pm,Snow Emergency,"2014 Upton Ave N,Minneapolis,MN",45.000141,-93.314233,5,Willard-Hay,Near-North,2,1
+-93.27192,44.985822,290,12/11/2016 10:53pm,Snow Emergency,"340 2nd St N,Minneapolis,MN",44.985822,-93.27192,3,North Loop,Central,1,3
+-93.274513,44.963968,291,12/12/2016 10:39am,Snow Emergency,"144 19th st E,Minneapolis,MN",44.963968,-93.274513,6,Stevens Square,Central,2,3
+-93.292566,44.993655,292,12/12/2016 09:47am,Snow Emergency,"1406 DuPont Ave n,Minneapolis,MN",44.993655,-93.292566,5,Near-North,Near-North,2,1
+-93.26184,45.009504,293,12/12/2016 11:43am,Snow Emergency,"2106 4th st n,Minneapolis,MN",45.009504,-93.26184,1,Holland,Northeast,2,2
+-93.246299,44.944757,294,12/12/2016 02:43pm,Snow Emergency,"1840 32ND ST E,Minneapolis,MN",44.944757,-93.246299,9,Corcoran,Powderhorn,2,6
+-93.238676,44.982937,295,12/12/2016 04:25pm,Snow Emergency,"1108 5th st se,Minneapolis,MN",44.982937,-93.238676,3,Marcy-Holmes,University,2,4
+-93.313273,45.034323,296,12/12/2016 12:14am,Snow Emergency,"4330 Thomas Ave n,Minneapolis,MN",45.034323,-93.313273,4,Victory,Camden,2,1
+-93.283395,45.012208,297,12/12/2016 10:39am,Snow Emergency,"3120 3rd st n,Minneapolis,MN",45.012208,-93.283395,5,Hawthorne,Near-North,2,1
+-93.249822,44.985704,298,12/12/2016 09:47am,Snow Emergency,"316 4th Ave se,Minneapolis,MN",44.985704,-93.249822,3,Marcy-Holmes,University,2,4
+-93.27306,44.940175,299,12/11/2016 10:54pm,Snow Emergency,"3436 3rd Avenue South,Minneapolis,MN",44.940175,-93.27306,9,Central,Powderhorn,1,5
+-93.295997,44.966116,300,12/12/2016 11:45am,Snow Emergency,"1770 Fremont s,Minneapolis,MN",44.966116,-93.295997,7,Lowry Hill,Calhoun-Isles,2,3
+-93.264971,44.965233,301,12/12/2016 04:27pm,Snow Emergency,"704 18th st e ,Minneapolis,MN",44.965233,-93.264971,6,Ventura Village,Phillips,2,3
+-93.243587,44.984444,302,12/12/2016 02:43pm,Snow Emergency,"424 8th Ave se,Minneapolis,MN",44.984444,-93.243587,3,Marcy-Holmes,University,2,4
+-93.283397,45.010939,303,12/12/2016 10:40am,Snow Emergency,"3016 3rd st n,Minneapolis,MN",45.010939,-93.283397,5,Hawthorne,Near-North,2,1
+-93.268453,44.968074,304,12/12/2016 12:14am,Snow Emergency,"514 15th st E ,Minneapolis,MN",44.968074,-93.268453,7,Elliot Park,Central,2,3
+-93.250203,44.985686,305,12/12/2016 09:47am,Snow Emergency,"322 4th ave se,Minneapolis,MN",44.985686,-93.250203,3,Marcy-Holmes,University,2,4
+-93.273121,44.919304,306,12/11/2016 10:54pm,Snow Emergency,"4608 3rd Ave s,Minneapolis,MN",44.919304,-93.273121,8,Field,Nokomis,1,5
+-93.26012,44.997976,307,12/12/2016 11:45am,Snow Emergency,"812 5th st ne,Minneapolis,MN",44.997976,-93.26012,3,St. Anthony West,Northeast,2,2
+-93.291599,44.982937,308,12/12/2016 04:34pm,Snow Emergency,"902 5TH av n,Minneapolis,MN",44.982937,-93.291599,5,Sumner-Glenwood,Near-North,2,3
+-93.256536,44.997461,309,12/12/2016 10:40am,Snow Emergency,"716 Adams st ne,Minneapolis,MN",44.997461,-93.256536,3,St. Anthony East,Northeast,2,2
+-93.243636,44.947834,310,12/12/2016 02:43pm,Snow Emergency,"3012 20th ave s,Minneapolis,MN",44.947834,-93.243636,9,Corcoran,Powderhorn,2,6
+-93.290588,44.998165,311,12/12/2016 09:49am,Snow Emergency,"1818 Bryant ave n ,Minneapolis,MN",44.998165,-93.290588,5,Near-North,Near-North,2,1
+-93.268397,44.968074,312,12/12/2016 12:15am,Snow Emergency,"520 15TH ST E,Minneapolis,MN",44.968074,-93.268397,7,Elliot Park,Central,2,3
+-93.24757,44.984013,313,12/12/2016 11:47am,Snow Emergency,"304 6th ave se,Minneapolis,MN",44.984013,-93.24757,3,Marcy-Holmes,University,2,4
+-93.281638,44.968023,314,12/11/2016 10:54pm,Snow Emergency,"214 15th St W,Minneapolis,MN",44.968023,-93.281638,7,Loring Park,Central,1,3
+-93.248721,44.984876,315,12/12/2016 10:41am,Snow Emergency,"316 5th ave se,Minneapolis,MN",44.984876,-93.248721,3,Marcy-Holmes,University,2,4
+-93.245629,45.006948,316,12/12/2016 04:34pm,Snow Emergency,"1818 Polk st ne,Minneapolis,MN",45.006948,-93.245629,1,Windom Park,Northeast,2,2
+-93.257215,45.008389,317,12/12/2016 02:46pm,Snow Emergency,"628 20th ave ne,Minneapolis,MN",45.008389,-93.257215,1,Holland,Northeast,2,2
+-93.292144,44.994925,318,12/12/2016 09:49am,Snow Emergency,"1522 Dupont Ave. N. ,Minneapolis,MN",44.994925,-93.292144,5,Near-North,Near-North,2,1
+-93.290132,44.988375,319,12/12/2016 12:15am,Snow Emergency,"1021 7 St N,Minneapolis,MN",44.988375,-93.290132,5,Sumner-Glenwood,Near-North,2,1
+-93.284627,45.009916,320,12/12/2016 11:47am,Snow Emergency,"2910 4th st n,Minneapolis,MN",45.009916,-93.284627,5,Hawthorne,Near-North,2,1
+-93.253155,44.996751,321,12/12/2016 10:41am,Snow Emergency,"688 summer st ne,Minneapolis,MN",44.996751,-93.253155,3,St. Anthony East,Northeast,2,2
+-93.239984,45.005267,322,12/12/2016 04:35pm,Snow Emergency,"1706 Buchanan st ne,Minneapolis,MN",45.005267,-93.239984,1,Northeast Park,Northeast,2,2
+-93.281171,44.967739,323,12/12/2016 12:16am,Snow Emergency,"208 15th Street West,Minneapolis,MN",44.967739,-93.281171,7,Loring Park,Central,2,3
+-93.280853,44.968504,324,12/12/2016 09:50am,Snow Emergency,"1368 SPRUCE PL,Minneapolis,MN",44.968504,-93.280853,7,Loring Park,Central,2,3
+-93.309491,44.990754,325,12/12/2016 02:46pm,Snow Emergency,"1234 Queen Ave N,Minneapolis,MN",44.990754,-93.309491,5,Willard-Hay,Near-North,2,1
+-93.28143,44.967668,326,12/11/2016 10:55pm,Snow Emergency,"210 15th st w,Minneapolis,MN",44.967668,-93.28143,7,Loring Park,Central,1,3
+-93.295955,44.963372,327,12/12/2016 11:47am,Snow Emergency,"1922 Fremont s,Minneapolis,MN",44.963372,-93.295955,7,Lowry Hill,Calhoun-Isles,2,3
+-93.314014,45.034176,328,12/12/2016 12:16am,Snow Emergency,"4325 Thomas Ave n,Minneapolis,MN",45.034176,-93.314014,4,Victory,Camden,2,1
+-93.28986,44.982932,329,12/12/2016 04:37pm,Snow Emergency,"806 5th ave n,Minneapolis,MN",44.982932,-93.28986,5,Sumner-Glenwood,Near-North,2,3
+-93.260323,44.938626,330,12/12/2016 10:43am,Snow Emergency,"3528 10th ave s,Minneapolis,MN",44.938626,-93.260323,9,Powderhorn,Powderhorn,2,6
+-93.2923,44.998055,331,12/12/2016 09:50am,Snow Emergency,"1818 dupont Ave n,Minneapolis,MN",44.998055,-93.2923,5,Near-North,Near-North,2,1
+-93.306926,45.000076,332,12/12/2016 02:46pm,Snow Emergency,"1940 Oliver Ave n ,Minneapolis,MN",45.000076,-93.306926,5,Willard-Hay,Near-North,2,1
+-93.276612,44.965233,333,12/12/2016 11:48am,Snow Emergency,"98 18th st e,Minneapolis,MN",44.965233,-93.276612,6,Stevens Square,Central,2,3
+-93.260251,44.998577,334,12/12/2016 04:38pm,Snow Emergency,"716 9th Ave N,Minneapolis,MN",44.998577,-93.260251,3,St. Anthony West,Northeast,2,2
+-93.266682,44.968045,335,12/12/2016 12:17am,Snow Emergency,"613 15TH ST E,Minneapolis,MN",44.968045,-93.266682,6,Elliot Park,Central,2,3
+-93.25833,44.995021,336,12/12/2016 09:52am,Snow Emergency,"418 6th ave ne,Minneapolis,MN",44.995021,-93.25833,3,St. Anthony West,Northeast,2,2
+-93.299084,44.996939,337,12/12/2016 10:43am,Snow Emergency,"1718 Irving Ave n,Minneapolis,MN",44.996939,-93.299084,5,Near-North,Near-North,2,1
+-93.281245,44.967739,338,12/11/2016 10:56pm,Snow Emergency,"218 15th st w,Minneapolis,MN",44.967739,-93.281245,7,Loring Park,Central,1,3
+-93.314016,45.034288,339,12/12/2016 12:19am,Snow Emergency,"4329 Thomas ave,Minneapolis,MN",45.034288,-93.314016,4,Victory,Camden,2,1
+-93.28323,44.965906,340,12/12/2016 02:47pm,Snow Emergency,"326 Clifton ave ,Minneapolis,MN",44.965906,-93.28323,7,Loring Park,Central,2,3
+-93.252384,44.996918,341,12/12/2016 10:43am,Snow Emergency,"704 summer,Minneapolis,MN",44.996918,-93.252384,3,St. Anthony East,Northeast,2,2
+-93.274552,44.988078,342,12/11/2016 10:56pm,Snow Emergency,"600 2nd st n,Minneapolis,MN",44.988078,-93.274552,3,North Loop,Central,1,1
+-93.299607,44.945828,343,12/12/2016 11:49am,Snow Emergency,"3118 Holmes ave s,Minneapolis,MN",44.945828,-93.299607,10,ECCO,Calhoun-Isles,2,5
+-93.268509,44.968287,344,12/12/2016 12:20am,Snow Emergency,"508 15th st e,Minneapolis,MN",44.968287,-93.268509,7,Elliot Park,Central,2,3
+-93.299156,44.99271,345,12/12/2016 10:43am,Snow Emergency,"1328 Irving Ave. N. ,Minneapolis,MN",44.99271,-93.299156,5,Near-North,Near-North,2,1
+-93.245042,44.984896,346,12/12/2016 11:49am,Snow Emergency,"430 7th Avenue Southeast ,Minneapolis,MN",44.984896,-93.245042,3,Marcy-Holmes,University,2,4
+-93.262192,44.93008,347,12/11/2016 10:58pm,Snow Emergency,"4015 chicago,Minneapolis,MN",44.93008,-93.262192,8,Bancroft,Powderhorn,1,6
+-93.293643,44.939744,348,12/12/2016 02:47pm,Snow Emergency,"3450 dupont Ave s,Minneapolis,MN",44.939744,-93.293643,10,CARAG,Calhoun-Isles,2,5
+-93.267468,44.96807,349,12/12/2016 12:20am,Snow Emergency,"602 15th Street East,Minneapolis,MN",44.96807,-93.267468,7,Elliot Park,Central,2,3
+-93.248834,44.98473,350,12/12/2016 10:44am,Snow Emergency,"310 5th ave se,Minneapolis,MN",44.98473,-93.248834,3,Marcy-Holmes,University,2,4
+-93.233195,44.932326,351,12/12/2016 09:53am,Snow Emergency,"2728 39th st e,Minneapolis,MN",44.932326,-93.233195,12,Standish,Powderhorn,2,6
+-93.285875,44.941735,352,12/12/2016 04:38pm,Snow Emergency,"3336 Harriet Ave s,Minneapolis,MN",44.941735,-93.285875,8,Lyndale,Powderhorn,2,5
+-93.245042,44.984896,353,12/12/2016 11:49am,Snow Emergency,"430 7th Avenue Southeast ,Minneapolis,MN",44.984896,-93.245042,3,Marcy-Holmes,University,2,4
+-93.270276,44.944992,354,12/11/2016 11:01pm,Snow Emergency,"4th Ave s and E 32nd st,Minneapolis,MN",44.944992,-93.270276,9,Central,Powderhorn,1,5
+-93.298313,44.948207,355,12/12/2016 12:21am,Snow Emergency,"3000-3099 hennipen Ave s,Minneapolis,MN",44.948207,-93.298313,10,ECCO,Calhoun-Isles,2,5
+-93.24538,44.989099,356,12/12/2016 10:44am,Snow Emergency,"720 5th Ave South East,Minneapolis,MN",44.989099,-93.24538,3,Marcy-Holmes,University,2,4
+-93.25025,44.985628,357,12/12/2016 09:55am,Snow Emergency,"314 4th Ave South East,Minneapolis,MN",44.985628,-93.25025,3,Marcy-Holmes,University,2,4
+-93.294876,44.940134,358,12/12/2016 02:49pm,Snow Emergency,"3432 Emerson Ave s,Minneapolis,MN",44.940134,-93.294876,10,CARAG,Calhoun-Isles,2,5
+-93.275655,44.965972,359,12/12/2016 11:49am,Snow Emergency,"1706 Stevens ave s,Minneapolis,MN",44.965972,-93.275655,6,Stevens Square,Central,2,3
+-93.239141,44.98084,360,12/12/2016 04:38pm,Snow Emergency,"322 12th Ave se,Minneapolis,MN",44.98084,-93.239141,3,Marcy-Holmes,University,2,4
+-93.300685,44.992034,361,12/12/2016 11:49am,Snow Emergency,"1312 James Ave n ,Minneapolis,MN",44.992034,-93.300685,5,Near-North,Near-North,2,1
+-93.268453,44.968074,362,12/12/2016 12:22am,Snow Emergency,"514 15th st E,Minneapolis,MN",44.968074,-93.268453,7,Elliot Park,Central,2,3
+-93.228696,44.95708,363,12/12/2016 02:50pm,Snow Emergency,"2504 30TH AVE S,Minneapolis,MN",44.95708,-93.228696,2,Seward,Longfellow,2,4
+-93.25662,44.996209,364,12/12/2016 10:45am,Snow Emergency,"638 Adams st ne,Minneapolis,MN",44.996209,-93.25662,3,St. Anthony East,Northeast,2,2
+-93.312977,44.994702,365,12/12/2016 04:40pm,Snow Emergency,"1518 Thomas Ave n ,Minneapolis,MN",44.994702,-93.312977,5,Willard-Hay,Near-North,2,1
+-93.262204,44.93129,366,12/11/2016 11:01pm,Snow Emergency,"3935 chicago,Minneapolis,MN",44.93129,-93.262204,8,Bancroft,Powderhorn,1,6
+-93.291827,44.963999,367,12/12/2016 09:56am,Snow Emergency,"1908 colfax ave s,Minneapolis,MN",44.963999,-93.291827,7,Lowry Hill,Calhoun-Isles,2,3
+-93.296209,44.938572,368,12/12/2016 11:51am,Snow Emergency,"3528 Fremont ave s,Minneapolis,MN",44.938572,-93.296209,10,CARAG,Calhoun-Isles,2,5
+-93.298363,44.942774,369,12/12/2016 12:33am,Snow Emergency,"3300-3399 hennipen Ave s,Minneapolis,MN",44.942774,-93.298363,10,ECCO,Calhoun-Isles,2,5
+-93.299419,44.992539,370,12/12/2016 10:45am,Snow Emergency,"1322 Irving Ave n ,Minneapolis,MN",44.992539,-93.299419,5,Near-North,Near-North,2,1
+-93.287239,44.939862,371,12/12/2016 04:40pm,Snow Emergency,"3442 Garfield Ave s,Minneapolis,MN",44.939862,-93.287239,8,Lyndale,Powderhorn,2,5
+-93.262618,44.993729,372,12/12/2016 09:57am,Snow Emergency,"122 6th ave ne,Minneapolis,MN",44.993729,-93.262618,3,St. Anthony West,Northeast,2,2
+-93.293203,44.951233,373,12/11/2016 11:01pm,Snow Emergency,"2800 dupont Ave s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.306674,44.995731,374,12/12/2016 02:51pm,Snow Emergency,"1614 Oliver Ave N,Minneapolis,MN",44.995731,-93.306674,5,Willard-Hay,Near-North,2,1
+-93.313681,45.034377,375,12/12/2016 12:34am,Snow Emergency,"4333 Thomas Ave N,Minneapolis,MN",45.034377,-93.313681,4,Victory,Camden,2,1
+-93.256491,44.995979,376,12/12/2016 10:46am,Snow Emergency,"630 adams st ne,Minneapolis,MN",44.995979,-93.256491,3,St. Anthony East,Northeast,2,2
+-93.257574,44.991835,377,12/12/2016 11:52am,Snow Emergency,"312 4th st ne,Minneapolis,MN",44.991835,-93.257574,3,St. Anthony West,Northeast,2,2
+-93.255309,44.946332,378,12/12/2016 04:41pm,Snow Emergency,"3104 14th ave,Minneapolis,MN",44.946332,-93.255309,9,Powderhorn,Powderhorn,2,6
+-93.296916,44.966392,379,12/12/2016 09:57am,Snow Emergency,"1708 Girard s,Minneapolis,MN",44.966392,-93.296916,7,Lowry Hill,Calhoun-Isles,2,3
+-93.298363,44.942774,380,12/12/2016 12:35am,Snow Emergency,"3300 Hennepin Ave S ,Minneapolis,MN",44.942774,-93.298363,10,ECCO,Calhoun-Isles,2,5
+-93.247082,44.986957,381,12/12/2016 10:46am,Snow Emergency,"518 5th Ave se ,Minneapolis,MN",44.986957,-93.247082,3,Marcy-Holmes,University,2,4
+-93.247661,44.973556,382,12/11/2016 11:02pm,Snow Emergency,"216 15th st w,Minneapolis,MN",44.973556,-93.247661,6,Cedar Riverside,University,1,4
+-93.314277,44.986692,383,12/12/2016 02:54pm,Snow Emergency,"818 upton ave n,Minneapolis,MN",44.986692,-93.314277,5,Willard-Hay,Near-North,2,1
+-93.261365,44.943663,384,12/12/2016 04:41pm,Snow Emergency,"3236 Elliot Ave S,Minneapolis,MN",44.943663,-93.261365,9,Powderhorn,Powderhorn,2,6
+-93.280853,44.968504,385,12/12/2016 09:58am,Snow Emergency,"1362 spruce pl,Minneapolis,MN",44.968504,-93.280853,7,Loring Park,Central,2,3
+-93.245073,44.984857,386,12/12/2016 11:53am,Snow Emergency,"424 7th Ave se,Minneapolis,MN",44.984857,-93.245073,3,Marcy-Holmes,University,2,4
+-93.298292,44.949064,387,12/12/2016 12:35am,Snow Emergency,"2900 Hennepin av South,Minneapolis,MN",44.949064,-93.298292,7,East Isles,Calhoun-Isles,2,3
+-93.246081,44.934691,388,12/12/2016 10:47am,Snow Emergency,"3740 Longfellow Ave. S.,Minneapolis,MN",44.934691,-93.246081,12,Standish,Powderhorn,2,6
+-93.281525,44.967464,389,12/11/2016 11:07pm,Snow Emergency,"209 15TH st w,Minneapolis,MN",44.967464,-93.281525,7,Loring Park,Central,1,3
+-93.314277,44.986692,390,12/12/2016 02:57pm,Snow Emergency,"818 upton ave n,Minneapolis,MN",44.986692,-93.314277,5,Willard-Hay,Near-North,2,1
+-93.246563,44.985295,391,12/12/2016 11:54am,Snow Emergency,"418 6th Ave se,Minneapolis,MN",44.985295,-93.246563,3,Marcy-Holmes,University,2,4
+-93.25289,44.949778,392,12/12/2016 12:36am,Snow Emergency,"2908 bloomington ave,Minneapolis,MN",44.949778,-93.25289,9,Midtown Phillips,Phillips,2,3
+-93.27308,44.963968,393,12/12/2016 10:49am,Snow Emergency,"224 19TH ST e,Minneapolis,MN",44.963968,-93.27308,6,Stevens Square,Central,2,3
+-93.29447,44.951575,394,12/11/2016 11:08pm,Snow Emergency,"2800-2899 Emerson av s,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.266681,44.999805,395,12/12/2016 02:57pm,Snow Emergency,"160 12th ave ne,Minneapolis,MN",44.999805,-93.266681,3,Sheridan,Northeast,2,2
+-93.257601,44.947902,396,12/12/2016 04:43pm,Snow Emergency,"3008 12th ave,Minneapolis,MN",44.947902,-93.257601,9,Powderhorn,Powderhorn,2,6
+-93.254222,44.99209,397,12/12/2016 09:58am,Snow Emergency,"250 6th st ne,Minneapolis,MN",44.99209,-93.254222,3,St. Anthony East,Northeast,2,2
+-93.296776,44.955437,398,12/12/2016 12:37am,Snow Emergency,"26th Hennepin ave s,Minneapolis,MN",44.955437,-93.296776,10,Lowry Hill East,Calhoun-Isles,2,3
+-93.246621,44.985221,399,12/12/2016 11:56am,Snow Emergency,"408 6th ave se,Minneapolis,MN",44.985221,-93.246621,3,Marcy-Holmes,University,2,4
+-93.290313,44.982795,400,12/12/2016 04:44pm,Snow Emergency,"818 5TH AV n,Minneapolis,MN",44.982795,-93.290313,5,Sumner-Glenwood,Near-North,2,3
+-93.294685,44.961264,401,12/12/2016 10:50am,Snow Emergency,"2120 Emerson ave s,Minneapolis,MN",44.961264,-93.294685,7,Lowry Hill,Calhoun-Isles,2,3
+-93.258624,44.994915,402,12/12/2016 10:00am,Snow Emergency,"410 6th ave ne,Minneapolis,MN",44.994915,-93.258624,3,St. Anthony West,Northeast,2,2
+-93.29445,44.95862,403,12/12/2016 12:37am,Snow Emergency,"2417 hennepin av s,Minneapolis,MN",44.95862,-93.29445,10,Lowry Hill East,Calhoun-Isles,2,3
+-93.261493,44.933994,404,12/12/2016 11:57am,Snow Emergency,"3800 Elliot ave,Minneapolis,MN",44.933994,-93.261493,8,Bancroft,Powderhorn,2,6
+-93.27016,44.926817,405,12/11/2016 11:09pm,Snow Emergency,"4200 4th Ave South,Minneapolis,MN",44.926817,-93.27016,8,Regina,Nokomis,1,5
+-93.263038,45.006371,406,12/12/2016 02:59pm,Snow Emergency,"332 18th ave ne,Minneapolis,MN",45.006371,-93.263038,1,Holland,Northeast,2,2
+-93.29285,45.017789,407,12/12/2016 04:44pm,Snow Emergency,"3430 dupont Ave n,Minneapolis,MN",45.017789,-93.29285,4,McKinley,Camden,2,1
+-93.24755,44.985947,408,12/12/2016 10:52am,Snow Emergency,"416 5th ave se,Minneapolis,MN",44.985947,-93.24755,3,Marcy-Holmes,University,2,4
+-93.298363,44.942774,409,12/12/2016 12:39am,Snow Emergency,"3300 Hennepin Ave S ,Minneapolis,MN",44.942774,-93.298363,10,ECCO,Calhoun-Isles,2,5
+-93.294363,44.964671,410,12/12/2016 10:00am,Snow Emergency,"1820 Emerson s,Minneapolis,MN",44.964671,-93.294363,7,Lowry Hill,Calhoun-Isles,2,3
+-93.273585,44.965235,411,12/12/2016 11:57am,Snow Emergency,"234 18th st e,Minneapolis,MN",44.965235,-93.273585,6,Stevens Square,Central,2,3
+-93.303391,44.948985,412,12/12/2016 10:53am,Snow Emergency,"2906 james ave s,Minneapolis,MN",44.948985,-93.303391,7,East Isles,Calhoun-Isles,2,3
+-93.255334,44.946715,413,12/12/2016 04:44pm,Snow Emergency,"3056 14th Avenue South,Minneapolis,MN",44.946715,-93.255334,9,Powderhorn,Powderhorn,2,6
+-93.279444,44.995631,414,12/11/2016 11:12pm,Snow Emergency,"1600 2nd st n,Minneapolis,MN",44.995631,-93.279444,5,Near-North,Near-North,1,1
+-93.309652,44.986265,415,12/12/2016 03:00pm,Snow Emergency,"802 Queen Ave N,Minneapolis,MN",44.986265,-93.309652,5,Willard-Hay,Near-North,2,1
+-93.266445,44.96825,416,12/12/2016 12:40am,Snow Emergency,"622 15th st e,Minneapolis,MN",44.96825,-93.266445,7,Elliot Park,Central,2,3
+-93.253257,44.928723,417,12/12/2016 10:01am,Snow Emergency,"1536 41st e,Minneapolis,MN",44.928723,-93.253257,8,Bancroft,Powderhorn,2,6
+-93.274374,44.963391,418,12/12/2016 11:59am,Snow Emergency,"1916 2nd ave s,Minneapolis,MN",44.963391,-93.274374,6,Stevens Square,Central,2,3
+-93.280853,44.966751,419,12/12/2016 10:54am,Snow Emergency,"1508 SPRUCE PL,Minneapolis,MN",44.966751,-93.280853,7,Loring Park,Central,2,3
+-93.311089,44.980741,420,12/12/2016 04:46pm,Snow Emergency,"302 RUSSELL AVE N,Minneapolis,MN",44.980741,-93.311089,5,Harrison,Near-North,2,3
+-93.29447,44.951575,421,12/11/2016 11:13pm,Snow Emergency,"2800-2899 EMERSON AVE S,Minneapolis,MN",44.951575,-93.29447,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.288126,44.948341,422,12/12/2016 12:40am,Snow Emergency,"3000 lyndale av s,Minneapolis,MN",44.948341,-93.288126,10,CARAG,Calhoun-Isles,2,5
+-93.241117,44.945831,423,12/12/2016 03:00pm,Snow Emergency,"3122 22nd ave s,Minneapolis,MN",44.945831,-93.241117,9,Corcoran,Powderhorn,2,6
+-93.236189,44.934433,424,12/12/2016 10:02am,Snow Emergency,"3740 25th Ave. so,Minneapolis,MN",44.934433,-93.236189,12,Standish,Powderhorn,2,6
+-93.297072,44.944533,425,12/12/2016 11:59am,Snow Emergency,"3204 Gerard Ave s,Minneapolis,MN",44.944533,-93.297072,10,CARAG,Calhoun-Isles,2,5
+-93.291589,45.023378,426,12/12/2016 04:47pm,Snow Emergency,"3742 Colfax Ave n,Minneapolis,MN",45.023378,-93.291589,4,McKinley,Camden,2,1
+-93.27558,44.963968,427,12/12/2016 10:57am,Snow Emergency,"120 19TH ST E,Minneapolis,MN",44.963968,-93.27558,6,Stevens Square,Central,2,3
+-93.298293,44.948951,428,12/12/2016 12:42am,Snow Emergency,"2906 Hennepin Ave S,Minneapolis,MN",44.948951,-93.298293,7,East Isles,Calhoun-Isles,2,3
+-93.293203,44.951233,429,12/11/2016 11:13pm,Snow Emergency,"2800-2899 Dupont av s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.280853,44.968504,430,12/12/2016 10:03am,Snow Emergency,"1364 spruce pl,Minneapolis,MN",44.968504,-93.280853,7,Loring Park,Central,2,3
+-93.289226,44.98292,431,12/12/2016 04:48pm,Snow Emergency,"700 5th Ave n,Minneapolis,MN",44.98292,-93.289226,5,Sumner-Glenwood,Near-North,2,3
+-93.270938,44.96397,432,12/12/2016 11:59am,Snow Emergency,"334 19TH ST E,Minneapolis,MN",44.96397,-93.270938,6,Stevens Square,Central,2,3
+-93.291809,45.048297,433,12/12/2016 12:43am,Snow Emergency,"5119 Bryant Ave n ,Minneapolis,MN",45.048297,-93.291809,4,Lind-Bohanon,Camden,2,1
+-93.303714,44.949625,434,12/12/2016 10:57am,Snow Emergency,"2886 james ave s,Minneapolis,MN",44.949625,-93.303714,7,East Isles,Calhoun-Isles,2,3
+-93.289715,44.990848,435,12/12/2016 10:03am,Snow Emergency,"810 12th Ave n ,Minneapolis,MN",44.990848,-93.289715,5,Near-North,Near-North,2,1
+-93.272087,44.924574,436,12/11/2016 11:14pm,Snow Emergency,"4325 3rd Avenue South,Minneapolis,MN",44.924574,-93.272087,8,Regina,Nokomis,1,5
+-93.245156,44.947798,437,12/12/2016 03:03pm,Snow Emergency,"3014 19th ave so,Minneapolis,MN",44.947798,-93.245156,9,Corcoran,Powderhorn,2,6
+-93.284518,45.011476,438,12/12/2016 12:00pm,Snow Emergency,"3020 4th st. N. ,Minneapolis,MN",45.011476,-93.284518,5,Hawthorne,Near-North,2,1
+-93.289694,44.982938,439,12/12/2016 04:50pm,Snow Emergency,"802 5th Ave n ,Minneapolis,MN",44.982938,-93.289694,5,Sumner-Glenwood,Near-North,2,3
+-93.253925,44.932793,440,12/12/2016 10:58am,Snow Emergency,"3844 15th ave s,Minneapolis,MN",44.932793,-93.253925,8,Bancroft,Powderhorn,2,6
+-93.250687,44.991359,441,12/12/2016 12:44am,Snow Emergency,"726 Central Ave NE,Minneapolis,MN",44.991359,-93.250687,3,Marcy-Holmes,University,2,2
+-93.263086,44.9952,442,12/12/2016 10:05am,Snow Emergency,"200 7th ave ne,Minneapolis,MN",44.9952,-93.263086,3,St. Anthony West,Northeast,2,2
+-93.272747,44.924886,443,12/11/2016 11:15pm,Snow Emergency,"4313 3rd Ave s,Minneapolis,MN",44.924886,-93.272747,8,Regina,Nokomis,1,5
+-93.274374,44.963254,444,12/12/2016 12:00pm,Snow Emergency,"1918 2nd Ave s,Minneapolis,MN",44.963254,-93.274374,6,Stevens Square,Central,2,3
+-93.291032,45.002046,445,12/12/2016 03:04pm,Snow Emergency,"2216 Bryant Ave n. ,Minneapolis,MN",45.002046,-93.291032,5,Hawthorne,Near-North,2,1
+-93.287798,45.024087,446,12/12/2016 12:46am,Snow Emergency,"3800 Lyndale Ave N,Minneapolis,MN",45.024087,-93.287798,4,Webber-Camden,Camden,2,1
+-93.310743,44.981392,447,12/12/2016 04:50pm,Snow Emergency,"328 RUSSELL AVE N,Minneapolis,MN",44.981392,-93.310743,5,Harrison,Near-North,2,3
+-93.299846,44.988355,448,12/12/2016 11:01am,Snow Emergency,"1026 Irving Ave. N. ,Minneapolis,MN",44.988355,-93.299846,5,Near-North,Near-North,2,1
+-93.250078,44.985486,449,12/12/2016 10:05am,Snow Emergency,"308 4th Ave se,Minneapolis,MN",44.985486,-93.250078,3,Marcy-Holmes,University,2,4
+-93.274054,44.962959,450,12/12/2016 12:01pm,Snow Emergency,"1924 2ND av s,Minneapolis,MN",44.962959,-93.274054,6,Stevens Square,Central,2,3
+-93.244566,44.983184,451,12/12/2016 03:04pm,Snow Emergency,"312 8th Ave se,Minneapolis,MN",44.983184,-93.244566,3,Marcy-Holmes,University,2,4
+-93.270468,44.943042,452,12/11/2016 11:15pm,Snow Emergency,"3300 4th ave s,Minneapolis,MN",44.943042,-93.270468,9,Central,Powderhorn,1,5
+-93.272515,44.943583,453,12/12/2016 12:48am,Snow Emergency,"3243 3rd ave s,Minneapolis,MN",44.943583,-93.272515,9,Central,Powderhorn,2,5
+-93.260251,44.998577,454,12/12/2016 04:55pm,Snow Emergency,"706 9th Ave. N. ,Minneapolis,MN",44.998577,-93.260251,3,St. Anthony West,Northeast,2,2
+-93.289954,44.990848,455,12/12/2016 10:05am,Snow Emergency,"826 12th Ave n,Minneapolis,MN",44.990848,-93.289954,5,Near-North,Near-North,2,1
+-93.294736,44.963894,456,12/12/2016 11:01am,Snow Emergency,"1912 Emerson s,Minneapolis,MN",44.963894,-93.294736,7,Lowry Hill,Calhoun-Isles,2,3
+-93.246552,44.98531,457,12/12/2016 12:02pm,Snow Emergency,"420 6th ave se,Minneapolis,MN",44.98531,-93.246552,3,Marcy-Holmes,University,2,4
+-93.287798,45.024087,458,12/12/2016 12:51am,Snow Emergency,"3800-3899 lyndale Ave n,Minneapolis,MN",45.024087,-93.287798,4,Webber-Camden,Camden,2,1
+-93.311776,44.996303,459,12/12/2016 04:55pm,Snow Emergency,"1636 Sheridan Ave N,Minneapolis,MN",44.996303,-93.311776,5,Willard-Hay,Near-North,2,1
+-93.230912,44.921175,460,12/12/2016 10:09am,Snow Emergency,"4506 29TH AV S,Minneapolis,MN",44.921175,-93.230912,12,Ericsson,Nokomis,2,6
+-93.274552,44.988078,461,12/11/2016 11:15pm,Snow Emergency,"600 2nd st n. ,Minneapolis,MN",44.988078,-93.274552,3,North Loop,Central,1,1
+-93.252655,44.937759,462,12/12/2016 11:02am,Snow Emergency,"1520 36TH ST E,Minneapolis,MN",44.937759,-93.252655,9,Powderhorn,Powderhorn,2,6
+-93.299982,44.941039,463,12/12/2016 12:02pm,Snow Emergency,"3404 holmes ave s,Minneapolis,MN",44.941039,-93.299982,10,ECCO,Calhoun-Isles,2,5
+-93.290807,45.002123,464,12/12/2016 03:04pm,Snow Emergency,"2218 Bryant Ave n,Minneapolis,MN",45.002123,-93.290807,5,Hawthorne,Near-North,2,1
+-93.287418,44.989086,465,12/12/2016 05:00pm,Snow Emergency,"948 11th Ave n,Minneapolis,MN",44.989086,-93.287418,5,North Loop,Central,2,1
+-93.28765,45.010903,466,12/12/2016 12:52am,Snow Emergency,"3000 lyndale,Minneapolis,MN",45.010903,-93.28765,5,Hawthorne,Near-North,2,1
+-93.256009,44.992069,467,12/12/2016 11:04am,Snow Emergency,"304 5th st ne,Minneapolis,MN",44.992069,-93.256009,3,St. Anthony West,Northeast,2,2
+-93.284642,45.00525,468,12/12/2016 12:03pm,Snow Emergency,"2510 4th st n,Minneapolis,MN",45.00525,-93.284642,5,Hawthorne,Near-North,2,1
+-93.285769,44.96071,469,12/12/2016 05:02pm,Snow Emergency,"2200 harriet ave s,Minneapolis,MN",44.96071,-93.285769,10,Whittier,Powderhorn,2,3
+-93.291828,45.049025,470,12/12/2016 12:55am,Snow Emergency,"5139 Bryant AV no,Minneapolis,MN",45.049025,-93.291828,4,Lind-Bohanon,Camden,2,1
+-93.247726,44.985784,471,12/12/2016 11:04am,Snow Emergency,"410 5th Avenue Southeast ,Minneapolis,MN",44.985784,-93.247726,3,Marcy-Holmes,University,2,4
+-93.275639,44.964304,472,12/12/2016 12:04pm,Snow Emergency,"1826 Stevens av s,Minneapolis,MN",44.964304,-93.275639,6,Stevens Square,Central,2,3
+-93.288117,44.946599,473,12/12/2016 12:55am,Snow Emergency,"Lyndale Ave s and 31st st e,Minneapolis,MN",44.946599,-93.288117,10,Lyndale,Powderhorn,2,5
+-93.285875,44.947058,474,12/12/2016 05:03pm,Snow Emergency,"3036 HARRIET AVE S ,Minneapolis,MN",44.947058,-93.285875,8,Lyndale,Powderhorn,2,5
+-93.253677,44.933603,475,12/12/2016 11:04am,Snow Emergency,"3814 15th ave so,Minneapolis,MN",44.933603,-93.253677,8,Bancroft,Powderhorn,2,6
+-93.252415,44.942933,476,12/12/2016 12:04pm,Snow Emergency,"1528 33RD ST E,Minneapolis,MN",44.942933,-93.252415,9,Powderhorn,Powderhorn,2,6
+-93.284236,44.957552,477,12/12/2016 05:04pm,Snow Emergency,"2444 grand ave s,Minneapolis,MN",44.957552,-93.284236,10,Whittier,Powderhorn,2,3
+-93.246978,45.025038,478,12/12/2016 12:55am,Snow Emergency,"3133 Central Ave NE,Minneapolis,MN",45.025038,-93.246978,1,Audubon Park,Northeast,2,2
+-93.241883,44.986594,479,12/12/2016 03:04pm,Snow Emergency,"630 8th ave se,Minneapolis,MN",44.986594,-93.241883,3,Marcy-Holmes,University,2,4
+-93.293203,44.951223,480,12/11/2016 11:16pm,Snow Emergency,"2804 DuPont av s,Minneapolis,MN",44.951223,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.294721,44.962266,481,12/12/2016 11:05am,Snow Emergency,"2012 Emerson s,Minneapolis,MN",44.962266,-93.294721,7,Lowry Hill,Calhoun-Isles,2,3
+-93.299658,44.941098,482,12/12/2016 12:05pm,Snow Emergency,"3402 holmes ave s,Minneapolis,MN",44.941098,-93.299658,10,ECCO,Calhoun-Isles,2,5
+-93.23911,44.980879,483,12/12/2016 05:06pm,Snow Emergency,"326 12th ave se,Minneapolis,MN",44.980879,-93.23911,3,Marcy-Holmes,University,2,4
+-93.250781,44.991114,484,12/12/2016 12:56am,Snow Emergency,"718 Central Ave NE,Minneapolis,MN",44.991114,-93.250781,3,Marcy-Holmes,University,2,2
+-93.297906,44.97933,485,12/12/2016 03:05pm,Snow Emergency,"238 humbolt ave n,Minneapolis,MN",44.97933,-93.297906,5,Harrison,Near-North,2,3
+-93.301128,44.946171,486,12/12/2016 11:05am,Snow Emergency,"3108 humbolt Ave s,Minneapolis,MN",44.946171,-93.301128,10,ECCO,Calhoun-Isles,2,5
+-93.275679,44.964494,487,12/12/2016 12:05pm,Snow Emergency,"1820 Stevens Ave s,Minneapolis,MN",44.964494,-93.275679,6,Stevens Square,Central,2,3
+-93.279444,44.995631,488,12/11/2016 11:16pm,Snow Emergency,"1600 2nd st n,Minneapolis,MN",44.995631,-93.279444,5,Near-North,Near-North,1,1
+-93.238823,44.982996,489,12/12/2016 05:06pm,Snow Emergency,"1102 5th st se,Minneapolis,MN",44.982996,-93.238823,3,Marcy-Holmes,University,2,4
+-93.243415,44.984075,490,12/12/2016 03:05pm,Snow Emergency,"412 8TH AV SE,Minneapolis,MN",44.984075,-93.243415,3,Marcy-Holmes,University,2,4
+-93.256625,44.997574,491,12/12/2016 11:05am,Snow Emergency,"720 Adams st ne,Minneapolis,MN",44.997574,-93.256625,3,St. Anthony East,Northeast,2,2
+-93.284882,45.01157,492,12/12/2016 12:05pm,Snow Emergency,"3026 4th st n,Minneapolis,MN",45.01157,-93.284882,5,Hawthorne,Near-North,2,1
+-93.279643,45.00496,493,12/11/2016 11:17pm,Snow Emergency,"2500 n 2nd st,Minneapolis,MN",45.00496,-93.279643,5,Hawthorne,Near-North,1,1
+-93.285093,44.966787,494,12/12/2016 03:06pm,Snow Emergency,"400 CLIFTON AVE,Minneapolis,MN",44.966787,-93.285093,7,Loring Park,Central,2,3
+-93.273611,44.965235,495,12/12/2016 11:08am,Snow Emergency,"232 e 18th st,Minneapolis,MN",44.965235,-93.273611,6,Stevens Square,Central,2,3
+-93.299694,44.989379,496,12/12/2016 12:06pm,Snow Emergency,"1110 Irving Ave. N.,Minneapolis,MN",44.989379,-93.299694,5,Near-North,Near-North,2,1
+-93.293203,44.951233,497,12/11/2016 11:17pm,Snow Emergency,"2800-2899 DUPONT AVE S,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.300066,44.989272,498,12/12/2016 11:09am,Snow Emergency,"1104 Irving Ave n,Minneapolis,MN",44.989272,-93.300066,5,Near-North,Near-North,2,1
+-93.30581,44.980859,499,12/12/2016 03:06pm,Snow Emergency,"330 newton av n,Minneapolis,MN",44.980859,-93.30581,5,Harrison,Near-North,2,3
+-93.242686,44.943614,500,12/12/2016 12:07pm,Snow Emergency,"3228 21st Ave. S.,Minneapolis,MN",44.943614,-93.242686,9,Corcoran,Powderhorn,2,6
+-93.299253,44.98768,501,12/12/2016 11:09am,Snow Emergency,"1006 Irving Ave n,Minneapolis,MN",44.98768,-93.299253,5,Near-North,Near-North,2,1
+-93.263792,44.995243,502,12/11/2016 11:19pm,Snow Emergency,"700 2nd st n,Minneapolis,MN",44.995243,-93.263792,3,St. Anthony West,Northeast,1,2
+-93.300413,44.990226,503,12/12/2016 12:07pm,Snow Emergency,"1202 James Ave n ,Minneapolis,MN",44.990226,-93.300413,5,Near-North,Near-North,2,1
+-93.290763,45.004417,504,12/12/2016 03:06pm,Snow Emergency,"2418 Bryant Ave n,Minneapolis,MN",45.004417,-93.290763,5,Hawthorne,Near-North,2,1
+-93.283396,45.012094,505,12/12/2016 11:09am,Snow Emergency,"3110 3rd st n,Minneapolis,MN",45.012094,-93.283396,5,Hawthorne,Near-North,2,1
+-93.280109,44.967707,506,12/11/2016 11:20pm,Snow Emergency,"101 15th st w,Minneapolis,MN",44.967707,-93.280109,7,Loring Park,Central,1,3
+-93.275635,44.966144,507,12/12/2016 12:07pm,Snow Emergency,"1700 s stevens ave,Minneapolis,MN",44.966144,-93.275635,6,Stevens Square,Central,2,3
+-93.259059,44.932204,508,12/12/2016 11:10am,Snow Emergency,"3900 11th ave,Minneapolis,MN",44.932204,-93.259059,8,Bancroft,Powderhorn,2,6
+-93.30068,44.989624,509,12/12/2016 12:07pm,Snow Emergency,"1120 James Ave n,Minneapolis,MN",44.989624,-93.30068,5,Near-North,Near-North,2,1
+-93.259026,44.925401,510,12/12/2016 11:12am,Snow Emergency,"4248 11th ave,Minneapolis,MN",44.925401,-93.259026,8,Northrop,Nokomis,2,6
+-93.27493,44.96523,511,12/12/2016 12:07pm,Snow Emergency,"126 18TH ST E,Minneapolis,MN",44.96523,-93.27493,6,Stevens Square,Central,2,3
+-93.246518,44.987679,512,12/12/2016 11:12am,Snow Emergency,"624 5th ave se,Minneapolis,MN",44.987679,-93.246518,3,Marcy-Holmes,University,2,4
+-93.295995,44.962019,513,12/12/2016 12:08pm,Snow Emergency,"2018 Fremont ave s,Minneapolis,MN",44.962019,-93.295995,7,Lowry Hill,Calhoun-Isles,2,3
+-93.283394,45.012277,514,12/12/2016 11:12am,Snow Emergency,"3126 3rd st n,Minneapolis,MN",45.012277,-93.283394,5,Hawthorne,Near-North,2,1
+-93.258038,44.992358,515,12/12/2016 12:08pm,Snow Emergency,"330 4th st ne,Minneapolis,MN",44.992358,-93.258038,3,St. Anthony West,Northeast,2,2
+-93.246087,44.990594,516,12/12/2016 11:13am,Snow Emergency,"334 9th st se,Minneapolis,MN",44.990594,-93.246087,3,Marcy-Holmes,University,2,4
+-93.272818,44.94271,517,12/11/2016 11:20pm,Snow Emergency,"3310 3rd ave s,Minneapolis,MN",44.94271,-93.272818,9,Central,Powderhorn,1,5
+-93.281305,44.957917,518,12/12/2016 03:06pm,Snow Emergency,"2432 Pillsbury ave s,Minneapolis,MN",44.957917,-93.281305,10,Whittier,Powderhorn,2,3
+-93.291966,44.985948,519,12/12/2016 01:42am,Snow Emergency,"720 van white Blvd n,Minneapolis,MN",44.985948,-93.291966,5,Sumner-Glenwood,Near-North,2,1
+-93.279757,45.000848,520,12/11/2016 11:22pm,Snow Emergency,"2100 2 st no,Minneapolis,MN",45.000848,-93.279757,5,Hawthorne,Near-North,1,1
+-93.243458,44.986585,521,12/12/2016 12:10pm,Snow Emergency,"608 7th ave se,Minneapolis,MN",44.986585,-93.243458,3,Marcy-Holmes,University,2,4
+-93.273395,44.963968,522,12/12/2016 11:15am,Snow Emergency,"200 19TH ST E,Minneapolis,MN",44.963968,-93.273395,6,Stevens Square,Central,2,3
+-93.281304,44.958416,523,12/12/2016 03:08pm,Snow Emergency,"2416 Pillsbury ave s,Minneapolis,MN",44.958416,-93.281304,10,Whittier,Powderhorn,2,3
+-93.257493,44.99175,524,12/12/2016 12:12pm,Snow Emergency,"306 4th st ne,Minneapolis,MN",44.99175,-93.257493,3,St. Anthony West,Northeast,2,2
+-93.249661,44.98369,525,12/12/2016 01:42am,Snow Emergency,"200 block 5th Ave se,Minneapolis,MN",44.98369,-93.249661,3,Marcy-Holmes,University,2,4
+-93.261268,44.935017,526,12/12/2016 11:15am,Snow Emergency,"3730 elliot,Minneapolis,MN",44.935017,-93.261268,9,Powderhorn,Powderhorn,2,6
+-93.279643,45.00496,527,12/11/2016 11:10pm,Snow Emergency,"2500 N 2ND ST,Minneapolis,MN",45.00496,-93.279643,5,Hawthorne,Near-North,1,1
+-93.245292,44.986445,528,12/12/2016 12:12pm,Snow Emergency,"516 6th ave se,Minneapolis,MN",44.986445,-93.245292,3,Marcy-Holmes,University,2,4
+-93.249172,45.009672,529,12/12/2016 03:09pm,Snow Emergency,"2130 Jackson St ne,Minneapolis,MN",45.009672,-93.249172,1,Holland,Northeast,2,2
+-93.24648,44.990996,530,12/12/2016 11:15am,Snow Emergency,"319 9th st se,Minneapolis,MN",44.990996,-93.24648,3,Marcy-Holmes,University,2,4
+-93.288696,44.930205,531,12/12/2016 01:42am,Snow Emergency,"4000 lyndale ave,Minneapolis,MN",44.930205,-93.288696,10,East Harriet,Southwest,2,5
+-93.250262,44.934604,532,12/12/2016 12:13pm,Snow Emergency,"3744 17th ave s,Minneapolis,MN",44.934604,-93.250262,9,Powderhorn,Powderhorn,2,6
+-93.291806,45.040676,533,12/11/2016 11:23pm,Snow Emergency,"4711 Bryant Ave n ,Minneapolis,MN",45.040676,-93.291806,4,Lind-Bohanon,Camden,1,1
+-93.260266,44.999291,534,12/12/2016 11:15am,Snow Emergency,"1110 5th st ne,Minneapolis,MN",44.999291,-93.260266,3,Sheridan,Northeast,2,2
+-93.279353,44.966364,535,12/12/2016 01:46am,Snow Emergency,"1700-1899 lasalle,Minneapolis,MN",44.966364,-93.279353,7,Loring Park,Central,2,3
+-93.243726,44.98427,536,12/12/2016 03:10pm,Snow Emergency,"414 8th Avenue Southeast ,Minneapolis,MN",44.98427,-93.243726,3,Marcy-Holmes,University,2,4
+-93.264086,44.997254,537,12/12/2016 12:13pm,Snow Emergency,"104 9th ave ne,Minneapolis,MN",44.997254,-93.264086,3,St. Anthony West,Northeast,2,2
+-93.262879,44.928012,538,12/11/2016 11:24pm,Snow Emergency,"4120 Chicago ave,Minneapolis,MN",44.928012,-93.262879,8,Bryant,Powderhorn,1,5
+-93.284915,45.001714,539,12/12/2016 11:16am,Snow Emergency,"2204 4th st n,Minneapolis,MN",45.001714,-93.284915,5,Hawthorne,Near-North,2,1
+-93.291966,44.985948,540,12/12/2016 01:47am,Snow Emergency,"720 van white Blvd n,Minneapolis,MN",44.985948,-93.291966,5,Sumner-Glenwood,Near-North,2,1
+-93.239232,44.980723,541,12/12/2016 05:06pm,Snow Emergency,"310 12th Ave se,Minneapolis,MN",44.980723,-93.239232,3,Marcy-Holmes,University,2,4
+-93.245953,44.986075,542,12/12/2016 12:14pm,Snow Emergency,"504 6th Ave se ,Minneapolis,MN",44.986075,-93.245953,3,Marcy-Holmes,University,2,4
+-93.28323,44.965906,543,12/12/2016 03:10pm,Snow Emergency,"324 CLIFTON AVE,Minneapolis,MN",44.965906,-93.28323,7,Loring Park,Central,2,3
+-93.257903,44.994794,544,12/12/2016 11:17am,Snow Emergency,"508 5th st ne,Minneapolis,MN",44.994794,-93.257903,3,St. Anthony West,Northeast,2,2
+-93.273214,44.946292,545,12/11/2016 11:26pm,Snow Emergency,"3108 3rd Ave s,Minneapolis,MN",44.946292,-93.273214,9,Central,Powderhorn,1,5
+-93.309479,44.981599,546,12/12/2016 05:14pm,Snow Emergency,"2226 4th ave n,Minneapolis,MN",44.981599,-93.309479,5,Harrison,Near-North,2,3
+-93.294879,44.9826,547,12/12/2016 01:48am,Snow Emergency,"1000-1098 van white memorial blvd,Minneapolis,MN",44.9826,-93.294879,5,Sumner-Glenwood,Near-North,2,3
+-93.272067,44.974216,548,12/12/2016 12:15pm,Snow Emergency,"108 9th st ne,Minneapolis,MN",44.974216,-93.272067,7,Downtown West,Central,2,3
+-93.292375,44.938689,549,12/12/2016 03:12pm,Snow Emergency,"3524 COLFAX AVE S ,Minneapolis,MN",44.938689,-93.292375,10,CARAG,Calhoun-Isles,2,5
+-93.244151,44.988342,550,12/12/2016 11:18am,Snow Emergency,"718 6th ave se,Minneapolis,MN",44.988342,-93.244151,3,Marcy-Holmes,University,2,4
+-93.27937,45.004081,551,12/11/2016 11:27pm,Snow Emergency,"2400 2nd st no,Minneapolis,MN",45.004081,-93.27937,5,Hawthorne,Near-North,1,1
+-93.309346,44.981768,552,12/12/2016 05:15pm,Snow Emergency,"2220 4th Ave n,Minneapolis,MN",44.981768,-93.309346,5,Harrison,Near-North,2,3
+-93.294879,44.9826,553,12/12/2016 01:52am,Snow Emergency,"1000 - 1098 Van White Mermorial Blvd,Minneapolis,MN",44.9826,-93.294879,5,Sumner-Glenwood,Near-North,2,3
+-93.266266,44.932376,554,12/12/2016 12:15pm,Snow Emergency,"626 39th st e,Minneapolis,MN",44.932376,-93.266266,8,Bryant,Powderhorn,2,5
+-93.244519,44.983245,555,12/12/2016 03:12pm,Snow Emergency,"314 8th ave se,Minneapolis,MN",44.983245,-93.244519,3,Marcy-Holmes,University,2,4
+-93.28613,45.001637,556,12/12/2016 11:19am,Snow Emergency,"2200 6th st n,Minneapolis,MN",45.001637,-93.28613,5,Hawthorne,Near-North,2,1
+-93.280141,44.967707,557,12/11/2016 11:27pm,Snow Emergency,"105 15th st w,Minneapolis,MN",44.967707,-93.280141,7,Loring Park,Central,1,3
+-93.239064,44.980937,558,12/12/2016 05:18pm,Snow Emergency,"332 12th Avenue Southeast,Minneapolis,MN",44.980937,-93.239064,3,Marcy-Holmes,University,2,4
+-93.279353,44.966364,559,12/12/2016 01:53am,Snow Emergency,"1700 lasalle av s,Minneapolis,MN",44.966364,-93.279353,7,Loring Park,Central,2,3
+-93.264641,44.977166,560,12/12/2016 12:16pm,Snow Emergency,"430 4th ave ne,Minneapolis,MN",44.977166,-93.264641,7,Downtown West,Central,2,3
+-93.249637,45.006309,561,12/12/2016 03:13pm,Snow Emergency,"1810 Jackson St ne,Minneapolis,MN",45.006309,-93.249637,1,Logan Park,Northeast,2,2
+-93.246597,44.987582,562,12/12/2016 11:19am,Snow Emergency,"614 5th ave se,Minneapolis,MN",44.987582,-93.246597,3,Marcy-Holmes,University,2,4
+-93.262938,44.942799,563,12/11/2016 11:28pm,Snow Emergency,"3308 Chicago ave,Minneapolis,MN",44.942799,-93.262938,9,Central,Powderhorn,1,5
+-93.251318,44.988904,564,12/13/2016 08:14am,Snow Emergency,"522 2nd Avenue Southeast,Minneapolis,MN",44.988904,-93.251318,3,Marcy-Holmes,University,3,4
+-93.292245,44.98806,565,12/12/2016 01:53am,Snow Emergency,"1000 van white memorial blvd ,Minneapolis,MN",44.98806,-93.292245,5,Sumner-Glenwood,Near-North,2,1
+-93.267249,44.996173,566,12/12/2016 12:17pm,Snow Emergency,"102 9th ave ne,Minneapolis,MN",44.996173,-93.267249,3,St. Anthony West,Northeast,2,2
+-93.243052,44.985115,567,12/12/2016 03:13pm,Snow Emergency,"502 8th ave se,Minneapolis,MN",44.985115,-93.243052,3,Marcy-Holmes,University,2,4
+-93.273063,44.963968,568,12/12/2016 11:20am,Snow Emergency,"228 19th st e,Minneapolis,MN",44.963968,-93.273063,6,Stevens Square,Central,2,3
+-93.293203,44.951233,569,12/11/2016 11:29pm,Snow Emergency,"2800 dupont Ave s,Minneapolis,MN",44.951233,-93.293203,10,Lowry Hill East,Calhoun-Isles,1,3
+-93.251422,44.988826,570,12/13/2016 08:16am,Snow Emergency,"521 2nd ave se,Minneapolis,MN",44.988826,-93.251422,3,Marcy-Holmes,University,3,4
+-93.252815,44.984704,571,12/12/2016 01:54am,Snow Emergency,"200 block 3rd Ave se ,Minneapolis,MN",44.984704,-93.252815,3,Marcy-Holmes,University,2,4
+-93.274015,44.965211,572,12/12/2016 12:18pm,Snow Emergency,"201 18th st e,Minneapolis,MN",44.965211,-93.274015,6,Stevens Square,Central,2,3
+-93.251808,45.00873,573,12/12/2016 03:14pm,Snow Emergency,"710 20th ave ne,Minneapolis,MN",45.00873,-93.251808,1,Holland,Northeast,2,2
+-93.25571,44.991295,574,12/12/2016 11:20am,Snow Emergency,"210 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2
+-93.27428,44.987427,575,12/11/2016 11:29pm,Snow Emergency,"545 2nd st n,Minneapolis,MN",44.987427,-93.27428,3,North Loop,Central,1,1
+-93.286147,44.997068,576,12/13/2016 08:18am,Snow Emergency,"1719 Lyn Park Ave N,Minneapolis,MN",44.997068,-93.286147,5,Near-North,Near-North,3,1
+-93.279777,44.963918,577,12/12/2016 01:56am,Snow Emergency,"1900 Lasalle Ave,Minneapolis,MN",44.963918,-93.279777,7,Stevens Square,Central,2,3
+-93.266903,44.996292,578,12/12/2016 12:18pm,Snow Emergency,"118 9th ave ne,Minneapolis,MN",44.996292,-93.266903,3,St. Anthony West,Northeast,2,2
+-93.267184,44.965205,579,12/12/2016 03:19pm,Snow Emergency,"618 18th St e,Minneapolis,MN",44.965205,-93.267184,6,Ventura Village,Phillips,2,3
+-93.299625,44.944953,580,12/12/2016 11:20am,Snow Emergency,"3146 Holmes Ave s,Minneapolis,MN",44.944953,-93.299625,10,ECCO,Calhoun-Isles,2,5
+-93.293696,44.997955,581,12/12/2016 01:56am,Snow Emergency,"1800 Emerson Ave n ,Minneapolis,MN",44.997955,-93.293696,5,Near-North,Near-North,2,1
+-93.25139,44.988867,582,12/13/2016 08:22am,Snow Emergency,"523 2nd ave se,Minneapolis,MN",44.988867,-93.25139,3,Marcy-Holmes,University,3,4
+-93.273043,44.934355,583,12/11/2016 11:35pm,Snow Emergency,"3752 3RD AVE S ,Minneapolis,MN",44.934355,-93.273043,8,Central,Powderhorn,1,5
+-93.245421,44.984421,584,12/12/2016 12:19pm,Snow Emergency,"402 7th Avenue Southeast ,Minneapolis,MN",44.984421,-93.245421,3,Marcy-Holmes,University,2,4
+-93.299563,44.987941,585,12/12/2016 11:21am,Snow Emergency,"1018 Irving Ave. N. ,Minneapolis,MN",44.987941,-93.299563,5,Near-North,Near-North,2,1
+-93.286146,44.997053,586,12/13/2016 08:27am,Snow Emergency,"1715 Lyn park ave n,Minneapolis,MN",44.997053,-93.286146,5,Near-North,Near-North,3,1
+-93.275305,44.961506,587,12/12/2016 12:20pm,Snow Emergency,"2116 stevens ave s,Minneapolis,MN",44.961506,-93.275305,10,Whittier,Powderhorn,2,3
+-93.274374,44.963254,588,12/12/2016 11:21am,Snow Emergency,"1918 2nd Ave s,Minneapolis,MN",44.963254,-93.274374,6,Stevens Square,Central,2,3
+-93.266816,44.996321,589,12/12/2016 12:21pm,Snow Emergency,"122 9th ave ne,Minneapolis,MN",44.996321,-93.266816,3,St. Anthony West,Northeast,2,2
+-93.278324,44.967586,590,12/11/2016 11:36pm,Snow Emergency,"5 15th St w,Minneapolis,MN",44.967586,-93.278324,7,Loring Park,Central,1,3
+-93.279777,44.963918,591,12/12/2016 01:57am,Snow Emergency,"1900 lasalle ave,Minneapolis,MN",44.963918,-93.279777,7,Stevens Square,Central,2,3
+-93.249416,45.0137,592,12/12/2016 03:20pm,Snow Emergency,"2514 Jackson st ne,Minneapolis,MN",45.0137,-93.249416,1,Holland,Northeast,2,2
+-93.23495,44.99035,593,12/13/2016 08:28am,Snow Emergency,"1081 12th Ave SE ,Minneapolis,MN",44.99035,-93.23495,2,Como,University,3,4
+-93.272067,44.963969,594,12/12/2016 11:21am,Snow Emergency,"310 19th st e,Minneapolis,MN",44.963969,-93.272067,6,Stevens Square,Central,2,3
+-93.266901,44.99731,595,12/12/2016 12:22pm,Snow Emergency,"118 10th ave ne,Minneapolis,MN",44.99731,-93.266901,3,St. Anthony West,Northeast,2,2
+-93.27937,45.004081,596,12/11/2016 11:37pm,Snow Emergency,"2400 2ND ST N ,Minneapolis,MN",45.004081,-93.27937,5,Hawthorne,Near-North,1,1
+-93.313975,45.03463,597,12/12/2016 12:58am,Snow Emergency,"4343 Thomas AV no,Minneapolis,MN",45.03463,-93.313975,4,Victory,Camden,2,1
+-93.288713,44.906678,598,12/12/2016 01:57am,Snow Emergency,"5300 lyndale ave,Minneapolis,MN",44.906678,-93.288713,13,Lynnhurst,Southwest,2,5
+-93.3105,44.992059,599,12/12/2016 03:20pm,Snow Emergency,"1312 Russell Ave N,Minneapolis,MN",44.992059,-93.3105,5,Willard-Hay,Near-North,2,1
+-93.286912,44.99576,600,12/13/2016 08:30am,Snow Emergency,"505 Lyn park lane n,Minneapolis,MN",44.99576,-93.286912,5,Near-North,Near-North,3,1
+-93.255825,44.991624,601,12/12/2016 11:22am,Snow Emergency,"230 5th st ne,Minneapolis,MN",44.991624,-93.255825,3,St. Anthony West,Northeast,2,2
+-93.303189,44.990892,602,12/12/2016 12:24pm,Snow Emergency,"1236 Logan Ave n,Minneapolis,MN",44.990892,-93.303189,5,Near-North,Near-North,2,1
+-93.288126,44.948341,603,12/12/2016 12:58am,Snow Emergency,"3000 Lyndale Avenue South,Minneapolis,MN",44.948341,-93.288126,10,CARAG,Calhoun-Isles,2,5
+-93.272534,44.945387,604,12/11/2016 11:38pm,Snow Emergency,"3139 3RD AVE S ,Minneapolis,MN",44.945387,-93.272534,9,Central,Powderhorn,1,5
+-93.278312,44.937398,605,12/12/2016 01:59am,Snow Emergency,"3600 Nicollet ave,Minneapolis,MN",44.937398,-93.278312,8,Kingfield,Southwest,2,5
+-93.30913,44.994404,606,12/12/2016 03:20pm,Snow Emergency,"1508 queen Ave n ,Minneapolis,MN",44.994404,-93.30913,5,Willard-Hay,Near-North,2,1
+-93.281291,44.960415,607,12/12/2016 12:40pm,Snow Emergency,"2208 Pillsbury ave s,Minneapolis,MN",44.960415,-93.281291,10,Whittier,Powderhorn,2,3
+-93.271176,44.96397,608,12/12/2016 11:23am,Snow Emergency,"328 19th st e,Minneapolis,MN",44.96397,-93.271176,6,Stevens Square,Central,2,3
+-93.288842,45.038507,609,12/12/2016 12:59am,Snow Emergency,"699 46th ave n ,Minneapolis,MN",45.038507,-93.288842,4,Lind-Bohanon,Camden,2,1
+-93.260054,44.940983,610,12/12/2016 12:25pm,Snow Emergency,"3408 10th ave S,Minneapolis,MN",44.940983,-93.260054,9,Powderhorn,Powderhorn,2,6
+-93.281142,44.967739,611,12/11/2016 11:38pm,Snow Emergency,"204 15th St w,Minneapolis,MN",44.967739,-93.281142,7,Loring Park,Central,1,3
+-93.262103,44.929197,612,12/12/2016 02:00am,Snow Emergency,"4045 Chicago ave,Minneapolis,MN",44.929197,-93.262103,8,Bancroft,Powderhorn,2,6
+-93.249441,45.008307,613,12/12/2016 03:21pm,Snow Emergency,"1908 Jackson st ne ,Minneapolis,MN",45.008307,-93.249441,1,Holland,Northeast,2,2
+-93.289249,45.010993,614,12/12/2016 12:41pm,Snow Emergency,"2954 Aldrich Ave. n. ,Minneapolis,MN",45.010993,-93.289249,5,Hawthorne,Near-North,2,1
+-93.25571,44.991295,615,12/12/2016 11:23am,Snow Emergency,"212 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2
+-93.250194,44.990741,616,12/13/2016 08:30am,Snow Emergency,"715 2nd Ave se,Minneapolis,MN",44.990741,-93.250194,3,Marcy-Holmes,University,3,2
+-93.244193,44.98829,617,12/12/2016 12:26pm,Snow Emergency,"716 6th Avenue Southeast,Minneapolis,MN",44.98829,-93.244193,3,Marcy-Holmes,University,2,4
+-93.268269,44.968046,618,12/11/2016 11:39pm,Snow Emergency,"511 15TH st e,Minneapolis,MN",44.968046,-93.268269,6,Elliot Park,Central,1,3
+-93.288713,44.906678,619,12/12/2016 02:01am,Snow Emergency,"5300 lyndale,Minneapolis,MN",44.906678,-93.288713,13,Lynnhurst,Southwest,2,5
+-93.253982,44.945111,620,12/12/2016 12:42pm,Snow Emergency,"3148 15th Ave S,Minneapolis,MN",44.945111,-93.253982,9,Powderhorn,Powderhorn,2,6
+-93.24937,44.941537,621,12/12/2016 11:24am,Snow Emergency,"1708 34th St E.,Minneapolis,MN",44.941537,-93.24937,9,Powderhorn,Powderhorn,2,6
+-93.234883,44.990696,622,12/13/2016 08:32am,Snow Emergency,"1093 12th Ave SE ,Minneapolis,MN",44.990696,-93.234883,2,Como,University,3,4
+-93.267033,44.996247,623,12/12/2016 12:26pm,Snow Emergency,"112 9th ave ne,Minneapolis,MN",44.996247,-93.267033,3,St. Anthony West,Northeast,2,2
+-93.30581,44.980837,624,12/12/2016 03:21pm,Snow Emergency,"328 newton av n,Minneapolis,MN",44.980837,-93.30581,5,Harrison,Near-North,2,3
+-93.279757,45.000848,625,12/11/2016 11:40pm,Snow Emergency,"2100 2ND ST N ,Minneapolis,MN",45.000848,-93.279757,5,Hawthorne,Near-North,1,1
+-93.252725,44.935117,626,12/12/2016 02:01am,Snow Emergency,"3720 Bloomington Avenue South,Minneapolis,MN",44.935117,-93.252725,9,Powderhorn,Powderhorn,2,6
+-93.274939,44.965441,627,12/12/2016 11:26am,Snow Emergency,"124 18th st e,Minneapolis,MN",44.965441,-93.274939,6,Stevens Square,Central,2,3
+-93.297378,44.941928,628,12/12/2016 12:43pm,Snow Emergency,"3332 Gerard Ave s,Minneapolis,MN",44.941928,-93.297378,10,CARAG,Calhoun-Isles,2,5
+-93.254904,44.933058,629,12/13/2016 08:33am,Snow Emergency,"3835 14th ave s,Minneapolis,MN",44.933058,-93.254904,8,Bancroft,Powderhorn,3,6
+-93.260998,44.943188,630,12/12/2016 12:26pm,Snow Emergency,"906 33rd st E,Minneapolis,MN",44.943188,-93.260998,9,Powderhorn,Powderhorn,2,6
+-93.306283,44.980269,631,12/12/2016 03:21pm,Snow Emergency,"310 newton ave n,Minneapolis,MN",44.980269,-93.306283,5,Harrison,Near-North,2,3
+-93.272818,44.94271,632,12/11/2016 11:40pm,Snow Emergency,"3310 3rd Avenue South,Minneapolis,MN",44.94271,-93.272818,9,Central,Powderhorn,1,5
+-93.279353,44.966364,633,12/12/2016 02:02am,Snow Emergency,"1700-1899 lasalle Ave ,Minneapolis,MN",44.966364,-93.279353,7,Loring Park,Central,2,3
+-93.2707,44.963971,634,12/12/2016 11:26am,Snow Emergency,"340 19th St e,Minneapolis,MN",44.963971,-93.2707,6,Stevens Square,Central,2,3
+-93.250332,44.990571,635,12/13/2016 08:33am,Snow Emergency,"709 2nd Ave SE,Minneapolis,MN",44.990571,-93.250332,3,Marcy-Holmes,University,3,2
+-93.244426,44.986312,636,12/12/2016 03:22pm,Snow Emergency,"622 6th st se,Minneapolis,MN",44.986312,-93.244426,3,Marcy-Holmes,University,2,4
+-93.257851,44.991918,637,12/12/2016 12:27pm,Snow Emergency,"318 4th st ne,Minneapolis,MN",44.991918,-93.257851,3,St. Anthony West,Northeast,2,2
+-93.301691,44.992174,638,12/12/2016 12:43pm,Snow Emergency,"1316 Knox Ave n,Minneapolis,MN",44.992174,-93.301691,5,Near-North,Near-North,2,1
+-93.262894,44.918989,639,12/11/2016 11:45pm,Snow Emergency,"4620 Chicago,Minneapolis,MN",44.918989,-93.262894,8,Field,Nokomis,1,5
+-93.278312,44.937398,640,12/12/2016 02:03am,Snow Emergency,"3600 Nicollet ave,Minneapolis,MN",44.937398,-93.278312,8,Kingfield,Southwest,2,5
+-93.25571,44.991295,641,12/12/2016 11:27am,Snow Emergency,"224 5th st ne,Minneapolis,MN",44.991295,-93.25571,3,St. Anthony West,Northeast,2,2
+-93.286146,44.997061,642,12/13/2016 08:33am,Snow Emergency,"1717 Lyn park Ave n,Minneapolis,MN",44.997061,-93.286146,5,Near-North,Near-North,3,1
+-93.26703,44.965218,643,12/12/2016 03:22pm,Snow Emergency,"624 18th St e,Minneapolis,MN",44.965218,-93.26703,6,Ventura Village,Phillips,2,3
+-93.262433,44.928758,644,12/12/2016 12:27pm,Snow Emergency,"804. 41st st e,Minneapolis,MN",44.928758,-93.262433,8,Bancroft,Powderhorn,2,6
+-93.262943,44.941212,645,12/11/2016 11:46pm,Snow Emergency,"3400 Chicago ave s,Minneapolis,MN",44.941212,-93.262943,9,Central,Powderhorn,1,5
+-93.260286,44.931063,646,12/12/2016 11:27am,Snow Emergency,"3940 10th ave s,Minneapolis,MN",44.931063,-93.260286,8,Bancroft,Powderhorn,2,6
+-93.251996,44.924031,647,12/12/2016 02:04am,Snow Emergency,"4329 Bloomington ave s,Minneapolis,MN",44.924031,-93.251996,11,Northrop,Nokomis,2,6
+-93.250123,45.014752,648,12/12/2016 03:23pm,Snow Emergency,"814 26th ave ne,Minneapolis,MN",45.014752,-93.250123,1,Holland,Northeast,2,2
+-93.289627,44.987177,649,12/13/2016 08:36am,Snow Emergency,"829 Lyndale pl,Minneapolis,MN",44.987177,-93.289627,5,Sumner-Glenwood,Near-North,3,1
+-93.271747,44.963583,650,12/12/2016 12:28pm,Snow Emergency,"1906 CLINTON AV S,Minneapolis,MN",44.963583,-93.271747,6,Stevens Square,Central,2,3
+-93.313941,45.03052,651,12/11/2016 11:46pm,Snow Emergency,"4135 Thomas Ave N,Minneapolis,MN",45.03052,-93.313941,4,Victory,Camden,1,1
+-93.245822,44.986243,652,12/12/2016 11:29am,Snow Emergency,"508 6th Ave se,Minneapolis,MN",44.986243,-93.245822,3,Marcy-Holmes,University,2,4
+-93.294087,45.002618,653,12/12/2016 02:05am,Snow Emergency,"2300 Emerson Ave N,Minneapolis,MN",45.002618,-93.294087,5,Jordan,Near-North,2,1
+-93.314275,44.986831,654,12/12/2016 03:27pm,Snow Emergency,"822 Upton Ave N,Minneapolis,MN",44.986831,-93.314275,5,Willard-Hay,Near-North,2,1
+-93.289627,44.987177,655,12/13/2016 08:37am,Snow Emergency,"827 Lyndale Pl,Minneapolis,MN",44.987177,-93.289627,5,Sumner-Glenwood,Near-North,3,1
+-93.248943,44.982274,656,12/12/2016 12:28pm,Snow Emergency,"120 6th Avenue Southeast,Minneapolis,MN",44.982274,-93.248943,3,Marcy-Holmes,University,2,4
+-93.29629,44.992306,657,12/11/2016 11:47pm,Snow Emergency,"1200 Plymouth Ave. N. ,Minneapolis,MN",44.992306,-93.29629,5,Near-North,Near-North,1,1
+-93.300351,44.99548,658,12/12/2016 12:44pm,Snow Emergency,"1604 James ave n,Minneapolis,MN",44.99548,-93.300351,5,Near-North,Near-North,2,1
+-93.278418,44.944375,659,12/12/2016 02:05am,Snow Emergency,"3200 NICOLLET AVE,Minneapolis,MN",44.944375,-93.278418,8,Lyndale,Powderhorn,2,5
+-93.289856,44.930166,660,12/12/2016 03:29pm,Snow Emergency,"4004 Aldrich ave s,Minneapolis,MN",44.930166,-93.289856,10,East Harriet,Southwest,2,5
+-93.28922,44.985917,661,12/13/2016 08:38am,Snow Emergency,"731 lyndale pl,Minneapolis,MN",44.985917,-93.28922,5,Sumner-Glenwood,Near-North,3,1
+-93.245223,44.984669,662,12/12/2016 12:29pm,Snow Emergency,"410 7th Ave se,Minneapolis,MN",44.984669,-93.245223,3,Marcy-Holmes,University,2,4
+-93.239825,44.963272,663,12/12/2016 02:06am,Snow Emergency,"2220 franklin Ave e,Minneapolis,MN",44.963272,-93.239825,6,Seward,Longfellow,2,4
+-93.261682,44.943627,664,12/12/2016 03:34pm,Snow Emergency,"3238 Elliot ave s,Minneapolis,MN",44.943627,-93.261682,9,Powderhorn,Powderhorn,2,6
+-93.270142,45.011381,665,12/12/2016 12:45pm,Snow Emergency,"2304 Grand st ne,Minneapolis,MN",45.011381,-93.270142,3,Bottineau,Northeast,2,2
+-93.217464,44.973185,666,12/13/2016 08:38am,Snow Emergency,"2717 4th st e,Minneapolis,MN",44.973185,-93.217464,2,Prospect Park,University,3,4
+-93.284672,45.00608,667,12/12/2016 12:30pm,Snow Emergency,"2602 4th st n,Minneapolis,MN",45.00608,-93.284672,5,Hawthorne,Near-North,2,1
+-93.25273,44.940125,668,12/12/2016 02:08am,Snow Emergency,"3434 Bloomington ave s,Minneapolis,MN",44.940125,-93.25273,9,Powderhorn,Powderhorn,2,6
+-93.297414,44.943891,669,12/12/2016 12:46pm,Snow Emergency,"3226 girard ave s,Minneapolis,MN",44.943891,-93.297414,10,CARAG,Calhoun-Isles,2,5
+-93.261365,44.944331,670,12/12/2016 03:34pm,Snow Emergency,"3210 elliot,Minneapolis,MN",44.944331,-93.261365,9,Powderhorn,Powderhorn,2,6
+-93.294723,44.961954,671,12/12/2016 12:30pm,Snow Emergency,"2024 Emerson s,Minneapolis,MN",44.961954,-93.294723,7,Lowry Hill,Calhoun-Isles,2,3
+-93.252725,44.935117,672,12/12/2016 02:10am,Snow Emergency,"3720 Bloomington ave,Minneapolis,MN",44.935117,-93.252725,9,Powderhorn,Powderhorn,2,6
+-93.289419,44.946358,673,12/12/2016 03:35pm,Snow Emergency,"3112 Aldrich Ave s,Minneapolis,MN",44.946358,-93.289419,10,CARAG,Calhoun-Isles,2,5
+-93.247393,44.932319,674,12/12/2016 12:46pm,Snow Emergency,"1822 39th st e,Minneapolis,MN",44.932319,-93.247393,8,Bancroft,Powderhorn,2,6
+-93.271515,44.963735,675,12/12/2016 12:30pm,Snow Emergency,"1902 Clinton Ave s,Minneapolis,MN",44.963735,-93.271515,6,Stevens Square,Central,2,3
+-93.293869,45.001664,676,12/12/2016 02:12am,Snow Emergency,"2200 Emerson ave n ,Minneapolis,MN",45.001664,-93.293869,5,Hawthorne,Near-North,2,1
+-93.289762,44.937438,677,12/12/2016 03:35pm,Snow Emergency,"3604 Aldrich Ave s,Minneapolis,MN",44.937438,-93.289762,10,East Harriet,Southwest,2,5
+-93.260277,44.937498,678,12/12/2016 12:31pm,Snow Emergency,"3604 10th ave s,Minneapolis,MN",44.937498,-93.260277,9,Powderhorn,Powderhorn,2,6
+-93.277943,44.942943,679,12/12/2016 02:14am,Snow Emergency,"3300 NICOLLET AVE,Minneapolis,MN",44.942943,-93.277943,8,Lyndale,Powderhorn,2,5
+-93.297104,44.94164,680,12/12/2016 12:46pm,Snow Emergency,"3342 GIRARD Ave s,Minneapolis,MN",44.94164,-93.297104,10,CARAG,Calhoun-Isles,2,5
+-93.303272,44.977173,681,12/12/2016 03:35pm,Snow Emergency,"109 Logan ave N,Minneapolis,MN",44.977173,-93.303272,5,Harrison,Near-North,2,3
+-93.304142,44.992483,682,12/12/2016 12:31pm,Snow Emergency,"1328 Morgan Ave n ,Minneapolis,MN",44.992483,-93.304142,5,Willard-Hay,Near-North,2,1
+-93.278146,44.941133,683,12/12/2016 02:16am,Snow Emergency,"3400 Nicollet Ave,Minneapolis,MN",44.941133,-93.278146,8,Lyndale,Powderhorn,2,5
+-93.24797,44.98761,684,12/12/2016 03:36pm,Snow Emergency,"410 6th st se,Minneapolis,MN",44.98761,-93.24797,3,Marcy-Holmes,University,2,4
+-93.271693,44.95893,685,12/12/2016 12:47pm,Snow Emergency,"2404 Clinton av s,Minneapolis,MN",44.95893,-93.271693,10,Whittier,Powderhorn,2,3
+-93.292171,44.965438,686,12/12/2016 12:31pm,Snow Emergency,"1004 summit ave s,Minneapolis,MN",44.965438,-93.292171,7,Lowry Hill,Calhoun-Isles,2,3
+-93.293859,45.003868,687,12/12/2016 02:16am,Snow Emergency,"2400 Emerson ave n ,Minneapolis,MN",45.003868,-93.293859,5,Hawthorne,Near-North,2,1
+-93.261692,44.944168,688,12/12/2016 03:36pm,Snow Emergency,"3216 elliot,Minneapolis,MN",44.944168,-93.261692,9,Powderhorn,Powderhorn,2,6
+-93.301934,44.992118,689,12/12/2016 12:47pm,Snow Emergency,"1314 Knox ave n,Minneapolis,MN",44.992118,-93.301934,5,Willard-Hay,Near-North,2,1
+-93.294187,45.005992,690,12/12/2016 02:16am,Snow Emergency,"2600 Emerson Ave n ,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near-North,2,1
+-93.245093,44.984832,691,12/12/2016 12:32pm,Snow Emergency,"420 7th ave se,Minneapolis,MN",44.984832,-93.245093,3,Marcy-Holmes,University,2,4
+-93.309582,44.979534,692,12/12/2016 03:36pm,Snow Emergency,"280 queen av n,Minneapolis,MN",44.979534,-93.309582,5,Harrison,Near-North,2,3
+-93.278146,44.941133,693,12/12/2016 02:19am,Snow Emergency,"3400 block of Nicollet Avenue South,Minneapolis,MN",44.941133,-93.278146,8,Lyndale,Powderhorn,2,5
+-93.249941,44.941971,694,12/12/2016 12:48pm,Snow Emergency,"3330 17th Ave S,Minneapolis,MN",44.941971,-93.249941,9,Powderhorn,Powderhorn,2,6
+-93.289417,44.946433,695,12/12/2016 03:36pm,Snow Emergency,"3108 Aldrich Ave s,Minneapolis,MN",44.946433,-93.289417,10,CARAG,Calhoun-Isles,2,5
+-93.294723,44.961814,696,12/12/2016 12:32pm,Snow Emergency,"2100 Emerson s,Minneapolis,MN",44.961814,-93.294723,7,Lowry Hill,Calhoun-Isles,2,3
+-93.232134,44.962778,697,12/12/2016 02:20am,Snow Emergency,"2720 franklin ave e,Minneapolis,MN",44.962778,-93.232134,6,Seward,Longfellow,2,4
+-93.285017,45.0224,698,12/12/2016 12:34pm,Snow Emergency,"3708 4th st n,Minneapolis,MN",45.0224,-93.285017,4,McKinley,Camden,2,1
+-93.289615,44.920019,699,12/12/2016 03:37pm,Snow Emergency,"4542 Aldrich Ave s,Minneapolis,MN",44.920019,-93.289615,13,East Harriet,Southwest,2,5
+-93.300627,45.016238,700,12/12/2016 12:48pm,Snow Emergency,"3340 James Ave no,Minneapolis,MN",45.016238,-93.300627,4,Folwell,Camden,2,1
+-93.294187,45.005992,701,12/12/2016 02:26am,Snow Emergency,"2600 Emerson Ave n,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near-North,2,1
+-93.302928,44.993801,702,12/12/2016 12:34pm,Snow Emergency,"1422 Logan Ave. N.,Minneapolis,MN",44.993801,-93.302928,5,Willard-Hay,Near-North,2,1
+-93.278146,44.941133,703,12/12/2016 02:27am,Snow Emergency,"3400 nicollet ave,Minneapolis,MN",44.941133,-93.278146,8,Lyndale,Powderhorn,2,5
+-93.246243,44.983395,704,12/12/2016 12:49pm,Snow Emergency,"302 7th ave se,Minneapolis,MN",44.983395,-93.246243,3,Marcy-Holmes,University,2,4
+-93.272806,44.945815,705,12/12/2016 12:59am,Snow Emergency,"3123 3rd Ave s,Minneapolis,MN",44.945815,-93.272806,9,Central,Powderhorn,2,5
+-93.267772,44.997234,706,12/12/2016 12:34pm,Snow Emergency,"104 10th ave ne,Minneapolis,MN",44.997234,-93.267772,3,St. Anthony West,Northeast,2,2
+-93.294187,45.005992,707,12/12/2016 02:29am,Snow Emergency,"2600 Emerson Ave N,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near-North,2,1
+-93.275307,44.960082,708,12/12/2016 12:51pm,Snow Emergency,"2306 s stevens ave,Minneapolis,MN",44.960082,-93.275307,10,Whittier,Powderhorn,2,3
+-93.244893,44.984713,709,12/12/2016 12:38pm,Snow Emergency,"414 7th ave ae,Minneapolis,MN",44.984713,-93.244893,3,Marcy-Holmes,University,2,4
+-93.252175,44.945951,710,12/12/2016 01:00am,Snow Emergency,"3117 blooomington ave s,Minneapolis,MN",44.945951,-93.252175,9,Powderhorn,Powderhorn,2,6
+-93.293869,45.001664,711,12/12/2016 02:30am,Snow Emergency,"2200 Emerson Ave n,Minneapolis,MN",45.001664,-93.293869,5,Hawthorne,Near-North,2,1
+-93.281796,44.960368,712,12/12/2016 12:39pm,Snow Emergency,"2210 Pillsbury ave s,Minneapolis,MN",44.960368,-93.281796,10,Whittier,Powderhorn,2,3
+-93.288126,44.948341,713,12/12/2016 01:01am,Snow Emergency,"3000 lyndale av s,Minneapolis,MN",44.948341,-93.288126,10,CARAG,Calhoun-Isles,2,5
+-93.297424,44.943208,714,12/12/2016 12:51pm,Snow Emergency,"3246 girard ave s,Minneapolis,MN",44.943208,-93.297424,10,CARAG,Calhoun-Isles,2,5
+-93.244326,44.9858,715,12/12/2016 12:39pm,Snow Emergency,"528 7th Ave se,Minneapolis,MN",44.9858,-93.244326,3,Marcy-Holmes,University,2,4
+-93.278296,44.939365,716,12/12/2016 02:31am,Snow Emergency,"3500 NICOLLET AVE S,Minneapolis,MN",44.939365,-93.278296,8,Lyndale,Powderhorn,2,5
+-93.252156,44.940773,717,12/12/2016 01:03am,Snow Emergency,"3417 bloomington,Minneapolis,MN",44.940773,-93.252156,9,Powderhorn,Powderhorn,2,6
+-93.249882,44.931681,718,12/12/2016 12:40pm,Snow Emergency,"3918 17th ave s,Minneapolis,MN",44.931681,-93.249882,8,Bancroft,Powderhorn,2,6
+-93.231777,44.962556,719,12/12/2016 02:31am,Snow Emergency,"2721 franklin ave e ,Minneapolis,MN",44.962556,-93.231777,6,Seward,Longfellow,2,4
+-93.246038,44.983651,720,12/12/2016 12:52pm,Snow Emergency,"328 7th AVE SE ,Minneapolis,MN",44.983651,-93.246038,3,Marcy-Holmes,University,2,4
+-93.288126,44.948341,721,12/12/2016 01:04am,Snow Emergency,"3000 block of Lyndale Avenue South,Minneapolis,MN",44.948341,-93.288126,10,CARAG,Calhoun-Isles,2,5
+-93.294187,45.005992,722,12/12/2016 02:32am,Snow Emergency,"2600-2699 Emerson Ave n,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near-North,2,1
+-93.304483,44.984875,723,12/12/2016 12:53pm,Snow Emergency,"614 Morgan Ave n ,Minneapolis,MN",44.984875,-93.304483,5,Near-North,Near-North,2,1
+-93.278296,44.939365,724,12/12/2016 02:35am,Snow Emergency,"3500 NICOLLET AVE S ,Minneapolis,MN",44.939365,-93.278296,8,Lyndale,Powderhorn,2,5
+-93.252769,44.943705,725,12/12/2016 01:04am,Snow Emergency,"3234 Bloomington ave s,Minneapolis,MN",44.943705,-93.252769,9,Powderhorn,Powderhorn,2,6
+-93.278146,44.941133,726,12/12/2016 02:36am,Snow Emergency,"3400 Nicollet ave,Minneapolis,MN",44.941133,-93.278146,8,Lyndale,Powderhorn,2,5
+-93.288136,44.946599,727,12/12/2016 01:06am,Snow Emergency,"3100 LYNDALE Ave s,Minneapolis,MN",44.946599,-93.288136,10,CARAG,Calhoun-Isles,2,5
+-93.220655,44.927233,728,12/12/2016 12:55pm,Snow Emergency,"4158 smelling ave S,Minneapolis,MN",44.927233,-93.220655,12,Hiawatha,Longfellow,2,6
+-93.294187,45.005992,729,12/12/2016 02:36am,Snow Emergency,"2600 - 2699 Emerson AV N,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near-North,2,1
+-93.279351,44.969955,730,12/12/2016 01:07am,Snow Emergency,"1350 lasalle av s,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.294294,45.008695,731,12/12/2016 02:36am,Snow Emergency,"2800 Emerson Ave n ,Minneapolis,MN",45.008695,-93.294294,5,Hawthorne,Near-North,2,1
+-93.245063,44.98487,732,12/12/2016 12:56pm,Snow Emergency,"426 7th ave se,Minneapolis,MN",44.98487,-93.245063,3,Marcy-Holmes,University,2,4
+-93.244082,44.964003,733,12/12/2016 02:40am,Snow Emergency,"2000-2099 9th st s,Minneapolis,MN",44.964003,-93.244082,6,Seward,Longfellow,2,4
+-93.252452,44.939711,734,12/12/2016 01:07am,Snow Emergency,"3454 Bloomington Avenue South,Minneapolis,MN",44.939711,-93.252452,9,Powderhorn,Powderhorn,2,6
+-93.267517,44.969486,735,12/12/2016 02:45am,Snow Emergency,"Grant st e/Portland av,Minneapolis,MN",44.969486,-93.267517,7,Elliot Park,Central,2,3
+-93.301699,44.990298,736,12/12/2016 12:56pm,Snow Emergency,"1218 Knox Ave. N. ,Minneapolis,MN",44.990298,-93.301699,5,Near-North,Near-North,2,1
+-93.267517,44.969486,737,12/12/2016 02:46am,Snow Emergency,"Grant St E / Portland Ave ,Minneapolis,MN",44.969486,-93.267517,7,Elliot Park,Central,2,3
+-93.279351,44.969955,738,12/12/2016 01:11am,Snow Emergency,"1350-1399 LaSalle av,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.288049,44.978958,739,12/12/2016 02:46am,Snow Emergency,"700 2nd ave n ,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near-North,2,3
+-93.290739,44.965429,740,12/12/2016 12:58pm,Snow Emergency,"916 summit ave s,Minneapolis,MN",44.965429,-93.290739,7,Lowry Hill,Calhoun-Isles,2,3
+-93.294313,45.013146,741,12/12/2016 02:49am,Snow Emergency,"3200-3299 Emerson Ave n,Minneapolis,MN",45.013146,-93.294313,5,Folwell,Camden,2,1
+-93.28765,45.010903,742,12/12/2016 01:12am,Snow Emergency,"3000 ,LYNDALE,MN",45.010903,-93.28765,5,Hawthorne,Near-North,2,1
+-93.267308,44.969626,743,12/12/2016 02:50am,Snow Emergency,"portland and grant,Minneapolis,MN",44.969626,-93.267308,7,Elliot Park,Central,2,3
+-93.275306,44.961979,744,12/12/2016 12:59pm,Snow Emergency,"2010 Stevens Ave s,Minneapolis,MN",44.961979,-93.275306,10,Whittier,Powderhorn,2,3
+-93.279351,44.969955,745,12/12/2016 01:13am,Snow Emergency,"1350 lasalle ave ,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.265086,44.968921,746,12/12/2016 02:50am,Snow Emergency,"14th Street East and park ave,Minneapolis,MN",44.968921,-93.265086,7,Elliot Park,Central,2,3
+-93.288734,44.944502,747,12/12/2016 01:14am,Snow Emergency,"3200 LYNDALE Ave s,Minneapolis,MN",44.944502,-93.288734,10,CARAG,Calhoun-Isles,2,5
+-93.25273,44.940125,748,12/12/2016 01:14am,Snow Emergency,"3434 Bloomington ave,Minneapolis,MN",44.940125,-93.25273,9,Powderhorn,Powderhorn,2,6
+-93.288136,44.946599,749,12/12/2016 02:51am,Snow Emergency,"3100 lyndale ave s,Minneapolis,MN",44.946599,-93.288136,10,CARAG,Calhoun-Isles,2,5
+-93.279351,44.969955,750,12/12/2016 01:15am,Snow Emergency,"1350-1399 LaSalle av,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.278146,44.941133,751,12/12/2016 02:55am,Snow Emergency,"3400 NICOLLET AVE,Minneapolis,MN",44.941133,-93.278146,8,Lyndale,Powderhorn,2,5
+-93.295168,45.015223,752,12/12/2016 02:57am,Snow Emergency,"3300 Fremont Ave N,Minneapolis,MN",45.015223,-93.295168,4,Folwell,Camden,2,1
+-93.252165,44.93844,753,12/12/2016 01:15am,Snow Emergency,"3537 Bloomington Ave.,Minneapolis,MN",44.93844,-93.252165,9,Powderhorn,Powderhorn,2,6
+-93.252815,44.984704,754,12/12/2016 01:16am,Snow Emergency,"200 block 3rd Ave se,Minneapolis,MN",44.984704,-93.252815,3,Marcy-Holmes,University,2,4
+-93.28918,44.978923,755,12/12/2016 02:57am,Snow Emergency,"729 2nd ave n ,Minneapolis,MN",44.978923,-93.28918,5,Harrison,Near-North,2,3
+-93.28765,45.010903,756,12/12/2016 01:19am,Snow Emergency,"3000 LYNDALE,Minneapolis,MN",45.010903,-93.28765,5,Hawthorne,Near-North,2,1
+-93.242491,44.964031,757,12/12/2016 02:58am,Snow Emergency,"2100 9th st s ,Minneapolis,MN",44.964031,-93.242491,6,Seward,Longfellow,2,4
+-93.302896,44.993336,758,12/12/2016 01:00pm,Snow Emergency,"1404 Logan Ave n,Minneapolis,MN",44.993336,-93.302896,5,Willard-Hay,Near-North,2,1
+-93.291135,44.985843,759,12/13/2016 08:39am,Snow Emergency,"741 Aldrich ave n,Minneapolis,MN",44.985843,-93.291135,5,Sumner-Glenwood,Near-North,3,1
+-93.279351,44.969955,760,12/12/2016 01:21am,Snow Emergency,"1350-1399 lasalle ave,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.278333,44.90496,761,12/12/2016 02:59am,Snow Emergency,"5400 NICOLLET AVE,Minneapolis,MN",44.90496,-93.278333,11,Tangletown,Southwest,2,5
+-93.220676,44.927262,762,12/12/2016 01:00pm,Snow Emergency,"4154 Snelling Ave. S.,Minneapolis,MN",44.927262,-93.220676,12,Hiawatha,Longfellow,2,6
+-93.233247,44.930492,763,12/13/2016 08:39am,Snow Emergency,"2711 40th st e,Minneapolis,MN",44.930492,-93.233247,12,Standish,Powderhorn,3,6
+-93.288136,44.946599,764,12/12/2016 01:21am,Snow Emergency,"3100 lyndale ave s,Minneapolis,MN",44.946599,-93.288136,10,CARAG,Calhoun-Isles,2,5
+-93.288049,44.978958,765,12/12/2016 02:59am,Snow Emergency,"700 2nd av n,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near-North,2,3
+-93.26305,45.014991,766,12/12/2016 01:01pm,Snow Emergency,"334 26th ave ne,Minneapolis,MN",45.014991,-93.26305,1,Holland,Northeast,2,2
+-93.262998,44.99363,767,12/13/2016 08:40am,Snow Emergency,"131 6th ave ne ,Minneapolis,MN",44.99363,-93.262998,3,St. Anthony West,Northeast,3,2
+-93.2941,44.992106,768,12/12/2016 01:22am,Snow Emergency,"1170 Emerson Ave N,Minneapolis,MN",44.992106,-93.2941,5,Near-North,Near-North,2,1
+-93.295575,45.018578,769,12/12/2016 03:01am,Snow Emergency,"3500 Fremont Ave n ,Minneapolis,MN",45.018578,-93.295575,4,Folwell,Camden,2,1
+-93.269334,45.001134,770,12/12/2016 01:03pm,Snow Emergency,"1320 Grand St ne,Minneapolis,MN",45.001134,-93.269334,3,Sheridan,Northeast,2,2
+-93.293964,45.015104,771,12/12/2016 03:01am,Snow Emergency,"3300 Emerson ave n ,Minneapolis,MN",45.015104,-93.293964,4,Folwell,Camden,2,1
+-93.279351,44.969955,772,12/12/2016 01:23am,Snow Emergency,"1350 LaSalle,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.261467,44.978686,773,12/13/2016 08:42am,Snow Emergency,"229 5th ave ne,Minneapolis,MN",44.978686,-93.261467,3,Downtown West,Central,3,3
+-93.250256,44.931722,774,12/12/2016 01:03pm,Snow Emergency,"3916 17th ave s,Minneapolis,MN",44.931722,-93.250256,8,Bancroft,Powderhorn,2,6
+-93.279351,44.969955,775,12/12/2016 03:02am,Snow Emergency,"1350 Lasalle ,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.279351,44.969955,776,12/12/2016 01:23am,Snow Emergency,"1350 Lasalle Ave,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.254901,44.933747,777,12/13/2016 08:48am,Snow Emergency,"3811 14thaves,Minneapolis,MN",44.933747,-93.254901,8,Bancroft,Powderhorn,3,6
+-93.289552,44.978947,778,12/12/2016 03:02am,Snow Emergency,"800 2nd Ave N,Minneapolis,MN",44.978947,-93.289552,5,Harrison,Near-North,2,3
+-93.267415,44.998783,779,12/12/2016 01:06pm,Snow Emergency,"1106 Main St ne,Minneapolis,MN",44.998783,-93.267415,3,Sheridan,Northeast,2,2
+-93.291817,45.048251,780,12/12/2016 01:26am,Snow Emergency,"5117 Bryant ave n,Minneapolis,MN",45.048251,-93.291817,4,Lind-Bohanon,Camden,2,1
+-93.29107,44.99141,781,12/13/2016 08:49am,Snow Emergency,"619 Bryant Ave N,Minneapolis,MN",44.99141,-93.29107,5,Near-North,Near-North,3,1
+-93.288533,44.941135,782,12/12/2016 01:27am,Snow Emergency,"3400 Lyndale ave s,Minneapolis,MN",44.941135,-93.288533,10,CARAG,Calhoun-Isles,2,5
+-93.294187,45.005992,783,12/12/2016 03:04am,Snow Emergency,"2600 Emerson ave n ,Minneapolis,MN",45.005992,-93.294187,5,Hawthorne,Near-North,2,1
+-93.288049,44.978958,784,12/12/2016 03:05am,Snow Emergency,"700 2nd Ave n,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near-North,2,3
+-93.292838,45.051151,785,12/12/2016 01:28am,Snow Emergency,"1000 - 1099 53 AV N,Minneapolis,MN",45.051151,-93.292838,4,Lind-Bohanon,Camden,2,1
+-93.289552,44.978947,786,12/12/2016 03:05am,Snow Emergency,"800-899 2 av n,Minneapolis,MN",44.978947,-93.289552,5,Harrison,Near-North,2,3
+-93.288535,44.942801,787,12/12/2016 01:28am,Snow Emergency,"3300 Lyndale Ave S ,Minneapolis,MN",44.942801,-93.288535,10,CARAG,Calhoun-Isles,2,5
+-93.267308,44.969626,788,12/12/2016 03:05am,Snow Emergency,"Grant and Portland ave,Minneapolis,MN",44.969626,-93.267308,7,Elliot Park,Central,2,3
+-93.279351,44.969955,789,12/12/2016 01:29am,Snow Emergency,"1350 lasalle,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.224412,44.89992,790,12/12/2016 03:06am,Snow Emergency,"5640 34 th ave s,Minneapolis,MN",44.89992,-93.224412,11,Wenonah,Nokomis,2,6
+-93.25273,44.940125,791,12/12/2016 01:31am,Snow Emergency,"3434 bloomington ave so,Minneapolis,MN",44.940125,-93.25273,9,Powderhorn,Powderhorn,2,6
+-93.295233,45.016913,792,12/12/2016 03:09am,Snow Emergency,"3400-3499 Fremont Ave n ,Minneapolis,MN",45.016913,-93.295233,4,Folwell,Camden,2,1
+-93.288535,44.942801,793,12/12/2016 01:31am,Snow Emergency,"3300 Lyndale Ave S ,Minneapolis,MN",44.942801,-93.288535,10,CARAG,Calhoun-Isles,2,5
+-93.290502,44.96562,794,12/13/2016 08:54am,Snow Emergency,"1789 BRYANT AVE S,Minneapolis,MN",44.96562,-93.290502,7,Lowry Hill,Calhoun-Isles,3,3
+-93.288616,45.031086,795,12/12/2016 01:08pm,Snow Emergency,"4140 Aldrich Ave. N. ,Minneapolis,MN",45.031086,-93.288616,4,Webber-Camden,Camden,2,1
+-93.295579,45.013145,796,12/12/2016 03:11am,Snow Emergency,"3200 Fremont Ave n,Minneapolis,MN",45.013145,-93.295579,5,Jordan,Near-North,2,1
+-93.291966,44.985948,797,12/12/2016 01:31am,Snow Emergency,"720 van white memorial blvd ,Minneapolis,MN",44.985948,-93.291966,5,Sumner-Glenwood,Near-North,2,1
+-93.260653,44.994632,798,12/13/2016 08:55am,Snow Emergency,"301 6th ave ne,Minneapolis,MN",44.994632,-93.260653,3,St. Anthony West,Northeast,3,2
+-93.245876,44.973205,799,12/12/2016 01:10pm,Snow Emergency,"228 19th ave ne,Minneapolis,MN",44.973205,-93.245876,6,Cedar Riverside,University,2,4
+-93.295575,45.018578,800,12/12/2016 03:13am,Snow Emergency,"3500 Fremont Ave n,Minneapolis,MN",45.018578,-93.295575,4,Folwell,Camden,2,1
+-93.250071,44.988224,801,12/13/2016 08:57am,Snow Emergency,"515 3rd Avenue Southeast,Minneapolis,MN",44.988224,-93.250071,3,Marcy-Holmes,University,3,4
+-93.286502,45.019674,802,12/12/2016 01:10pm,Snow Emergency,"3540 6th st n,Minneapolis,MN",45.019674,-93.286502,4,McKinley,Camden,2,1
+-93.278306,44.92304,803,12/12/2016 03:17am,Snow Emergency,"4400 Nicolle Ave s,Minneapolis,MN",44.92304,-93.278306,8,Kingfield,Southwest,2,5
+-93.290503,44.965286,804,12/13/2016 08:59am,Snow Emergency,"1813 BRYANT AVE S,Minneapolis,MN",44.965286,-93.290503,7,Lowry Hill,Calhoun-Isles,3,3
+-93.295221,45.015236,805,12/12/2016 03:18am,Snow Emergency,"3300 - 3399 Fremont AV N,Minneapolis,MN",45.015236,-93.295221,4,Folwell,Camden,2,1
+-93.245579,44.9819,806,12/12/2016 01:12pm,Snow Emergency,"204 8th Ave se,Minneapolis,MN",44.9819,-93.245579,3,Marcy-Holmes,University,2,4
+-93.295232,45.020608,807,12/12/2016 03:18am,Snow Emergency,"3600 Fremont Ave N,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1
+-93.258482,44.995345,808,12/13/2016 08:59am,Snow Emergency,"421 6th ave ne,Minneapolis,MN",44.995345,-93.258482,3,St. Anthony West,Northeast,3,2
+-93.288049,44.978958,809,12/12/2016 03:20am,Snow Emergency,"700-799 2nd av n,Minneapolis,MN",44.978958,-93.288049,5,Harrison,Near-North,2,3
+-93.275309,44.963397,810,12/12/2016 01:12pm,Snow Emergency,"1914 STEVENS AVE S,Minneapolis,MN",44.963397,-93.275309,6,Stevens Square,Central,2,3
+-93.231848,44.909749,811,12/12/2016 03:21am,Snow Emergency,"5133 28th ave s,Minneapolis,MN",44.909749,-93.231848,12,Keewaydin,Nokomis,2,6
+-93.249069,44.987178,812,12/13/2016 09:04am,Snow Emergency,"503 4th ave se,Minneapolis,MN",44.987178,-93.249069,3,Marcy-Holmes,University,3,4
+-93.222926,44.899873,813,12/12/2016 03:21am,Snow Emergency,"5703 34th ave s,Minneapolis,MN",44.899873,-93.222926,12,Morris Park,Nokomis,2,6
+-93.245684,44.970538,814,12/12/2016 01:12pm,Snow Emergency,"302 19th ave ne,Minneapolis,MN",44.970538,-93.245684,6,Cedar Riverside,University,2,4
+-93.244068,44.96397,815,12/12/2016 03:23am,Snow Emergency,"901 20th. AV so,Minneapolis,MN",44.96397,-93.244068,6,Seward,Longfellow,2,4
+-93.254528,44.997019,816,12/13/2016 09:07am,Snow Emergency,"667 Summer st ne,Minneapolis,MN",44.997019,-93.254528,3,St. Anthony East,Northeast,3,2
+-93.288061,44.979466,817,12/12/2016 03:24am,Snow Emergency,"700 glenwood av n,Minneapolis,MN",44.979466,-93.288061,5,Harrison,Near-North,2,3
+-93.286807,44.966577,818,12/12/2016 01:14pm,Snow Emergency,"2450 clifton av s,Minneapolis,MN",44.966577,-93.286807,7,Loring Park,Central,2,3
+-93.278026,44.914199,819,12/12/2016 03:24am,Snow Emergency,"4900 Nicollet Ave s,Minneapolis,MN",44.914199,-93.278026,11,Tangletown,Southwest,2,5
+-93.283398,45.001641,820,12/13/2016 09:07am,Snow Emergency,"2213 3rd st n,Minneapolis,MN",45.001641,-93.283398,5,Hawthorne,Near-North,3,1
+-93.302837,44.993209,821,12/12/2016 01:16pm,Snow Emergency,"1402 Logan Ave n ,Minneapolis,MN",44.993209,-93.302837,5,Willard-Hay,Near-North,2,1
+-93.271102,44.973783,822,12/12/2016 03:24am,Snow Emergency,"221 9th st s,Minneapolis,MN",44.973783,-93.271102,7,Downtown West,Central,2,3
+-93.283354,45.009661,823,12/13/2016 09:09am,Snow Emergency,"2913 3rd st. N. ,Minneapolis,MN",45.009661,-93.283354,5,Hawthorne,Near-North,3,1
+-93.245396,44.982129,824,12/12/2016 01:16pm,Snow Emergency,"228 8th ave se,Minneapolis,MN",44.982129,-93.245396,3,Marcy-Holmes,University,2,4
+-93.23965,44.962605,825,12/12/2016 03:25am,Snow Emergency,"2225 Franklin Ave e,Minneapolis,MN",44.962605,-93.23965,6,Seward,Longfellow,2,4
+-93.250437,44.988129,826,12/13/2016 09:10am,Snow Emergency,"511 3rd ave se,Minneapolis,MN",44.988129,-93.250437,3,Marcy-Holmes,University,3,4
+-93.223069,44.900301,827,12/12/2016 03:26am,Snow Emergency,"5650 34th Ave. S.,Minneapolis,MN",44.900301,-93.223069,11,Wenonah,Nokomis,2,6
+-93.259426,45.010341,828,12/12/2016 01:16pm,Snow Emergency,"2206 6th st ne,Minneapolis,MN",45.010341,-93.259426,1,Holland,Northeast,2,2
+-93.244662,44.963577,829,12/12/2016 03:27am,Snow Emergency,"900 20ave s,Minneapolis,MN",44.963577,-93.244662,6,Seward,Longfellow,2,4
+-93.283363,45.005947,830,12/13/2016 09:10am,Snow Emergency,"2603 3rd st n,Minneapolis,MN",45.005947,-93.283363,5,Hawthorne,Near-North,3,1
+-93.295232,45.020608,831,12/12/2016 03:28am,Snow Emergency,"3600 Fremont Ave n ,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1
+-93.227516,44.935077,832,12/12/2016 01:16pm,Snow Emergency,"3716 smelling ave,Minneapolis,MN",44.935077,-93.227516,12,Howe,Longfellow,2,6
+-93.284949,45.00226,833,12/13/2016 09:10am,Snow Emergency,"2225 4th st n ,Minneapolis,MN",45.00226,-93.284949,5,Hawthorne,Near-North,3,1
+-93.239905,44.963688,834,12/12/2016 03:29am,Snow Emergency,"2211 9th St S,Minneapolis,MN",44.963688,-93.239905,6,Seward,Longfellow,2,4
+-93.275304,44.960865,835,12/12/2016 01:16pm,Snow Emergency,"2204 STEVENS AVE S,Minneapolis,MN",44.960865,-93.275304,10,Whittier,Powderhorn,2,3
+-93.290544,45.000251,836,12/13/2016 09:12am,Snow Emergency,"826 21st Ave n ,Minneapolis,MN",45.000251,-93.290544,5,Hawthorne,Near-North,3,1
+-93.232126,44.933351,837,12/12/2016 03:29am,Snow Emergency,"3822 28th ave s,Minneapolis,MN",44.933351,-93.232126,12,Standish,Powderhorn,2,6
+-93.301935,44.990811,838,12/12/2016 01:17pm,Snow Emergency,"1238 Knox Ave n,Minneapolis,MN",44.990811,-93.301935,5,Near-North,Near-North,2,1
+-93.29957,44.947829,839,12/12/2016 03:30am,Snow Emergency,"3000 holmes Ave s,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.251843,44.932166,840,12/13/2016 09:14am,Snow Emergency,"1535 39th Street East,Minneapolis,MN",44.932166,-93.251843,8,Bancroft,Powderhorn,3,6
+-93.29957,44.947829,841,12/12/2016 03:35am,Snow Emergency,"3000 HOLMES AVE,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.270126,45.003465,842,12/12/2016 01:17pm,Snow Emergency,"1528 Grand St ne,Minneapolis,MN",45.003465,-93.270126,3,Sheridan,Northeast,2,2
+-93.29957,44.947829,843,12/12/2016 03:36am,Snow Emergency,"3000 Holmes Ave S ,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.284904,45.006172,844,12/13/2016 09:14am,Snow Emergency,"2621 4th st n,Minneapolis,MN",45.006172,-93.284904,5,Hawthorne,Near-North,3,1
+-93.265086,44.968921,845,12/12/2016 03:37am,Snow Emergency,"14st E and park ave,Minneapolis,MN",44.968921,-93.265086,7,Elliot Park,Central,2,3
+-93.301569,44.990793,846,12/12/2016 01:18pm,Snow Emergency,"1234 Knox Ave N,Minneapolis,MN",44.990793,-93.301569,5,Near-North,Near-North,2,1
+-93.29957,44.947829,847,12/12/2016 03:39am,Snow Emergency,"3000 Holmes Ave S ,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.290503,44.965149,848,12/13/2016 09:14am,Snow Emergency,"1827 bryant ave s,Minneapolis,MN",44.965149,-93.290503,7,Lowry Hill,Calhoun-Isles,3,3
+-93.245052,44.984883,849,12/12/2016 01:18pm,Snow Emergency,"428 7th ave se,Minneapolis,MN",44.984883,-93.245052,3,Marcy-Holmes,University,2,4
+-93.295575,45.018578,850,12/12/2016 03:41am,Snow Emergency,"3500 Fremont Ave N,Minneapolis,MN",45.018578,-93.295575,4,Folwell,Camden,2,1
+-93.271878,45.00082,851,12/13/2016 09:15am,Snow Emergency,"52 1 4th Ave sE,Minneapolis,MN",45.00082,-93.271878,3,Sheridan,Northeast,3,2
+-93.281311,44.956863,852,12/12/2016 01:23pm,Snow Emergency,"2510 Pillsbury ave s,Minneapolis,MN",44.956863,-93.281311,10,Whittier,Powderhorn,2,3
+-93.29957,44.947829,853,12/12/2016 03:45am,Snow Emergency,"3000 holmes ave s,Minneapolis,MN",44.947829,-93.29957,10,ECCO,Calhoun-Isles,2,5
+-93.292702,44.964071,854,12/13/2016 09:16am,Snow Emergency,"1907 dupont ave s,Minneapolis,MN",44.964071,-93.292702,7,Lowry Hill,Calhoun-Isles,3,3
+-93.291966,44.985948,855,12/12/2016 01:32am,Snow Emergency,"600-720 van white memorial blvd,Minneapolis,MN",44.985948,-93.291966,5,Sumner-Glenwood,Near-North,2,1
+-93.295618,45.022188,856,12/12/2016 03:47am,Snow Emergency,"3700 Fremont ave n ,Minneapolis,MN",45.022188,-93.295618,4,Folwell,Camden,2,1
+-93.260442,44.946816,857,12/12/2016 01:24pm,Snow Emergency,"3048 10th ave S,Minneapolis,MN",44.946816,-93.260442,9,Powderhorn,Powderhorn,2,6
+-93.279672,44.967395,858,12/12/2016 01:35am,Snow Emergency,"1500 lasalle av s,Minneapolis,MN",44.967395,-93.279672,7,Loring Park,Central,2,3
+-93.254902,44.933491,859,12/13/2016 09:17am,Snow Emergency,"3819 14th Avenue South,Minneapolis,MN",44.933491,-93.254902,8,Bancroft,Powderhorn,3,6
+-93.295232,45.020608,860,12/12/2016 03:49am,Snow Emergency,"3600 - 3699 Fremont AV N,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1
+-93.279351,44.969955,861,12/12/2016 01:38am,Snow Emergency,"1350 LaSalle,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.249915,44.988423,862,12/13/2016 09:18am,Snow Emergency,"521 3rd Ave se,Minneapolis,MN",44.988423,-93.249915,3,Marcy-Holmes,University,3,4
+-93.24538,44.982148,863,12/12/2016 01:25pm,Snow Emergency,"230 8th Ave se ,Minneapolis,MN",44.982148,-93.24538,3,Marcy-Holmes,University,2,4
+-93.295232,45.020608,864,12/12/2016 03:49am,Snow Emergency,"3600 Fremont Ave n,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1
+-93.279351,44.969955,865,12/12/2016 01:38am,Snow Emergency,"1350 Lasalle ,Minneapolis,MN",44.969955,-93.279351,7,Loring Park,Central,2,3
+-93.254906,44.927182,866,12/13/2016 09:21am,Snow Emergency,"4153 14th ave S,Minneapolis,MN",44.927182,-93.254906,8,Bancroft,Powderhorn,3,6
+-93.283229,44.965905,867,12/12/2016 01:25pm,Snow Emergency,"320 Clifton ave,Minneapolis,MN",44.965905,-93.283229,7,Loring Park,Central,2,3
+-93.239905,44.963688,868,12/12/2016 03:50am,Snow Emergency,"2211 9th st s ,Minneapolis,MN",44.963688,-93.239905,6,Seward,Longfellow,2,4
+-93.279672,44.967395,869,12/12/2016 01:38am,Snow Emergency,"1500-1599 LaSalle av,Minneapolis,MN",44.967395,-93.279672,7,Loring Park,Central,2,3
+-93.280816,44.967011,870,12/13/2016 09:21am,Snow Emergency,"1521 spruce pl,Minneapolis,MN",44.967011,-93.280816,7,Loring Park,Central,3,3
+-93.297079,44.943582,871,12/12/2016 01:25pm,Snow Emergency,"3234 Girard Ave s ,Minneapolis,MN",44.943582,-93.297079,10,CARAG,Calhoun-Isles,2,5
+-93.295618,45.022188,872,12/12/2016 03:51am,Snow Emergency,"3700 Fremont ave n ,Minneapolis,MN",45.022188,-93.295618,4,Folwell,Camden,2,1
+-93.25207,44.929979,873,12/12/2016 01:40am,Snow Emergency,"4015 Bloomington,Minneapolis,MN",44.929979,-93.25207,8,Bancroft,Powderhorn,2,6
+-93.25597,44.938114,874,12/13/2016 09:22am,Snow Emergency,"3541 13th ave S,Minneapolis,MN",44.938114,-93.25597,9,Powderhorn,Powderhorn,3,6
+-93.281777,44.956637,875,12/12/2016 01:25pm,Snow Emergency,"2520 Pillsbury ave s,Minneapolis,MN",44.956637,-93.281777,10,Whittier,Powderhorn,2,3
+-93.295232,45.020608,876,12/12/2016 03:53am,Snow Emergency,"3600 Fremont Ave n,Minneapolis,MN",45.020608,-93.295232,4,Folwell,Camden,2,1
+-93.279672,44.967395,877,12/12/2016 01:40am,Snow Emergency,"1500 lasalle av ,Minneapolis,MN",44.967395,-93.279672,7,Loring Park,Central,2,3
+-93.256625,44.997059,878,12/13/2016 09:24am,Snow Emergency,"635 Summer st ne,Minneapolis,MN",44.997059,-93.256625,3,St. Anthony East,Northeast,3,2
+-93.297115,44.939713,879,12/12/2016 01:26pm,Snow Emergency,"3450 girard ave s,Minneapolis,MN",44.939713,-93.297115,10,CARAG,Calhoun-Isles,2,5
+-93.279353,44.968778,880,12/12/2016 03:54am,Snow Emergency,"1400 Lasalle ,Minneapolis,MN",44.968778,-93.279353,7,Loring Park,Central,2,3
+-93.288696,44.930205,881,12/12/2016 01:40am,Snow Emergency,"4000 lyndale av s,Minneapolis,MN",44.930205,-93.288696,10,East Harriet,Southwest,2,5
+-93.284528,44.967071,882,12/13/2016 09:25am,Snow Emergency,"337 oak grove st ,Minneapolis,MN",44.967071,-93.284528,7,Loring Park,Central,3,3
+-93.261427,44.947742,883,12/12/2016 01:27pm,Snow Emergency,"3050 ELLIOTT AVE,Minneapolis,MN",44.947742,-93.261427,9,Powderhorn,Powderhorn,2,6
+-93.266291,44.968072,884,12/12/2016 01:41am,Snow Emergency,"628 15th St e,Minneapolis,MN",44.968072,-93.266291,7,Elliot Park,Central,2,3
+-93.254265,44.997044,885,12/13/2016 09:28am,Snow Emergency,"673 Summer st ne,Minneapolis,MN",44.997044,-93.254265,3,St. Anthony East,Northeast,3,2
+-93.297386,44.941149,886,12/12/2016 01:27pm,Snow Emergency,"3400 Girard Ave s,Minneapolis,MN",44.941149,-93.297386,10,CARAG,Calhoun-Isles,2,5
+-93.292063,44.988817,887,12/12/2016 01:41am,Snow Emergency,"1100 Van White Memorial Blvd,Minneapolis,MN",44.988817,-93.292063,5,Sumner-Glenwood,Near-North,2,1
+-93.246066,44.939793,888,12/13/2016 09:31am,Snow Emergency,"3445 Longfellow Ave. S.,Minneapolis,MN",44.939793,-93.246066,9,Corcoran,Powderhorn,3,6
+-93.30052,44.998361,889,12/12/2016 01:29pm,Snow Emergency,"1830 James ave n,Minneapolis,MN",44.998361,-93.30052,5,Willard-Hay,Near-North,2,1
+-93.285373,45.000812,890,12/13/2016 09:31am,Snow Emergency,"2119 4th st n,Minneapolis,MN",45.000812,-93.285373,5,Hawthorne,Near-North,3,1
+-93.248064,44.985712,891,12/12/2016 01:29pm,Snow Emergency,"406 5th ave SE,Minneapolis,MN",44.985712,-93.248064,3,Marcy-Holmes,University,2,4
+-93.29301,44.993347,892,12/13/2016 09:31am,Snow Emergency,"1407 Dupont Ave N,Minneapolis,MN",44.993347,-93.29301,5,Near-North,Near-North,3,1
+-93.29741,44.938061,893,12/12/2016 01:31pm,Snow Emergency,"3548 girard ave s,Minneapolis,MN",44.938061,-93.29741,10,CARAG,Calhoun-Isles,2,5
+-93.28378,45.008183,894,12/13/2016 09:33am,Snow Emergency,"2729 3rd st n,Minneapolis,MN",45.008183,-93.28378,5,Hawthorne,Near-North,3,1
+-93.245411,44.98211,895,12/12/2016 01:32pm,Snow Emergency,"226 8th av se,Minneapolis,MN",44.98211,-93.245411,3,Marcy-Holmes,University,2,4
+-93.248479,44.987918,896,12/13/2016 09:33am,Snow Emergency,"527 4th Avenue Southeast,Minneapolis,MN",44.987918,-93.248479,3,Marcy-Holmes,University,3,4
+-93.305389,44.987722,897,12/12/2016 01:33pm,Snow Emergency,"926 newton ave n,Minneapolis,MN",44.987722,-93.305389,5,Near-North,Near-North,2,1
+-93.28685,45.000638,898,12/13/2016 09:36am,Snow Emergency,"2111 6th st n ,Minneapolis,MN",45.000638,-93.28685,5,Hawthorne,Near-North,3,1
+-93.304482,44.984956,899,12/12/2016 01:34pm,Snow Emergency,"618 Morgan Ave N,Minneapolis,MN",44.984956,-93.304482,5,Near-North,Near-North,2,1
+-93.285356,45.004297,900,12/13/2016 09:36am,Snow Emergency,"2419 4th st n,Minneapolis,MN",45.004297,-93.285356,5,Hawthorne,Near-North,3,1
+-93.255353,44.997465,901,12/12/2016 01:34pm,Snow Emergency,"718 jefferson st ne,Minneapolis,MN",44.997465,-93.255353,3,St. Anthony East,Northeast,2,2
+-93.262425,44.944721,902,12/13/2016 09:37am,Snow Emergency,"817 32ND ST E,Minneapolis,MN",44.944721,-93.262425,9,Powderhorn,Powderhorn,3,6
+-93.245518,44.981977,903,12/12/2016 01:36pm,Snow Emergency,"212 8th ave se,Minneapolis,MN",44.981977,-93.245518,3,Marcy-Holmes,University,2,4
+-93.258752,44.939908,904,12/13/2016 09:38am,Snow Emergency,"3449 11th ave s,Minneapolis,MN",44.939908,-93.258752,9,Powderhorn,Powderhorn,3,6
+-93.258533,45.008144,905,12/12/2016 01:36pm,Snow Emergency,"1926 6th st ne,Minneapolis,MN",45.008144,-93.258533,1,Holland,Northeast,2,2
+-93.232303,44.979119,906,12/13/2016 09:43am,Snow Emergency,"1623 4th st e,Minneapolis,MN",44.979119,-93.232303,2,University,University,3,4
+-93.305711,44.988192,907,12/12/2016 01:37pm,Snow Emergency,"1006 Newton av no,Minneapolis,MN",44.988192,-93.305711,5,Near-North,Near-North,2,1
+-93.249159,44.984755,908,12/13/2016 09:43am,Snow Emergency,"303 5th ave se,Minneapolis,MN",44.984755,-93.249159,3,Marcy-Holmes,University,3,4
+-93.255271,44.999886,909,12/12/2016 01:38pm,Snow Emergency,"1138 Jefferson st ne,Minneapolis,MN",44.999886,-93.255271,1,Logan Park,Northeast,2,2
+-93.295666,45.004198,910,12/13/2016 09:44am,Snow Emergency,"2417 Fremont ave n,Minneapolis,MN",45.004198,-93.295666,5,Jordan,Near-North,3,1
+-93.289244,45.000512,911,12/12/2016 01:38pm,Snow Emergency,"2104 Aldrich Ave. n. ,Minneapolis,MN",45.000512,-93.289244,5,Hawthorne,Near-North,2,1
+-93.292753,44.966197,912,12/13/2016 09:45am,Snow Emergency,"1769 dupont s,Minneapolis,MN",44.966197,-93.292753,7,Lowry Hill,Calhoun-Isles,3,3
+-93.255,44.997008,913,12/12/2016 01:39pm,Snow Emergency,"702 Jefferson st ne,Minneapolis,MN",44.997008,-93.255,3,St. Anthony East,Northeast,2,2
+-93.248299,44.997062,914,12/13/2016 09:45am,Snow Emergency,"901 Summer st ne,Minneapolis,MN",44.997062,-93.248299,3,St. Anthony East,Northeast,3,2
+-93.245548,44.981938,915,12/12/2016 01:39pm,Snow Emergency,"208 8th Avenue Southeast ,Minneapolis,MN",44.981938,-93.245548,3,Marcy-Holmes,University,2,4
+-93.254844,44.991583,916,12/13/2016 09:46am,Snow Emergency,"215 5th st ne,Minneapolis,MN",44.991583,-93.254844,3,St. Anthony East,Northeast,3,2
+-93.282772,44.965907,917,12/12/2016 01:41pm,Snow Emergency,"238 clifton av,Minneapolis,MN",44.965907,-93.282772,7,Loring Park,Central,2,3
+-93.248609,44.985074,918,12/13/2016 09:48am,Snow Emergency,"321 5th ave se,Minneapolis,MN",44.985074,-93.248609,3,Marcy-Holmes,University,3,4
+-93.255137,44.945666,919,12/12/2016 01:42pm,Snow Emergency,"1316 POWDERHORN TER,Minneapolis,MN",44.945666,-93.255137,9,Powderhorn,Powderhorn,2,6
+-93.292701,44.963893,920,12/13/2016 09:49am,Snow Emergency,"1913 dupont s,Minneapolis,MN",44.963893,-93.292701,7,Lowry Hill,Calhoun-Isles,3,3
+-93.28525,44.966856,921,12/12/2016 01:44pm,Snow Emergency,"404 clifton ave,Minneapolis,MN",44.966856,-93.28525,7,Loring Park,Central,2,3
+-93.233612,44.991246,922,12/13/2016 09:50am,Snow Emergency,"1111 13th Ave SE,Minneapolis,MN",44.991246,-93.233612,2,Como,University,3,4
+-93.245683,44.970483,923,12/12/2016 01:44pm,Snow Emergency,"320 19th ave ne,Minneapolis,MN",44.970483,-93.245683,6,Cedar Riverside,University,2,4
+-93.28668,45.009853,924,12/13/2016 09:50am,Snow Emergency,"2909 6th st. N. ,Minneapolis,MN",45.009853,-93.28668,5,Hawthorne,Near-North,3,1
+-93.244315,44.985814,925,12/12/2016 01:45pm,Snow Emergency,"530 7th ave se,Minneapolis,MN",44.985814,-93.244315,3,Marcy-Holmes,University,2,4
+-93.255338,44.991664,926,12/13/2016 09:50am,Snow Emergency,"225 5th st ne,Minneapolis,MN",44.991664,-93.255338,3,St. Anthony East,Northeast,3,2
+-93.25525,44.997561,927,12/12/2016 01:49pm,Snow Emergency,"720 Jefferson st ne,Minneapolis,MN",44.997561,-93.25525,3,St. Anthony East,Northeast,2,2
+-93.287228,44.963346,928,12/13/2016 09:51am,Snow Emergency,"607 Ridgewood av s,Minneapolis,MN",44.963346,-93.287228,7,Stevens Square,Central,3,3
+-93.244706,44.983,929,12/12/2016 01:50pm,Snow Emergency,"306 8th ave se,Minneapolis,MN",44.983,-93.244706,3,Marcy-Holmes,University,2,4
+-93.298577,44.990276,930,12/13/2016 09:51am,Snow Emergency,"1201 Humboldt Ave N,Minneapolis,MN",44.990276,-93.298577,5,Near-North,Near-North,3,1
+-93.21692,44.930349,931,12/12/2016 01:50pm,Snow Emergency,"4004 39th ave,Minneapolis,MN",44.930349,-93.21692,12,Hiawatha,Longfellow,2,6
+-93.290437,44.99082,932,12/13/2016 09:52am,Snow Emergency,"819 12th Ave n ,Minneapolis,MN",44.99082,-93.290437,5,Near-North,Near-North,3,1
+-93.306652,44.999178,933,12/12/2016 01:51pm,Snow Emergency,"1908 Oliver Ave n ,Minneapolis,MN",44.999178,-93.306652,5,Willard-Hay,Near-North,2,1
+-93.234919,44.989124,934,12/13/2016 09:53am,Snow Emergency,"1041 12th Ave SE ,Minneapolis,MN",44.989124,-93.234919,2,Como,University,3,4
+-93.28931,45.002198,935,12/12/2016 01:51pm,Snow Emergency,"2218 aldrich ave n,Minneapolis,MN",45.002198,-93.28931,5,Hawthorne,Near-North,2,1
+-93.290504,45.000505,936,12/13/2016 09:53am,Snow Emergency,"816 21st Ave n,Minneapolis,MN",45.000505,-93.290504,5,Hawthorne,Near-North,3,1
+-93.306659,44.985369,937,12/12/2016 01:52pm,Snow Emergency,"706 Oliver Ave N,Minneapolis,MN",44.985369,-93.306659,5,Near-North,Near-North,2,1
+-93.280814,44.968573,938,12/13/2016 09:53am,Snow Emergency,"1409 spruce pl ,Minneapolis,MN",44.968573,-93.280814,7,Loring Park,Central,3,3
+-93.249028,44.947911,939,12/12/2016 01:52pm,Snow Emergency,"3012 18th ave s,Minneapolis,MN",44.947911,-93.249028,9,Powderhorn,Powderhorn,2,6
+-93.304315,44.947049,940,12/13/2016 09:55am,Snow Emergency,"3037 Knox Ave s,Minneapolis,MN",44.947049,-93.304315,10,ECCO,Calhoun-Isles,3,5
+-93.284026,44.96642,941,12/12/2016 01:52pm,Snow Emergency,"314 Clifton ave ,Minneapolis,MN",44.96642,-93.284026,7,Loring Park,Central,2,3
+-93.286719,45.003542,942,12/13/2016 09:55am,Snow Emergency,"2327 6th st n,Minneapolis,MN",45.003542,-93.286719,5,Hawthorne,Near-North,3,1
+-93.295815,44.944308,943,12/12/2016 01:54pm,Snow Emergency,"3210 Fremont Ave s,Minneapolis,MN",44.944308,-93.295815,10,CARAG,Calhoun-Isles,2,5
+-93.245766,44.98905,944,12/13/2016 09:56am,Snow Emergency,"719 5th Ave se,Minneapolis,MN",44.98905,-93.245766,3,Marcy-Holmes,University,3,4
+-93.281286,44.961731,945,12/12/2016 01:55pm,Snow Emergency,"2104 Pillsbury ave s,Minneapolis,MN",44.961731,-93.281286,10,Whittier,Powderhorn,2,3
+-93.233696,44.991009,946,12/13/2016 09:56am,Snow Emergency,"1107 13th ave se,Minneapolis,MN",44.991009,-93.233696,2,Como,University,3,4
+-93.269429,45.001673,947,12/12/2016 01:55pm,Snow Emergency,"130 14th ave ne,Minneapolis,MN",45.001673,-93.269429,3,Sheridan,Northeast,2,2
+-93.299832,44.944716,948,12/13/2016 09:58am,Snow Emergency,"1459 32ND st w,Minneapolis,MN",44.944716,-93.299832,10,ECCO,Calhoun-Isles,3,5
+-93.289233,45.003993,949,12/12/2016 01:55pm,Snow Emergency,"2406 aldrich ave n,Minneapolis,MN",45.003993,-93.289233,5,Hawthorne,Near-North,2,1
+-93.245361,44.989177,950,12/13/2016 10:00am,Snow Emergency,"727 - 5TH AVE SE,Minneapolis,MN",44.989177,-93.245361,3,Marcy-Holmes,University,3,4
+-93.269313,45.001713,951,12/12/2016 01:56pm,Snow Emergency,"132 14th ave ne,Minneapolis,MN",45.001713,-93.269313,3,Sheridan,Northeast,2,2
+-93.286883,45.004655,952,12/13/2016 10:02am,Snow Emergency,"2431 6th st n,Minneapolis,MN",45.004655,-93.286883,5,Hawthorne,Near-North,3,1
+-93.295782,44.947246,953,12/12/2016 01:56pm,Snow Emergency,"3030 Fremont Ave s,Minneapolis,MN",44.947246,-93.295782,10,CARAG,Calhoun-Isles,2,5
+-93.288647,44.982859,954,12/13/2016 10:02am,Snow Emergency,"509 lyndale pl ,Minneapolis,MN",44.982859,-93.288647,5,Sumner-Glenwood,Near-North,3,3
+-93.281653,44.961783,955,12/12/2016 01:57pm,Snow Emergency,"2100 Pillsbury ave s,Minneapolis,MN",44.961783,-93.281653,10,Whittier,Powderhorn,2,3
+-93.259952,44.933238,956,12/13/2016 10:02am,Snow Emergency,"3827 10TH AVE S,Minneapolis,MN",44.933238,-93.259952,8,Bancroft,Powderhorn,3,6
+-93.244473,44.983306,957,12/12/2016 01:57pm,Snow Emergency,"316 8th ave se,Minneapolis,MN",44.983306,-93.244473,3,Marcy-Holmes,University,2,4
+-93.247508,44.984147,958,12/13/2016 10:03am,Snow Emergency,"307 6th Avenue Southeast ,Minneapolis,MN",44.984147,-93.247508,3,Marcy-Holmes,University,3,4
+-93.251181,44.995727,959,12/12/2016 01:58pm,Snow Emergency,"620 Quincy st ne,Minneapolis,MN",44.995727,-93.251181,3,St. Anthony East,Northeast,2,2
+-93.276759,44.968902,960,12/13/2016 10:03am,Snow Emergency,"113 14th st e,Minneapolis,MN",44.968902,-93.276759,7,Loring Park,Central,3,3
+-93.244613,44.983122,961,12/12/2016 01:59pm,Snow Emergency,"310 8th ave se,Minneapolis,MN",44.983122,-93.244613,3,Marcy-Holmes,University,2,4
+-93.283873,44.963663,962,12/13/2016 10:04am,Snow Emergency,"329 Ridgewood av s,Minneapolis,MN",44.963663,-93.283873,7,Stevens Square,Central,3,3
+-93.249026,44.947788,963,12/12/2016 01:59pm,Snow Emergency,"3014 18th ave so,Minneapolis,MN",44.947788,-93.249026,9,Powderhorn,Powderhorn,2,6
+-93.259671,44.935694,964,12/13/2016 10:04am,Snow Emergency,"3705 10th ave s,Minneapolis,MN",44.935694,-93.259671,9,Powderhorn,Powderhorn,3,6
+-93.244401,44.9834,965,12/12/2016 02:00pm,Snow Emergency,"324 8th ave se,Minneapolis,MN",44.9834,-93.244401,3,Marcy-Holmes,University,2,4
+-93.276805,44.968902,966,12/13/2016 10:04am,Snow Emergency,"213 14TH ST E,Minneapolis,MN",44.968902,-93.276805,7,Loring Park,Central,3,3
+-93.24618,44.983474,967,12/12/2016 02:02pm,Snow Emergency,"310 7th ave se,Minneapolis,MN",44.983474,-93.24618,3,Marcy-Holmes,University,2,4
+-93.283911,44.967119,968,12/13/2016 10:05am,Snow Emergency,"331 oak Grove st ,Minneapolis,MN",44.967119,-93.283911,7,Loring Park,Central,3,3
+-93.257313,45.003094,969,12/12/2016 02:02pm,Snow Emergency,"624 15th ave ne,Minneapolis,MN",45.003094,-93.257313,1,Logan Park,Northeast,2,2
+-93.257664,44.992485,970,12/13/2016 10:05am,Snow Emergency,"329 4th st ne,Minneapolis,MN",44.992485,-93.257664,3,St. Anthony West,Northeast,3,2
+-93.243435,44.984221,971,12/12/2016 02:04pm,Snow Emergency,"416 8th Ave se ,Minneapolis,MN",44.984221,-93.243435,3,Marcy-Holmes,University,2,4
+-93.280818,44.967358,972,12/13/2016 10:08am,Snow Emergency,"1509 SPRUCE PL,Minneapolis,MN",44.967358,-93.280818,7,Loring Park,Central,3,3
+-93.256261,45.007308,973,12/12/2016 02:05pm,Snow Emergency,"638 19th ave ne,Minneapolis,MN",45.007308,-93.256261,1,Logan Park,Northeast,2,2
+-93.297554,44.99361,974,12/13/2016 10:10am,Snow Emergency,"1415 girard Ave n ,Minneapolis,MN",44.99361,-93.297554,5,Near-North,Near-North,3,1
+-93.29103,45.000456,975,12/12/2016 02:05pm,Snow Emergency,"2106 Bryant Ave. N. ,Minneapolis,MN",45.000456,-93.29103,5,Hawthorne,Near-North,2,1
+-93.248797,44.98799,976,12/13/2016 10:14am,Snow Emergency,"525 4th ave se,Minneapolis,MN",44.98799,-93.248797,3,Marcy-Holmes,University,3,4
+-93.244753,44.982939,977,12/12/2016 02:05pm,Snow Emergency,"304 8th Avenue Southeast,Minneapolis,MN",44.982939,-93.244753,3,Marcy-Holmes,University,2,4
+-93.288949,44.983342,978,12/13/2016 10:14am,Snow Emergency,"511 lyndale pl,Minneapolis,MN",44.983342,-93.288949,5,Sumner-Glenwood,Near-North,3,3
+-93.280925,44.961811,979,12/13/2016 10:16am,Snow Emergency,"2017 PILLSBURY AV S,Minneapolis,MN",44.961811,-93.280925,10,Whittier,Powderhorn,3,3
+-93.297552,44.996036,980,12/13/2016 10:17am,Snow Emergency,"1621 Girard Ave N,Minneapolis,MN",44.996036,-93.297552,5,Near-North,Near-North,3,1
+-93.286795,45.015679,981,12/13/2016 10:18am,Snow Emergency,"3323 6th st n ,Minneapolis,MN",45.015679,-93.286795,4,McKinley,Camden,3,1
+-93.235915,44.939218,982,12/13/2016 10:18am,Snow Emergency,"3507 25th Ave. S.,Minneapolis,MN",44.939218,-93.235915,9,Corcoran,Powderhorn,3,6
+-93.297192,44.978129,983,12/13/2016 10:19am,Snow Emergency,"15 23 Girard ave n,Minneapolis,MN",44.978129,-93.297192,5,Harrison,Near-North,3,3
+-93.268699,45.001335,984,12/13/2016 10:21am,Snow Emergency,"1321 Grand St ne,Minneapolis,MN",45.001335,-93.268699,3,Sheridan,Northeast,3,2
+-93.246582,44.985326,985,12/13/2016 10:21am,Snow Emergency,"415 6th ave se,Minneapolis,MN",44.985326,-93.246582,3,Marcy-Holmes,University,3,4
+-93.286551,45.021836,986,12/13/2016 10:23am,Snow Emergency,"3651 6th st. N. ,Minneapolis,MN",45.021836,-93.286551,4,McKinley,Camden,3,1
+-93.26974,45.005188,987,12/13/2016 10:23am,Snow Emergency,"1701 Grand st ne,Minneapolis,MN",45.005188,-93.26974,3,Sheridan,Northeast,3,2
+-93.298193,44.985784,988,12/13/2016 10:24am,Snow Emergency,"703 Humboldt ave n ,Minneapolis,MN",44.985784,-93.298193,5,Near-North,Near-North,3,1
+-93.257464,44.937931,989,12/13/2016 10:24am,Snow Emergency,"3547 12th ave s,Minneapolis,MN",44.937931,-93.257464,9,Powderhorn,Powderhorn,3,6
+-93.265965,45.008739,990,12/13/2016 10:28am,Snow Emergency,"201 20th ave ne,Minneapolis,MN",45.008739,-93.265965,3,Bottineau,Northeast,3,2
+-93.245846,44.983944,991,12/13/2016 10:28am,Snow Emergency,"321 7th Avenue Southeast,Minneapolis,MN",44.983944,-93.245846,3,Marcy-Holmes,University,3,4
+-93.286251,44.966637,992,12/13/2016 10:28am,Snow Emergency,"431 Clifton pl,Minneapolis,MN",44.966637,-93.286251,7,Loring Park,Central,3,3
+-93.250786,44.931613,993,12/13/2016 10:29am,Snow Emergency,"3921 16th ave s,Minneapolis,MN",44.931613,-93.250786,8,Bancroft,Powderhorn,3,6
+-93.297201,44.996079,994,12/13/2016 10:29am,Snow Emergency,"1623 girard Ave n ,Minneapolis,MN",44.996079,-93.297201,5,Near-North,Near-North,3,1
+-93.245341,44.984913,995,12/13/2016 10:29am,Snow Emergency,"411 7th Ave se,Minneapolis,MN",44.984913,-93.245341,3,Marcy-Holmes,University,3,4
+-93.2967,44.943509,996,12/13/2016 10:30am,Snow Emergency,"3237 GIRARD AVE S,Minneapolis,MN",44.943509,-93.2967,10,CARAG,Calhoun-Isles,3,5
+-93.283938,44.966095,997,12/13/2016 10:32am,Snow Emergency,"323 Clifton av,Minneapolis,MN",44.966095,-93.283938,7,Loring Park,Central,3,3
+-93.245072,44.984913,998,12/13/2016 10:33am,Snow Emergency,"425 7th Ave se,Minneapolis,MN",44.984913,-93.245072,3,Marcy-Holmes,University,3,4
+-93.244427,44.986106,999,12/13/2016 10:33am,Snow Emergency,"521 7th ave se,Minneapolis,MN",44.986106,-93.244427,3,Marcy-Holmes,University,3,4
+-93.284461,44.967281,1000,12/13/2016 10:34am,Snow Emergency,"339 oak Grove st,Minneapolis,MN",44.967281,-93.284461,7,Loring Park,Central,3,3
+-93.245865,45.00907,1001,12/13/2016 01:58pm,Snow Emergency,"959 20th ave ne,Minneapolis,MN",45.00907,-93.245865,1,Windom Park,Northeast,3,2
+-93.31236,44.995428,1002,12/13/2016 01:59pm,Snow Emergency,"1607 Sheridan ave n,Minneapolis,MN",44.995428,-93.31236,5,Willard-Hay,Near-North,3,1
+-93.231278,44.946576,1003,12/13/2016 01:59pm,Snow Emergency,"3107 28th ave,Minneapolis,MN",44.946576,-93.231278,2,Longfellow,Longfellow,3,6
+-93.253953,45.011516,1004,12/13/2016 02:00pm,Snow Emergency,"2311 Madison St ne,Minneapolis,MN",45.011516,-93.253953,1,Holland,Northeast,3,2
+-93.220618,44.98528,1005,12/13/2016 02:00pm,Snow Emergency,"855 23rd ave se,Minneapolis,MN",44.98528,-93.220618,2,Como,University,3,4
+-93.253116,45.010095,1006,12/13/2016 02:02pm,Snow Emergency,"2209 Howard st ne,Minneapolis,MN",45.010095,-93.253116,1,Holland,Northeast,3,2
+-93.217757,44.928768,1007,12/13/2016 02:02pm,Snow Emergency,"3809 41st st e,Minneapolis,MN",44.928768,-93.217757,12,Hiawatha,Longfellow,3,6
+-93.290897,45.01532,1008,12/13/2016 02:02pm,Snow Emergency,"3311 Bryant Ave N. ,Minneapolis,MN",45.01532,-93.290897,4,McKinley,Camden,3,1
+-93.314913,44.986105,1009,12/13/2016 02:03pm,Snow Emergency,"2721 8th Ave n,Minneapolis,MN",44.986105,-93.314913,5,Willard-Hay,Near-North,3,1
+-93.259145,44.9664,1010,12/13/2016 02:03pm,Snow Emergency,"1008 17TH ST E,Minneapolis,MN",44.9664,-93.259145,6,Elliot Park,Central,3,3
+-93.290569,45.013612,1011,12/13/2016 02:05pm,Snow Emergency,"3213 Bryant ave n,Minneapolis,MN",45.013612,-93.290569,4,McKinley,Camden,3,1
+-93.268552,44.963938,1012,12/13/2016 02:06pm,Snow Emergency,"503 19th Street East,Minneapolis,MN",44.963938,-93.268552,6,Ventura Village,Phillips,3,3
+-93.288641,45.038659,1013,12/13/2016 02:06pm,Snow Emergency,"4600 Camden AV no,Minneapolis,MN",45.038659,-93.288641,4,Lind-Bohanon,Camden,3,1
+-93.227251,44.899504,1014,12/13/2016 02:07pm,Snow Emergency,"5737 31 ave s,Minneapolis,MN",44.899504,-93.227251,11,Wenonah,Nokomis,3,6
+-93.24682,45.009066,1015,12/13/2016 02:11pm,Snow Emergency,"931 20th ave ne,Minneapolis,MN",45.009066,-93.24682,1,Windom Park,Northeast,3,2
+-93.276276,44.924638,1016,12/13/2016 02:11pm,Snow Emergency,"4311 1st Ave s,Minneapolis,MN",44.924638,-93.276276,8,Kingfield,Southwest,3,5
+-93.266399,44.966715,1017,12/13/2016 02:11pm,Snow Emergency,"625 16th st e,Minneapolis,MN",44.966715,-93.266399,6,Elliot Park,Central,3,3
+-93.288471,45.002566,1018,12/13/2016 02:11pm,Snow Emergency,"709 23rd Ave n ,Minneapolis,MN",45.002566,-93.288471,5,Hawthorne,Near-North,3,1
+-93.231106,44.946847,1019,12/13/2016 02:12pm,Snow Emergency,"2829 31st st e ,Minneapolis,MN",44.946847,-93.231106,2,Longfellow,Longfellow,3,6
+-93.233804,44.985301,1020,12/13/2016 02:13pm,Snow Emergency,"817 13th Avenue Southeast,Minneapolis,MN",44.985301,-93.233804,3,Marcy-Holmes,University,3,4
+-93.246814,45.008909,1021,12/13/2016 02:13pm,Snow Emergency,"933 20th ave ne,Minneapolis,MN",45.008909,-93.246814,1,Windom Park,Northeast,3,2
+-93.246481,44.937725,1022,12/13/2016 02:12pm,Snow Emergency,"1841 - 36TH ST E,Minneapolis,MN",44.937725,-93.246481,12,Standish,Powderhorn,3,6
+-93.290056,45.000225,1023,12/13/2016 02:15pm,Snow Emergency,"803 21st Ave n ,Minneapolis,MN",45.000225,-93.290056,5,Hawthorne,Near-North,3,1
+-93.292034,44.993047,1024,12/13/2016 02:15pm,Snow Emergency,"927 14th Ave n ,Minneapolis,MN",44.993047,-93.292034,5,Near-North,Near-North,3,1
+-93.249697,44.98865,1025,12/13/2016 02:17pm,Snow Emergency,"301 6th st se,Minneapolis,MN",44.98865,-93.249697,3,Marcy-Holmes,University,3,4
+-93.233225,44.982098,1026,12/13/2016 02:19pm,Snow Emergency,"1421 6th st se,Minneapolis,MN",44.982098,-93.233225,3,Marcy-Holmes,University,3,4
+-93.266914,44.967154,1027,12/13/2016 02:20pm,Snow Emergency,"613 16th st e,Minneapolis,MN",44.967154,-93.266914,6,Elliot Park,Central,3,3
+-93.290817,45.01392,1028,12/13/2016 02:20pm,Snow Emergency,"3223 Bryant Ave n,Minneapolis,MN",45.01392,-93.290817,4,McKinley,Camden,3,1
+-93.248561,44.91943,1029,12/13/2016 02:21pm,Snow Emergency,"4605 18th ave so,Minneapolis,MN",44.91943,-93.248561,11,Northrop,Nokomis,3,6
+-93.247454,44.984216,1030,12/13/2016 02:22pm,Snow Emergency,"309 6th Ave se ,Minneapolis,MN",44.984216,-93.247454,3,Marcy-Holmes,University,3,4
+-93.233443,44.98218,1031,12/13/2016 02:22pm,Snow Emergency,"1411 6th st se,Minneapolis,MN",44.98218,-93.233443,3,Marcy-Holmes,University,3,4
+-93.249464,44.988556,1032,12/13/2016 02:23pm,Snow Emergency,"305 6th st se,Minneapolis,MN",44.988556,-93.249464,3,Marcy-Holmes,University,3,4
+-93.233356,44.982147,1033,12/13/2016 02:23pm,Snow Emergency,"1415 6th st se,Minneapolis,MN",44.982147,-93.233356,3,Marcy-Holmes,University,3,4
+-93.304677,45.006515,1034,12/13/2016 02:24pm,Snow Emergency,"2615 Morgan Ave n,Minneapolis,MN",45.006515,-93.304677,5,Jordan,Near-North,3,1
+-93.232992,44.98201,1035,12/13/2016 02:24pm,Snow Emergency,"1431 6th St se,Minneapolis,MN",44.98201,-93.232992,3,Marcy-Holmes,University,3,4
+-93.290853,45.01369,1036,12/13/2016 02:26pm,Snow Emergency,"3215 Bryant ave n,Minneapolis,MN",45.01369,-93.290853,4,McKinley,Camden,3,1
+-93.290909,45.017386,1037,12/13/2016 02:27pm,Snow Emergency,"3417 Bryant Ave. N. ,Minneapolis,MN",45.017386,-93.290909,4,McKinley,Camden,3,1
+-93.290861,44.982888,1038,12/13/2016 02:27pm,Snow Emergency,"511 bryant av n,Minneapolis,MN",44.982888,-93.290861,5,Sumner-Glenwood,Near-North,3,3
+-93.297308,44.990817,1039,12/13/2016 02:29pm,Snow Emergency,"1215 12th Ave N,Minneapolis,MN",44.990817,-93.297308,5,Near-North,Near-North,3,1
+-93.249101,45.012316,1040,12/13/2016 02:32pm,Snow Emergency,"2417 Jackson st ne,Minneapolis,MN",45.012316,-93.249101,1,Holland,Northeast,3,2
+-93.298114,44.994139,1041,12/13/2016 02:33pm,Snow Emergency,"1325 15th Ave n ,Minneapolis,MN",44.994139,-93.298114,5,Near-North,Near-North,3,1
+-93.293045,44.980294,1042,12/13/2016 02:39pm,Snow Emergency,"315 dupont av n,Minneapolis,MN",44.980294,-93.293045,5,Sumner-Glenwood,Near-North,3,3
+-93.290855,44.983089,1043,12/13/2016 02:40pm,Snow Emergency,"527 BRYANT AVE N,Minneapolis,MN",44.983089,-93.290855,5,Sumner-Glenwood,Near-North,3,3
+-93.251802,44.963746,1044,12/13/2016 02:40pm,Snow Emergency,"1809 19th St e,Minneapolis,MN",44.963746,-93.251802,6,Ventura Village,Phillips,3,3
+-93.266141,44.965204,1045,12/13/2016 02:43pm,Snow Emergency,"627 18th St e,Minneapolis,MN",44.965204,-93.266141,6,Ventura Village,Phillips,3,3
+-93.245211,45.015773,1046,12/13/2016 02:44pm,Snow Emergency,"2623 Polk st ne,Minneapolis,MN",45.015773,-93.245211,1,Audubon Park,Northeast,3,2
+-93.293316,45.008031,1047,12/13/2016 02:45pm,Snow Emergency,"2707 dupont Ave n ,Minneapolis,MN",45.008031,-93.293316,5,Hawthorne,Near-North,3,1
+-93.240951,45.025239,1048,12/13/2016 02:46pm,Snow Emergency,"3141 Pierce st ne,Minneapolis,MN",45.025239,-93.240951,1,Waite Park,Northeast,3,2
+-93.2957,45.007742,1049,12/13/2016 02:48pm,Snow Emergency,"1319 27th Ave n,Minneapolis,MN",45.007742,-93.2957,5,Jordan,Near-North,3,1
+-93.271097,45.018153,1050,12/13/2016 02:48pm,Snow Emergency,"2747 Randolph St ne,Minneapolis,MN",45.018153,-93.271097,1,Marshall Terrace,Northeast,3,2
+-93.295981,44.982831,1051,12/13/2016 02:49pm,Snow Emergency,"477 girard TER,Minneapolis,MN",44.982831,-93.295981,5,Harrison,Near-North,3,3
+-93.253977,45.015867,1052,12/13/2016 02:51pm,Snow Emergency,"2631 Madison st ne,Minneapolis,MN",45.015867,-93.253977,1,Holland,Northeast,3,2
+-93.234544,44.966877,1053,12/13/2016 02:51pm,Snow Emergency,"641 26th ave ne,Minneapolis,MN",44.966877,-93.234544,2,Cedar Riverside,University,3,4
+-93.247051,44.984728,1054,12/13/2016 02:52pm,Snow Emergency,"329 6th Ave se,Minneapolis,MN",44.984728,-93.247051,3,Marcy-Holmes,University,3,4
+-93.286553,45.02393,1055,12/13/2016 10:34am,Snow Emergency,"3801 6th st n,Minneapolis,MN",45.02393,-93.286553,4,Webber-Camden,Camden,3,1
+-93.297632,44.990817,1056,12/13/2016 02:53pm,Snow Emergency,"1301 12th Ave. N.,Minneapolis,MN",44.990817,-93.297632,5,Near-North,Near-North,3,1
+-93.293248,44.938803,1057,12/13/2016 02:54pm,Snow Emergency,"3521 DuPont Ave s,Minneapolis,MN",44.938803,-93.293248,10,CARAG,Calhoun-Isles,3,5
+-93.311004,44.993321,1058,12/13/2016 02:54pm,Snow Emergency,"2417 14th ave n,Minneapolis,MN",44.993321,-93.311004,5,Willard-Hay,Near-North,3,1
+-93.284162,44.962524,1059,12/13/2016 02:55pm,Snow Emergency,"2005 grand ave s,Minneapolis,MN",44.962524,-93.284162,10,Whittier,Powderhorn,3,3
+-93.283863,44.96109,1060,12/13/2016 02:57pm,Snow Emergency,"2127 grand ave s,Minneapolis,MN",44.96109,-93.283863,10,Whittier,Powderhorn,3,3
+-93.245217,45.0177,1061,12/13/2016 02:57pm,Snow Emergency,"2727 Polk St ne,Minneapolis,MN",45.0177,-93.245217,1,Audubon Park,Northeast,3,2
+-93.227243,44.90056,1062,12/13/2016 02:59pm,Snow Emergency,"5701 31 ave s,Minneapolis,MN",44.90056,-93.227243,11,Wenonah,Nokomis,3,6
+-93.309874,45.010639,1063,12/13/2016 02:59pm,Snow Emergency,"2935 queen ave n,Minneapolis,MN",45.010639,-93.309874,4,Jordan,Near-North,3,1
+-93.231307,44.946849,1064,12/13/2016 02:59pm,Snow Emergency,"2817 31st st e,Minneapolis,MN",44.946849,-93.231307,2,Longfellow,Longfellow,3,6
+-93.296704,44.943254,1065,12/13/2016 10:35am,Snow Emergency,"3245 GIRARD AVE S,Minneapolis,MN",44.943254,-93.296704,10,CARAG,Calhoun-Isles,3,5
+-93.297069,45.034985,1066,12/13/2016 12:09pm,Snow Emergency,"4357 girard Ave n,Minneapolis,MN",45.034985,-93.297069,4,Webber-Camden,Camden,3,1
+-93.299232,44.944884,1067,12/13/2016 10:35am,Snow Emergency,"3149 Holmes ave s,Minneapolis,MN",44.944884,-93.299232,10,ECCO,Calhoun-Isles,3,5
+-93.299396,45.014977,1068,12/13/2016 03:00pm,Snow Emergency,"1601 33rd Ave n,Minneapolis,MN",45.014977,-93.299396,4,Folwell,Camden,3,1
+-93.286615,44.945297,1069,12/13/2016 12:11pm,Snow Emergency,"3137 Garfield Ave s,Minneapolis,MN",44.945297,-93.286615,8,Lyndale,Powderhorn,3,5
+-93.282275,44.966398,1070,12/13/2016 10:35am,Snow Emergency,"227 oak Grove st,Minneapolis,MN",44.966398,-93.282275,7,Loring Park,Central,3,3
+-93.252506,44.989727,1071,12/13/2016 03:00pm,Snow Emergency,"1 429 6th St se ,Minneapolis,MN",44.989727,-93.252506,3,Marcy-Holmes,University,3,2
+-93.246211,44.983489,1072,12/13/2016 12:11pm,Snow Emergency,"305 7th ave se,Minneapolis,MN",44.983489,-93.246211,3,Marcy-Holmes,University,3,4
+-93.291428,44.964233,1073,12/13/2016 10:36am,Snow Emergency,"1901 Colfax s,Minneapolis,MN",44.964233,-93.291428,7,Lowry Hill,Calhoun-Isles,3,3
+-93.293015,44.938342,1074,12/13/2016 03:01pm,Snow Emergency,"3537 DuPont Ave s,Minneapolis,MN",44.938342,-93.293015,10,CARAG,Calhoun-Isles,3,5
+-93.24296,44.98523,1075,12/13/2016 12:13pm,Snow Emergency,"508 8th Ave se,Minneapolis,MN",44.98523,-93.24296,3,Marcy-Holmes,University,3,4
+-93.265854,44.973536,1076,12/13/2016 03:02pm,Snow Emergency,"715 5TH av s,Minneapolis,MN",44.973536,-93.265854,7,Downtown West,Central,3,3
+-93.298583,45.031935,1077,12/13/2016 12:14pm,Snow Emergency,"4217 Humboldt ave n,Minneapolis,MN",45.031935,-93.298583,4,Webber-Camden,Camden,3,1
+-93.286821,45.02335,1078,12/13/2016 10:37am,Snow Emergency,"3743 6th st n,Minneapolis,MN",45.02335,-93.286821,4,McKinley,Camden,3,1
+-93.233067,44.982038,1079,12/13/2016 03:04pm,Snow Emergency,"1427 6th St se,Minneapolis,MN",44.982038,-93.233067,3,Marcy-Holmes,University,3,4
+-93.244737,44.983016,1080,12/13/2016 12:14pm,Snow Emergency,"307 8th Ave sE,Minneapolis,MN",44.983016,-93.244737,3,Marcy-Holmes,University,3,4
+-93.296678,44.946164,1081,12/13/2016 10:38am,Snow Emergency,"3109 girard ave s,Minneapolis,MN",44.946164,-93.296678,10,CARAG,Calhoun-Isles,3,5
+-93.295713,45.007742,1082,12/13/2016 03:04pm,Snow Emergency,"1321 27th Ave n ,Minneapolis,MN",45.007742,-93.295713,5,Jordan,Near-North,3,1
+-93.248863,45.010273,1083,12/13/2016 12:15pm,Snow Emergency,"2209 jackson st ne,Minneapolis,MN",45.010273,-93.248863,1,Holland,Northeast,3,2
+-93.249538,44.929618,1084,12/13/2016 10:38am,Snow Emergency,"4023 17ave s,Minneapolis,MN",44.929618,-93.249538,8,Bancroft,Powderhorn,3,6
+-93.245546,45.016824,1085,12/13/2016 03:05pm,Snow Emergency,"2701 polk st ne,Minneapolis,MN",45.016824,-93.245546,1,Audubon Park,Northeast,3,2
+-93.285321,44.944115,1086,12/13/2016 12:15pm,Snow Emergency,"3217 Harriet Ave s,Minneapolis,MN",44.944115,-93.285321,8,Lyndale,Powderhorn,3,5
+-93.29286,44.963247,1087,12/13/2016 10:39am,Snow Emergency,"1933 dupont s,Minneapolis,MN",44.963247,-93.29286,7,Lowry Hill,Calhoun-Isles,3,3
+-93.269823,44.92723,1088,12/13/2016 03:05pm,Snow Emergency,"4149 4th ave S,Minneapolis,MN",44.92723,-93.269823,8,Bryant,Powderhorn,3,5
+-93.291332,45.004129,1089,12/13/2016 12:16pm,Snow Emergency,"2409 Bryant Ave n ,Minneapolis,MN",45.004129,-93.291332,5,Hawthorne,Near-North,3,1
+-93.297493,44.998277,1090,12/13/2016 10:40am,Snow Emergency,"1829 Girard Ave N,Minneapolis,MN",44.998277,-93.297493,5,Near-North,Near-North,3,1
+-93.244779,45.020806,1091,12/13/2016 03:07pm,Snow Emergency,"2913 Polk st ne,Minneapolis,MN",45.020806,-93.244779,1,Audubon Park,Northeast,3,2
+-93.253481,44.997369,1092,12/13/2016 10:40am,Snow Emergency,"713 Madison St ne,Minneapolis,MN",44.997369,-93.253481,3,St. Anthony East,Northeast,3,2
+-93.290886,45.009261,1093,12/13/2016 12:16pm,Snow Emergency,"2823 Bryant ave n,Minneapolis,MN",45.009261,-93.290886,5,Hawthorne,Near-North,3,1
+-93.21146,44.919952,1094,12/13/2016 03:08pm,Snow Emergency,"4555 43rd ave s,Minneapolis,MN",44.919952,-93.21146,12,Hiawatha,Longfellow,3,6
+-93.283938,44.966095,1095,12/13/2016 10:42am,Snow Emergency,"329 clifton av ,Minneapolis,MN",44.966095,-93.283938,7,Loring Park,Central,3,3
+-93.244641,44.983141,1096,12/13/2016 12:17pm,Snow Emergency,"311 8th Ave sE,Minneapolis,MN",44.983141,-93.244641,3,Marcy-Holmes,University,3,4
+-93.248624,45.013687,1097,12/13/2016 03:08pm,Snow Emergency,"2515 Jackson st ne,Minneapolis,MN",45.013687,-93.248624,1,Holland,Northeast,3,2
+-93.293123,45.022692,1098,12/13/2016 03:09pm,Snow Emergency,"3717 DuPont Ave N. ,Minneapolis,MN",45.022692,-93.293123,4,Folwell,Camden,3,1
+-93.226595,44.935472,1099,12/13/2016 12:18pm,Snow Emergency,"3713 Snelling Ave s,Minneapolis,MN",44.935472,-93.226595,12,Howe,Longfellow,3,6
+-93.2338,44.985305,1100,12/13/2016 03:11pm,Snow Emergency,"821 13th Ave se,Minneapolis,MN",44.985305,-93.2338,3,Marcy-Holmes,University,3,4
+-93.26532,45.00855,1101,12/13/2016 10:43am,Snow Emergency,"215 20th ave ne,Minneapolis,MN",45.00855,-93.26532,3,Bottineau,Northeast,3,2
+-93.243267,44.985244,1102,12/13/2016 12:19pm,Snow Emergency,"509 8th ave se,Minneapolis,MN",44.985244,-93.243267,3,Marcy-Holmes,University,3,4
+-93.244363,45.011159,1103,12/13/2016 03:17pm,Snow Emergency,"1021 23rd Ave n,Minneapolis,MN",45.011159,-93.244363,1,Windom Park,Northeast,3,2
+-93.297943,44.958073,1104,12/13/2016 10:44am,Snow Emergency,"2431 humbolr ave s,Minneapolis,MN",44.958073,-93.297943,7,East Isles,Calhoun-Isles,3,3
+-93.234398,44.938228,1105,12/13/2016 12:22pm,Snow Emergency,"3543 26th ave s,Minneapolis,MN",44.938228,-93.234398,9,Corcoran,Powderhorn,3,6
+-93.290844,45.01881,1106,12/13/2016 03:19pm,Snow Emergency,"3507 Bryant ave n,Minneapolis,MN",45.01881,-93.290844,4,McKinley,Camden,3,1
+-93.2474,44.984284,1107,12/13/2016 10:45am,Snow Emergency,"311 6th Ave se,Minneapolis,MN",44.984284,-93.2474,3,Marcy-Holmes,University,3,4
+-93.242299,44.944171,1108,12/13/2016 12:23pm,Snow Emergency,"3213 - 21ST AV S,Minneapolis,MN",44.944171,-93.242299,9,Corcoran,Powderhorn,3,6
+-93.290288,45.000225,1109,12/13/2016 03:20pm,Snow Emergency,"807 21st Ave n,Minneapolis,MN",45.000225,-93.290288,5,Hawthorne,Near-North,3,1
+-93.260237,45.00559,1110,12/13/2016 10:46am,Snow Emergency,"1709 5th st ne,Minneapolis,MN",45.00559,-93.260237,1,Holland,Northeast,3,2
+-93.248914,44.985005,1111,12/13/2016 12:25pm,Snow Emergency,"311 5th Ave se,Minneapolis,MN",44.985005,-93.248914,3,Marcy-Holmes,University,3,4
+-93.298323,44.982889,1112,12/13/2016 03:21pm,Snow Emergency,"505 Humboldt av n,Minneapolis,MN",44.982889,-93.298323,5,Harrison,Near-North,3,3
+-93.23114,44.989023,1113,12/13/2016 10:46am,Snow Emergency,"1041 15th ave se,Minneapolis,MN",44.989023,-93.23114,1,Como,University,3,4
+-93.26562,44.965205,1114,12/13/2016 12:25pm,Snow Emergency,"641 18th St e,Minneapolis,MN",44.965205,-93.26562,6,Ventura Village,Phillips,3,3
+-93.294863,45.007737,1115,12/13/2016 03:22pm,Snow Emergency,"1221 27th ave n,Minneapolis,MN",45.007737,-93.294863,5,Jordan,Near-North,3,1
+-93.265336,45.010247,1116,12/13/2016 10:47am,Snow Emergency,"217 22nd ave ne,Minneapolis,MN",45.010247,-93.265336,3,Bottineau,Northeast,3,2
+-93.305919,44.999196,1117,12/13/2016 12:26pm,Snow Emergency,"1913 newton Ave n ,Minneapolis,MN",44.999196,-93.305919,5,Willard-Hay,Near-North,3,1
+-93.227241,44.985554,1118,12/13/2016 03:25pm,Snow Emergency,"931 18th AVE SE,Minneapolis,MN",44.985554,-93.227241,2,Como,University,3,4
+-93.253502,44.944871,1119,12/13/2016 10:49am,Snow Emergency,"3159 15th av s,Minneapolis,MN",44.944871,-93.253502,9,Powderhorn,Powderhorn,3,6
+-93.240157,44.966534,1120,12/13/2016 12:27pm,Snow Emergency,"623 22nd ave ne,Minneapolis,MN",44.966534,-93.240157,2,Cedar Riverside,University,3,4
+-93.265911,44.963938,1121,12/13/2016 03:25pm,Snow Emergency,"637 19th st E ,Minneapolis,MN",44.963938,-93.265911,6,Ventura Village,Phillips,3,3
+-93.307311,44.985491,1122,12/13/2016 12:28pm,Snow Emergency,"711 Oliver Ave., North,MN",44.985491,-93.307311,5,Near-North,Near-North,3,1
+-93.289622,45.026898,1123,12/13/2016 10:50am,Snow Emergency,"3939 Aldrich ave n,Minneapolis,MN",45.026898,-93.289622,4,Webber-Camden,Camden,3,1
+-93.298794,45.007761,1124,12/13/2016 03:30pm,Snow Emergency,"1509 27th Ave n ,Minneapolis,MN",45.007761,-93.298794,5,Jordan,Near-North,3,1
+-93.265861,44.963938,1125,12/13/2016 12:28pm,Snow Emergency,"641 19th St e,Minneapolis,MN",44.963938,-93.265861,6,Ventura Village,Phillips,3,3
+-93.234614,44.989095,1126,12/13/2016 10:51am,Snow Emergency,"1043 12th Ave SE,Minneapolis,MN",44.989095,-93.234614,2,Como,University,3,4
+-93.226947,44.985944,1127,12/13/2016 03:31pm,Snow Emergency,"945 18th ave se,Minneapolis,MN",44.985944,-93.226947,2,Como,University,3,4
+-93.24306,44.985537,1128,12/13/2016 12:28pm,Snow Emergency,"521 8th Avenue Southeast ,Minneapolis,MN",44.985537,-93.24306,3,Marcy-Holmes,University,3,4
+-93.245912,44.983862,1129,12/13/2016 10:54am,Snow Emergency,"313 7th Avenue Southeast ,Minneapolis,MN",44.983862,-93.245912,3,Marcy-Holmes,University,3,4
+-93.246643,44.988878,1130,12/13/2016 03:32pm,Snow Emergency,"415 7th st se,Minneapolis,MN",44.988878,-93.246643,3,Marcy-Holmes,University,3,4
+-93.248846,45.006417,1131,12/13/2016 12:29pm,Snow Emergency,"1813 Jackson st ne,Minneapolis,MN",45.006417,-93.248846,1,Logan Park,Northeast,3,2
+-93.233687,44.988432,1132,12/13/2016 10:54am,Snow Emergency,"1019 13th Ave SE,Minneapolis,MN",44.988432,-93.233687,2,Como,University,3,4
+-93.245761,45.021309,1133,12/13/2016 03:33pm,Snow Emergency,"2931 Tyler st ne,Minneapolis,MN",45.021309,-93.245761,1,Audubon Park,Northeast,3,2
+-93.275267,44.960827,1134,12/13/2016 12:30pm,Snow Emergency,"2209 stevens av s,Minneapolis,MN",44.960827,-93.275267,10,Whittier,Powderhorn,3,3
+-93.249943,44.948208,1135,12/13/2016 10:55am,Snow Emergency,"3005 17th ave so,Minneapolis,MN",44.948208,-93.249943,9,Powderhorn,Powderhorn,3,6
+-93.298215,44.983169,1136,12/13/2016 03:35pm,Snow Emergency,"509 HUMBOLDT AVE N,Minneapolis,MN",44.983169,-93.298215,5,Harrison,Near-North,3,3
+-93.250578,45.011111,1137,12/13/2016 12:32pm,Snow Emergency,"2303 Quincy St ne,Minneapolis,MN",45.011111,-93.250578,1,Holland,Northeast,3,2
+-93.247454,44.984216,1138,12/13/2016 10:56am,Snow Emergency,"309 6th ave se,Minneapolis,MN",44.984216,-93.247454,3,Marcy-Holmes,University,3,4
+-93.293071,45.008286,1139,12/13/2016 03:37pm,Snow Emergency,"2717 DUPONT AVE N,Minneapolis,MN",45.008286,-93.293071,5,Hawthorne,Near-North,3,1
+-93.282553,44.947286,1140,12/13/2016 12:32pm,Snow Emergency,"3027 pleasant Ave s,Minneapolis,MN",44.947286,-93.282553,8,Lyndale,Powderhorn,3,5
+-93.286772,44.963211,1141,12/13/2016 10:58am,Snow Emergency,"601 RIDGEWOOD AVE S,Minneapolis,MN",44.963211,-93.286772,7,Stevens Square,Central,3,3
+-93.309856,45.002935,1142,12/13/2016 03:38pm,Snow Emergency,"2321 queen ave n,Minneapolis,MN",45.002935,-93.309856,5,Willard-Hay,Near-North,3,1
+-93.297196,45.020845,1143,12/13/2016 12:33pm,Snow Emergency,"3615 Girard Ave n ,Minneapolis,MN",45.020845,-93.297196,4,Folwell,Camden,3,1
+-93.286551,45.021877,1144,12/13/2016 10:58am,Snow Emergency,"3653 6th st n,Minneapolis,MN",45.021877,-93.286551,4,McKinley,Camden,3,1
+-93.252244,44.916072,1145,12/13/2016 03:38pm,Snow Emergency,"1535 48th st e,Minneapolis,MN",44.916072,-93.252244,11,Northrop,Nokomis,3,6
+-93.221858,44.98444,1146,12/13/2016 12:34pm,Snow Emergency,"825 22nd ave,Minneapolis,MN",44.98444,-93.221858,2,Como,University,3,4
+-93.26133,44.942295,1147,12/13/2016 10:59am,Snow Emergency,"3335 elliot,Minneapolis,MN",44.942295,-93.26133,9,Powderhorn,Powderhorn,3,6
+-93.298215,44.983169,1148,12/13/2016 03:39pm,Snow Emergency,"509 Humboldt av n,Minneapolis,MN",44.983169,-93.298215,5,Harrison,Near-North,3,3
+-93.297136,45.009198,1149,12/13/2016 12:34pm,Snow Emergency,"2819 girard Ave n,Minneapolis,MN",45.009198,-93.297136,5,Jordan,Near-North,3,1
+-93.243979,44.984462,1150,12/13/2016 11:00am,Snow Emergency,"417 8th Ave s,Minneapolis,MN",44.984462,-93.243979,3,Marcy-Holmes,University,3,4
+-93.298216,44.983364,1151,12/13/2016 03:39pm,Snow Emergency,"523 HUMBOLDT AVE N,Minneapolis,MN",44.983364,-93.298216,5,Harrison,Near-North,3,3
+-93.276684,44.965206,1152,12/13/2016 12:36pm,Snow Emergency,"93 18th st 3,Minneapolis,MN",44.965206,-93.276684,6,Stevens Square,Central,3,3
+-93.258418,44.939857,1153,12/13/2016 11:00am,Snow Emergency,"3451 11th ave,Minneapolis,MN",44.939857,-93.258418,9,Powderhorn,Powderhorn,3,6
+-93.244524,45.025954,1154,12/13/2016 03:40pm,Snow Emergency,"3201 polk st ne,Minneapolis,MN",45.025954,-93.244524,1,Waite Park,Northeast,3,2
+-93.226817,44.935779,1155,12/13/2016 12:37pm,Snow Emergency,"3705 Snelling Ave. S. ,Minneapolis,MN",44.935779,-93.226817,12,Howe,Longfellow,3,6
+-93.283842,44.966065,1156,12/13/2016 11:01am,Snow Emergency,"215 clifton av s,Minneapolis,MN",44.966065,-93.283842,7,Loring Park,Central,3,3
+-93.285199,44.959863,1157,12/13/2016 03:43pm,Snow Emergency,"2305 harriet ave s,Minneapolis,MN",44.959863,-93.285199,10,Whittier,Powderhorn,3,3
+-93.285129,44.961864,1158,12/13/2016 03:44pm,Snow Emergency,"2025 harriet ave s,Minneapolis,MN",44.961864,-93.285129,10,Whittier,Powderhorn,3,3
+-93.29202,44.938105,1159,12/13/2016 03:46pm,Snow Emergency,"3547 COLFAX AVE S,Minneapolis,MN",44.938105,-93.29202,10,CARAG,Calhoun-Isles,3,5
+-93.307356,44.981574,1160,12/13/2016 03:48pm,Snow Emergency,"2103 4th ave n,Minneapolis,MN",44.981574,-93.307356,5,Harrison,Near-North,3,3
+-93.293335,45.009077,1161,12/13/2016 03:48pm,Snow Emergency,"2815 DuPont Ave n,Minneapolis,MN",45.009077,-93.293335,5,Hawthorne,Near-North,3,1
+-93.239396,44.99782,1162,12/13/2016 03:49pm,Snow Emergency,"731 Buchanan st ne,Minneapolis,MN",44.99782,-93.239396,3,Beltrami,Northeast,3,2
+-93.295647,45.009539,1163,12/13/2016 03:50pm,Snow Emergency,"1307 29th Ave n,Minneapolis,MN",45.009539,-93.295647,5,Jordan,Near-North,3,1
+-93.291832,45.00952,1164,12/13/2016 03:51pm,Snow Emergency,"1003 29th Ave n ,Minneapolis,MN",45.00952,-93.291832,5,Hawthorne,Near-North,3,1
+-93.295769,44.944947,1165,12/13/2016 03:52pm,Snow Emergency,"3153 Fremont Ave s,Minneapolis,MN",44.944947,-93.295769,10,CARAG,Calhoun-Isles,3,5
+-93.247345,44.984353,1166,12/13/2016 11:01am,Snow Emergency,"313 6th ave se,Minneapolis,MN",44.984353,-93.247345,3,Marcy-Holmes,University,3,4
+-93.238317,44.984213,1167,12/13/2016 12:38pm,Snow Emergency,"603 11th ave se,Minneapolis,MN",44.984213,-93.238317,3,Marcy-Holmes,University,3,4
+-93.30451,44.984535,1168,12/13/2016 03:52pm,Snow Emergency,"1711 olson mem hwy,Minneapolis,MN",44.984535,-93.30451,5,Near-North,Near-North,3,1
+-93.295756,45.00954,1169,12/13/2016 03:53pm,Snow Emergency,"1325 29th Ave n,Minneapolis,MN",45.00954,-93.295756,5,Jordan,Near-North,3,1
+-93.291988,44.940284,1170,12/13/2016 03:54pm,Snow Emergency,"3431 Colfax Ave s,Minneapolis,MN",44.940284,-93.291988,10,CARAG,Calhoun-Isles,3,5
+-93.224758,44.932333,1171,12/13/2016 12:39pm,Snow Emergency,"3231 39th st e,Minneapolis,MN",44.932333,-93.224758,12,Howe,Longfellow,3,6
+-93.283848,44.966067,1172,12/13/2016 11:01am,Snow Emergency,"221 CLIFTON AVE,Minneapolis,MN",44.966067,-93.283848,7,Loring Park,Central,3,3
+-93.235089,44.985952,1173,12/13/2016 03:55pm,Snow Emergency,"811 12th Ave se ,Minneapolis,MN",44.985952,-93.235089,3,Marcy-Holmes,University,3,4
+-93.306964,44.999616,1174,12/13/2016 12:40pm,Snow Emergency,"1925 Oliver ave n,Minneapolis,MN",44.999616,-93.306964,5,Willard-Hay,Near-North,3,1
+-93.243894,44.984569,1175,12/13/2016 11:03am,Snow Emergency,"419 8th Ave se,Minneapolis,MN",44.984569,-93.243894,3,Marcy-Holmes,University,3,4
+-93.298215,44.983197,1176,12/13/2016 03:56pm,Snow Emergency,"511 Humboldt n,Minneapolis,MN",44.983197,-93.298215,5,Harrison,Near-North,3,3
+-93.257723,45.010192,1177,12/13/2016 12:41pm,Snow Emergency,"619 22nd ave ne,Minneapolis,MN",45.010192,-93.257723,1,Holland,Northeast,3,2
+-93.28966,45.022482,1178,12/13/2016 11:03am,Snow Emergency,"3711 Aldrich Ave n ,Minneapolis,MN",45.022482,-93.28966,4,McKinley,Camden,3,1
+-93.233802,44.985303,1179,12/13/2016 03:59pm,Snow Emergency,"819 13th Ave se,Minneapolis,MN",44.985303,-93.233802,3,Marcy-Holmes,University,3,4
+-93.242981,44.985633,1180,12/13/2016 12:41pm,Snow Emergency,"525 8th Ave se,Minneapolis,MN",44.985633,-93.242981,3,Marcy-Holmes,University,3,4
+-93.260336,45.014441,1181,12/13/2016 11:04am,Snow Emergency,"2545 5th ST ne,Minneapolis,MN",45.014441,-93.260336,1,Holland,Northeast,3,2
+-93.310001,44.981846,1182,12/13/2016 03:59pm,Snow Emergency,"407 queen n,Minneapolis,MN",44.981846,-93.310001,5,Harrison,Near-North,3,3
+-93.246569,44.937725,1183,12/13/2016 12:42pm,Snow Emergency,"1839 36th st E,Minneapolis,MN",44.937725,-93.246569,12,Standish,Powderhorn,3,6
+-93.289649,45.019297,1184,12/13/2016 11:05am,Snow Emergency,"3523 Aldrich Ave. n. ,Minneapolis,MN",45.019297,-93.289649,4,McKinley,Camden,3,1
+-93.302039,45.002167,1185,12/13/2016 04:06pm,Snow Emergency,"1637 Hillside Ave N,Minneapolis,MN",45.002167,-93.302039,5,Jordan,Near-North,3,1
+-93.299453,44.997731,1186,12/13/2016 12:43pm,Snow Emergency,"1809 Irving ave n,Minneapolis,MN",44.997731,-93.299453,5,Willard-Hay,Near-North,3,1
+-93.257342,45.011076,1187,12/13/2016 11:05am,Snow Emergency,"631 23rd ave ne,Minneapolis,MN",45.011076,-93.257342,1,Holland,Northeast,3,2
+-93.309733,44.980726,1188,12/13/2016 04:08pm,Snow Emergency,"301 queen ave n,Minneapolis,MN",44.980726,-93.309733,5,Harrison,Near-North,3,3
+-93.311308,44.986676,1189,12/13/2016 12:43pm,Snow Emergency,"819 Russell Ave n ,Minneapolis,MN",44.986676,-93.311308,5,Willard-Hay,Near-North,3,1
+-93.244196,44.986019,1190,12/13/2016 11:06am,Snow Emergency,"527 7th ave se,Minneapolis,MN",44.986019,-93.244196,3,Marcy-Holmes,University,3,4
+-93.239448,44.997382,1191,12/13/2016 04:11pm,Snow Emergency,"715 BUCHANAN ST NE,Minneapolis,MN",44.997382,-93.239448,3,Beltrami,Northeast,3,2
+-93.249499,44.936522,1192,12/13/2016 12:44pm,Snow Emergency,"3641 17th ave S,Minneapolis,MN",44.936522,-93.249499,9,Powderhorn,Powderhorn,3,6
+-93.30926,44.973804,1193,12/13/2016 04:12pm,Snow Emergency,"253 queen av s,Minneapolis,MN",44.973804,-93.30926,7,Bryn-Mawr,Calhoun-Isles,3,3
+-93.299442,44.998834,1194,12/13/2016 11:06am,Snow Emergency,"1919 Irving ave n,Minneapolis,MN",44.998834,-93.299442,5,Willard-Hay,Near-North,3,1
+-93.26763,44.963938,1195,12/13/2016 12:45pm,Snow Emergency,"601 19th St e,Minneapolis,MN",44.963938,-93.26763,6,Ventura Village,Phillips,3,3
+-93.240289,44.942523,1196,12/13/2016 11:06am,Snow Emergency,"3309 22nd Ave. S.,Minneapolis,MN",44.942523,-93.240289,9,Corcoran,Powderhorn,3,6
+-93.28519,44.961541,1197,12/13/2016 04:15pm,Snow Emergency,"2109 harriet ave s,Minneapolis,MN",44.961541,-93.28519,10,Whittier,Powderhorn,3,3
+-93.241517,44.987724,1198,12/13/2016 12:46pm,Snow Emergency,"729 8th Ave s,Minneapolis,MN",44.987724,-93.241517,3,Marcy-Holmes,University,3,4
+-93.300721,44.987694,1199,12/13/2016 11:07am,Snow Emergency,"1005 James Avenue North ,Minneapolis,MN",44.987694,-93.300721,5,Near-North,Near-North,3,1
+-93.285448,44.962028,1200,12/13/2016 04:17pm,Snow Emergency,"2019 harriet ave s,Minneapolis,MN",44.962028,-93.285448,10,Whittier,Powderhorn,3,3
+-93.283007,44.945593,1201,12/13/2016 12:48pm,Snow Emergency,"3125 pleasant Ave s,Minneapolis,MN",44.945593,-93.283007,8,Lyndale,Powderhorn,3,5
+-93.257177,45.011418,1202,12/13/2016 11:07am,Snow Emergency,"639 23rd ave ne,Minneapolis,MN",45.011418,-93.257177,1,Holland,Northeast,3,2
+-93.309734,44.980758,1203,12/13/2016 04:18pm,Snow Emergency,"305 QUEEN AVE N,Minneapolis,MN",44.980758,-93.309734,5,Harrison,Near-North,3,3
+-93.241595,44.987251,1204,12/13/2016 12:49pm,Snow Emergency,"713 8th Ave se,Minneapolis,MN",44.987251,-93.241595,3,Marcy-Holmes,University,3,4
+-93.289647,45.017117,1205,12/13/2016 11:10am,Snow Emergency,"3411 aldrich ave n,Minneapolis,MN",45.017117,-93.289647,4,McKinley,Camden,3,1
+-93.246857,44.982659,1206,12/13/2016 04:21pm,Snow Emergency,"227 7th Ave se,Minneapolis,MN",44.982659,-93.246857,3,Marcy-Holmes,University,3,4
+-93.296923,45.023782,1207,12/13/2016 12:51pm,Snow Emergency,"3757 Girard Ave n ,Minneapolis,MN",45.023782,-93.296923,4,Folwell,Camden,3,1
+-93.299445,44.998807,1208,12/13/2016 11:11am,Snow Emergency,"1913 Irving ave n,Minneapolis,MN",44.998807,-93.299445,5,Willard-Hay,Near-North,3,1
+-93.228237,44.988121,1209,12/13/2016 12:51pm,Snow Emergency,"1009 17th ave se,Minneapolis,MN",44.988121,-93.228237,1,Como,University,3,4
+-93.264417,45.012186,1210,12/13/2016 11:11am,Snow Emergency,"305 24th ave ne,Minneapolis,MN",45.012186,-93.264417,3,Bottineau,Northeast,3,2
+-93.248825,45.011236,1211,12/13/2016 12:51pm,Snow Emergency,"2311 Jackson St ne,Minneapolis,MN",45.011236,-93.248825,1,Holland,Northeast,3,2
+-93.289313,45.014572,1212,12/13/2016 11:13am,Snow Emergency,"3245 aldrich ave n ,Minneapolis,MN",45.014572,-93.289313,4,McKinley,Camden,3,1
+-93.243545,44.986848,1213,12/13/2016 11:15am,Snow Emergency,"615 7th Ave se,Minneapolis,MN",44.986848,-93.243545,3,Marcy-Holmes,University,3,4
+-93.267425,44.965141,1214,12/13/2016 12:52pm,Snow Emergency,"605 18TH ST e,Minneapolis,MN",44.965141,-93.267425,6,Ventura Village,Phillips,3,3
+-93.248296,44.936077,1215,12/13/2016 11:16am,Snow Emergency,"3657 18th ave s,Minneapolis,MN",44.936077,-93.248296,9,Powderhorn,Powderhorn,3,6
+-93.234542,44.966341,1216,12/13/2016 12:53pm,Snow Emergency,"705 26th ave ne,Minneapolis,MN",44.966341,-93.234542,2,Cedar Riverside,University,3,4
+-93.298912,44.99985,1217,12/13/2016 11:17am,Snow Emergency,"2003 ivring ave n,Minneapolis,MN",44.99985,-93.298912,5,Jordan,Near-North,3,1
+-93.266188,44.963771,1218,12/13/2016 12:53pm,Snow Emergency,"629 19th st e ,Minneapolis,MN",44.963771,-93.266188,6,Ventura Village,Phillips,3,3
+-93.293971,44.965973,1219,12/13/2016 11:18am,Snow Emergency,"1775 Emerson ave s,Minneapolis,MN",44.965973,-93.293971,7,Lowry Hill,Calhoun-Isles,3,3
+-93.273707,44.965918,1220,12/13/2016 12:53pm,Snow Emergency,"1709 2nd ave s,Minneapolis,MN",44.965918,-93.273707,6,Stevens Square,Central,3,3
+-93.242378,44.984675,1221,12/13/2016 12:54pm,Snow Emergency,"505 9th ave se,Minneapolis,MN",44.984675,-93.242378,3,Marcy-Holmes,University,3,4
+-93.283832,44.966062,1222,12/13/2016 11:20am,Snow Emergency,"205 clifton ave,Minneapolis,MN",44.966062,-93.283832,7,Loring Park,Central,3,3
+-93.250881,45.014637,1223,12/13/2016 12:55pm,Snow Emergency,"2547 Quincy st ne,Minneapolis,MN",45.014637,-93.250881,1,Holland,Northeast,3,2
+-93.270959,45.011061,1224,12/13/2016 11:21am,Snow Emergency,"25 23rd ave ne ,Minneapolis,MN",45.011061,-93.270959,3,Bottineau,Northeast,3,2
+-93.248453,44.982957,1225,12/13/2016 12:56pm,Snow Emergency,"201 6th Ave se,Minneapolis,MN",44.982957,-93.248453,3,Marcy-Holmes,University,3,4
+-93.242228,45.025825,1226,12/13/2016 11:21am,Snow Emergency,"1201 32 est,Minneapolis,MN",45.025825,-93.242228,1,Waite Park,Northeast,3,2
+-93.259084,44.963772,1227,12/13/2016 12:56pm,Snow Emergency,"1009 19th st e,Minneapolis,MN",44.963772,-93.259084,6,Ventura Village,Phillips,3,3
+-93.289621,45.010983,1228,12/13/2016 11:22am,Snow Emergency,"2951 Aldrich ave n,Minneapolis,MN",45.010983,-93.289621,5,Hawthorne,Near-North,3,1
+-93.30985,44.994337,1229,12/13/2016 12:57pm,Snow Emergency,"1507 queen Ave n,Minneapolis,MN",44.994337,-93.30985,5,Willard-Hay,Near-North,3,1
+-93.255011,44.944735,1230,12/13/2016 11:23am,Snow Emergency,"1303 32nd st e,Minneapolis,MN",44.944735,-93.255011,9,Powderhorn,Powderhorn,3,6
+-93.245097,44.982557,1231,12/13/2016 11:24am,Snow Emergency,"225 8th Avenue Southeast ,Minneapolis,MN",44.982557,-93.245097,3,Marcy-Holmes,University,3,4
+-93.280066,44.944717,1232,12/13/2016 12:57pm,Snow Emergency,"107 32nd st w,Minneapolis,MN",44.944717,-93.280066,8,Lyndale,Powderhorn,3,5
+-93.303202,44.998758,1233,12/13/2016 11:25am,Snow Emergency,"1901 Logan Ave n ,Minneapolis,MN",44.998758,-93.303202,5,Willard-Hay,Near-North,3,1
+-93.307213,45.018022,1234,12/13/2016 12:57pm,Snow Emergency,"3441 Oliver ave n,Minneapolis,MN",45.018022,-93.307213,4,Folwell,Camden,3,1
+-93.274835,44.966262,1235,12/13/2016 11:26am,Snow Emergency,"119 17TH st e,Minneapolis,MN",44.966262,-93.274835,6,Stevens Square,Central,3,3
+-93.249098,45.015049,1236,12/13/2016 12:58pm,Snow Emergency,"2603 Jackson st ne,Minneapolis,MN",45.015049,-93.249098,1,Holland,Northeast,3,2
+-93.297179,45.035178,1237,12/13/2016 11:27am,Snow Emergency,"4359 girard Ave n,Minneapolis,MN",45.035178,-93.297179,4,Webber-Camden,Camden,3,1
+-93.24132,44.987354,1238,12/13/2016 12:58pm,Snow Emergency,"719 8th Avenue Southeast ,Minneapolis,MN",44.987354,-93.24132,3,Marcy-Holmes,University,3,4
+-93.300693,44.996605,1239,12/13/2016 11:27am,Snow Emergency,"1725 James Ave N,Minneapolis,MN",44.996605,-93.300693,5,Willard-Hay,Near-North,3,1
+-93.314925,45.005233,1240,12/13/2016 12:59pm,Snow Emergency,"2507 Upton ave n,Minneapolis,MN",45.005233,-93.314925,5,Willard-Hay,Near-North,3,1
+-93.289865,45.004405,1241,12/13/2016 11:27am,Snow Emergency,"2417 Aldrich Ave n. ,Minneapolis,MN",45.004405,-93.289865,5,Hawthorne,Near-North,3,1
+-93.239728,44.937538,1242,12/13/2016 01:00pm,Snow Emergency,"2215 36 th st e,Minneapolis,MN",44.937538,-93.239728,12,Standish,Powderhorn,3,6
+-93.261329,44.942558,1243,12/13/2016 11:28am,Snow Emergency,"3319 Elliot Avenue South,Minneapolis,MN",44.942558,-93.261329,9,Powderhorn,Powderhorn,3,6
+-93.242393,44.984659,1244,12/13/2016 01:01pm,Snow Emergency,"503 9th ave se,Minneapolis,MN",44.984659,-93.242393,3,Marcy-Holmes,University,3,4
+-93.273278,44.965207,1245,12/13/2016 11:29am,Snow Emergency,"225 18th St e,Minneapolis,MN",44.965207,-93.273278,6,Stevens Square,Central,3,3
+-93.299687,45.014861,1246,12/13/2016 01:01pm,Snow Emergency,"3255 Irving Ave. n. ,Minneapolis,MN",45.014861,-93.299687,4,Folwell,Camden,3,1
+-93.273502,44.963942,1247,12/13/2016 11:31am,Snow Emergency,"219 19th Street East,Minneapolis,MN",44.963942,-93.273502,6,Stevens Square,Central,3,3
+-93.239367,44.927925,1248,12/13/2016 01:03pm,Snow Emergency,"4125 Standish ave so,Minneapolis,MN",44.927925,-93.239367,12,Standish,Powderhorn,3,6
+-93.256296,44.947572,1249,12/13/2016 11:31am,Snow Emergency,"3035 13TH AV S,Minneapolis,MN",44.947572,-93.256296,9,Powderhorn,Powderhorn,3,6
+-93.309835,45.001904,1250,12/13/2016 01:03pm,Snow Emergency,"2211 Queen Ave. N.,Minneapolis,MN",45.001904,-93.309835,5,Willard-Hay,Near-North,3,1
+-93.283943,44.966097,1251,12/13/2016 11:31am,Snow Emergency,"411 Clifton ave,Minneapolis,MN",44.966097,-93.283943,7,Loring Park,Central,3,3
+-93.225595,44.988296,1252,12/13/2016 01:04pm,Snow Emergency,"1015 19th Ave SE ,Minneapolis,MN",44.988296,-93.225595,1,Como,University,3,4
+-93.272445,44.963942,1253,12/13/2016 11:32am,Snow Emergency,"305 19th st e,Minneapolis,MN",44.963942,-93.272445,6,Stevens Square,Central,3,3
+-93.246025,44.941323,1254,12/13/2016 01:04pm,Snow Emergency,"1847 34th Street East,Minneapolis,MN",44.941323,-93.246025,9,Corcoran,Powderhorn,3,6
+-93.271629,45.016812,1255,12/13/2016 11:32am,Snow Emergency,"21 27th ave ne,Minneapolis,MN",45.016812,-93.271629,1,Marshall Terrace,Northeast,3,2
+-93.243662,44.984698,1256,12/13/2016 11:32am,Snow Emergency,"427 8th ave se,Minneapolis,MN",44.984698,-93.243662,3,Marcy-Holmes,University,3,4
+-93.234299,44.966135,1257,12/13/2016 01:05pm,Snow Emergency,"711 26th ave ne,Minneapolis,MN",44.966135,-93.234299,2,Cedar Riverside,University,3,4
+-93.245838,44.983954,1258,12/13/2016 11:34am,Snow Emergency,"323 7th ave se,Minneapolis,MN",44.983954,-93.245838,3,Marcy-Holmes,University,3,4
+-93.223225,44.985734,1259,12/13/2016 01:09pm,Snow Emergency,"877 21st Ave SE ,Minneapolis,MN",44.985734,-93.223225,2,Como,University,3,4
+-93.270407,45.011305,1260,12/13/2016 11:34am,Snow Emergency,"37 23rd ave ne,Minneapolis,MN",45.011305,-93.270407,3,Bottineau,Northeast,3,2
+-93.239066,44.983278,1261,12/13/2016 01:10pm,Snow Emergency,"513 11th ave se,Minneapolis,MN",44.983278,-93.239066,3,Marcy-Holmes,University,3,4
+-93.296834,44.942373,1262,12/13/2016 11:35am,Snow Emergency,"3317 Girard Ave s,Minneapolis,MN",44.942373,-93.296834,10,CARAG,Calhoun-Isles,3,5
+-93.225665,44.939862,1263,12/13/2016 01:13pm,Snow Emergency,"3447 32nd ave s,Minneapolis,MN",44.939862,-93.225665,12,Howe,Longfellow,3,6
+-93.261328,44.942868,1264,12/13/2016 11:36am,Snow Emergency,"3309 Elliot Avenue South,Minneapolis,MN",44.942868,-93.261328,9,Powderhorn,Powderhorn,3,6
+-93.266288,44.963938,1265,12/13/2016 01:14pm,Snow Emergency,"627 19th st e,Minneapolis,MN",44.963938,-93.266288,6,Ventura Village,Phillips,3,3
+-93.231625,44.930104,1266,12/13/2016 11:36am,Snow Emergency,"19 28th ave ne,Minneapolis,MN",44.930104,-93.231625,12,Standish,Powderhorn,3,6
+-93.226301,44.935936,1267,12/13/2016 01:15pm,Snow Emergency,"3211 37th st e,Minneapolis,MN",44.935936,-93.226301,12,Howe,Longfellow,3,6
+-93.226892,44.936288,1268,12/13/2016 11:36am,Snow Emergency,"3655 Snelling Ave s,Minneapolis,MN",44.936288,-93.226892,12,Howe,Longfellow,3,6
+-93.312366,44.986458,1269,12/13/2016 01:15pm,Snow Emergency,"811 Sheridan Ave n ,Minneapolis,MN",44.986458,-93.312366,5,Willard-Hay,Near-North,3,1
+-93.232335,44.991024,1270,12/13/2016 11:38am,Snow Emergency,"1107 14th ave se,Minneapolis,MN",44.991024,-93.232335,2,Como,University,3,4
+-93.313706,44.990787,1271,12/13/2016 01:16pm,Snow Emergency,"1223 Thomas aven ,Minneapolis,MN",44.990787,-93.313706,5,Willard-Hay,Near-North,3,1
+-93.298914,44.999836,1272,12/13/2016 11:38am,Snow Emergency,"2001 Irving ave n,Minneapolis,MN",44.999836,-93.298914,5,Jordan,Near-North,3,1
+-93.290859,44.982963,1273,12/13/2016 01:18pm,Snow Emergency,"517 BRYANT AVE N,Minneapolis,MN",44.982963,-93.290859,5,Sumner-Glenwood,Near-North,3,3
+-93.295798,44.942501,1274,12/13/2016 11:38am,Snow Emergency,"3313 Fremont ave s,Minneapolis,MN",44.942501,-93.295798,10,CARAG,Calhoun-Isles,3,5
+-93.307042,44.985714,1275,12/13/2016 01:19pm,Snow Emergency,"719 Oliver ave n,Minneapolis,MN",44.985714,-93.307042,5,Near-North,Near-North,3,1
+-93.243515,44.984588,1276,12/13/2016 11:39am,Snow Emergency,"423 8th Ave se,Minneapolis,MN",44.984588,-93.243515,3,Marcy-Holmes,University,3,4
+-93.250387,45.007533,1277,12/13/2016 01:20pm,Snow Emergency,"1845 Quincy St ne,Minneapolis,MN",45.007533,-93.250387,1,Logan Park,Northeast,3,2
+-93.245086,44.982571,1278,12/13/2016 11:39am,Snow Emergency,"229 8th ave se,Minneapolis,MN",44.982571,-93.245086,3,Marcy-Holmes,University,3,4
+-93.313708,44.991173,1279,12/13/2016 01:22pm,Snow Emergency,"1235 Thomas Ave n,Minneapolis,MN",44.991173,-93.313708,5,Willard-Hay,Near-North,3,1
+-93.248519,45.011066,1280,12/13/2016 11:40am,Snow Emergency,"915 23rd ave ne,Minneapolis,MN",45.011066,-93.248519,1,Holland,Northeast,3,2
+-93.238121,44.984032,1281,12/13/2016 01:24pm,Snow Emergency,"1103 6th st se ,Minneapolis,MN",44.984032,-93.238121,3,Marcy-Holmes,University,3,4
+-93.244784,44.982954,1282,12/13/2016 11:41am,Snow Emergency,"305 8th AVE se,Minneapolis,MN",44.982954,-93.244784,3,Marcy-Holmes,University,3,4
+-93.248437,44.982977,1283,12/13/2016 01:24pm,Snow Emergency,"203 6th Ave se,Minneapolis,MN",44.982977,-93.248437,3,Marcy-Holmes,University,3,4
+-93.271861,44.965206,1284,12/13/2016 11:41am,Snow Emergency,"317 18th st e ,Minneapolis,MN",44.965206,-93.271861,6,Stevens Square,Central,3,3
+-93.244913,45.009097,1285,12/13/2016 01:25pm,Snow Emergency,"1013 20th ave ne,Minneapolis,MN",45.009097,-93.244913,1,Windom Park,Northeast,3,2
+-93.295798,44.942501,1286,12/13/2016 11:41am,Snow Emergency,"3313 Fremont ave s,Minneapolis,MN",44.942501,-93.295798,10,CARAG,Calhoun-Isles,3,5
+-93.313528,45.003455,1287,12/13/2016 01:27pm,Snow Emergency,"2333 Thomas Ave n. ,Minneapolis,MN",45.003455,-93.313528,5,Willard-Hay,Near-North,3,1
+-93.313373,44.991255,1288,12/13/2016 01:27pm,Snow Emergency,"1239 Thomas Ave N,Minneapolis,MN",44.991255,-93.313373,5,Willard-Hay,Near-North,3,1
+-93.248557,45.010885,1289,12/13/2016 11:41am,Snow Emergency,"911 23rd ave ne,Minneapolis,MN",45.010885,-93.248557,1,Holland,Northeast,3,2
+-93.312389,45.004512,1290,12/13/2016 01:28pm,Snow Emergency,"2407 Sheridan ave n,Minneapolis,MN",45.004512,-93.312389,5,Willard-Hay,Near-North,3,1
+-93.24378,44.984716,1291,12/13/2016 11:42am,Snow Emergency,"425 8th Ave se,Minneapolis,MN",44.984716,-93.24378,3,Marcy-Holmes,University,3,4
+-93.254278,45.014492,1292,12/13/2016 01:28pm,Snow Emergency,"2509 Madison st ne,Minneapolis,MN",45.014492,-93.254278,1,Holland,Northeast,3,2
+-93.286739,44.958424,1293,12/13/2016 11:43am,Snow Emergency,"2421 Garfield Ave s,Minneapolis,MN",44.958424,-93.286739,10,Whittier,Powderhorn,3,3
+-93.292702,44.988158,1294,12/13/2016 01:29pm,Snow Emergency,"1109 10th Ave n ,Minneapolis,MN",44.988158,-93.292702,5,Sumner-Glenwood,Near-North,3,1
+-93.304867,44.985257,1295,12/13/2016 11:43am,Snow Emergency,"703 Morgan Ave n ,Minneapolis,MN",44.985257,-93.304867,5,Near-North,Near-North,3,1
+-93.247346,45.010882,1296,12/13/2016 11:43am,Snow Emergency,"929 23rd ave ne,Minneapolis,MN",45.010882,-93.247346,1,Windom Park,Northeast,3,2
+-93.264672,44.966268,1297,12/13/2016 01:29pm,Snow Emergency,"717 17TH st e,Minneapolis,MN",44.966268,-93.264672,6,Elliot Park,Central,3,3
+-93.24794,45.010883,1298,12/13/2016 11:44am,Snow Emergency,"921 23rd ave ne,Minneapolis,MN",45.010883,-93.24794,1,Holland,Northeast,3,2
+-93.312405,45.008072,1299,12/13/2016 01:29pm,Snow Emergency,"2707 Sheridan ave n,Minneapolis,MN",45.008072,-93.312405,4,Jordan,Near-North,3,1
+-93.213997,44.94265,1300,12/13/2016 01:30pm,Snow Emergency,"3319 41st Ave. S. ,Minneapolis,MN",44.94265,-93.213997,2,Cooper,Longfellow,3,6
+-93.28999,45.004572,1301,12/13/2016 11:45am,Snow Emergency,"2423 aldrich ave n ,Minneapolis,MN",45.004572,-93.28999,5,Hawthorne,Near-North,3,1
+-93.265886,44.963938,1302,12/13/2016 01:31pm,Snow Emergency,"639 19th st e,Minneapolis,MN",44.963938,-93.265886,6,Ventura Village,Phillips,3,3
+-93.271869,45.018587,1303,12/13/2016 11:45am,Snow Emergency,"21 28th ave ne,Minneapolis,MN",45.018587,-93.271869,1,Marshall Terrace,Northeast,3,2
+-93.253116,45.010029,1304,12/13/2016 01:31pm,Snow Emergency,"2203 Howard st ne,Minneapolis,MN",45.010029,-93.253116,1,Holland,Northeast,3,2
+-93.286737,44.958583,1305,12/13/2016 11:45am,Snow Emergency,"2415 Garfield Ave s ,Minneapolis,MN",44.958583,-93.286737,10,Whittier,Powderhorn,3,3
+-93.253219,45.009983,1306,12/13/2016 01:32pm,Snow Emergency,"691 22nd ave ne,Minneapolis,MN",45.009983,-93.253219,1,Holland,Northeast,3,2
+-93.228456,44.988651,1307,12/13/2016 11:46am,Snow Emergency,"1027 17th Ave SE ,Minneapolis,MN",44.988651,-93.228456,1,Como,University,3,4
+-93.289899,45.003145,1308,12/13/2016 11:47am,Snow Emergency,"2315 Aldrich ave n,Minneapolis,MN",45.003145,-93.289899,5,Hawthorne,Near-North,3,1
+-93.242956,44.986252,1309,12/13/2016 01:32pm,Snow Emergency,"717 6th st se,Minneapolis,MN",44.986252,-93.242956,3,Marcy-Holmes,University,3,4
+-93.268653,45.015336,1310,12/13/2016 11:47am,Snow Emergency,"2611 California st ne,Minneapolis,MN",45.015336,-93.268653,1,Marshall Terrace,Northeast,3,2
+-93.235329,44.982909,1311,12/13/2016 01:33pm,Snow Emergency,"1303 6th st e,Minneapolis,MN",44.982909,-93.235329,3,Marcy-Holmes,University,3,4
+-93.257182,44.946255,1312,12/13/2016 11:50am,Snow Emergency,"3107 12th ave,Minneapolis,MN",44.946255,-93.257182,9,Powderhorn,Powderhorn,3,6
+-93.254443,45.011073,1313,12/13/2016 01:34pm,Snow Emergency,"669 23rd ave ne,Minneapolis,MN",45.011073,-93.254443,1,Holland,Northeast,3,2
+-93.257188,44.946809,1314,12/13/2016 11:52am,Snow Emergency,"3045 12th ave,Minneapolis,MN",44.946809,-93.257188,9,Powderhorn,Powderhorn,3,6
+-93.235224,44.983089,1315,12/13/2016 01:36pm,Snow Emergency,"1301 6th st e,Minneapolis,MN",44.983089,-93.235224,3,Marcy-Holmes,University,3,4
+-93.267261,44.963938,1316,12/13/2016 01:37pm,Snow Emergency,"607 19th St e,Minneapolis,MN",44.963938,-93.267261,6,Ventura Village,Phillips,3,3
+-93.245446,44.982121,1317,12/13/2016 11:53am,Snow Emergency,"207 8th Avenue Southeast ,Minneapolis,MN",44.982121,-93.245446,3,Marcy-Holmes,University,3,4
+-93.291458,45.000793,1318,12/13/2016 01:38pm,Snow Emergency,"2115 Bryant Ave n ,Minneapolis,MN",45.000793,-93.291458,5,Hawthorne,Near-North,3,1
+-93.248366,44.939683,1319,12/13/2016 11:55am,Snow Emergency,"3449 18th ave so,Minneapolis,MN",44.939683,-93.248366,9,Powderhorn,Powderhorn,3,6
+-93.303234,44.988999,1320,12/13/2016 11:56am,Snow Emergency,"1103 Logan ave n,Minneapolis,MN",44.988999,-93.303234,5,Near-North,Near-North,3,1
+-93.272605,44.965204,1321,12/13/2016 11:56am,Snow Emergency,"303 18TH st e,Minneapolis,MN",44.965204,-93.272605,6,Stevens Square,Central,3,3
+-93.23381,44.985294,1322,12/13/2016 01:39pm,Snow Emergency,"811 13th Avenue Southeast,Minneapolis,MN",44.985294,-93.23381,3,Marcy-Holmes,University,3,4
+-93.283942,44.966097,1323,12/13/2016 11:56am,Snow Emergency,"409 CLIFTON AVE,Minneapolis,MN",44.966097,-93.283942,7,Loring Park,Central,3,3
+-93.268958,44.961844,1324,12/13/2016 01:40pm,Snow Emergency,"2029 5th Ave s,Minneapolis,MN",44.961844,-93.268958,6,Ventura Village,Phillips,3,3
+-93.257571,44.94835,1325,12/13/2016 11:57am,Snow Emergency,"3001 12th Ave. S. ,Minneapolis,MN",44.94835,-93.257571,9,Powderhorn,Powderhorn,3,6
+-93.291993,44.939864,1326,12/13/2016 01:40pm,Snow Emergency,"3445 Colfax Ave s,Minneapolis,MN",44.939864,-93.291993,10,CARAG,Calhoun-Isles,3,5
+-93.28966,45.023028,1327,12/13/2016 11:59am,Snow Emergency,"3731 aldrich ave n ,Minneapolis,MN",45.023028,-93.28966,4,McKinley,Camden,3,1
+-93.290896,45.015069,1328,12/13/2016 01:41pm,Snow Emergency,"3301 Bryant Ave n ,Minneapolis,MN",45.015069,-93.290896,4,McKinley,Camden,3,1
+-93.274931,44.963254,1329,12/13/2016 11:59am,Snow Emergency,"1917 STEVENS AVE S,Minneapolis,MN",44.963254,-93.274931,6,Stevens Square,Central,3,3
+-93.260243,44.998551,1330,12/13/2016 01:42pm,Snow Emergency,"715 9th Ave N,Minneapolis,MN",44.998551,-93.260243,3,St. Anthony West,Northeast,3,2
+-93.299699,44.998458,1331,12/13/2016 12:00pm,Snow Emergency,"1835 Irving ave n,Minneapolis,MN",44.998458,-93.299699,5,Willard-Hay,Near-North,3,1
+-93.267624,44.965096,1332,12/13/2016 01:42pm,Snow Emergency,"601 18th st e,Minneapolis,MN",44.965096,-93.267624,6,Ventura Village,Phillips,3,3
+-93.306027,44.985378,1333,12/13/2016 12:00pm,Snow Emergency,"707 newton Ave n ,Minneapolis,MN",44.985378,-93.306027,5,Near-North,Near-North,3,1
+-93.254013,45.011641,1334,12/13/2016 01:42pm,Snow Emergency,"2315 Madison st ne,Minneapolis,MN",45.011641,-93.254013,1,Holland,Northeast,3,2
+-93.273798,44.96328,1335,12/13/2016 12:01pm,Snow Emergency,"1917 2ND AVE S,Minneapolis,MN",44.96328,-93.273798,6,Stevens Square,Central,3,3
+-93.313706,44.990787,1336,12/13/2016 01:43pm,Snow Emergency,"1223 Thomas Ave n ,Minneapolis,MN",44.990787,-93.313706,5,Willard-Hay,Near-North,3,1
+-93.243696,44.984639,1337,12/13/2016 12:02pm,Snow Emergency,"421 8th ave se,Minneapolis,MN",44.984639,-93.243696,3,Marcy-Holmes,University,3,4
+-93.26562,44.965205,1338,12/13/2016 01:44pm,Snow Emergency,"641 18th st e,Minneapolis,MN",44.965205,-93.26562,6,Ventura Village,Phillips,3,3
+-93.305779,44.985143,1339,12/13/2016 12:04pm,Snow Emergency,"627 Newton Ave N,Minneapolis,MN",44.985143,-93.305779,5,Near-North,Near-North,3,1
+-93.298947,44.984932,1340,12/13/2016 01:44pm,Snow Emergency,"615 Elwood Ave n ,Minneapolis,MN",44.984932,-93.298947,5,Near-North,Near-North,3,1
+-93.275276,44.965958,1341,12/13/2016 12:05pm,Snow Emergency,"1709 stevens ave s,Minneapolis,MN",44.965958,-93.275276,6,Stevens Square,Central,3,3
+-93.220144,44.989727,1342,12/13/2016 01:45pm,Snow Emergency,"2303 TALMAGE AVE SE,Minneapolis,MN",44.989727,-93.220144,1,Como,University,3,4
+-93.256545,44.96695,1343,12/13/2016 12:06pm,Snow Emergency,"1313 13 th ave s,Minneapolis,MN",44.96695,-93.256545,6,Elliot Park,Central,3,3
+-93.235063,44.983077,1344,12/13/2016 01:45pm,Snow Emergency,"1307 6th St se ,Minneapolis,MN",44.983077,-93.235063,3,Marcy-Holmes,University,3,4
+-93.250865,45.00989,1345,12/13/2016 12:06pm,Snow Emergency,"803 22nd ave ne,Minneapolis,MN",45.00989,-93.250865,1,Holland,Northeast,3,2
+-93.274436,44.966262,1346,12/13/2016 12:07pm,Snow Emergency,"135 17th st e,Minneapolis,MN",44.966262,-93.274436,6,Stevens Square,Central,3,3
+-93.267277,44.966255,1347,12/13/2016 01:47pm,Snow Emergency,"615 17th st e,Minneapolis,MN",44.966255,-93.267277,6,Elliot Park,Central,3,3
+-93.244689,44.983079,1348,12/13/2016 12:07pm,Snow Emergency,"309 8th ave se,Minneapolis,MN",44.983079,-93.244689,3,Marcy-Holmes,University,3,4
+-93.223562,44.930534,1349,12/13/2016 01:53pm,Snow Emergency,"3303 40th st e,Minneapolis,MN",44.930534,-93.223562,12,Hiawatha,Longfellow,3,6
+-93.311055,44.993322,1350,12/13/2016 01:55pm,Snow Emergency,"2421 14th ave n,Minneapolis,MN",44.993322,-93.311055,5,Willard-Hay,Near-North,3,1
+-93.27401,44.963862,1351,12/13/2016 12:08pm,Snow Emergency,"1903 2nd ave s,Minneapolis,MN",44.963862,-93.27401,6,Stevens Square,Central,3,3
+-93.290817,45.01392,1352,12/13/2016 01:57pm,Snow Emergency,"3223 Bryant ave n,Minneapolis,MN",45.01392,-93.290817,4,McKinley,Camden,3,1
+-93.231563,44.946609,1353,12/13/2016 01:57pm,Snow Emergency,"3105 28th ave,Minneapolis,MN",44.946609,-93.231563,2,Longfellow,Longfellow,3,6
+-93.298867,44.984986,1354,12/13/2016 01:57pm,Snow Emergency,"617Elwood Ave n ,Minneapolis,MN",44.984986,-93.298867,5,Near-North,Near-North,3,1

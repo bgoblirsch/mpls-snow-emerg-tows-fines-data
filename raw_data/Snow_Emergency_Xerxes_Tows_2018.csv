@@ -1,0 +1,1216 @@
+﻿X,Y,FID,Call_Taken,Customer,Location,Latitude,Longitude,Snow_Emerg,Day,Ward,Neighborho,Community,Tow_Dist
+-93.249046,44.984485,1,02/24/2018 12:20am,Snow Emergency,"299 5th ave se,Minneapolis,MN",44.984485,-93.249046,Xerxes,1,3,Marcy Holmes,University,4
+-93.262311,44.947508,2,02/23/2018 10:30pm,Snow Emergency,"3025 Chicago Ave S,Minneapolis,MN",44.947508,-93.262311,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.241708,44.986318,3,02/24/2018 12:20pm,Snow Emergency,"620 8th ave se,Minneapolis,MN",44.986318,-93.241708,Xerxes,2,3,Marcy Holmes,University,4
+-93.262193,44.927397,4,02/23/2018 11:10pm,Snow Emergency,"4145 CHICAGO AVE S,Minneapolis,MN",44.927397,-93.262193,Xerxes,1,8,Bancroft,Powderhorn,6
+-93.262498,44.927287,5,02/23/2018 11:11pm,Snow Emergency,"4146 Chicago Ave S,Minneapolis,MN",44.927287,-93.262498,Xerxes,1,8,Bancroft,Powderhorn,6
+-93.242509,44.985384,6,02/24/2018 12:21pm,Snow Emergency,"524 8th ave se,Minneapolis,MN",44.985384,-93.242509,Xerxes,2,3,Marcy Holmes,University,4
+-93.262146,44.931528,7,02/23/2018 11:18pm,Snow Emergency,"3925 CHICAGO AVE S,Minneapolis,MN",44.931528,-93.262146,Xerxes,1,8,Bancroft,Powderhorn,6
+-93.246724,44.988448,8,02/24/2018 12:24pm,Snow Emergency,"428 7th st se,Minneapolis,MN",44.988448,-93.246724,Xerxes,2,3,Marcy Holmes,University,4
+-93.251389,44.919174,9,02/24/2018 01:08pm,Snow Emergency,"4612 16TH AVE S,Minneapolis,MN",44.919174,-93.251389,Xerxes,2,11,Northrop,Nokomis,6
+-93.252446,44.985197,10,02/24/2018 12:25am,Snow Emergency,"250 3RD AVE SE,Minneapolis,MN",44.985197,-93.252446,Xerxes,1,3,Marcy Holmes,University,4
+-93.256575,44.947162,11,02/24/2018 01:08pm,Snow Emergency,"3034 13th ave s,Minneapolis,MN",44.947162,-93.256575,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.233308,44.988038,12,02/24/2018 12:28pm,Snow Emergency,"1004 13th Ave s e,Minneapolis,MN",44.988038,-93.233308,Xerxes,2,2,Como,University,4
+-93.248974,44.909344,13,02/24/2018 01:12pm,Snow Emergency,"5144 18TH AVE S,Minneapolis,MN",44.909344,-93.248974,Xerxes,2,11,Hale,Nokomis,6
+-93.249055,44.988151,14,02/24/2018 12:30pm,Snow Emergency,"318 6th st se,Minneapolis,MN",44.988151,-93.249055,Xerxes,2,3,Marcy Holmes,University,4
+-93.234658,44.931941,15,02/24/2018 01:23pm,Snow Emergency,"3910 26TH AVE S,Minneapolis,MN",44.931941,-93.234658,Xerxes,2,12,Standish,Powderhorn,6
+-93.244271,44.982571,16,02/24/2018 12:33am,Snow Emergency,"819 UNIVERSITY AVE SE,Minneapolis,MN",44.982571,-93.244271,Xerxes,1,3,Marcy Holmes,University,4
+-93.252764,44.942788,17,02/24/2018 01:25am,Snow Emergency,"3300 BLOOMINGTON AVE S,Minneapolis,MN",44.942788,-93.252764,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.231078,44.985194,18,02/24/2018 12:34pm,Snow Emergency,"1100 15th Ave SE - MPLS,Minneapolis,MN",44.985194,-93.231078,Xerxes,2,2,Como,University,4
+-93.236301,44.940984,19,02/24/2018 01:26pm,Snow Emergency,"3406 25TH AVE S,Minneapolis,MN",44.940984,-93.236301,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.244257,44.982565,20,02/24/2018 12:35am,Snow Emergency,"825 UNIVERSITY AVE SE,Minneapolis,MN",44.982565,-93.244257,Xerxes,1,3,Marcy Holmes,University,4
+-93.260425,44.945667,21,02/24/2018 01:26pm,Snow Emergency,"3128 10th ave s,Minneapolis,MN",44.945667,-93.260425,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.240962,44.987396,22,02/24/2018 12:36pm,Snow Emergency,"720 8th ave se,Minneapolis,MN",44.987396,-93.240962,Xerxes,2,3,Marcy Holmes,University,4
+-93.252096,44.942152,23,02/24/2018 01:29am,Snow Emergency,"3325 BLOOMINGTON AVE S,Minneapolis,MN",44.942152,-93.252096,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.229499,44.991155,24,02/24/2018 12:37pm,Snow Emergency,"1110 16th Ave SE ,Minneapolis,MN",44.991155,-93.229499,Xerxes,2,1,Como,University,4
+-93.25918,44.947393,25,02/24/2018 01:31pm,Snow Emergency,"3028 11th ave s,Minneapolis,MN",44.947393,-93.25918,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.243582,44.984477,26,02/24/2018 12:43pm,Snow Emergency,"424 8th ave se,Minneapolis,MN",44.984477,-93.243582,Xerxes,2,3,Marcy Holmes,University,4
+-93.25909,44.947491,27,02/24/2018 01:31pm,Snow Emergency,"3024 11th av s,Minneapolis,MN",44.947491,-93.25909,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.247965,44.981425,28,02/24/2018 12:45am,Snow Emergency,"799 MAIN ST SE,Minneapolis,MN",44.981425,-93.247965,Xerxes,1,3,Marcy Holmes,University,4
+-93.256536,44.946434,29,02/24/2018 01:33pm,Snow Emergency,"3100 13th ave s,Minneapolis,MN",44.946434,-93.256536,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.246825,44.988488,30,02/24/2018 12:45pm,Snow Emergency,"418 7th st se,Minneapolis,MN",44.988488,-93.246825,Xerxes,2,3,Marcy Holmes,University,4
+-93.237858,44.944944,31,02/24/2018 01:41pm,Snow Emergency,"2326 32nd st,Minneapolis,MN",44.944944,-93.237858,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.240981,44.944434,32,02/24/2018 01:45pm,Snow Emergency,"3204 22nd ave,Minneapolis,MN",44.944434,-93.240981,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.252459,44.942909,33,02/24/2018 01:50am,Snow Emergency,"33RD & BLOOMINGTON AVE S,Minneapolis,MN",44.942909,-93.252459,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.237944,44.944974,34,02/24/2018 01:55pm,Snow Emergency,"2318 32nd st e,Minneapolis,MN",44.944974,-93.237944,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.246492,44.942933,35,02/24/2018 01:59pm,Snow Emergency,"1840 33 st e,Minneapolis,MN",44.942933,-93.246492,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.262174,44.926322,36,02/24/2018 02:08am,Snow Emergency,"4217 CHICAGO AVE S,Minneapolis,MN",44.926322,-93.262174,Xerxes,1,8,Northrop,Nokomis,6
+-93.25244,44.941038,37,02/24/2018 02:13am,Snow Emergency,"3407 BLOOMINGTON AVE S,Minneapolis,MN",44.941038,-93.25244,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.237837,44.944944,38,02/24/2018 02:14pm,Snow Emergency,"2328 32ND ST E,Minneapolis,MN",44.944944,-93.237837,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.238168,44.944963,39,02/24/2018 02:15pm,Snow Emergency,"2314 32ND ST E,Minneapolis,MN",44.944963,-93.238168,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.256642,44.947811,40,02/24/2018 02:17pm,Snow Emergency,"3008 13th av s,Minneapolis,MN",44.947811,-93.256642,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.252715,44.939939,41,02/24/2018 02:23am,Snow Emergency,"3438 BLOOMINGTON AVE S,Minneapolis,MN",44.939939,-93.252715,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.248875,44.943227,42,02/24/2018 02:27pm,Snow Emergency,"3240 18th ave ,Minneapolis,MN",44.943227,-93.248875,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.252106,44.940885,43,02/24/2018 02:29am,Snow Emergency,"3413 BLOOMINGTON AVE S,Minneapolis,MN",44.940885,-93.252106,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.252057,44.924149,44,02/24/2018 02:37am,Snow Emergency,"4325 BLOOMINGTON AVE S,Minneapolis,MN",44.924149,-93.252057,Xerxes,1,11,Northrop,Nokomis,6
+-93.246299,44.944744,45,02/24/2018 02:41pm,Snow Emergency,"1840 32nd st,Minneapolis,MN",44.944744,-93.246299,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.237816,44.944944,46,02/24/2018 02:42pm,Snow Emergency,"2330 32nd st,Minneapolis,MN",44.944944,-93.237816,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.240961,44.945728,47,02/24/2018 02:47pm,Snow Emergency,"3128 22ND AVE S,Minneapolis,MN",44.945728,-93.240961,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.240626,44.945814,48,02/24/2018 02:49pm,Snow Emergency,"3124 22ND AVE S,Minneapolis,MN",44.945814,-93.240626,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.252396,44.919521,49,02/24/2018 02:58am,Snow Emergency,"4602 Bloomington Ave South,Minneapolis,MN",44.919521,-93.252396,Xerxes,1,11,Northrop,Nokomis,6
+-93.252444,44.941539,50,02/24/2018 02:59am,Snow Emergency,"3350 BLOOMINGTON AVE S,Minneapolis,MN",44.941539,-93.252444,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.252057,44.924149,51,02/24/2018 03:01am,Snow Emergency,"4325 Bloomington ave s,Minneapolis,MN",44.924149,-93.252057,Xerxes,1,11,Northrop,Nokomis,6
+-93.252422,44.938615,52,02/24/2018 03:05am,Snow Emergency,"3524 BLOOMINGTON AVE S,Minneapolis,MN",44.938615,-93.252422,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.253769,44.947369,53,02/24/2018 03:08pm,Snow Emergency,"3032 15th av s,Minneapolis,MN",44.947369,-93.253769,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.224606,44.947666,54,02/24/2018 03:24pm,Snow Emergency,"3020 33rd ave s ,Minneapolis,MN",44.947666,-93.224606,Xerxes,2,2,Longfellow,Longfellow,6
+-93.254061,44.94461,55,02/24/2018 03:32pm,Snow Emergency,"3200 15th ave s,Minneapolis,MN",44.94461,-93.254061,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.22067,44.927283,56,02/24/2018 03:40pm,Snow Emergency,"4158 snelling,Minneapolis,MN",44.927283,-93.22067,Xerxes,2,12,Hiawatha,Longfellow,6
+-93.224606,44.947119,57,02/24/2018 04:18pm,Snow Emergency,"3040 33RD AVE S,Minneapolis,MN",44.947119,-93.224606,Xerxes,2,2,Longfellow,Longfellow,6
+-93.252686,44.935685,58,02/24/2018 04:36am,Snow Emergency,"3704 BLOOMINGTON AVE S,Minneapolis,MN",44.935685,-93.252686,Xerxes,1,9,Powderhorn Park,Powderhorn,6
+-93.25207,44.929979,59,02/24/2018 04:37am,Snow Emergency,"4015 BLOOMINGTON AVE S,Minneapolis,MN",44.929979,-93.25207,Xerxes,1,8,Bancroft,Powderhorn,6
+-93.226429,44.934692,60,02/24/2018 04:39pm,Snow Emergency,"3744 SNELLING AVE S,Minneapolis,MN",44.934692,-93.226429,Xerxes,2,12,Howe,Longfellow,6
+-93.23239,44.927832,61,02/24/2018 04:40am,Snow Emergency,"4130 28TH AVE S,Minneapolis,MN",44.927832,-93.23239,Xerxes,1,12,Standish,Powderhorn,6
+-93.252418,44.911095,62,02/24/2018 04:41am,Snow Emergency,"5046 BLOOMINGTON AVE S,Minneapolis,MN",44.911095,-93.252418,Xerxes,1,11,Hale,Nokomis,6
+-93.240626,44.945929,63,02/24/2018 04:41pm,Snow Emergency,"3118 22ND AVE S,Minneapolis,MN",44.945929,-93.240626,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.23239,44.927832,64,02/24/2018 05:34am,Snow Emergency,"4130 28TH AVE S,Minneapolis,MN",44.927832,-93.23239,Xerxes,1,12,Standish,Powderhorn,6
+-93.23239,44.927832,65,02/24/2018 05:36am,Snow Emergency,"4130 28TH AVE S,Minneapolis,MN",44.927832,-93.23239,Xerxes,1,12,Standish,Powderhorn,6
+-93.232127,44.928884,66,02/24/2018 06:05am,Snow Emergency,"4058 28TH AVE S,Minneapolis,MN",44.928884,-93.232127,Xerxes,1,12,Standish,Powderhorn,6
+-93.232126,44.927786,67,02/24/2018 06:06am,Snow Emergency,"4131 28TH AVE S,Minneapolis,MN",44.927786,-93.232126,Xerxes,1,12,Standish,Powderhorn,6
+-93.254944,44.92117,68,02/24/2018 08:21am,Snow Emergency,"4518 14th ave s,Minneapolis,MN",44.92117,-93.254944,Xerxes,2,11,Northrop,Nokomis,6
+-93.255259,44.929507,69,02/24/2018 08:26am,Snow Emergency,"4032 14th ave s ,Minneapolis,MN",44.929507,-93.255259,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.255239,44.930875,70,02/24/2018 08:30am,Snow Emergency,"3948 14th Avenue South,Minneapolis,MN",44.930875,-93.255239,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.2552,44.939221,71,02/24/2018 09:05am,Snow Emergency,"3506 14th ave s,Minneapolis,MN",44.939221,-93.2552,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.255239,44.929052,72,02/24/2018 09:07am,Snow Emergency,"4048 14th ave s,Minneapolis,MN",44.929052,-93.255239,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.25518,44.93432,73,02/24/2018 09:10am,Snow Emergency,"3744 14th ave S,Minneapolis,MN",44.93432,-93.25518,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.256536,44.938564,74,02/24/2018 09:11am,Snow Emergency,"3526 13th ave s ,Minneapolis,MN",44.938564,-93.256536,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.254935,44.92969,75,02/24/2018 09:12am,Snow Emergency,"4026 14th ave S,Minneapolis,MN",44.92969,-93.254935,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.255241,44.934844,76,02/24/2018 09:12am,Snow Emergency,"3730 14th ave s,Minneapolis,MN",44.934844,-93.255241,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.257754,44.924534,77,02/24/2018 09:21am,Snow Emergency,"4316 12th Avenue South,Minneapolis,MN",44.924534,-93.257754,Xerxes,2,11,Northrop,Nokomis,6
+-93.257793,44.937362,78,02/24/2018 09:39am,Snow Emergency,"3608 12th av s,Minneapolis,MN",44.937362,-93.257793,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.257793,44.937471,79,02/24/2018 09:46am,Snow Emergency,"3604 12th ave s,Minneapolis,MN",44.937471,-93.257793,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.258757,44.938877,80,02/24/2018 09:53am,Snow Emergency,"3518 11th ave s ,Minneapolis,MN",44.938877,-93.258757,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.234666,44.938939,81,02/24/2018 09:54am,Snow Emergency,"3518 26th Avenue South,Minneapolis,MN",44.938939,-93.234666,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.234968,44.940891,82,02/24/2018 09:57am,Snow Emergency,"3410 26th Avenue South,Minneapolis,MN",44.940891,-93.234968,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.258972,44.930914,83,02/24/2018 10:07am,Snow Emergency,"3944 11th Avenue South,Minneapolis,MN",44.930914,-93.258972,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.257793,44.926684,84,02/24/2018 10:11am,Snow Emergency,"4204 12th ave s,Minneapolis,MN",44.926684,-93.257793,Xerxes,2,8,Northrop,Nokomis,6
+-93.2552,44.935103,85,02/24/2018 10:14am,Snow Emergency,"3720 14th ave,Minneapolis,MN",44.935103,-93.2552,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.253675,44.922893,86,02/24/2018 10:15am,Snow Emergency,"4410 15TH AVE S,Minneapolis,MN",44.922893,-93.253675,Xerxes,2,11,Northrop,Nokomis,6
+-93.256187,44.931396,87,02/24/2018 10:15am,Snow Emergency,"3930 13th ave s,Minneapolis,MN",44.931396,-93.256187,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.259011,44.929638,88,02/24/2018 10:16am,Snow Emergency,"4028 11th ave S,Minneapolis,MN",44.929638,-93.259011,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.253665,44.91432,89,02/24/2018 10:19am,Snow Emergency,"4862 15TH AVE S,Minneapolis,MN",44.91432,-93.253665,Xerxes,2,11,Northrop,Nokomis,6
+-93.253687,44.938665,90,02/24/2018 10:23am,Snow Emergency,"3522 15th av s,Minneapolis,MN",44.938665,-93.253687,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.253416,44.928713,91,02/24/2018 10:26am,Snow Emergency,"1522 41St st e,Minneapolis,MN",44.928713,-93.253416,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.260288,44.936872,92,02/24/2018 10:42am,Snow Emergency,"3624 10th Avenue South,Minneapolis,MN",44.936872,-93.260288,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.233026,44.928841,93,02/24/2018 11:05am,Snow Emergency,"2728 41ST ST E,Minneapolis,MN",44.928841,-93.233026,Xerxes,2,12,Standish,Powderhorn,6
+-93.232694,44.928853,94,02/24/2018 11:06am,Snow Emergency,"2712 41ST ST E,Minneapolis,MN",44.928853,-93.232694,Xerxes,2,12,Standish,Powderhorn,6
+-93.261565,44.923842,95,02/24/2018 11:14am,Snow Emergency,"4340 Elliot ave,Minneapolis,MN",44.923842,-93.261565,Xerxes,2,11,Northrop,Nokomis,6
+-93.258722,44.930245,96,02/24/2018 11:14am,Snow Emergency,"4006 11th av s,Minneapolis,MN",44.930245,-93.258722,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.242591,44.941984,97,02/24/2018 11:22am,Snow Emergency,"3324 21st Avenue,Minneapolis,MN",44.941984,-93.242591,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.261486,44.936674,98,02/24/2018 11:23am,Snow Emergency,"3632 Elliot ave s ,Minneapolis,MN",44.936674,-93.261486,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.246121,44.947616,99,02/24/2018 11:23am,Snow Emergency,"3018 longfellow AVE S,Minneapolis,MN",44.947616,-93.246121,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.245184,44.940372,100,02/24/2018 11:25am,Snow Emergency,"3428 19th ave S,Minneapolis,MN",44.940372,-93.245184,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.261565,44.940753,101,02/24/2018 11:43am,Snow Emergency,"3418 elliot,Minneapolis,MN",44.940753,-93.261565,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.254031,44.909118,102,02/24/2018 11:44am,Snow Emergency,"5152 15TH AVE S,Minneapolis,MN",44.909118,-93.254031,Xerxes,2,11,Hale,Nokomis,6
+-93.254021,44.909474,103,02/24/2018 11:47am,Snow Emergency,"5140 15TH AVE S,Minneapolis,MN",44.909474,-93.254021,Xerxes,2,11,Hale,Nokomis,6
+-93.262433,44.930553,104,02/24/2018 11:49am,Snow Emergency,"804 40th st e,Minneapolis,MN",44.930553,-93.262433,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.237705,44.944065,105,02/24/2018 11:59am,Snow Emergency,"3216 24th Avenue,Minneapolis,MN",44.944065,-93.237705,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.262264,44.916268,106,02/24/2018 12:01am,Snow Emergency,"4747 Chicago,Minneapolis,MN",44.916268,-93.262264,Xerxes,1,11,Northrop,Nokomis,6
+-93.262084,44.931727,107,02/24/2018 12:01am,Snow Emergency,"3917 CHICAGO AVE S,Minneapolis,MN",44.931727,-93.262084,Xerxes,1,8,Bancroft,Powderhorn,6
+-93.262498,44.927807,108,02/24/2018 12:02am,Snow Emergency,"4129 Chicago Ave S,Minneapolis,MN",44.927807,-93.262498,Xerxes,1,8,Bancroft,Powderhorn,6
+-93.261486,44.931644,109,02/24/2018 12:04pm,Snow Emergency,"3920 Elliot ave s ,Minneapolis,MN",44.931644,-93.261486,Xerxes,2,8,Bancroft,Powderhorn,6
+-93.240981,44.94611,110,02/24/2018 12:09pm,Snow Emergency,"3112 22nd ave S,Minneapolis,MN",44.94611,-93.240981,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.240623,44.945262,111,02/24/2018 12:10pm,Snow Emergency,"3144 22nd ave,Minneapolis,MN",44.945262,-93.240623,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.260386,44.944503,112,02/24/2018 12:13pm,Snow Emergency,"3204 10th av s,Minneapolis,MN",44.944503,-93.260386,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.261557,44.937512,113,02/24/2018 12:14pm,Snow Emergency,"3604 Eliot ave,Minneapolis,MN",44.937512,-93.261557,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.261346,44.944448,114,02/24/2018 12:24pm,Snow Emergency,"3206 Elliot ave ,Minneapolis,MN",44.944448,-93.261346,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.237446,44.944607,115,02/24/2018 12:37pm,Snow Emergency,"3200 24th Avenue South,Minneapolis,MN",44.944607,-93.237446,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.261683,44.947271,116,02/24/2018 12:38pm,Snow Emergency,"3032 Elliot av s,Minneapolis,MN",44.947271,-93.261683,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.231127,44.935223,117,02/24/2018 12:40pm,Snow Emergency,"3722 29th Avenue South,Minneapolis,MN",44.935223,-93.231127,Xerxes,2,12,Standish,Powderhorn,6
+-93.231134,44.934523,118,02/24/2018 12:45pm,Snow Emergency,"3746 29th Avenue South,Minneapolis,MN",44.934523,-93.231134,Xerxes,2,12,Standish,Powderhorn,6
+-93.240941,44.945492,119,02/24/2018 12:49pm,Snow Emergency,"3138 22nd ave S,Minneapolis,MN",44.945492,-93.240941,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.262508,44.893551,120,02/24/2018 12:50am,Snow Emergency,"6021 CHICAGO AVE S,Minneapolis,MN",44.893551,-93.262508,Xerxes,1,11,Diamond Lake,Nokomis,6
+-93.261604,44.94363,121,02/24/2018 12:50pm,Snow Emergency,"3238 Elliot ave ,Minneapolis,MN",44.94363,-93.261604,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.240941,44.94531,122,02/24/2018 12:50pm,Snow Emergency,"3142 22nd aVE S,Minneapolis,MN",44.94531,-93.240941,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.255028,44.94508,123,02/25/2018 01:04pm,Snow Emergency,"3151 14TH AVE S,Minneapolis,MN",44.94508,-93.255028,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.254729,44.946959,124,02/25/2018 01:11pm,Snow Emergency,"3047 14TH AVE S,Minneapolis,MN",44.946959,-93.254729,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.255147,44.945653,125,02/25/2018 01:15pm,Snow Emergency,"1309 powderhorn ter,Minneapolis,MN",44.945653,-93.255147,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.261054,44.945212,126,02/25/2018 01:29pm,Snow Emergency,"3145 elliot,Minneapolis,MN",44.945212,-93.261054,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.261352,44.945101,127,02/25/2018 01:31pm,Snow Emergency,"3151 elliot,Minneapolis,MN",44.945101,-93.261352,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.24868,44.946811,128,02/25/2018 01:32pm,Snow Emergency,"3055 18th ave s,Minneapolis,MN",44.946811,-93.24868,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.258421,44.92816,129,02/25/2018 01:41pm,Snow Emergency,"4117 11TH AVE S,Minneapolis,MN",44.92816,-93.258421,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.24232,44.945702,130,02/25/2018 01:41pm,Snow Emergency,"3125 21st ave s,Minneapolis,MN",44.945702,-93.24232,Xerxes,3,9,Corcoran,Powderhorn,6
+-93.24868,44.946863,131,02/25/2018 01:50pm,Snow Emergency,"3045 18TH AVE S,Minneapolis,MN",44.946863,-93.24868,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.24868,44.946852,132,02/25/2018 01:58pm,Snow Emergency,"3047 18TH AVE S,Minneapolis,MN",44.946852,-93.24868,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.253471,44.946886,133,02/25/2018 02:00pm,Snow Emergency,"3053 15TH AV S,Minneapolis,MN",44.946886,-93.253471,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.260104,44.946182,134,02/25/2018 02:06pm,Snow Emergency,"3109 10TH AVE S,Minneapolis,MN",44.946182,-93.260104,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.253471,44.945574,135,02/25/2018 02:08pm,Snow Emergency,"3131 15TH AVE S,Minneapolis,MN",44.945574,-93.253471,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.25739,44.945651,136,02/25/2018 02:08pm,Snow Emergency,"1213 powderhorn ter,Minneapolis,MN",44.945651,-93.25739,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.240274,44.945985,137,02/25/2018 02:14pm,Snow Emergency,"3119 22nd ave,Minneapolis,MN",44.945985,-93.240274,Xerxes,3,9,Corcoran,Powderhorn,6
+-93.2419,44.946083,138,02/25/2018 02:14pm,Snow Emergency,"3113 21st ave s,Minneapolis,MN",44.946083,-93.2419,Xerxes,3,9,Corcoran,Powderhorn,6
+-93.230004,44.947613,139,02/25/2018 02:19pm,Snow Emergency,"3019 29th ave s,Minneapolis,MN",44.947613,-93.230004,Xerxes,2,2,Longfellow,Longfellow,6
+-93.26253,44.944513,140,02/25/2018 02:20pm,Snow Emergency,"809 32ND ST E,Minneapolis,MN",44.944513,-93.26253,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.254821,44.945818,141,02/25/2018 02:21pm,Snow Emergency,"3125 14th Ave South,Minneapolis,MN",44.945818,-93.254821,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.255045,44.946716,142,02/25/2018 02:21pm,Snow Emergency,"3059 14TH AVE S,Minneapolis,MN",44.946716,-93.255045,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.228403,44.947185,143,02/25/2018 02:23pm,Snow Emergency,"3035 30th ave s ,Minneapolis,MN",44.947185,-93.228403,Xerxes,2,2,Longfellow,Longfellow,6
+-93.249914,44.941018,144,02/25/2018 02:24pm,Snow Emergency,"3407 17th Ave South,Minneapolis,MN",44.941018,-93.249914,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.248325,44.936173,145,02/25/2018 02:38pm,Snow Emergency,"3653 18TH AVE S,Minneapolis,MN",44.936173,-93.248325,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.25219,44.940954,146,02/25/2018 02:42pm,Snow Emergency,"1541 34TH ST E,Minneapolis,MN",44.940954,-93.25219,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.229095,44.939295,147,02/25/2018 03:00pm,Snow Emergency,"3509 smelling ave,Minneapolis,MN",44.939295,-93.229095,Xerxes,3,12,Howe,Longfellow,6
+-93.229681,44.940179,148,02/25/2018 03:01pm,Snow Emergency,"3443 Snelling Avenue South,Minneapolis,MN",44.940179,-93.229681,Xerxes,3,12,Howe,Longfellow,6
+-93.246305,44.937539,149,02/25/2018 03:07pm,Snow Emergency,"1845 36th st e,Minneapolis,MN",44.937539,-93.246305,Xerxes,3,12,Standish,Powderhorn,6
+-93.244773,44.942932,150,02/25/2018 03:46pm,Snow Emergency,"1907 33rd st,Minneapolis,MN",44.942932,-93.244773,Xerxes,3,9,Corcoran,Powderhorn,6
+-93.25465,44.924732,151,02/25/2018 08:28am,Snow Emergency,"4311 14th ave s,Minneapolis,MN",44.924732,-93.25465,Xerxes,3,11,Northrop,Nokomis,6
+-93.25465,44.93111,152,02/25/2018 08:37am,Snow Emergency,"3941 14th Avenue South,Minneapolis,MN",44.93111,-93.25465,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.255907,44.924076,153,02/25/2018 08:48am,Snow Emergency,"4331 13th ave s ,Minneapolis,MN",44.924076,-93.255907,Xerxes,3,11,Northrop,Nokomis,6
+-93.257447,44.934307,154,02/25/2018 09:13am,Snow Emergency,"3749 12th ave S,Minneapolis,MN",44.934307,-93.257447,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.254611,44.914635,155,02/25/2018 09:15am,Snow Emergency,"4849 14th ave S,Minneapolis,MN",44.914635,-93.254611,Xerxes,3,11,Northrop,Nokomis,6
+-93.257125,44.932971,156,02/25/2018 09:19am,Snow Emergency,"3837 12TH AVE S,Minneapolis,MN",44.932971,-93.257125,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.257164,44.935558,157,02/25/2018 09:20am,Snow Emergency,"3709 12TH AVE S,Minneapolis,MN",44.935558,-93.257164,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.253508,44.93033,158,02/25/2018 09:25am,Snow Emergency,"1503 40th Street East,Minneapolis,MN",44.93033,-93.253508,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.253432,44.940219,159,02/25/2018 09:37am,Snow Emergency,"3431 15th ave s ,Minneapolis,MN",44.940219,-93.253432,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.253393,44.940329,160,02/25/2018 09:37am,Snow Emergency,"3429 15th ave s,Minneapolis,MN",44.940329,-93.253393,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.25442,44.930235,161,02/25/2018 10:02am,Snow Emergency,"1419 40th Street E,Minneapolis,MN",44.930235,-93.25442,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.254345,44.930234,162,02/25/2018 10:05am,Snow Emergency,"1427 40th Street,Minneapolis,MN",44.930234,-93.254345,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.248212,44.93217,163,02/25/2018 10:15am,Snow Emergency,"1805 39th Street East,Minneapolis,MN",44.93217,-93.248212,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.258461,44.924988,164,02/25/2018 10:21am,Snow Emergency,"4301 11th ave s,Minneapolis,MN",44.924988,-93.258461,Xerxes,3,11,Northrop,Nokomis,6
+-93.258751,44.938204,165,02/25/2018 10:25am,Snow Emergency,"3549 11th ave s,Minneapolis,MN",44.938204,-93.258751,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.254477,44.930235,166,02/25/2018 10:26am,Snow Emergency,"1413 40TH ST E,Minneapolis,MN",44.930235,-93.254477,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.253419,44.945288,167,02/25/2018 10:26am,Snow Emergency,"3143 15th ave ,Minneapolis,MN",44.945288,-93.253419,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.254552,44.930291,168,02/25/2018 10:29am,Snow Emergency,"1405 40TH ST E,Minneapolis,MN",44.930291,-93.254552,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.253755,44.945627,169,02/25/2018 10:44am,Snow Emergency,"3129 15th av s,Minneapolis,MN",44.945627,-93.253755,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.260936,44.93443,170,02/25/2018 10:45am,Snow Emergency,"3755 elliot,Minneapolis,MN",44.93443,-93.260936,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.258461,44.929435,171,02/25/2018 10:47am,Snow Emergency,"4037 11th ave,Minneapolis,MN",44.929435,-93.258461,Xerxes,3,8,Bancroft,Powderhorn,6
+-93.238121,44.927267,172,02/25/2018 11:10am,Snow Emergency,"4149 23rd ave s,Minneapolis,MN",44.927267,-93.238121,Xerxes,3,12,Standish,Powderhorn,6
+-93.258326,44.9358,173,02/25/2018 11:12am,Snow Emergency,"1109 37th Street East,Minneapolis,MN",44.9358,-93.258326,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.253432,44.940583,174,02/25/2018 11:22am,Snow Emergency,"3421 15th ave s,Minneapolis,MN",44.940583,-93.253432,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.252291,44.935934,175,02/25/2018 11:27am,Snow Emergency,"1533 37th st e,Minneapolis,MN",44.935934,-93.252291,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.260065,44.943229,176,02/25/2018 11:35am,Snow Emergency,"3217 10th av s,Minneapolis,MN",44.943229,-93.260065,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.261093,44.945539,177,02/25/2018 11:38am,Snow Emergency,"3133 ELLIOT AVE,Minneapolis,MN",44.945539,-93.261093,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.240234,44.938006,178,02/25/2018 11:42am,Snow Emergency,"3547 22nd ave s ,Minneapolis,MN",44.938006,-93.240234,Xerxes,3,9,Corcoran,Powderhorn,6
+-93.253577,44.94529,179,02/25/2018 11:42am,Snow Emergency,"3145 15TH AVE S,Minneapolis,MN",44.94529,-93.253577,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.253761,44.946165,180,02/25/2018 11:44am,Snow Emergency,"3111 15th ave S,Minneapolis,MN",44.946165,-93.253761,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.260065,44.943222,181,02/25/2018 11:46am,Snow Emergency,"3227 10th ave S,Minneapolis,MN",44.943222,-93.260065,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.260394,44.94278,182,02/25/2018 11:55am,Snow Emergency,"3310 10th ave s,Minneapolis,MN",44.94278,-93.260394,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.2601,44.945676,183,02/25/2018 11:56am,Snow Emergency,"3127 10th Avenue South,Minneapolis,MN",44.945676,-93.2601,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.258851,44.947353,184,02/25/2018 11:56am,Snow Emergency,"3029 11th ave s,Minneapolis,MN",44.947353,-93.258851,Xerxes,3,9,Powderhorn Park,Powderhorn,6
+-93.258539,44.946851,185,02/25/2018 12:16pm,Snow Emergency,"3045 11th av s,Minneapolis,MN",44.946851,-93.258539,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.236857,44.944187,186,02/25/2018 12:25pm,Snow Emergency,"3211 24TH AVE S,Minneapolis,MN",44.944187,-93.236857,Xerxes,2,9,Corcoran,Powderhorn,6
+-93.254689,44.945138,187,02/25/2018 12:25pm,Snow Emergency,"3147 14th ave ,Minneapolis,MN",44.945138,-93.254689,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.260097,44.945391,188,02/25/2018 12:36pm,Snow Emergency,"3149 10th ave,Minneapolis,MN",44.945391,-93.260097,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.259797,44.946123,189,02/25/2018 12:37pm,Snow Emergency,"3111 10th ave,Minneapolis,MN",44.946123,-93.259797,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.249681,44.947886,190,02/25/2018 12:41pm,Snow Emergency,"3011 17th ave s,Minneapolis,MN",44.947886,-93.249681,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.252122,44.940954,191,02/25/2018 12:43pm,Snow Emergency,"1545 34th Street East,Minneapolis,MN",44.940954,-93.252122,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.261054,44.943646,192,02/25/2018 12:50pm,Snow Emergency,"3237 Elliot Ave South,Minneapolis,MN",44.943646,-93.261054,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.254705,44.943962,193,02/25/2018 12:54pm,Snow Emergency,"3225 14th ave s,Minneapolis,MN",44.943962,-93.254705,Xerxes,2,9,Powderhorn Park,Powderhorn,6
+-93.262979,44.945413,194,02/23/2018 09:36pm,Snow Emergency,"3140 Chicago ,Minneapolis,MN",44.945413,-93.262979,Xerxes,1,9,Central,Powderhorn,5
+-93.270217,44.921362,195,02/23/2018 09:49pm,Snow Emergency,"4500 block of 4th Ave South,Minneapolis,MN",44.921362,-93.270217,Xerxes,1,8,Regina,Nokomis,5
+-93.270183,44.923089,196,02/23/2018 09:52pm,Snow Emergency,"4400 Block of 4th Ave South,Minneapolis,MN",44.923089,-93.270183,Xerxes,1,8,Regina,Nokomis,5
+-93.270217,44.921362,197,02/23/2018 09:53pm,Snow Emergency,"4500 block 4th ave s,Minneapolis,MN",44.921362,-93.270217,Xerxes,1,8,Regina,Nokomis,5
+-93.270333,44.91429,198,02/23/2018 10:05pm,Snow Emergency,"49th St & 4th Avenue,Minneapolis,MN",44.91429,-93.270333,Xerxes,1,8,Field,Nokomis,5
+-93.262881,44.94066,199,02/23/2018 10:08pm,Snow Emergency,"3416 CHICAGO AVE S,Minneapolis,MN",44.94066,-93.262881,Xerxes,1,9,Central,Powderhorn,5
+-93.270583,44.923093,200,02/23/2018 10:12pm,Snow Emergency,"4400 4TH AVE S,Minneapolis,MN",44.923093,-93.270583,Xerxes,1,8,Regina,Nokomis,5
+-93.262822,44.938057,201,02/23/2018 10:20pm,Snow Emergency,"3544 CHICAGO AVE S,Minneapolis,MN",44.938057,-93.262822,Xerxes,1,9,Central,Powderhorn,5
+-93.262901,44.938856,202,02/23/2018 10:31pm,Snow Emergency,"3516 Chicago Ave S,Minneapolis,MN",44.938856,-93.262901,Xerxes,1,9,Central,Powderhorn,5
+-93.270406,44.930297,203,02/23/2018 10:32pm,Snow Emergency,"4000 4TH AVE S,Minneapolis,MN",44.930297,-93.270406,Xerxes,1,8,Bryant,Powderhorn,5
+-93.270329,44.924287,204,02/23/2018 10:33pm,Snow Emergency,"4300 4TH AVE S,Minneapolis,MN",44.924287,-93.270329,Xerxes,1,8,Regina,Nokomis,5
+-93.270406,44.930297,205,02/23/2018 10:34pm,Snow Emergency,"4000 4TH AVE S,Minneapolis,MN",44.930297,-93.270406,Xerxes,1,8,Bryant,Powderhorn,5
+-93.262492,44.932983,206,02/23/2018 10:38pm,Snow Emergency,"3838 Chicago Avenue,Minneapolis,MN",44.932983,-93.262492,Xerxes,1,8,Bryant,Powderhorn,5
+-93.270406,44.930297,207,02/23/2018 10:53pm,Snow Emergency,"4000 4TH AVE S,Minneapolis,MN",44.930297,-93.270406,Xerxes,1,8,Bryant,Powderhorn,5
+-93.270406,44.930297,208,02/23/2018 10:56pm,Snow Emergency,"4000 4TH AVE S,Minneapolis,MN",44.930297,-93.270406,Xerxes,1,8,Bryant,Powderhorn,5
+-93.270245,44.940512,209,02/23/2018 11:12pm,Snow Emergency,"3400 block of 4 AV s,Minneapolis,MN",44.940512,-93.270245,Xerxes,1,9,Central,Powderhorn,5
+-93.262802,44.933375,210,02/23/2018 11:14pm,Snow Emergency,"3824 CHICAGO AVE S,Minneapolis,MN",44.933375,-93.262802,Xerxes,1,8,Bryant,Powderhorn,5
+-93.270327,44.935838,211,02/23/2018 11:22pm,Snow Emergency,"3700 4TH AVE S,Minneapolis,MN",44.935838,-93.270327,Xerxes,1,8,Central,Powderhorn,5
+-93.270245,44.940512,212,02/23/2018 11:32pm,Snow Emergency,"3400 4th ave s,Minneapolis,MN",44.940512,-93.270245,Xerxes,1,9,Central,Powderhorn,5
+-93.262822,44.926686,213,02/23/2018 11:37pm,Snow Emergency,"4204 Chicago,Minneapolis,MN",44.926686,-93.262822,Xerxes,1,8,Regina,Nokomis,5
+-93.262861,44.930293,214,02/23/2018 11:40pm,Snow Emergency,"4004 Chicago,Minneapolis,MN",44.930293,-93.262861,Xerxes,1,8,Bryant,Powderhorn,5
+-93.263038,44.916455,215,02/23/2018 11:54pm,Snow Emergency,"4748 Chicago Avenue South,Minneapolis,MN",44.916455,-93.263038,Xerxes,1,8,Field,Nokomis,5
+-93.263058,44.902289,216,02/24/2018 01:02am,Snow Emergency,"5528 chicago,Minneapolis,MN",44.902289,-93.263058,Xerxes,1,11,Diamond Lake,Nokomis,5
+-93.314674,44.92469,217,02/24/2018 01:02am,Snow Emergency,"43rd in Upton Ave., South,MN",44.92469,-93.314674,Xerxes,1,13,Linden Hills,Southwest,5
+-93.313497,44.930275,218,02/24/2018 01:03am,Snow Emergency,"4000 SHERIDAN AVE S,Minneapolis,MN",44.930275,-93.313497,Xerxes,1,13,Linden Hills,Southwest,5
+-93.263038,44.902016,219,02/24/2018 01:06am,Snow Emergency,"5536 CHICAGO AVE S,Minneapolis,MN",44.902016,-93.263038,Xerxes,1,11,Diamond Lake,Nokomis,5
+-93.263038,44.902016,220,02/24/2018 01:06am,Snow Emergency,"5536 CHICAGO AVE S,Minneapolis,MN",44.902016,-93.263038,Xerxes,1,11,Diamond Lake,Nokomis,5
+-93.27411,44.946454,221,02/24/2018 01:15pm,Snow Emergency,"3120 2nd Avenue South,Minneapolis,MN",44.946454,-93.27411,Xerxes,2,9,Central,Powderhorn,5
+-93.2996,44.945246,222,02/24/2018 01:19pm,Snow Emergency,"3138 Holmes ave s,Minneapolis,MN",44.945246,-93.2996,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.297392,44.940036,223,02/24/2018 01:22pm,Snow Emergency,"3438 Girard ave s ,Minneapolis,MN",44.940036,-93.297392,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.301166,44.939126,224,02/24/2018 01:35pm,Snow Emergency,"3508 HUMBOLDT AVE S,Minneapolis,MN",44.939126,-93.301166,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.295853,44.942909,225,02/24/2018 01:36pm,Snow Emergency,"1302 r33rd st,Minneapolis,MN",44.942909,-93.295853,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.29747,44.94324,226,02/24/2018 01:46pm,Snow Emergency,"3246 girard ave s,Minneapolis,MN",44.94324,-93.29747,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.300855,44.945984,227,02/24/2018 01:52pm,Snow Emergency,"3114 humboldt ave s,Minneapolis,MN",44.945984,-93.300855,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.298366,44.941326,228,02/24/2018 02:01am,Snow Emergency,"34TH & HENNEPIN AVE S,Minneapolis,MN",44.941326,-93.298366,Xerxes,1,10,ECCO,Calhoun Isle,5
+-93.295849,44.93841,229,02/24/2018 02:06pm,Snow Emergency,"3534 FREMONT AVE S,Minneapolis,MN",44.93841,-93.295849,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.297062,44.943312,230,02/24/2018 02:22pm,Snow Emergency,"3244 girard,Minneapolis,MN",44.943312,-93.297062,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.312275,44.924928,231,02/24/2018 02:37am,Snow Emergency,"2500 43rd st w ,Minneapolis,MN",44.924928,-93.312275,Xerxes,1,13,Linden Hills,Southwest,5
+-93.313497,44.930275,232,02/24/2018 02:39am,Snow Emergency,"4000 Sheridan ave s ,Minneapolis,MN",44.930275,-93.313497,Xerxes,1,13,Linden Hills,Southwest,5
+-93.293179,44.948328,233,02/24/2018 02:39am,Snow Emergency,"3000 block of Dupont Avenue South,Minneapolis,MN",44.948328,-93.293179,Xerxes,1,10,CARAG,Calhoun Isle,5
+-93.293179,44.948328,234,02/24/2018 02:43am,Snow Emergency,"3000 block of Dupont Avenue South,Minneapolis,MN",44.948328,-93.293179,Xerxes,1,10,CARAG,Calhoun Isle,5
+-93.294498,44.944976,235,02/24/2018 03:04pm,Snow Emergency,"3148 EMERSON AVE S,Minneapolis,MN",44.944976,-93.294498,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.297372,44.93918,236,02/24/2018 03:06pm,Snow Emergency,"3508 Girard ave s ,Minneapolis,MN",44.93918,-93.297372,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.294841,44.946158,237,02/24/2018 03:11pm,Snow Emergency,"3108 Emerson ave s ,Minneapolis,MN",44.946158,-93.294841,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.285976,44.89258,238,02/24/2018 03:39am,Snow Emergency,"500 W 61ST ,Minneapolis,MN",44.89258,-93.285976,Xerxes,1,11,Windom,Southwest,5
+-93.298518,44.944595,239,02/24/2018 03:41am,Snow Emergency,"3200 HENNEPIN AVE ,Minneapolis,MN",44.944595,-93.298518,Xerxes,1,10,ECCO,Calhoun Isle,5
+-93.281954,44.89231,240,02/24/2018 04:11am,Snow Emergency,"200 61st st w ,Minneapolis,MN",44.89231,-93.281954,Xerxes,1,11,Windom,Southwest,5
+-93.281954,44.89231,241,02/24/2018 04:12am,Snow Emergency,"200 61 ave west,Minneapolis,MN",44.89231,-93.281954,Xerxes,1,11,Windom,Southwest,5
+-93.318896,44.923321,242,02/24/2018 04:13am,Snow Emergency,"4400 XERXES AVE S,Minneapolis,MN",44.923321,-93.318896,Xerxes,1,13,Linden Hills,Southwest,5
+-93.318896,44.923321,243,02/24/2018 04:17am,Snow Emergency,"4400 XERXES AVE S,Minneapolis,MN",44.923321,-93.318896,Xerxes,1,13,Linden Hills,Southwest,5
+-93.285976,44.89258,244,02/24/2018 05:18am,Snow Emergency,"500 61st st w,Minneapolis,MN",44.89258,-93.285976,Xerxes,1,11,Windom,Southwest,5
+-93.269085,44.892505,245,02/24/2018 05:41am,Snow Emergency,"500 61ST ST E,Minneapolis,MN",44.892505,-93.269085,Xerxes,1,11,Diamond Lake,Nokomis,5
+-93.304646,44.947281,246,02/24/2018 08:39am,Snow Emergency,"3030 KNOX AVE S ,Minneapolis,MN",44.947281,-93.304646,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.304646,44.947397,247,02/24/2018 08:53am,Snow Emergency,"3026 KNOX AVE S,Minneapolis,MN",44.947397,-93.304646,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.304646,44.948087,248,02/24/2018 08:54am,Snow Emergency,"3006 KNOX AVE S,Minneapolis,MN",44.948087,-93.304646,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303664,44.946832,249,02/24/2018 09:09am,Snow Emergency,"3044 JAMES AVE S,Minneapolis,MN",44.946832,-93.303664,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303402,44.94562,250,02/24/2018 09:11am,Snow Emergency,"3126 James Ave s,Minneapolis,MN",44.94562,-93.303402,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.304942,44.947469,251,02/24/2018 09:16am,Snow Emergency,"3024 knox ave s,Minneapolis,MN",44.947469,-93.304942,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303406,44.945117,252,02/24/2018 09:18am,Snow Emergency,"3148 james,Minneapolis,MN",44.945117,-93.303406,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303664,44.945557,253,02/24/2018 09:29am,Snow Emergency,"3128 James ave s,Minneapolis,MN",44.945557,-93.303664,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303395,44.948004,254,02/24/2018 09:30am,Snow Emergency,"3006 James Ave South,Minneapolis,MN",44.948004,-93.303395,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303683,44.945684,255,02/24/2018 09:34am,Snow Emergency,"3124 James ave s,Minneapolis,MN",44.945684,-93.303683,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303683,44.947943,256,02/24/2018 09:34am,Snow Emergency,"3008 James Ave South,Minneapolis,MN",44.947943,-93.303683,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303396,44.946886,257,02/24/2018 09:47am,Snow Emergency,"3042 JAMES AVE S,Minneapolis,MN",44.946886,-93.303396,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303742,44.947304,258,02/24/2018 10:01am,Snow Emergency,"3028 James ave s,Minneapolis,MN",44.947304,-93.303742,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303703,44.94694,259,02/24/2018 10:08am,Snow Emergency,"3040 James ave s,Minneapolis,MN",44.94694,-93.303703,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303683,44.947433,260,02/24/2018 10:24am,Snow Emergency,"3024 JAMES AVE S,Minneapolis,MN",44.947433,-93.303683,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303395,44.947506,261,02/24/2018 10:34am,Snow Emergency,"3022 James Avenue South,Minneapolis,MN",44.947506,-93.303395,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.301147,44.943444,262,02/24/2018 10:37am,Snow Emergency,"3240 Humboldt Avenue South,Minneapolis,MN",44.943444,-93.301147,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.300854,44.945613,263,02/24/2018 11:02am,Snow Emergency,"3126 humboldt ave s,Minneapolis,MN",44.945613,-93.300854,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303397,44.946376,264,02/24/2018 11:06am,Snow Emergency,"3102 James ave s,Minneapolis,MN",44.946376,-93.303397,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303683,44.947579,265,02/24/2018 11:06am,Snow Emergency,"3020 James ave s ,Minneapolis,MN",44.947579,-93.303683,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303395,44.947761,266,02/24/2018 11:42am,Snow Emergency,"3014 James Ave South,Minneapolis,MN",44.947761,-93.303395,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.299648,44.939725,267,02/24/2018 11:45am,Snow Emergency,"3450 Holmes Avenue South,Minneapolis,MN",44.939725,-93.299648,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.303395,44.947642,268,02/24/2018 11:55am,Snow Emergency,"3018 JAMES AVE S,Minneapolis,MN",44.947642,-93.303395,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.262899,44.919215,269,02/24/2018 12:02am,Snow Emergency,"4614 Chicago Ave S,Minneapolis,MN",44.919215,-93.262899,Xerxes,1,8,Field,Nokomis,5
+-93.262861,44.925373,270,02/24/2018 12:05am,Snow Emergency,"4252 Chicago Ave South,Minneapolis,MN",44.925373,-93.262861,Xerxes,1,8,Regina,Nokomis,5
+-93.290156,44.935881,271,02/24/2018 12:11pm,Snow Emergency,"828 37th st s,Minneapolis,MN",44.935881,-93.290156,Xerxes,2,10,East Harriet,Southwest,5
+-93.297411,44.940345,272,02/24/2018 12:16pm,Snow Emergency,"3428 garard,Minneapolis,MN",44.940345,-93.297411,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.301186,44.940601,273,02/24/2018 12:27pm,Snow Emergency,"3420 humboldt ave s,Minneapolis,MN",44.940601,-93.301186,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.300873,44.942775,274,02/24/2018 12:27pm,Snow Emergency,"3308 Humboldt ave s,Minneapolis,MN",44.942775,-93.300873,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.299849,44.943554,275,02/24/2018 12:33pm,Snow Emergency,"3236 holmes ave s,Minneapolis,MN",44.943554,-93.299849,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.262822,44.926358,276,02/24/2018 12:34am,Snow Emergency,"4216 CHICAGO AVE S,Minneapolis,MN",44.926358,-93.262822,Xerxes,1,8,Regina,Nokomis,5
+-93.301128,44.945917,277,02/24/2018 12:36pm,Snow Emergency,"3116 Humboldt Ave South,Minneapolis,MN",44.945917,-93.301128,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.262708,44.901768,278,02/24/2018 12:37am,Snow Emergency,"5550 Chicago ave s,Minneapolis,MN",44.901768,-93.262708,Xerxes,1,11,Diamond Lake,Nokomis,5
+-93.299849,44.945813,279,02/24/2018 12:39pm,Snow Emergency,"3120 Holmes Avenue South,Minneapolis,MN",44.945813,-93.299849,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.313119,44.927281,280,02/24/2018 12:49am,Snow Emergency,"4200 SHERIDAN AVE S,Minneapolis,MN",44.927281,-93.313119,Xerxes,1,13,Linden Hills,Southwest,5
+-93.312275,44.924928,281,02/24/2018 12:53am,Snow Emergency,"2500 W 43RD ST,Minneapolis,MN",44.924928,-93.312275,Xerxes,1,13,Linden Hills,Southwest,5
+-93.314576,44.924571,282,02/24/2018 12:57am,Snow Emergency,"43rd in Upton Avenue s,Minneapolis,MN",44.924571,-93.314576,Xerxes,1,13,Linden Hills,Southwest,5
+-93.301535,44.94331,283,02/24/2018 12:59pm,Snow Emergency,"1528 33rd st W,Minneapolis,MN",44.94331,-93.301535,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.294246,44.946393,284,02/25/2018 01:04pm,Snow Emergency,"3101 emerson,Minneapolis,MN",44.946393,-93.294246,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.301647,44.942944,285,02/25/2018 01:25pm,Snow Emergency,"1539 33rd st,Minneapolis,MN",44.942944,-93.301647,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.295768,44.946482,286,02/25/2018 01:33pm,Snow Emergency,"3103 FREMONT AVE S,Minneapolis,MN",44.946482,-93.295768,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.294597,44.942916,287,02/25/2018 01:48pm,Snow Emergency,"1205 33rd ST W,Minneapolis,MN",44.942916,-93.294597,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.29516,44.94131,288,02/25/2018 02:32pm,Snow Emergency,"1213 34th st w,Minneapolis,MN",44.94131,-93.29516,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.296861,44.9416,289,02/25/2018 03:03pm,Snow Emergency,"3345 girard ave s,Minneapolis,MN",44.9416,-93.296861,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.297062,44.943342,290,02/25/2018 03:14pm,Snow Emergency,"3243 girard ave s ,Minneapolis,MN",44.943342,-93.297062,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.303034,44.94696,291,02/25/2018 08:38am,Snow Emergency,"3041 james ave s,Minneapolis,MN",44.94696,-93.303034,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.304293,44.947579,292,02/25/2018 08:38am,Snow Emergency,"3021 KNOX AVE S,Minneapolis,MN",44.947579,-93.304293,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.303074,44.945174,293,02/25/2018 09:11am,Snow Emergency,"3141 james AVE S,Minneapolis,MN",44.945174,-93.303074,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.303054,44.947961,294,02/25/2018 09:22am,Snow Emergency,"3009 JAMES AVE S,Minneapolis,MN",44.947961,-93.303054,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.303074,44.945319,295,02/25/2018 09:43am,Snow Emergency,"3137 jaames,Minneapolis,MN",44.945319,-93.303074,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.303049,44.945427,296,02/25/2018 10:09am,Snow Emergency,"3135 James ave s,Minneapolis,MN",44.945427,-93.303049,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.298814,44.944635,297,02/25/2018 10:12am,Snow Emergency,"1433 32ND st w,Minneapolis,MN",44.944635,-93.298814,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.300616,44.942275,298,02/25/2018 10:13am,Snow Emergency,"3319 humboldt ave s,Minneapolis,MN",44.942275,-93.300616,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.299222,44.946019,299,02/25/2018 10:47am,Snow Emergency,"3113 holes,Minneapolis,MN",44.946019,-93.299222,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.297047,44.945067,300,02/25/2018 11:22am,Snow Emergency,"3147 girard ave s,Minneapolis,MN",44.945067,-93.297047,Xerxes,3,10,CARAG,Calhoun Isle,5
+-93.303395,44.947342,301,02/25/2018 11:32am,Snow Emergency,"3029 james ave s,Minneapolis,MN",44.947342,-93.303395,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.299279,44.94173,302,02/25/2018 11:58am,Snow Emergency,"3339 holmes,Minneapolis,MN",44.94173,-93.299279,Xerxes,3,10,ECCO,Calhoun Isle,5
+-93.301326,44.941329,303,02/25/2018 12:20pm,Snow Emergency,"1509 34th st w,Minneapolis,MN",44.941329,-93.301326,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.295954,44.944734,304,02/25/2018 12:35pm,Snow Emergency,"1313 32nd west,Minneapolis,MN",44.944734,-93.295954,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.299368,44.944007,305,02/25/2018 12:46pm,Snow Emergency,"3221 holmes ave s,Minneapolis,MN",44.944007,-93.299368,Xerxes,2,10,ECCO,Calhoun Isle,5
+-93.297055,44.944303,306,02/25/2018 12:50pm,Snow Emergency,"3211 girard ave s,Minneapolis,MN",44.944303,-93.297055,Xerxes,2,10,CARAG,Calhoun Isle,5
+-93.229503,44.987844,307,02/23/2018 09:37pm,Snow Emergency,"1516 como ave se,Minneapolis,MN",44.987844,-93.229503,Xerxes,1,1,Como,University,4
+-93.231378,44.988022,308,02/23/2018 09:46pm,Snow Emergency,"1413 comp Ave se,Minneapolis,MN",44.988022,-93.231378,Xerxes,1,1,Como,University,4
+-93.229746,44.987948,309,02/23/2018 09:59pm,Snow Emergency,"1520 COMO AVE SE,Minneapolis,MN",44.987948,-93.229746,Xerxes,1,1,Como,University,4
+-93.2262,44.987631,310,02/23/2018 10:00pm,Snow Emergency,"1812 COMO AVE SE,Minneapolis,MN",44.987631,-93.2262,Xerxes,2,2,Como,University,4
+-93.223366,44.987674,311,02/23/2018 10:03pm,Snow Emergency,"2018 comp ave se,Minneapolis,MN",44.987674,-93.223366,Xerxes,2,2,Como,University,4
+-93.228135,44.987631,312,02/23/2018 10:04pm,Snow Emergency,"1706 COMO AVE SE,Minneapolis,MN",44.987631,-93.228135,Xerxes,2,2,Como,University,4
+-93.222441,44.987882,313,02/23/2018 10:06pm,Snow Emergency,"2104 COMO AVE SE,Minneapolis,MN",44.987882,-93.222441,Xerxes,1,1,Como,University,4
+-93.222307,44.987884,314,02/23/2018 10:08pm,Snow Emergency,"2110 COMO AVE SE,Minneapolis,MN",44.987884,-93.222307,Xerxes,1,1,Como,University,4
+-93.223537,44.987615,315,02/23/2018 10:13pm,Snow Emergency,"2012 como Ave se ,Minneapolis,MN",44.987615,-93.223537,Xerxes,2,2,Como,University,4
+-93.233813,44.988,316,02/23/2018 10:16pm,Snow Emergency,"1229 COME AVE SE,Minneapolis,MN",44.988,-93.233813,Xerxes,2,2,Como,University,4
+-93.217229,44.987939,317,02/23/2018 10:17pm,Snow Emergency,"2510 COMO AVE SE,Minneapolis,MN",44.987939,-93.217229,Xerxes,1,1,Como,University,4
+-93.234103,44.988001,318,02/23/2018 10:32pm,Snow Emergency,"1213 COMO AVE SE,Minneapolis,MN",44.988001,-93.234103,Xerxes,2,2,Como,University,4
+-93.248209,44.984502,319,02/23/2018 10:38pm,Snow Emergency,"513 UNIVERSITY AVE SE,Minneapolis,MN",44.984502,-93.248209,Xerxes,1,3,Marcy Holmes,University,4
+-93.24837,44.984566,320,02/23/2018 10:45pm,Snow Emergency,"509 UNIVERSITY AVE SE,Minneapolis,MN",44.984566,-93.24837,Xerxes,1,3,Marcy Holmes,University,4
+-93.246668,44.983318,321,02/23/2018 10:55pm,Snow Emergency,"625 UNIVERSITY AVE SE,Minneapolis,MN",44.983318,-93.246668,Xerxes,1,3,Marcy Holmes,University,4
+-93.246464,44.983741,322,02/23/2018 11:02pm,Snow Emergency,"623 UNIVERSITY AVE SE,Minneapolis,MN",44.983741,-93.246464,Xerxes,1,3,Marcy Holmes,University,4
+-93.246464,44.983741,323,02/23/2018 11:04pm,Snow Emergency,"623 UNIVERSITY AVE SE,Minneapolis,MN",44.983741,-93.246464,Xerxes,1,3,Marcy Holmes,University,4
+-93.245863,44.983485,324,02/23/2018 11:08pm,Snow Emergency,"701 university Ave se,Minneapolis,MN",44.983485,-93.245863,Xerxes,1,3,Marcy Holmes,University,4
+-93.246718,44.983547,325,02/23/2018 11:10pm,Snow Emergency,"621 university se,Minneapolis,MN",44.983547,-93.246718,Xerxes,1,3,Marcy Holmes,University,4
+-93.246691,44.983826,326,02/23/2018 11:14pm,Snow Emergency,"617 UNIVERYSITY AVE SE,Minneapolis,MN",44.983826,-93.246691,Xerxes,1,3,Marcy Holmes,University,4
+-93.246792,44.983576,327,02/23/2018 11:17pm,Snow Emergency,"619 UNIVERSITY AVE SE,Minneapolis,MN",44.983576,-93.246792,Xerxes,1,3,Marcy Holmes,University,4
+-93.245893,44.983218,328,02/23/2018 11:18pm,Snow Emergency,"705 university ave se,Minneapolis,MN",44.983218,-93.245893,Xerxes,1,3,Marcy Holmes,University,4
+-93.245296,44.982981,329,02/23/2018 11:21pm,Snow Emergency,"721 UNIVERSITY AVE SE,Minneapolis,MN",44.982981,-93.245296,Xerxes,1,3,Marcy Holmes,University,4
+-93.245205,44.982945,330,02/23/2018 11:23pm,Snow Emergency,"725 UNIVERSITY AVE SE,Minneapolis,MN",44.982945,-93.245205,Xerxes,1,3,Marcy Holmes,University,4
+-93.254136,44.988054,331,02/23/2018 11:27pm,Snow Emergency,"39 4TH AVE S,Minneapolis,MN",44.988054,-93.254136,Xerxes,1,3,Nicollet Island - East Bank,University,4
+-93.244403,44.982624,332,02/23/2018 11:30pm,Snow Emergency,"809 university ave se,Minneapolis,MN",44.982624,-93.244403,Xerxes,1,3,Marcy Holmes,University,4
+-93.244521,44.982672,333,02/23/2018 11:30pm,Snow Emergency,"805 UNIVERSITY AVE SE,Minneapolis,MN",44.982672,-93.244521,Xerxes,1,3,Marcy Holmes,University,4
+-93.227082,44.948377,334,02/23/2018 11:34pm,Snow Emergency,"3000 TH AVE S,Minneapolis,MN",44.948377,-93.227082,Xerxes,2,2,Longfellow,Longfellow,4
+-93.24458,44.982695,335,02/23/2018 11:40pm,Snow Emergency,"803 university Ave se ,Minneapolis,MN",44.982695,-93.24458,Xerxes,1,3,Marcy Holmes,University,4
+-93.248316,44.98455,336,02/23/2018 11:43pm,Snow Emergency,"511 UNIVERSITY AVE SE,Minneapolis,MN",44.98455,-93.248316,Xerxes,1,3,Marcy Holmes,University,4
+-93.223781,44.987866,337,02/23/2018 11:44pm,Snow Emergency,"2006 COMO AVE SE,Minneapolis,MN",44.987866,-93.223781,Xerxes,1,1,Como,University,4
+-93.244219,44.984026,338,02/23/2018 11:49pm,Snow Emergency,"711 univ ave se,Minneapolis,MN",44.984026,-93.244219,Xerxes,1,3,Marcy Holmes,University,4
+-93.243793,44.983419,339,02/23/2018 11:51pm,Snow Emergency,"806 4TH ST SE,Minneapolis,MN",44.983419,-93.243793,Xerxes,1,3,Marcy Holmes,University,4
+-93.243568,44.983305,340,02/23/2018 11:55pm,Snow Emergency,"812 4TH ST SE,Minneapolis,MN",44.983305,-93.243568,Xerxes,1,3,Marcy Holmes,University,4
+-93.243713,44.983399,341,02/23/2018 11:55pm,Snow Emergency,"808 4TH ST SE,Minneapolis,MN",44.983399,-93.243713,Xerxes,1,3,Marcy Holmes,University,4
+-93.243568,44.983305,342,02/23/2018 11:56pm,Snow Emergency,"812 4TH ST SE,Minneapolis,MN",44.983305,-93.243568,Xerxes,1,3,Marcy Holmes,University,4
+-93.249633,44.980705,343,02/24/2018 01:01am,Snow Emergency,"600 MAIN ST SE,Minneapolis,MN",44.980705,-93.249633,Xerxes,1,3,Marcy Holmes,University,4
+-93.242266,44.985661,344,02/24/2018 01:02pm,Snow Emergency,"804 6TH ST AVE,Minneapolis,MN",44.985661,-93.242266,Xerxes,2,3,Marcy Holmes,University,4
+-93.24833,44.981574,345,02/24/2018 01:09am,Snow Emergency,"650 MAIN ST SE,Minneapolis,MN",44.981574,-93.24833,Xerxes,1,3,Marcy Holmes,University,4
+-93.249633,44.980705,346,02/24/2018 01:10am,Snow Emergency,"600 MAIN ST SE,Minneapolis,MN",44.980705,-93.249633,Xerxes,1,3,Marcy Holmes,University,4
+-93.252048,44.985696,347,02/24/2018 01:10am,Snow Emergency,"300 3RD AVE SE,Minneapolis,MN",44.985696,-93.252048,Xerxes,1,3,Marcy Holmes,University,4
+-93.244371,44.984829,348,02/24/2018 01:16pm,Snow Emergency,"720 5th st se,Minneapolis,MN",44.984829,-93.244371,Xerxes,2,3,Marcy Holmes,University,4
+-93.247393,44.987372,349,02/24/2018 01:17pm,Snow Emergency,"424 6th st se ,Minneapolis,MN",44.987372,-93.247393,Xerxes,2,3,Marcy Holmes,University,4
+-93.237154,44.98302,350,02/24/2018 01:20pm,Snow Emergency,"516 12th ave se,Minneapolis,MN",44.98302,-93.237154,Xerxes,2,3,Marcy Holmes,University,4
+-93.239443,44.984236,351,02/24/2018 01:22pm,Snow Emergency,"1018 6th St SE,Minneapolis,MN",44.984236,-93.239443,Xerxes,2,3,Marcy Holmes,University,4
+-93.23972,44.983359,352,02/24/2018 01:23pm,Snow Emergency,"1018 5th st se,Minneapolis,MN",44.983359,-93.23972,Xerxes,2,3,Marcy Holmes,University,4
+-93.237616,44.982778,353,02/24/2018 01:25pm,Snow Emergency,"504 12th ave se,Minneapolis,MN",44.982778,-93.237616,Xerxes,2,3,Marcy Holmes,University,4
+-93.239448,44.984248,354,02/24/2018 01:26pm,Snow Emergency,"1008 6th St SE ,Minneapolis,MN",44.984248,-93.239448,Xerxes,2,3,Marcy Holmes,University,4
+-93.236584,44.984053,355,02/24/2018 01:27pm,Snow Emergency,"608 12th ave se,Minneapolis,MN",44.984053,-93.236584,Xerxes,2,3,Marcy Holmes,University,4
+-93.240581,44.981338,356,02/24/2018 01:29am,Snow Emergency,"317 11TH AVE SE,Minneapolis,MN",44.981338,-93.240581,Xerxes,1,3,Marcy Holmes,University,4
+-93.247965,44.981425,357,02/24/2018 01:31am,Snow Emergency,"799 MAIN ST SE,Minneapolis,MN",44.981425,-93.247965,Xerxes,1,3,Marcy Holmes,University,4
+-93.231025,44.977307,358,02/24/2018 01:33am,Snow Emergency,"300 18TH AVE SE,Minneapolis,MN",44.977307,-93.231025,Xerxes,2,2,University of Minnesota,University,4
+-93.22694,44.989656,359,02/24/2018 01:36am,Snow Emergency,"1059 18TH AVE SE,Minneapolis,MN",44.989656,-93.22694,Xerxes,1,1,Como,University,4
+-93.226709,44.989641,360,02/24/2018 01:38pm,Snow Emergency,"1816 talmage Ave s e,Minneapolis,MN",44.989641,-93.226709,Xerxes,2,1,Como,University,4
+-93.240581,44.981338,361,02/24/2018 01:40am,Snow Emergency,"317 11TH AVE SE,Minneapolis,MN",44.981338,-93.240581,Xerxes,1,3,Marcy Holmes,University,4
+-93.240655,44.981267,362,02/24/2018 01:44am,Snow Emergency,"309 11TH AVE SE,Minneapolis,MN",44.981267,-93.240655,Xerxes,1,3,Marcy Holmes,University,4
+-93.239142,44.980866,363,02/24/2018 01:45pm,Snow Emergency,"324 12th ave se,Minneapolis,MN",44.980866,-93.239142,Xerxes,2,3,Marcy Holmes,University,4
+-93.239111,44.980905,364,02/24/2018 01:48pm,Snow Emergency,"328 12th ave sE,Minneapolis,MN",44.980905,-93.239111,Xerxes,2,3,Marcy Holmes,University,4
+-93.237813,44.983621,365,02/24/2018 01:48pm,Snow Emergency,"1112 6th st se ,Minneapolis,MN",44.983621,-93.237813,Xerxes,2,3,Marcy Holmes,University,4
+-93.239443,44.984256,366,02/24/2018 01:49pm,Snow Emergency,"1016 6th st se,Minneapolis,MN",44.984256,-93.239443,Xerxes,2,3,Marcy Holmes,University,4
+-93.24686,44.985906,367,02/24/2018 01:50pm,Snow Emergency,"518 5th st se,Minneapolis,MN",44.985906,-93.24686,Xerxes,2,3,Marcy Holmes,University,4
+-93.236938,44.983547,368,02/24/2018 01:51pm,Snow Emergency,"1202 6th st se,Minneapolis,MN",44.983547,-93.236938,Xerxes,2,3,Marcy Holmes,University,4
+-93.238633,44.983165,369,02/24/2018 01:52pm,Snow Emergency,"504 11TH AVE SE,Minneapolis,MN",44.983165,-93.238633,Xerxes,2,3,Marcy Holmes,University,4
+-93.220928,44.970048,370,02/24/2018 01:55am,Snow Emergency,"131 27TH AVE SE,Minneapolis,MN",44.970048,-93.220928,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.236625,44.984002,371,02/24/2018 01:55pm,Snow Emergency,"606 12th ave se,Minneapolis,MN",44.984002,-93.236625,Xerxes,2,3,Marcy Holmes,University,4
+-93.236966,44.985541,372,02/24/2018 01:55pm,Snow Emergency,"716 11TH AVE SE,Minneapolis,MN",44.985541,-93.236966,Xerxes,2,3,Marcy Holmes,University,4
+-93.220205,44.97034,373,02/24/2018 01:57am,Snow Emergency,"139 27TH AVE SE,Minneapolis,MN",44.97034,-93.220205,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.236847,44.985654,374,02/24/2018 01:57pm,Snow Emergency,"720 11th ave se,Minneapolis,MN",44.985654,-93.236847,Xerxes,2,3,Marcy Holmes,University,4
+-93.235763,44.985098,375,02/24/2018 01:58pm,Snow Emergency,"712 12th ave se,Minneapolis,MN",44.985098,-93.235763,Xerxes,2,3,Marcy Holmes,University,4
+-93.244776,44.984772,376,02/24/2018 02:00pm,Snow Emergency,"428 7th ave se,Minneapolis,MN",44.984772,-93.244776,Xerxes,2,3,Marcy Holmes,University,4
+-93.241711,44.980472,377,02/24/2018 02:02am,Snow Emergency,"200 11TH AVE SE,Minneapolis,MN",44.980472,-93.241711,Xerxes,1,3,Marcy Holmes,University,4
+-93.240581,44.981338,378,02/24/2018 02:05am,Snow Emergency,"317 11TH AVE SE,Minneapolis,MN",44.981338,-93.240581,Xerxes,1,3,Marcy Holmes,University,4
+-93.240581,44.981338,379,02/24/2018 02:08am,Snow Emergency,"317 11th Ave se,Minneapolis,MN",44.981338,-93.240581,Xerxes,1,3,Marcy Holmes,University,4
+-93.236605,44.983411,380,02/24/2018 02:08pm,Snow Emergency,"1226 6th St SE ,Minneapolis,MN",44.983411,-93.236605,Xerxes,2,3,Marcy Holmes,University,4
+-93.248948,44.989368,381,02/24/2018 02:10pm,Snow Emergency,"308 7th st se,Minneapolis,MN",44.989368,-93.248948,Xerxes,2,3,Marcy Holmes,University,4
+-93.23309,44.988239,382,02/24/2018 02:15pm,Snow Emergency,"1012 13th Ave s e,Minneapolis,MN",44.988239,-93.23309,Xerxes,2,2,Como,University,4
+-93.240266,44.981721,383,02/24/2018 02:18am,Snow Emergency,"320 11TH AV SE,Minneapolis,MN",44.981721,-93.240266,Xerxes,1,3,Marcy Holmes,University,4
+-93.244474,44.98487,384,02/24/2018 02:18pm,Snow Emergency,"710 5th st se,Minneapolis,MN",44.98487,-93.244474,Xerxes,2,3,Marcy Holmes,University,4
+-93.240581,44.981338,385,02/24/2018 02:20am,Snow Emergency,"317 11TH AVE SE,Minneapolis,MN",44.981338,-93.240581,Xerxes,1,3,Marcy Holmes,University,4
+-93.240581,44.981338,386,02/24/2018 02:20am,Snow Emergency,"317 11TH AVE SE,Minneapolis,MN",44.981338,-93.240581,Xerxes,1,3,Marcy Holmes,University,4
+-93.244494,44.984879,387,02/24/2018 02:25pm,Snow Emergency,"708 5th st se,Minneapolis,MN",44.984879,-93.244494,Xerxes,2,3,Marcy Holmes,University,4
+-93.234243,44.983431,388,02/24/2018 02:26pm,Snow Emergency,"1316 7TH ST SE,Minneapolis,MN",44.983431,-93.234243,Xerxes,2,3,Marcy Holmes,University,4
+-93.239249,44.980729,389,02/24/2018 02:29pm,Snow Emergency,"310 12th Ave se ,Minneapolis,MN",44.980729,-93.239249,Xerxes,2,3,Marcy Holmes,University,4
+-93.234978,44.983415,390,02/24/2018 02:29pm,Snow Emergency,"622 13th ave se,Minneapolis,MN",44.983415,-93.234978,Xerxes,2,3,Marcy Holmes,University,4
+-93.235772,44.98436,391,02/24/2018 02:31pm,Snow Emergency,"1214 7TH ST SE,Minneapolis,MN",44.98436,-93.235772,Xerxes,2,3,Marcy Holmes,University,4
+-93.234271,44.984378,392,02/24/2018 02:31pm,Snow Emergency,"710 13TH AVE SE,Minneapolis,MN",44.984378,-93.234271,Xerxes,2,3,Marcy Holmes,University,4
+-93.236744,44.983468,393,02/24/2018 02:34pm,Snow Emergency,"1216 6th st se,Minneapolis,MN",44.983468,-93.236744,Xerxes,2,3,Marcy Holmes,University,4
+-93.244429,44.986314,394,02/24/2018 02:35pm,Snow Emergency,"622 6TH ST SE,Minneapolis,MN",44.986314,-93.244429,Xerxes,2,3,Marcy Holmes,University,4
+-93.235659,44.984316,395,02/24/2018 02:38pm,Snow Emergency,"1224 7TH ST SE,Minneapolis,MN",44.984316,-93.235659,Xerxes,2,3,Marcy Holmes,University,4
+-93.228768,44.948714,396,02/24/2018 02:41pm,Snow Emergency,"3018 30th Avenue 30th Avenue South,Minneapolis,MN",44.948714,-93.228768,Xerxes,2,2,Longfellow,Longfellow,4
+-93.241514,44.980619,397,02/24/2018 02:44am,Snow Emergency,"224 11th Ave se,Minneapolis,MN",44.980619,-93.241514,Xerxes,1,3,Marcy Holmes,University,4
+-93.241464,44.980656,398,02/24/2018 02:45am,Snow Emergency,"230 11TH AVE SE,Minneapolis,MN",44.980656,-93.241464,Xerxes,1,3,Marcy Holmes,University,4
+-93.241389,44.980713,399,02/24/2018 02:45am,Snow Emergency,"238 11TH AVE SE,Minneapolis,MN",44.980713,-93.241389,Xerxes,1,3,Marcy Holmes,University,4
+-93.240468,44.981469,400,02/24/2018 02:46am,Snow Emergency,"331 11 TH AVE SE,Minneapolis,MN",44.981469,-93.240468,Xerxes,1,3,Marcy Holmes,University,4
+-93.241306,44.980777,401,02/24/2018 02:48am,Snow Emergency,"246 11 TH AVE SE,Minneapolis,MN",44.980777,-93.241306,Xerxes,1,3,Marcy Holmes,University,4
+-93.22694,44.989656,402,02/24/2018 02:50am,Snow Emergency,"1059 18TH AVE SE,Minneapolis,MN",44.989656,-93.22694,Xerxes,1,1,Como,University,4
+-93.238709,44.981081,403,02/24/2018 02:53pm,Snow Emergency,"316 12th Ave se,Minneapolis,MN",44.981081,-93.238709,Xerxes,2,3,Marcy Holmes,University,4
+-93.22694,44.989656,404,02/24/2018 02:54am,Snow Emergency,"1059 18TH AVE SE,Minneapolis,MN",44.989656,-93.22694,Xerxes,1,1,Como,University,4
+-93.218996,44.971836,405,02/24/2018 02:57am,Snow Emergency,"251 27TH AVE SE,Minneapolis,MN",44.971836,-93.218996,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.233672,44.983531,406,02/24/2018 02:58pm,Snow Emergency,"1322 7th st se,Minneapolis,MN",44.983531,-93.233672,Xerxes,2,3,Marcy Holmes,University,4
+-93.242795,44.980481,407,02/24/2018 03:09am,Snow Emergency,"1016 2ND ST SE,Minneapolis,MN",44.980481,-93.242795,Xerxes,1,3,Marcy Holmes,University,4
+-93.234793,44.98595,408,02/24/2018 03:09pm,Snow Emergency,"814 12TH AVE SE,Minneapolis,MN",44.98595,-93.234793,Xerxes,2,3,Marcy Holmes,University,4
+-93.24143,44.980681,409,02/24/2018 03:12am,Snow Emergency,"234 11TH AV SE,Minneapolis,MN",44.980681,-93.24143,Xerxes,1,3,Marcy Holmes,University,4
+-93.234784,44.985962,410,02/24/2018 03:12pm,Snow Emergency,"818 12TH AVE SE,Minneapolis,MN",44.985962,-93.234784,Xerxes,2,3,Marcy Holmes,University,4
+-93.233062,44.9831,411,02/24/2018 03:17pm,Snow Emergency,"1408 7th st se,Minneapolis,MN",44.9831,-93.233062,Xerxes,2,3,Marcy Holmes,University,4
+-93.221296,44.987274,412,02/24/2018 03:17pm,Snow Emergency,"920 22nd ave se,Minneapolis,MN",44.987274,-93.221296,Xerxes,2,2,Como,University,4
+-93.242617,44.98041,413,02/24/2018 03:19am,Snow Emergency,"1032 2ND ST SE,Minneapolis,MN",44.98041,-93.242617,Xerxes,1,3,Marcy Holmes,University,4
+-93.242449,44.980779,414,02/24/2018 03:22am,Snow Emergency,"1055 2nd st se,Minneapolis,MN",44.980779,-93.242449,Xerxes,1,3,Marcy Holmes,University,4
+-93.233666,44.983529,415,02/24/2018 03:28pm,Snow Emergency,"1324 7th st se,Minneapolis,MN",44.983529,-93.233666,Xerxes,2,3,Marcy Holmes,University,4
+-93.218996,44.971836,416,02/24/2018 03:38am,Snow Emergency,"251 27TH AVE SE,Minneapolis,MN",44.971836,-93.218996,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.242772,44.980472,417,02/24/2018 03:41am,Snow Emergency,"1018 2ND ST SE,Minneapolis,MN",44.980472,-93.242772,Xerxes,1,3,Marcy Holmes,University,4
+-93.208796,44.969514,418,02/24/2018 03:41pm,Snow Emergency,"3358 4ST ST E,Minneapolis,MN",44.969514,-93.208796,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.248718,44.983275,419,02/24/2018 03:44am,Snow Emergency,"523 2ND ST SE,Minneapolis,MN",44.983275,-93.248718,Xerxes,1,3,Marcy Holmes,University,4
+-93.249176,44.982896,420,02/24/2018 03:49am,Snow Emergency,"520 2ND ST SE,Minneapolis,MN",44.982896,-93.249176,Xerxes,1,3,Marcy Holmes,University,4
+-93.247549,44.982991,421,02/24/2018 03:50am,Snow Emergency,"633 2 ST SE,Minneapolis,MN",44.982991,-93.247549,Xerxes,1,3,Marcy Holmes,University,4
+-93.248686,44.983331,422,02/24/2018 04:00am,Snow Emergency,"521 2nd st se,Minneapolis,MN",44.983331,-93.248686,Xerxes,1,3,Marcy Holmes,University,4
+-93.220082,44.972331,423,02/24/2018 04:12am,Snow Emergency,"2600 UNIVERSITY AVE SE,Minneapolis,MN",44.972331,-93.220082,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.248562,44.983212,424,02/24/2018 04:20am,Snow Emergency,"553 2ND ST SE,Minneapolis,MN",44.983212,-93.248562,Xerxes,1,3,Marcy Holmes,University,4
+-93.241409,44.980697,425,02/24/2018 04:25am,Snow Emergency,"236 11th ave se,Minneapolis,MN",44.980697,-93.241409,Xerxes,1,3,Marcy Holmes,University,4
+-93.240671,44.981725,426,02/24/2018 04:39am,Snow Emergency,"311 11TH AVE SE,Minneapolis,MN",44.981725,-93.240671,Xerxes,1,3,Marcy Holmes,University,4
+-93.247641,44.983026,427,02/24/2018 04:42am,Snow Emergency,"623 2ND ST SE,Minneapolis,MN",44.983026,-93.247641,Xerxes,1,3,Marcy Holmes,University,4
+-93.220082,44.972331,428,02/24/2018 04:43am,Snow Emergency,"2600 UNIVERSITY AVE SE,Minneapolis,MN",44.972331,-93.220082,Xerxes,2,2,Prospect Park - East River Road,University,4
+-93.242728,44.980455,429,02/24/2018 04:43am,Snow Emergency,"1022 2ND ST SE,Minneapolis,MN",44.980455,-93.242728,Xerxes,1,3,Marcy Holmes,University,4
+-93.248686,44.983331,430,02/24/2018 05:32am,Snow Emergency,"521 2ND ST SE,Minneapolis,MN",44.983331,-93.248686,Xerxes,1,3,Marcy Holmes,University,4
+-93.249066,44.983473,431,02/24/2018 05:33am,Snow Emergency,"519 2ND ST SE,Minneapolis,MN",44.983473,-93.249066,Xerxes,1,3,Marcy Holmes,University,4
+-93.252558,44.987385,432,02/24/2018 08:30am,Snow Emergency,"416 2nd Ave SE,Minneapolis,MN",44.987385,-93.252558,Xerxes,2,3,Marcy Holmes,University,4
+-93.249872,44.988017,433,02/24/2018 08:40am,Snow Emergency,"514 3rd ave se,Minneapolis,MN",44.988017,-93.249872,Xerxes,2,3,Marcy Holmes,University,4
+-93.251146,44.986291,434,02/24/2018 08:41am,Snow Emergency,"320 3rd ave se,Minneapolis,MN",44.986291,-93.251146,Xerxes,2,3,Marcy Holmes,University,4
+-93.249615,44.988773,435,02/24/2018 08:46am,Snow Emergency,"612 3rd ave s e,Minneapolis,MN",44.988773,-93.249615,Xerxes,2,3,Marcy Holmes,University,4
+-93.234192,44.988542,436,02/24/2018 08:47am,Snow Emergency,"1022 12th ave se ,Minneapolis,MN",44.988542,-93.234192,Xerxes,2,2,Como,University,4
+-93.23433,44.990136,437,02/24/2018 08:51am,Snow Emergency,"1074 12th Ave se ,Minneapolis,MN",44.990136,-93.23433,Xerxes,2,2,Como,University,4
+-93.251424,44.985937,438,02/24/2018 08:52am,Snow Emergency,"308 3RD AVE SE,Minneapolis,MN",44.985937,-93.251424,Xerxes,2,3,Marcy Holmes,University,4
+-93.251424,44.985937,439,02/24/2018 08:57am,Snow Emergency,"308 3rd ave se,Minneapolis,MN",44.985937,-93.251424,Xerxes,2,3,Marcy Holmes,University,4
+-93.249114,44.987094,440,02/24/2018 09:02am,Snow Emergency,"500 4TH AVE SE,Minneapolis,MN",44.987094,-93.249114,Xerxes,2,3,Marcy Holmes,University,4
+-93.248271,44.985482,441,02/24/2018 09:13am,Snow Emergency,"400 5th ave se,Minneapolis,MN",44.985482,-93.248271,Xerxes,2,3,Marcy Holmes,University,4
+-93.251497,44.985844,442,02/24/2018 09:14am,Snow Emergency,"306 3rd ave se ,Minneapolis,MN",44.985844,-93.251497,Xerxes,2,3,Marcy Holmes,University,4
+-93.248017,44.985797,443,02/24/2018 09:17am,Snow Emergency,"408 5th ave se,Minneapolis,MN",44.985797,-93.248017,Xerxes,2,3,Marcy Holmes,University,4
+-93.249992,44.985614,444,02/24/2018 09:18am,Snow Emergency,"324 4th ave se ,Minneapolis,MN",44.985614,-93.249992,Xerxes,2,3,Marcy Holmes,University,4
+-93.23459,44.991435,445,02/24/2018 09:33am,Snow Emergency,"1210 12th Ave SE ,Minneapolis,MN",44.991435,-93.23459,Xerxes,2,2,Como,University,4
+-93.25,44.985603,446,02/24/2018 09:35am,Snow Emergency,"322 4th av se,Minneapolis,MN",44.985603,-93.25,Xerxes,2,3,Marcy Holmes,University,4
+-93.250009,44.985593,447,02/24/2018 09:36am,Snow Emergency,"320 4th ave se,Minneapolis,MN",44.985593,-93.250009,Xerxes,2,3,Marcy Holmes,University,4
+-93.233032,44.988422,448,02/24/2018 09:36am,Snow Emergency,"1018 13th Ave SE ,Minneapolis,MN",44.988422,-93.233032,Xerxes,2,2,Como,University,4
+-93.248369,44.984802,449,02/24/2018 09:41am,Snow Emergency,"318 5th ave se,Minneapolis,MN",44.984802,-93.248369,Xerxes,2,3,Marcy Holmes,University,4
+-93.246725,44.987453,450,02/24/2018 09:41am,Snow Emergency,"600 5TH AVE SE,Minneapolis,MN",44.987453,-93.246725,Xerxes,2,3,Marcy Holmes,University,4
+-93.247103,44.986957,451,02/24/2018 09:46am,Snow Emergency,"518 5TH AVE SE,Minneapolis,MN",44.986957,-93.247103,Xerxes,2,3,Marcy Holmes,University,4
+-93.233041,44.990245,452,02/24/2018 09:48am,Snow Emergency,"1076 13th Ave s e,Minneapolis,MN",44.990245,-93.233041,Xerxes,2,2,Como,University,4
+-93.24608,44.987501,453,02/24/2018 09:55am,Snow Emergency,"624 5th ave se,Minneapolis,MN",44.987501,-93.24608,Xerxes,2,3,Marcy Holmes,University,4
+-93.247298,44.986701,454,02/24/2018 09:56am,Snow Emergency,"508 5th ave se,Minneapolis,MN",44.986701,-93.247298,Xerxes,2,3,Marcy Holmes,University,4
+-93.227408,44.969626,455,02/24/2018 09:59am,Snow Emergency,"737 east river pkwy,Minneapolis,MN",44.969626,-93.227408,Xerxes,2,2,University of Minnesota,University,4
+-93.246096,44.987481,456,02/24/2018 10:00am,Snow Emergency,"622 5th ave se,Minneapolis,MN",44.987481,-93.246096,Xerxes,2,3,Marcy Holmes,University,4
+-93.246568,44.985317,457,02/24/2018 10:11am,Snow Emergency,"420 6TH AVE SE,Minneapolis,MN",44.985317,-93.246568,Xerxes,2,3,Marcy Holmes,University,4
+-93.248294,44.984899,458,02/24/2018 10:14am,Snow Emergency,"322 5th ave se,Minneapolis,MN",44.984899,-93.248294,Xerxes,2,3,Marcy Holmes,University,4
+-93.24867,44.984415,459,02/24/2018 10:15am,Snow Emergency,"302 5th ave se,Minneapolis,MN",44.984415,-93.24867,Xerxes,2,3,Marcy Holmes,University,4
+-93.24658,44.985302,460,02/24/2018 10:16am,Snow Emergency,"418 6th ave se,Minneapolis,MN",44.985302,-93.24658,Xerxes,2,3,Marcy Holmes,University,4
+-93.248087,44.988391,461,02/24/2018 10:24am,Snow Emergency,"608 4th ave se,Minneapolis,MN",44.988391,-93.248087,Xerxes,2,3,Marcy Holmes,University,4
+-93.245338,44.988767,462,02/24/2018 10:28am,Snow Emergency,"712 5th ave se,Minneapolis,MN",44.988767,-93.245338,Xerxes,2,3,Marcy Holmes,University,4
+-93.25027,44.98527,463,02/24/2018 10:29am,Snow Emergency,"304 4th ave se,Minneapolis,MN",44.98527,-93.25027,Xerxes,2,3,Marcy Holmes,University,4
+-93.250092,44.985665,464,02/24/2018 10:30am,Snow Emergency,"316 4th Ave se,Minneapolis,MN",44.985665,-93.250092,Xerxes,2,3,Marcy Holmes,University,4
+-93.237185,44.980582,465,02/24/2018 10:33am,Snow Emergency,"332 13TH AVE SE,Minneapolis,MN",44.980582,-93.237185,Xerxes,2,3,Marcy Holmes,University,4
+-93.246128,44.987442,466,02/24/2018 10:33am,Snow Emergency,"618 5th ave se,Minneapolis,MN",44.987442,-93.246128,Xerxes,2,3,Marcy Holmes,University,4
+-93.247829,44.988723,467,02/24/2018 10:38am,Snow Emergency,"626 4th ave se,Minneapolis,MN",44.988723,-93.247829,Xerxes,2,3,Marcy Holmes,University,4
+-93.231339,44.989491,468,02/24/2018 10:38am,Snow Emergency,"1410 talmage Ave s e ,Minneapolis,MN",44.989491,-93.231339,Xerxes,2,1,Como,University,4
+-93.233317,44.98943,469,02/24/2018 10:39am,Snow Emergency,"1054 13th Ave SE ,Minneapolis,MN",44.98943,-93.233317,Xerxes,2,2,Como,University,4
+-93.246591,44.985287,470,02/24/2018 10:42am,Snow Emergency,"416 6th ave se,Minneapolis,MN",44.985287,-93.246591,Xerxes,2,3,Marcy Holmes,University,4
+-93.248595,44.984512,471,02/24/2018 10:43am,Snow Emergency,"306 5TH AVE SE,Minneapolis,MN",44.984512,-93.248595,Xerxes,2,3,Marcy Holmes,University,4
+-93.233029,44.990136,472,02/24/2018 10:43am,Snow Emergency,"1074 13th AVE SE ,Minneapolis,MN",44.990136,-93.233029,Xerxes,2,2,Como,University,4
+-93.244836,44.987517,473,02/24/2018 10:46am,Snow Emergency,"614 6th ave se,Minneapolis,MN",44.987517,-93.244836,Xerxes,2,3,Marcy Holmes,University,4
+-93.248123,44.988344,474,02/24/2018 10:48am,Snow Emergency,"606 4th ave se,Minneapolis,MN",44.988344,-93.248123,Xerxes,2,3,Marcy Holmes,University,4
+-93.246638,44.985228,475,02/24/2018 10:52am,Snow Emergency,"408 6TH AVE SE,Minneapolis,MN",44.985228,-93.246638,Xerxes,2,3,Marcy Holmes,University,4
+-93.246693,44.987491,476,02/24/2018 10:55am,Snow Emergency,"604 5th ave se,Minneapolis,MN",44.987491,-93.246693,Xerxes,2,3,Marcy Holmes,University,4
+-93.246223,44.987325,477,02/24/2018 11:00am,Snow Emergency,"606 5th ave se,Minneapolis,MN",44.987325,-93.246223,Xerxes,2,3,Marcy Holmes,University,4
+-93.246207,44.987345,478,02/24/2018 11:00am,Snow Emergency,"608 5th ave se,Minneapolis,MN",44.987345,-93.246207,Xerxes,2,3,Marcy Holmes,University,4
+-93.243733,44.988357,479,02/24/2018 11:02am,Snow Emergency,"720 6th ave se,Minneapolis,MN",44.988357,-93.243733,Xerxes,2,3,Marcy Holmes,University,4
+-93.247126,44.984119,480,02/24/2018 11:05am,Snow Emergency,"314 6TH AVE SE,Minneapolis,MN",44.984119,-93.247126,Xerxes,2,3,Marcy Holmes,University,4
+-93.244154,44.988365,481,02/24/2018 11:06am,Snow Emergency,"716 6th ave se,Minneapolis,MN",44.988365,-93.244154,Xerxes,2,3,Marcy Holmes,University,4
+-93.244783,44.987583,482,02/24/2018 11:08am,Snow Emergency,"620 6th Ave se,Minneapolis,MN",44.987583,-93.244783,Xerxes,2,3,Marcy Holmes,University,4
+-93.246649,44.985213,483,02/24/2018 11:09am,Snow Emergency,"406 6th ave se,Minneapolis,MN",44.985213,-93.246649,Xerxes,2,3,Marcy Holmes,University,4
+-93.244544,44.987331,484,02/24/2018 11:16am,Snow Emergency,"612 6th ave se,Minneapolis,MN",44.987331,-93.244544,Xerxes,2,3,Marcy Holmes,University,4
+-93.231799,44.988676,485,02/24/2018 11:17am,Snow Emergency,"1026 14th Ave s e,Minneapolis,MN",44.988676,-93.231799,Xerxes,2,1,Como,University,4
+-93.244111,44.985569,486,02/24/2018 11:19am,Snow Emergency,"514 7th ave se,Minneapolis,MN",44.985569,-93.244111,Xerxes,2,3,Marcy Holmes,University,4
+-93.244837,44.984696,487,02/24/2018 11:24am,Snow Emergency,"416 7TH AVE SE,Minneapolis,MN",44.984696,-93.244837,Xerxes,2,3,Marcy Holmes,University,4
+-93.243085,44.986936,488,02/24/2018 11:29am,Snow Emergency,"628 7TH AVE SE,Minneapolis,MN",44.986936,-93.243085,Xerxes,2,3,Marcy Holmes,University,4
+-93.244053,44.985642,489,02/24/2018 11:32am,Snow Emergency,"524 7th ave se,Minneapolis,MN",44.985642,-93.244053,Xerxes,2,3,Marcy Holmes,University,4
+-93.22929,44.988984,490,02/24/2018 11:39am,Snow Emergency,"1038 16th Ave SE ,Minneapolis,MN",44.988984,-93.22929,Xerxes,2,1,Como,University,4
+-93.230422,44.9901,491,02/24/2018 11:42am,Snow Emergency,"1072 15th Ave SE ,Minneapolis,MN",44.9901,-93.230422,Xerxes,2,1,Como,University,4
+-93.242483,44.987754,492,02/24/2018 11:44am,Snow Emergency,"722 7th ave se,Minneapolis,MN",44.987754,-93.242483,Xerxes,2,3,Marcy Holmes,University,4
+-93.244501,44.987937,493,02/24/2018 11:44am,Snow Emergency,"702 6th ave se,Minneapolis,MN",44.987937,-93.244501,Xerxes,2,3,Marcy Holmes,University,4
+-93.24407,44.983273,494,02/24/2018 11:45am,Snow Emergency,"324 8th ave se,Minneapolis,MN",44.983273,-93.24407,Xerxes,2,3,Marcy Holmes,University,4
+-93.245534,44.981983,495,02/24/2018 11:46am,Snow Emergency,"212 8th ave se,Minneapolis,MN",44.981983,-93.245534,Xerxes,2,3,Marcy Holmes,University,4
+-93.244303,44.988182,496,02/24/2018 11:46am,Snow Emergency,"710 6th ave se,Minneapolis,MN",44.988182,-93.244303,Xerxes,2,3,Marcy Holmes,University,4
+-93.24393,44.984039,497,02/24/2018 11:47am,Snow Emergency,"404 8th Ave se,Minneapolis,MN",44.984039,-93.24393,Xerxes,2,3,Marcy Holmes,University,4
+-93.244996,44.984497,498,02/24/2018 11:47am,Snow Emergency,"408 7TH AVE SE,Minneapolis,MN",44.984497,-93.244996,Xerxes,2,3,Marcy Holmes,University,4
+-93.245565,44.981945,499,02/24/2018 11:48am,Snow Emergency,"208 8th ave se,Minneapolis,MN",44.981945,-93.245565,Xerxes,2,3,Marcy Holmes,University,4
+-93.245743,44.983532,500,02/24/2018 11:48am,Snow Emergency,"328 7th ave se,Minneapolis,MN",44.983532,-93.245743,Xerxes,2,3,Marcy Holmes,University,4
+-93.248831,44.987065,501,02/24/2018 11:50am,Snow Emergency,"502 4th ave se,Minneapolis,MN",44.987065,-93.248831,Xerxes,2,3,Marcy Holmes,University,4
+-93.24558,44.981926,502,02/24/2018 11:53am,Snow Emergency,"206 8th ave se,Minneapolis,MN",44.981926,-93.24558,Xerxes,2,3,Marcy Holmes,University,4
+-93.233317,44.989266,503,02/24/2018 11:54am,Snow Emergency,"1046 13th Ave s e ,Minneapolis,MN",44.989266,-93.233317,Xerxes,2,2,Como,University,4
+-93.244461,44.982941,504,02/24/2018 12:03am,Snow Emergency,"801 UNIVERSITY AVE SE,Minneapolis,MN",44.982941,-93.244461,Xerxes,1,3,Marcy Holmes,University,4
+-93.249046,44.984485,505,02/24/2018 12:06am,Snow Emergency,"299 5TH AVE SE,Minneapolis,MN",44.984485,-93.249046,Xerxes,1,3,Marcy Holmes,University,4
+-93.249046,44.984485,506,02/24/2018 12:06am,Snow Emergency,"299 5ave se,Minneapolis,MN",44.984485,-93.249046,Xerxes,1,3,Marcy Holmes,University,4
+-93.243013,44.987046,507,02/24/2018 12:13pm,Snow Emergency,"700 7th st se,Minneapolis,MN",44.987046,-93.243013,Xerxes,2,3,Marcy Holmes,University,4
+-93.24122,44.986545,508,02/24/2018 12:14pm,Snow Emergency,"808 7th st se,Minneapolis,MN",44.986545,-93.24122,Xerxes,2,3,Marcy Holmes,University,4
+-93.242538,44.985787,509,02/24/2018 12:15pm,Snow Emergency,"600 8TH AVE SE,Minneapolis,MN",44.985787,-93.242538,Xerxes,2,3,Marcy Holmes,University,4
+-93.245641,44.983118,510,02/24/2018 12:18am,Snow Emergency,"713 UNIVERSITY AVE SE,Minneapolis,MN",44.983118,-93.245641,Xerxes,1,3,Marcy Holmes,University,4
+-93.243519,44.983401,511,02/24/2018 12:18am,Snow Emergency,"812 SE 4TH ST,Minneapolis,MN",44.983401,-93.243519,Xerxes,1,3,Marcy Holmes,University,4
+-93.244141,44.983179,512,02/24/2018 12:19pm,Snow Emergency,"316 8th ave se,Minneapolis,MN",44.983179,-93.244141,Xerxes,2,3,Marcy Holmes,University,4
+-93.24122,44.986545,513,02/24/2018 12:19pm,Snow Emergency,"808 7TH ST SE,Minneapolis,MN",44.986545,-93.24122,Xerxes,2,3,Marcy Holmes,University,4
+-93.248926,44.989361,514,02/24/2018 12:19pm,Snow Emergency,"310 7th st se,Minneapolis,MN",44.989361,-93.248926,Xerxes,2,3,Marcy Holmes,University,4
+-93.249239,44.983599,515,02/24/2018 12:20am,Snow Emergency,"200 5th avenue se,Minneapolis,MN",44.983599,-93.249239,Xerxes,1,3,Marcy Holmes,University,4
+-93.247345,44.987353,516,02/24/2018 12:48pm,Snow Emergency,"432 6th st se,Minneapolis,MN",44.987353,-93.247345,Xerxes,2,3,Marcy Holmes,University,4
+-93.236176,44.986851,517,02/24/2018 12:50pm,Snow Emergency,"820 11th ave se,Minneapolis,MN",44.986851,-93.236176,Xerxes,2,3,Marcy Holmes,University,4
+-93.251038,44.989173,518,02/24/2018 12:50pm,Snow Emergency,"204 6th st se,Minneapolis,MN",44.989173,-93.251038,Xerxes,2,3,Marcy Holmes,University,4
+-93.238652,44.983584,519,02/24/2018 12:51pm,Snow Emergency,"512 11th ave se,Minneapolis,MN",44.983584,-93.238652,Xerxes,2,3,Marcy Holmes,University,4
+-93.241177,44.983637,520,02/24/2018 12:51pm,Snow Emergency,"924 5th st se,Minneapolis,MN",44.983637,-93.241177,Xerxes,2,3,Marcy Holmes,University,4
+-93.238364,44.983606,521,02/24/2018 12:54pm,Snow Emergency,"514 11th ave se,Minneapolis,MN",44.983606,-93.238364,Xerxes,2,3,Marcy Holmes,University,4
+-93.23748,44.984802,522,02/24/2018 12:54pm,Snow Emergency,"628 11th ave se,Minneapolis,MN",44.984802,-93.23748,Xerxes,2,3,Marcy Holmes,University,4
+-93.243742,44.986246,523,02/24/2018 12:55pm,Snow Emergency,"704 6TH ST SE,Minneapolis,MN",44.986246,-93.243742,Xerxes,2,3,Marcy Holmes,University,4
+-93.239793,44.983129,524,02/24/2018 12:56pm,Snow Emergency,"1022 5th st se,Minneapolis,MN",44.983129,-93.239793,Xerxes,2,3,Marcy Holmes,University,4
+-93.249633,44.980705,525,02/24/2018 12:57am,Snow Emergency,"600 MAIN ST SE,Minneapolis,MN",44.980705,-93.249633,Xerxes,1,3,Marcy Holmes,University,4
+-93.240368,44.9849,526,02/24/2018 12:58pm,Snow Emergency,"920 6th st Se,Minneapolis,MN",44.9849,-93.240368,Xerxes,2,3,Marcy Holmes,University,4
+-93.233738,44.983558,527,02/25/2018 01:01pm,Snow Emergency,"1329 7th st se,Minneapolis,MN",44.983558,-93.233738,Xerxes,3,3,Marcy Holmes,University,4
+-93.235738,44.983555,528,02/25/2018 01:07pm,Snow Emergency,"609 13th Ave se,Minneapolis,MN",44.983555,-93.235738,Xerxes,3,3,Marcy Holmes,University,4
+-93.233773,44.985312,529,02/25/2018 01:12pm,Snow Emergency,"819 13TH AVE SE,Minneapolis,MN",44.985312,-93.233773,Xerxes,3,3,Marcy Holmes,University,4
+-93.241635,44.987414,530,02/25/2018 01:12pm,Snow Emergency,"715 8TH AVE SE,Minneapolis,MN",44.987414,-93.241635,Xerxes,3,3,Marcy Holmes,University,4
+-93.257116,44.987245,531,02/25/2018 01:20pm,Snow Emergency,"605 9 1/2 AVE SE,Minneapolis,MN",44.987245,-93.257116,Xerxes,3,3,Nicollet Island - East Bank,University,4
+-93.239994,44.986759,532,02/25/2018 01:32pm,Snow Emergency,"715 9TH AVE SE,Minneapolis,MN",44.986759,-93.239994,Xerxes,3,3,Marcy Holmes,University,4
+-93.230613,44.983843,533,02/25/2018 01:35pm,Snow Emergency,"1511 8th st se,Minneapolis,MN",44.983843,-93.230613,Xerxes,2,2,University of Minnesota,University,4
+-93.232758,44.983166,534,02/25/2018 01:37pm,Snow Emergency,"1427 7TH ST SE,Minneapolis,MN",44.983166,-93.232758,Xerxes,3,3,Marcy Holmes,University,4
+-93.240011,44.986855,535,02/25/2018 01:38pm,Snow Emergency,"713 9TH AVE SE,Minneapolis,MN",44.986855,-93.240011,Xerxes,3,3,Marcy Holmes,University,4
+-93.236463,44.986504,536,02/25/2018 01:39pm,Snow Emergency,"813 11th ave se,Minneapolis,MN",44.986504,-93.236463,Xerxes,3,3,Marcy Holmes,University,4
+-93.247222,44.987984,537,02/25/2018 01:41pm,Snow Emergency,"421 6th st ze,Minneapolis,MN",44.987984,-93.247222,Xerxes,3,3,Marcy Holmes,University,4
+-93.236827,44.983502,538,02/25/2018 01:44pm,Snow Emergency,"1211 6th st se,Minneapolis,MN",44.983502,-93.236827,Xerxes,3,3,Marcy Holmes,University,4
+-93.248152,44.989885,539,02/25/2018 01:46pm,Snow Emergency,"315 7th st se,Minneapolis,MN",44.989885,-93.248152,Xerxes,3,3,Marcy Holmes,University,4
+-93.245276,44.990417,540,02/25/2018 01:49pm,Snow Emergency,"429 9th st se,Minneapolis,MN",44.990417,-93.245276,Xerxes,3,3,Marcy Holmes,University,4
+-93.233419,44.983431,541,02/25/2018 01:51pm,Snow Emergency,"1401 7th st se,Minneapolis,MN",44.983431,-93.233419,Xerxes,3,3,Marcy Holmes,University,4
+-93.241002,44.987725,542,02/25/2018 01:53pm,Snow Emergency,"1507 8th Ave se,Minneapolis,MN",44.987725,-93.241002,Xerxes,3,3,Marcy Holmes,University,4
+-93.246323,44.988858,543,02/25/2018 01:54pm,Snow Emergency,"435 7TH ST SE,Minneapolis,MN",44.988858,-93.246323,Xerxes,3,3,Marcy Holmes,University,4
+-93.244388,44.988393,544,02/25/2018 01:59pm,Snow Emergency,"711 6thave se,Minneapolis,MN",44.988393,-93.244388,Xerxes,3,3,Marcy Holmes,University,4
+-93.235878,44.991514,545,02/25/2018 02:00pm,Snow Emergency,"338 ulysses st ne ,Minneapolis,MN",44.991514,-93.235878,Xerxes,3,1,Como,University,4
+-93.230782,44.988579,546,02/25/2018 02:06pm,Snow Emergency,"1023 15th Ave se,Minneapolis,MN",44.988579,-93.230782,Xerxes,3,1,Como,University,4
+-93.241449,44.987692,547,02/25/2018 02:07pm,Snow Emergency,"729 8th ave se,Minneapolis,MN",44.987692,-93.241449,Xerxes,3,3,Marcy Holmes,University,4
+-93.257116,44.987245,548,02/25/2018 02:12pm,Snow Emergency,"607 9 1/2 ave se,Minneapolis,MN",44.987245,-93.257116,Xerxes,3,3,Nicollet Island - East Bank,University,4
+-93.231077,44.990665,549,02/25/2018 02:32pm,Snow Emergency,"1095 15th Ave se,Minneapolis,MN",44.990665,-93.231077,Xerxes,3,1,Como,University,4
+-93.228903,44.986425,550,02/25/2018 02:33pm,Snow Emergency,"959 17TH AVE SE,Minneapolis,MN",44.986425,-93.228903,Xerxes,2,2,Como,University,4
+-93.233764,44.983837,551,02/25/2018 02:37pm,Snow Emergency,"1319 7TH ST SE,Minneapolis,MN",44.983837,-93.233764,Xerxes,3,3,Marcy Holmes,University,4
+-93.22588,44.985489,552,02/25/2018 02:39pm,Snow Emergency,"869 19th Ave se,Minneapolis,MN",44.985489,-93.22588,Xerxes,2,2,Como,University,4
+-93.232796,44.983181,553,02/25/2018 02:48pm,Snow Emergency,"1423 7th st se,Minneapolis,MN",44.983181,-93.232796,Xerxes,3,3,Marcy Holmes,University,4
+-93.232979,44.983255,554,02/25/2018 02:48pm,Snow Emergency,"1407 7TH ST SE,Minneapolis,MN",44.983255,-93.232979,Xerxes,3,3,Marcy Holmes,University,4
+-93.225882,44.985161,555,02/25/2018 02:48pm,Snow Emergency,"857 19th ave se,Minneapolis,MN",44.985161,-93.225882,Xerxes,2,2,Como,University,4
+-93.239127,44.981288,556,02/25/2018 02:50pm,Snow Emergency,"319 12TH AVE SE,Minneapolis,MN",44.981288,-93.239127,Xerxes,3,3,Marcy Holmes,University,4
+-93.234595,44.989024,557,02/25/2018 02:50pm,Snow Emergency,"1039 12th ave se,Minneapolis,MN",44.989024,-93.234595,Xerxes,2,2,Como,University,4
+-93.233273,44.983372,558,02/25/2018 02:53pm,Snow Emergency,"1403 7TH ST SE,Minneapolis,MN",44.983372,-93.233273,Xerxes,3,3,Marcy Holmes,University,4
+-93.233614,44.989819,559,02/25/2018 02:59pm,Snow Emergency,"1063 13th ave se,Minneapolis,MN",44.989819,-93.233614,Xerxes,2,2,Como,University,4
+-93.231001,44.990339,560,02/25/2018 03:00pm,Snow Emergency,"1083 15th Ave se,Minneapolis,MN",44.990339,-93.231001,Xerxes,3,1,Como,University,4
+-93.223148,44.986441,561,02/25/2018 03:10pm,Snow Emergency,"891 21st ave se,Minneapolis,MN",44.986441,-93.223148,Xerxes,2,2,Como,University,4
+-93.228215,44.990611,562,02/25/2018 03:27pm,Snow Emergency,"1093 17th Ave se,Minneapolis,MN",44.990611,-93.228215,Xerxes,3,1,Como,University,4
+-93.221822,44.986916,563,02/25/2018 03:29pm,Snow Emergency,"907 22nd ave se,Minneapolis,MN",44.986916,-93.221822,Xerxes,2,2,Como,University,4
+-93.224527,44.987131,564,02/25/2018 03:47pm,Snow Emergency,"917 20TH AVE SE,Minneapolis,MN",44.987131,-93.224527,Xerxes,2,2,Como,University,4
+-93.226925,44.985186,565,02/25/2018 03:53pm,Snow Emergency,"851 18th ave se,Minneapolis,MN",44.985186,-93.226925,Xerxes,2,2,Como,University,4
+-93.22793,44.961379,566,02/25/2018 03:58pm,Snow Emergency,"2119 30 ave s,Minneapolis,MN",44.961379,-93.22793,Xerxes,2,2,Seward,Longfellow,4
+-93.232619,44.983463,567,02/25/2018 04:20pm,Snow Emergency,"1415 7TH ST SE,Minneapolis,MN",44.983463,-93.232619,Xerxes,3,3,Marcy Holmes,University,4
+-93.226922,44.986021,568,02/25/2018 04:23pm,Snow Emergency,"1217 FAIRMONT ST SE,Minneapolis,MN",44.986021,-93.226922,Xerxes,2,2,Como,University,4
+-93.250253,44.988422,569,02/25/2018 08:27am,Snow Emergency,"517 3rd ave se,Minneapolis,MN",44.988422,-93.250253,Xerxes,3,3,Marcy Holmes,University,4
+-93.250224,44.988537,570,02/25/2018 08:31am,Snow Emergency,"519 3rd ave se,Minneapolis,MN",44.988537,-93.250224,Xerxes,3,3,Marcy Holmes,University,4
+-93.246849,44.985448,571,02/25/2018 09:11am,Snow Emergency,"417 6th ave se,Minneapolis,MN",44.985448,-93.246849,Xerxes,3,3,Marcy Holmes,University,4
+-93.246838,44.985462,572,02/25/2018 09:18am,Snow Emergency,"419 6th ave se,Minneapolis,MN",44.985462,-93.246838,Xerxes,3,3,Marcy Holmes,University,4
+-93.250741,44.985435,573,02/25/2018 09:22am,Snow Emergency,"307 4TH AVE SE,Minneapolis,MN",44.985435,-93.250741,Xerxes,3,3,Marcy Holmes,University,4
+-93.249064,44.987531,574,02/25/2018 09:24am,Snow Emergency,"511 4TH AVE SE,Minneapolis,MN",44.987531,-93.249064,Xerxes,3,3,Marcy Holmes,University,4
+-93.24649,44.988197,575,02/25/2018 09:38am,Snow Emergency,"623 5th ave se,Minneapolis,MN",44.988197,-93.24649,Xerxes,3,3,Marcy Holmes,University,4
+-93.246827,44.985475,576,02/25/2018 09:45am,Snow Emergency,"421 6th ave SE,Minneapolis,MN",44.985475,-93.246827,Xerxes,3,3,Marcy Holmes,University,4
+-93.249038,44.984871,577,02/25/2018 09:49am,Snow Emergency,"307 5th ave se,Minneapolis,MN",44.984871,-93.249038,Xerxes,3,3,Marcy Holmes,University,4
+-93.251741,44.986419,578,02/25/2018 10:11am,Snow Emergency,"331 3RD AVE SE,Minneapolis,MN",44.986419,-93.251741,Xerxes,3,3,Marcy Holmes,University,4
+-93.245511,44.984747,579,02/25/2018 10:13am,Snow Emergency,"405 7TH AVE SE,Minneapolis,MN",44.984747,-93.245511,Xerxes,3,3,Marcy Holmes,University,4
+-93.243884,44.984097,580,02/25/2018 10:16am,Snow Emergency,"407 8th Ave se,Minneapolis,MN",44.984097,-93.243884,Xerxes,3,3,Marcy Holmes,University,4
+-93.248817,44.985179,581,02/25/2018 10:16am,Snow Emergency,"325 5th ave se,Minneapolis,MN",44.985179,-93.248817,Xerxes,3,3,Marcy Holmes,University,4
+-93.243068,44.98804,582,02/25/2018 10:17am,Snow Emergency,"719 7th ave se,Minneapolis,MN",44.98804,-93.243068,Xerxes,3,3,Marcy Holmes,University,4
+-93.244427,44.986106,583,02/25/2018 10:19am,Snow Emergency,"521 7th ave se,Minneapolis,MN",44.986106,-93.244427,Xerxes,3,3,Marcy Holmes,University,4
+-93.248991,44.984955,584,02/25/2018 10:20am,Snow Emergency,"309 5th ave se,Minneapolis,MN",44.984955,-93.248991,Xerxes,3,3,Marcy Holmes,University,4
+-93.243283,44.985253,585,02/25/2018 10:25am,Snow Emergency,"509 8TH AVE SE,Minneapolis,MN",44.985253,-93.243283,Xerxes,3,3,Marcy Holmes,University,4
+-93.247159,44.986883,586,02/25/2018 10:25am,Snow Emergency,"517 5ST AV SE,Minneapolis,MN",44.986883,-93.247159,Xerxes,3,3,Marcy Holmes,University,4
+-93.243861,44.984434,587,02/25/2018 10:30am,Snow Emergency,"417 8TH AVE SE,Minneapolis,MN",44.984434,-93.243861,Xerxes,3,3,Marcy Holmes,University,4
+-93.245393,44.984995,588,02/25/2018 10:30am,Snow Emergency,"419 7TH AVE SE,Minneapolis,MN",44.984995,-93.245393,Xerxes,3,3,Marcy Holmes,University,4
+-93.246133,44.984059,589,02/25/2018 10:31am,Snow Emergency,"321 7TH AVE SE,Minneapolis,MN",44.984059,-93.246133,Xerxes,3,3,Marcy Holmes,University,4
+-93.244671,44.983555,590,02/25/2018 10:36am,Snow Emergency,"321 8th ave se,Minneapolis,MN",44.983555,-93.244671,Xerxes,3,3,Marcy Holmes,University,4
+-93.244623,44.983618,591,02/25/2018 10:40am,Snow Emergency,"323 8th ave se,Minneapolis,MN",44.983618,-93.244623,Xerxes,3,3,Marcy Holmes,University,4
+-93.244543,44.983668,592,02/25/2018 10:44am,Snow Emergency,"325 8th Ave se,Minneapolis,MN",44.983668,-93.244543,Xerxes,3,3,Marcy Holmes,University,4
+-93.247236,44.982509,593,02/25/2018 10:49am,Snow Emergency,"203 7th ave se,Minneapolis,MN",44.982509,-93.247236,Xerxes,3,3,Marcy Holmes,University,4
+-93.24719,44.982566,594,02/25/2018 10:53am,Snow Emergency,"209 7th ave se,Minneapolis,MN",44.982566,-93.24719,Xerxes,3,3,Marcy Holmes,University,4
+-93.2451,44.982994,595,02/25/2018 11:00am,Snow Emergency,"303 8th ave se,Minneapolis,MN",44.982994,-93.2451,Xerxes,3,3,Marcy Holmes,University,4
+-93.244957,44.983181,596,02/25/2018 11:00am,Snow Emergency,"309 8th ave se,Minneapolis,MN",44.983181,-93.244957,Xerxes,3,3,Marcy Holmes,University,4
+-93.24378,44.984716,597,02/25/2018 11:00am,Snow Emergency,"429 8TH AVE SE,Minneapolis,MN",44.984716,-93.24378,Xerxes,3,3,Marcy Holmes,University,4
+-93.244909,44.983243,598,02/25/2018 11:06am,Snow Emergency,"311 8th ave se,Minneapolis,MN",44.983243,-93.244909,Xerxes,3,3,Marcy Holmes,University,4
+-93.245005,44.983119,599,02/25/2018 11:09am,Snow Emergency,"307 8TH AVE SE Minneapolis,Minneapolis,MN",44.983119,-93.245005,Xerxes,3,3,Marcy Holmes,University,4
+-93.248897,44.98502,600,02/25/2018 11:11am,Snow Emergency,"311 5TH AVE SE,Minneapolis,MN",44.98502,-93.248897,Xerxes,3,3,Marcy Holmes,University,4
+-93.240526,44.986618,601,02/25/2018 11:20am,Snow Emergency,"705 9TH AVE SE,Minneapolis,MN",44.986618,-93.240526,Xerxes,3,3,Marcy Holmes,University,4
+-93.241765,44.986771,602,02/25/2018 11:21am,Snow Emergency,"701 8th ave se,Minneapolis,MN",44.986771,-93.241765,Xerxes,3,3,Marcy Holmes,University,4
+-93.245782,44.989028,603,02/25/2018 11:21am,Snow Emergency,"719 5TH AVE SE,Minneapolis,MN",44.989028,-93.245782,Xerxes,3,3,Marcy Holmes,University,4
+-93.239442,44.982773,604,02/25/2018 11:22am,Snow Emergency,"421 11th Ave se,Minneapolis,MN",44.982773,-93.239442,Xerxes,3,3,Marcy Holmes,University,4
+-93.237803,44.985553,605,02/25/2018 11:24am,Snow Emergency,"707 11th ave se,Minneapolis,MN",44.985553,-93.237803,Xerxes,3,3,Marcy Holmes,University,4
+-93.241686,44.98687,606,02/25/2018 11:24am,Snow Emergency,"703 8th ave se,Minneapolis,MN",44.98687,-93.241686,Xerxes,3,3,Marcy Holmes,University,4
+-93.247174,44.982585,607,02/25/2018 11:27am,Snow Emergency,"211 7th Ave Se,Minneapolis,MN",44.982585,-93.247174,Xerxes,3,3,Marcy Holmes,University,4
+-93.242561,44.987073,608,02/25/2018 11:30am,Snow Emergency,"711 7TH ST SE,Minneapolis,MN",44.987073,-93.242561,Xerxes,3,3,Marcy Holmes,University,4
+-93.257116,44.987245,609,02/25/2018 11:48am,Snow Emergency,"611 9 1/2 ave se,Minneapolis,MN",44.987245,-93.257116,Xerxes,3,3,Nicollet Island - East Bank,University,4
+-93.242396,44.988273,610,02/25/2018 11:51am,Snow Emergency,"817 11 7th ave se,Minneapolis,MN",44.988273,-93.242396,Xerxes,3,3,Marcy Holmes,University,4
+-93.236463,44.986504,611,02/25/2018 11:52am,Snow Emergency,"811 11TH AVE SE Minneapolis,Minneapolis,MN",44.986504,-93.236463,Xerxes,3,3,Marcy Holmes,University,4
+-93.237612,44.985795,612,02/25/2018 11:53am,Snow Emergency,"721 11th ave se,Minneapolis,MN",44.985795,-93.237612,Xerxes,3,3,Marcy Holmes,University,4
+-93.237659,44.98574,613,02/25/2018 12:00pm,Snow Emergency,"711 11th ave se,Minneapolis,MN",44.98574,-93.237659,Xerxes,2,3,Marcy Holmes,University,4
+-93.238279,44.98536,614,02/25/2018 12:03pm,Snow Emergency,"1027 7th st se,Minneapolis,MN",44.98536,-93.238279,Xerxes,2,3,Marcy Holmes,University,4
+-93.250482,44.985777,615,02/25/2018 12:04pm,Snow Emergency,"317 4TH AVE SE,Minneapolis,MN",44.985777,-93.250482,Xerxes,2,3,Marcy Holmes,University,4
+-93.25046,44.985782,616,02/25/2018 12:07pm,Snow Emergency,"319 4TH AVE SE,Minneapolis,MN",44.985782,-93.25046,Xerxes,2,3,Marcy Holmes,University,4
+-93.257116,44.987245,617,02/25/2018 12:18pm,Snow Emergency,"613 9 1/2 AVE SE,Minneapolis,MN",44.987245,-93.257116,Xerxes,2,3,Nicollet Island - East Bank,University,4
+-93.240095,44.986936,618,02/25/2018 12:19pm,Snow Emergency,"729 9TH AVE SE,Minneapolis,MN",44.986936,-93.240095,Xerxes,2,3,Marcy Holmes,University,4
+-93.244029,44.986617,619,02/25/2018 12:24pm,Snow Emergency,"629 6th st se,Minneapolis,MN",44.986617,-93.244029,Xerxes,2,3,Marcy Holmes,University,4
+-93.238853,44.985583,620,02/25/2018 12:30pm,Snow Emergency,"927 7th st se ,Minneapolis,MN",44.985583,-93.238853,Xerxes,2,3,Marcy Holmes,University,4
+-93.244195,44.986685,621,02/25/2018 12:30pm,Snow Emergency,"621 6th st se,Minneapolis,MN",44.986685,-93.244195,Xerxes,2,3,Marcy Holmes,University,4
+-93.242783,44.98587,622,02/25/2018 12:32pm,Snow Emergency,"727 6th st se,Minneapolis,MN",44.98587,-93.242783,Xerxes,2,3,Marcy Holmes,University,4
+-93.2495,44.988556,623,02/25/2018 12:34pm,Snow Emergency,"307 6th st se,Minneapolis,MN",44.988556,-93.2495,Xerxes,2,3,Marcy Holmes,University,4
+-93.234583,44.984697,624,02/25/2018 12:35pm,Snow Emergency,"719 13th ave se,Minneapolis,MN",44.984697,-93.234583,Xerxes,2,3,Marcy Holmes,University,4
+-93.239269,44.984831,625,02/25/2018 12:39pm,Snow Emergency,"1005 6th st se,Minneapolis,MN",44.984831,-93.239269,Xerxes,2,3,Marcy Holmes,University,4
+-93.246125,44.984069,626,02/25/2018 12:40pm,Snow Emergency,"323 7THAVE SE,Minneapolis,MN",44.984069,-93.246125,Xerxes,2,3,Marcy Holmes,University,4
+-93.238201,44.985652,627,02/25/2018 12:42pm,Snow Emergency,"1015 7th st se,Minneapolis,MN",44.985652,-93.238201,Xerxes,2,3,Marcy Holmes,University,4
+-93.23359,44.983759,628,02/25/2018 12:48pm,Snow Emergency,"1327 7th st se,Minneapolis,MN",44.983759,-93.23359,Xerxes,2,3,Marcy Holmes,University,4
+-93.294785,44.951579,629,02/23/2018 09:34pm,Snow Emergency,"2800 EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,630,02/23/2018 09:55pm,Snow Emergency,"2800 EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,631,02/23/2018 10:02pm,Snow Emergency,"2800 EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,632,02/23/2018 10:06pm,Snow Emergency,"2800 EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,633,02/23/2018 10:09pm,Snow Emergency,"2800 Emerson Ave S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.285914,44.968409,634,02/23/2018 10:09pm,Snow Emergency,"328 15th ST W,Minneapolis,MN",44.968409,-93.285914,Xerxes,1,7,Loring Park,Central,3
+-93.281612,44.967728,635,02/23/2018 10:16pm,Snow Emergency,"212 15TH ST W,Minneapolis,MN",44.967728,-93.281612,Xerxes,1,7,Loring Park,Central,3
+-93.294785,44.951579,636,02/23/2018 10:27pm,Snow Emergency,"2800 block of Emerson,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,637,02/23/2018 10:36pm,Snow Emergency,"2800 EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,638,02/23/2018 10:39pm,Snow Emergency,"2800 BLOCK EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.279451,44.967717,639,02/23/2018 10:40pm,Snow Emergency,"114 15TH ST W,Minneapolis,MN",44.967717,-93.279451,Xerxes,1,7,Loring Park,Central,3
+-93.293184,44.951233,640,02/23/2018 10:45pm,Snow Emergency,"2800 DUPONT AVE S,Minneapolis,MN",44.951233,-93.293184,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,641,02/23/2018 10:49pm,Snow Emergency,"2800 Emerson Ave S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.280132,44.967721,642,02/23/2018 10:54pm,Snow Emergency,"107 15TH ST W,Minneapolis,MN",44.967721,-93.280132,Xerxes,1,7,Loring Park,Central,3
+-93.293184,44.951233,643,02/23/2018 11:02pm,Snow Emergency,"2800 DUPONT AVE S,Minneapolis,MN",44.951233,-93.293184,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.298031,44.953562,644,02/23/2018 11:07pm,Snow Emergency,"2700 hennepin s,Minneapolis,MN",44.953562,-93.298031,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.293198,44.950042,645,02/23/2018 11:09pm,Snow Emergency,"2900 DUPONT AVE S,Minneapolis,MN",44.950042,-93.293198,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,646,02/23/2018 11:11pm,Snow Emergency,"2800 Emerson Ave s,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.295956,44.957191,647,02/23/2018 11:13pm,Snow Emergency,"2500 HENNEPIN AVE S,Minneapolis,MN",44.957191,-93.295956,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.293184,44.951233,648,02/23/2018 11:15pm,Snow Emergency,"2800 DUPONT AVE S,Minneapolis,MN",44.951233,-93.293184,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,649,02/23/2018 11:15pm,Snow Emergency,"2800 EMERSON AVE S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.298063,44.953569,650,02/23/2018 11:24pm,Snow Emergency,"2700 HENNEPIN AVE ,Minneapolis,MN",44.953569,-93.298063,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.294785,44.951579,651,02/23/2018 11:25pm,Snow Emergency,"2800 block of Emerson Ave s,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.28043,44.96759,652,02/23/2018 11:27pm,Snow Emergency,"123 W 15TH ST,Minneapolis,MN",44.96759,-93.28043,Xerxes,1,7,Loring Park,Central,3
+-93.298031,44.953562,653,02/23/2018 11:29pm,Snow Emergency,"2700 block of Hennepin Ave s,Minneapolis,MN",44.953562,-93.298031,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.279573,44.967718,654,02/23/2018 11:32pm,Snow Emergency,"130 15TH ST W,Minneapolis,MN",44.967718,-93.279573,Xerxes,1,7,Loring Park,Central,3
+-93.295935,44.957183,655,02/23/2018 11:34pm,Snow Emergency,"2500 HENNEPIN AVE ,Minneapolis,MN",44.957183,-93.295935,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.279543,44.967718,656,02/23/2018 11:40pm,Snow Emergency,"126 15TH ST W,Minneapolis,MN",44.967718,-93.279543,Xerxes,1,7,Loring Park,Central,3
+-93.281422,44.967727,657,02/23/2018 11:40pm,Snow Emergency,"204 15TH ST W,Minneapolis,MN",44.967727,-93.281422,Xerxes,1,7,Loring Park,Central,3
+-93.295956,44.957191,658,02/23/2018 11:42pm,Snow Emergency,"2500 HENNEPIN AVE S,Minneapolis,MN",44.957191,-93.295956,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.279466,44.967718,659,02/23/2018 11:44pm,Snow Emergency,"116 15th st w,Minneapolis,MN",44.967718,-93.279466,Xerxes,1,7,Loring Park,Central,3
+-93.278758,44.967532,660,02/23/2018 11:52pm,Snow Emergency,"19 W 15TH ST ,Minneapolis,MN",44.967532,-93.278758,Xerxes,1,7,Loring Park,Central,3
+-93.276876,44.968266,661,02/23/2018 11:58pm,Snow Emergency,"12 15TH ST E,Minneapolis,MN",44.968266,-93.276876,Xerxes,1,7,Loring Park,Central,3
+-93.297202,44.955352,662,02/24/2018 01:09am,Snow Emergency,"2600 HENNEPIN AVE S,Minneapolis,MN",44.955352,-93.297202,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.281675,44.961491,663,02/24/2018 01:09pm,Snow Emergency,"2112 PILLSBURY AVE,Minneapolis,MN",44.961491,-93.281675,Xerxes,2,10,Whittier,Powderhorn,3
+-93.279334,44.968778,664,02/24/2018 01:12am,Snow Emergency,"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279334,44.968778,665,02/24/2018 01:13am,Snow Emergency,"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279336,44.970601,666,02/24/2018 01:14am,Snow Emergency,"1300 LASALLE AVE S,Minneapolis,MN",44.970601,-93.279336,Xerxes,1,7,Loring Park,Central,3
+-93.281268,44.961536,667,02/24/2018 01:14pm,Snow Emergency,"2110 PILLSBURY AVE,Minneapolis,MN",44.961536,-93.281268,Xerxes,2,10,Whittier,Powderhorn,3
+-93.281747,44.959703,668,02/24/2018 01:16pm,Snow Emergency,"2312 pillsburyave s,Minneapolis,MN",44.959703,-93.281747,Xerxes,2,10,Whittier,Powderhorn,3
+-93.290587,44.98303,669,02/24/2018 01:16pm,Snow Emergency,"502 bryant n,Minneapolis,MN",44.98303,-93.290587,Xerxes,2,5,Sumner - Glenwood,Near North,3
+-93.279334,44.968778,670,02/24/2018 01:18am,Snow Emergency,"1400 BLOCK LASALLE AVE,Minneapolis,MN",44.968778,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.295956,44.957191,671,02/24/2018 01:20am,Snow Emergency,"2500 HENNEPIN AVE S,Minneapolis,MN",44.957191,-93.295956,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.281704,44.959504,672,02/24/2018 01:20pm,Snow Emergency,"2316 pillsbury ave ,Minneapolis,MN",44.959504,-93.281704,Xerxes,2,10,Whittier,Powderhorn,3
+-93.279334,44.968778,673,02/24/2018 01:21am,Snow Emergency,"1400 LASALLE AVE,Minneapolis,MN",44.968778,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279334,44.968778,674,02/24/2018 01:25am,Snow Emergency,"1400 LASALLE AVE ,Minneapolis,MN",44.968778,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.289323,44.982775,675,02/24/2018 01:27pm,Snow Emergency,"710 5th av n,Minneapolis,MN",44.982775,-93.289323,Xerxes,2,5,Sumner - Glenwood,Near North,3
+-93.279672,44.967395,676,02/24/2018 01:29am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.281743,44.960359,677,02/24/2018 01:30pm,Snow Emergency,"2210 PILLSBURY AVE S,Minneapolis,MN",44.960359,-93.281743,Xerxes,2,10,Whittier,Powderhorn,3
+-93.298031,44.953562,678,02/24/2018 01:33am,Snow Emergency,"2700 HENNEPIN AVE S,Minneapolis,MN",44.953562,-93.298031,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.281682,44.959352,679,02/24/2018 01:33pm,Snow Emergency,"2324 PILLSBURY AVE S,Minneapolis,MN",44.959352,-93.281682,Xerxes,2,10,Whittier,Powderhorn,3
+-93.280567,44.966669,680,02/24/2018 01:33pm,Snow Emergency,"1528 spruce place,Minneapolis,MN",44.966669,-93.280567,Xerxes,2,7,Loring Park,Central,3
+-93.279334,44.968778,681,02/24/2018 01:37am,Snow Emergency,"1400 LASALLE AVE,Minneapolis,MN",44.968778,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.281745,44.958483,682,02/24/2018 01:37pm,Snow Emergency,"2414 pillsbury ave s ,Minneapolis,MN",44.958483,-93.281745,Xerxes,2,10,Whittier,Powderhorn,3
+-93.279672,44.967395,683,02/24/2018 01:42am,Snow Emergency,"1500 BLOCK OF LASALLE,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,684,02/24/2018 01:44am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,685,02/24/2018 01:46am,Snow Emergency,"1500 block lasalle,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.281286,44.958036,686,02/24/2018 01:46pm,Snow Emergency,"2428 pillsbury ave ,Minneapolis,MN",44.958036,-93.281286,Xerxes,2,10,Whittier,Powderhorn,3
+-93.279672,44.967395,687,02/24/2018 01:53am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.273132,44.964329,688,02/24/2018 01:54pm,Snow Emergency,"218 19th st e,Minneapolis,MN",44.964329,-93.273132,Xerxes,2,6,Steven's Square - Loring Heights,Central,3
+-93.279672,44.967395,689,02/24/2018 01:56am,Snow Emergency,"1500 LASALLE AVE S,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.2761,44.964177,690,02/24/2018 02:00pm,Snow Emergency,"106 19th st e,Minneapolis,MN",44.964177,-93.2761,Xerxes,2,6,Steven's Square - Loring Heights,Central,3
+-93.273939,44.965224,691,02/24/2018 02:01pm,Snow Emergency,"206 18th St e,Minneapolis,MN",44.965224,-93.273939,Xerxes,2,6,Steven's Square - Loring Heights,Central,3
+-93.279334,44.966364,692,02/24/2018 02:02am,Snow Emergency,"1700 LASALLE AVE S,Minneapolis,MN",44.966364,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,693,02/24/2018 02:02am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,694,02/24/2018 02:07am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.273889,44.965223,695,02/24/2018 02:11pm,Snow Emergency,"210 18th st e,Minneapolis,MN",44.965223,-93.273889,Xerxes,2,6,Steven's Square - Loring Heights,Central,3
+-93.267552,44.977181,696,02/24/2018 02:12pm,Snow Emergency,"1224 6th St SE - MPLS,Minneapolis,MN",44.977181,-93.267552,Xerxes,2,7,Downtown West,Central,3
+-93.279334,44.966364,697,02/24/2018 02:14am,Snow Emergency,"1700 LASALLE AVE S,Minneapolis,MN",44.966364,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279334,44.966364,698,02/24/2018 02:21am,Snow Emergency,"1700 LASALLE AVE ,Minneapolis,MN",44.966364,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279334,44.966364,699,02/24/2018 02:22am,Snow Emergency,"1700 LASALLE AVE S,Minneapolis,MN",44.966364,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,700,02/24/2018 02:22am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.279334,44.966364,701,02/24/2018 02:23am,Snow Emergency,"1700 BLOCK LASALLE AVE,Minneapolis,MN",44.966364,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,702,02/24/2018 02:24am,Snow Emergency,"1500 LASALLE AVE S,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.281298,44.956376,703,02/24/2018 02:24pm,Snow Emergency,"2526 PILLSBURY AVE S,Minneapolis,MN",44.956376,-93.281298,Xerxes,2,10,Whittier,Powderhorn,3
+-93.281718,44.957737,704,02/24/2018 02:25pm,Snow Emergency,"2438 Pillsbury ave,Minneapolis,MN",44.957737,-93.281718,Xerxes,2,10,Whittier,Powderhorn,3
+-93.281698,44.954885,705,02/24/2018 02:29pm,Snow Emergency,"2616 PILLSBURY AVE S,Minneapolis,MN",44.954885,-93.281698,Xerxes,2,10,Whittier,Powderhorn,3
+-93.274028,44.965135,706,02/24/2018 02:34pm,Snow Emergency,"1800 2nd Ave s ,Minneapolis,MN",44.965135,-93.274028,Xerxes,2,6,Steven's Square - Loring Heights,Central,3
+-93.279777,44.963918,707,02/24/2018 02:36am,Snow Emergency,"1900 lasalle,Minneapolis,MN",44.963918,-93.279777,Xerxes,1,7,Steven's Square - Loring Heights,Central,3
+-93.279336,44.970601,708,02/24/2018 02:38am,Snow Emergency,"1300 LASALLE AVE S,Minneapolis,MN",44.970601,-93.279336,Xerxes,1,7,Loring Park,Central,3
+-93.279334,44.966364,709,02/24/2018 02:44am,Snow Emergency,"1700 LASALLE AVE S,Minneapolis,MN",44.966364,-93.279334,Xerxes,1,7,Loring Park,Central,3
+-93.279672,44.967395,710,02/24/2018 02:44am,Snow Emergency,"1500 BLOCK OF LASALLE,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.280064,44.960681,711,02/24/2018 02:45am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.960681,-93.280064,Xerxes,1,10,Whittier,Powderhorn,3
+-93.280064,44.960681,712,02/24/2018 02:49am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.960681,-93.280064,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279672,44.967395,713,02/24/2018 03:02am,Snow Emergency,"1500 LASALLE AVE S,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.28172,44.956451,714,02/24/2018 03:02pm,Snow Emergency,"2524 Pillsbury ave ,Minneapolis,MN",44.956451,-93.28172,Xerxes,2,10,Whittier,Powderhorn,3
+-93.299181,44.9797,715,02/24/2018 03:06pm,Snow Emergency,"254 Irving Ave n,Minneapolis,MN",44.9797,-93.299181,Xerxes,2,5,Harrison,Near North,3
+-93.281286,44.957639,716,02/24/2018 03:10pm,Snow Emergency,"2442 PILLSBURY AVE S,Minneapolis,MN",44.957639,-93.281286,Xerxes,2,10,Whittier,Powderhorn,3
+-93.279596,44.960679,717,02/24/2018 03:11am,Snow Emergency,"2200 BLOCK BLAISDELL AVE S,Minneapolis,MN",44.960679,-93.279596,Xerxes,1,10,Whittier,Powderhorn,3
+-93.280064,44.960681,718,02/24/2018 03:13am,Snow Emergency,"2200 BLAISDELL AVE S,Minneapolis,MN",44.960681,-93.280064,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279605,44.95973,719,02/24/2018 03:26am,Snow Emergency,"2300 BLAISDELL AVE S,Minneapolis,MN",44.95973,-93.279605,Xerxes,1,10,Whittier,Powderhorn,3
+-93.265719,44.956974,720,02/24/2018 03:33am,Snow Emergency,"2200 block of LaSalle,Minneapolis,MN",44.956974,-93.265719,Xerxes,1,6,Phillips West,Phillips,3
+-93.280113,44.958876,721,02/24/2018 03:35am,Snow Emergency,"2400 BLAISDELL AVE S,Minneapolis,MN",44.958876,-93.280113,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279672,44.967395,722,02/24/2018 03:40am,Snow Emergency,"1500 LASALLE AVE ,Minneapolis,MN",44.967395,-93.279672,Xerxes,1,7,Loring Park,Central,3
+-93.279428,44.96271,723,02/24/2018 03:41am,Snow Emergency,"2400 BLAISDELL AVE S,Minneapolis,MN",44.96271,-93.279428,Xerxes,1,7,Steven's Square - Loring Heights,Central,3
+-93.279596,44.960679,724,02/24/2018 03:47am,Snow Emergency,"2200 block of Blaisdell ave,Minneapolis,MN",44.960679,-93.279596,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279596,44.960679,725,02/24/2018 03:50am,Snow Emergency,"2200 block of Blaisdell ave,Minneapolis,MN",44.960679,-93.279596,Xerxes,1,10,Whittier,Powderhorn,3
+-93.280113,44.958876,726,02/24/2018 03:53am,Snow Emergency,"2400 blaisdell av s,Minneapolis,MN",44.958876,-93.280113,Xerxes,1,10,Whittier,Powderhorn,3
+-93.27606,44.979734,727,02/24/2018 03:58am,Snow Emergency,"600 1st st n,Minneapolis,MN",44.979734,-93.27606,Xerxes,1,3,Downtown West,Central,3
+-93.279626,44.957337,728,02/24/2018 04:01am,Snow Emergency,"2500 BLOCK BLAISDELL AVE,Minneapolis,MN",44.957337,-93.279626,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279428,44.96271,729,02/24/2018 04:19am,Snow Emergency,"2500 LASALLE AVE S,Minneapolis,MN",44.96271,-93.279428,Xerxes,1,7,Steven's Square - Loring Heights,Central,3
+-93.279428,44.96271,730,02/24/2018 04:19am,Snow Emergency,"2400 block of LaSalle,Minneapolis,MN",44.96271,-93.279428,Xerxes,1,7,Steven's Square - Loring Heights,Central,3
+-93.279626,44.957337,731,02/24/2018 04:28am,Snow Emergency,"2500 block of blaisdell,Minneapolis,MN",44.957337,-93.279626,Xerxes,1,10,Whittier,Powderhorn,3
+-93.280113,44.958876,732,02/24/2018 04:30am,Snow Emergency,"2400 BLAISDELL AVE S,Minneapolis,MN",44.958876,-93.280113,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279428,44.96271,733,02/24/2018 04:46am,Snow Emergency,"2500 LASALLE AVE S,Minneapolis,MN",44.96271,-93.279428,Xerxes,1,7,Steven's Square - Loring Heights,Central,3
+-93.279634,44.955521,734,02/24/2018 05:03am,Snow Emergency,"2600 BLOCK BLAISDELL AVE S ,Minneapolis,MN",44.955521,-93.279634,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279634,44.955521,735,02/24/2018 05:04am,Snow Emergency,"2600 BLAISDELL AVE S,Minneapolis,MN",44.955521,-93.279634,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279626,44.957337,736,02/24/2018 05:11am,Snow Emergency,"2500 block of blaisdell,Minneapolis,MN",44.957337,-93.279626,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279626,44.957337,737,02/24/2018 05:15am,Snow Emergency,"2500 block of blaisdell,Minneapolis,MN",44.957337,-93.279626,Xerxes,1,10,Whittier,Powderhorn,3
+-93.279658,44.953633,738,02/24/2018 05:18am,Snow Emergency,"2700 BLOCK BLAISDELL AVE S,Minneapolis,MN",44.953633,-93.279658,Xerxes,1,10,Whittier,Powderhorn,3
+-93.280025,44.953632,739,02/24/2018 05:20am,Snow Emergency,"2700 blaisedale s,Minneapolis,MN",44.953632,-93.280025,Xerxes,1,10,Whittier,Powderhorn,3
+-93.29052,44.966373,740,02/24/2018 08:40am,Snow Emergency,"1704 Bryant Ave s ,Minneapolis,MN",44.966373,-93.29052,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.268917,44.975313,741,02/24/2018 08:51am,Snow Emergency,"710 3rd ave ne,Minneapolis,MN",44.975313,-93.268917,Xerxes,2,7,Downtown West,Central,3
+-93.268901,44.975332,742,02/24/2018 09:07am,Snow Emergency,"708 3rd ave ne,Minneapolis,MN",44.975332,-93.268901,Xerxes,2,7,Downtown West,Central,3
+-93.290884,44.965203,743,02/24/2018 09:08am,Snow Emergency,"1804 Bryant Ave s ,Minneapolis,MN",44.965203,-93.290884,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.29052,44.96633,744,02/24/2018 09:09am,Snow Emergency,"1712 BRYANT AVE S,Minneapolis,MN",44.96633,-93.29052,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.300829,44.950057,745,02/24/2018 09:11am,Snow Emergency,"Mall street & S HUMBOLDT AVE,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.290887,44.964927,746,02/24/2018 09:13am,Snow Emergency,"1814 BRYANT AVE S,Minneapolis,MN",44.964927,-93.290887,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.300829,44.950057,747,02/24/2018 09:15am,Snow Emergency,"Mall street & S HUMBOLDT AVE,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.290886,44.965309,748,02/24/2018 09:18am,Snow Emergency,"1802 bryant s,Minneapolis,MN",44.965309,-93.290886,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.290903,44.96464,749,02/24/2018 09:22am,Snow Emergency,"1824 Bryant ave s ,Minneapolis,MN",44.96464,-93.290903,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.291793,44.967315,750,02/24/2018 09:29am,Snow Emergency,"1702 Colfax Ave s,Minneapolis,MN",44.967315,-93.291793,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.291795,44.967037,751,02/24/2018 09:53am,Snow Emergency,"1708 colfax ave s ,Minneapolis,MN",44.967037,-93.291795,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.292152,44.964596,752,02/24/2018 09:54am,Snow Emergency,"1820 Colfax s,Minneapolis,MN",44.964596,-93.292152,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.302097,44.949925,753,02/24/2018 10:08am,Snow Emergency,"Mall & S IRVING AV,Minneapolis,MN",44.949925,-93.302097,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.302097,44.949925,754,02/24/2018 10:13am,Snow Emergency,"Mall & S IRVING AV,Minneapolis,MN",44.949925,-93.302097,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.292176,44.963924,755,02/24/2018 10:16am,Snow Emergency,"1910 Colfax Ave s,Minneapolis,MN",44.963924,-93.292176,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.292164,44.964869,756,02/24/2018 10:17am,Snow Emergency,"1814 COLFAX AVE S,Minneapolis,MN",44.964869,-93.292164,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.292209,44.96372,757,02/24/2018 10:20am,Snow Emergency,"1916 COLFAX AVE S,Minneapolis,MN",44.96372,-93.292209,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.300829,44.950057,758,02/24/2018 10:21am,Snow Emergency,"Humboldt ave & the mall,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.302097,44.949925,759,02/24/2018 10:35am,Snow Emergency,"Irving ave s & the mall,Minneapolis,MN",44.949925,-93.302097,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,760,02/24/2018 10:35am,Snow Emergency,"HUMBOLDT AVE S & THE MALL,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.302097,44.949925,761,02/24/2018 10:38am,Snow Emergency,"Irving and the mall,Minneapolis,MN",44.949925,-93.302097,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.291808,44.964075,762,02/24/2018 10:41am,Snow Emergency,"1906 Colfax Ave s,Minneapolis,MN",44.964075,-93.291808,Xerxes,2,7,Lowry Hill,Calhoun Isle,3
+-93.300829,44.950057,763,02/24/2018 11:00am,Snow Emergency,"Mall street & S HUMBOLDT AVE,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,764,02/24/2018 11:03am,Snow Emergency,"THA MALL & HUMBOLDT AVE S,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,765,02/24/2018 11:06am,Snow Emergency,"Humboldt ave s @ the mall,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,766,02/24/2018 11:06am,Snow Emergency,"Mall street & S HUMBOLDT AVE,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,767,02/24/2018 11:11am,Snow Emergency,"Humboldt ave s @ the mall,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,768,02/24/2018 11:17am,Snow Emergency,"HUMBOLDT @ THE MALL ,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.303383,44.950175,769,02/24/2018 11:19am,Snow Emergency,"1700 Block/the mall,Minneapolis,MN",44.950175,-93.303383,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,770,02/24/2018 11:21am,Snow Emergency,"HUMBOLDT AVE S @ THE MALL,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,771,02/24/2018 11:25am,Snow Emergency,"HUMBOLDT AVE S @ THE MALL,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.303383,44.950175,772,02/24/2018 11:27am,Snow Emergency,"1700 block of the mall ,Minneapolis,MN",44.950175,-93.303383,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.302103,44.950097,773,02/24/2018 11:29am,Snow Emergency,"1100 the mall,Minneapolis,MN",44.950097,-93.302103,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.304804,44.950158,774,02/24/2018 11:32am,Snow Emergency,"The mall & knox AVE S ,Minneapolis,MN",44.950158,-93.304804,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,775,02/24/2018 11:50am,Snow Emergency,"THE MALL & HUMBOLDT AVE S,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.281163,44.967171,776,02/24/2018 11:52am,Snow Emergency,"1512 spruce place ,Minneapolis,MN",44.967171,-93.281163,Xerxes,2,7,Loring Park,Central,3
+-93.280831,44.966476,777,02/24/2018 11:54am,Snow Emergency,"1522 spruce pl,Minneapolis,MN",44.966476,-93.280831,Xerxes,2,7,Loring Park,Central,3
+-93.273362,44.986359,778,02/24/2018 12:02am,Snow Emergency,"411 2ND ST N ,Minneapolis,MN",44.986359,-93.273362,Xerxes,1,3,North Loop,Central,3
+-93.268321,44.968277,779,02/24/2018 12:03am,Snow Emergency,"528 E 15TH ST ,Minneapolis,MN",44.968277,-93.268321,Xerxes,1,7,Elliot Park,Central,3
+-93.281087,44.964114,780,02/24/2018 12:04pm,Snow Emergency,"1904 pillsbury ave s,Minneapolis,MN",44.964114,-93.281087,Xerxes,2,7,Steven's Square - Loring Heights,Central,3
+-93.300829,44.950057,781,02/24/2018 12:09pm,Snow Emergency,"Mall street & S HUMBOLDT AVE,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.297202,44.955352,782,02/24/2018 12:15am,Snow Emergency,"2600 HENNEPIN AVE S,Minneapolis,MN",44.955352,-93.297202,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.281082,44.964123,783,02/24/2018 12:15pm,Snow Emergency,"1902 Pillsbury ave ,Minneapolis,MN",44.964123,-93.281082,Xerxes,2,7,Steven's Square - Loring Heights,Central,3
+-93.26325,44.967837,784,02/24/2018 12:17am,Snow Emergency,"737 15tTH ST E,Minneapolis,MN",44.967837,-93.26325,Xerxes,1,6,Elliot Park,Central,3
+-93.281078,44.968365,785,02/24/2018 12:17pm,Snow Emergency,"1408 spruce place ,Minneapolis,MN",44.968365,-93.281078,Xerxes,2,7,Loring Park,Central,3
+-93.264794,44.968345,786,02/24/2018 12:19am,Snow Emergency,"704 15TH ST E,Minneapolis,MN",44.968345,-93.264794,Xerxes,1,7,Elliot Park,Central,3
+-93.281268,44.961293,787,02/24/2018 12:19pm,Snow Emergency,"2116 PILLSBURY AVE,Minneapolis,MN",44.961293,-93.281268,Xerxes,2,10,Whittier,Powderhorn,3
+-93.297202,44.955352,788,02/24/2018 12:20am,Snow Emergency,"2600 block of Hennepin Avenue,Minneapolis,MN",44.955352,-93.297202,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.302097,44.949925,789,02/24/2018 12:22pm,Snow Emergency,"Irving ave & the mall,Minneapolis,MN",44.949925,-93.302097,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.280437,44.963313,790,02/24/2018 12:26pm,Snow Emergency,"1928 pillsbury,Minneapolis,MN",44.963313,-93.280437,Xerxes,2,7,Steven's Square - Loring Heights,Central,3
+-93.294785,44.951579,791,02/24/2018 12:27am,Snow Emergency,"2800 Emerson Ave s,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.300829,44.950057,792,02/24/2018 12:28pm,Snow Emergency,"Humboldt ave & the mall,Minneapolis,MN",44.950057,-93.300829,Xerxes,2,7,East Isles,Calhoun Isle,3
+-93.298031,44.953562,793,02/24/2018 12:29am,Snow Emergency,"2700 HENNEPIN AVE S,Minneapolis,MN",44.953562,-93.298031,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.273362,44.986359,794,02/24/2018 12:29am,Snow Emergency,"411 2ND ST N ,Minneapolis,MN",44.986359,-93.273362,Xerxes,1,3,North Loop,Central,3
+-93.281268,44.961392,795,02/24/2018 12:29pm,Snow Emergency,"2114Pillsbury ave s,Minneapolis,MN",44.961392,-93.281268,Xerxes,2,10,Whittier,Powderhorn,3
+-93.263824,44.968342,796,02/24/2018 12:31am,Snow Emergency,"722 15th st e,Minneapolis,MN",44.968342,-93.263824,Xerxes,1,7,Elliot Park,Central,3
+-93.293184,44.951233,797,02/24/2018 12:32am,Snow Emergency,"2800 BLOCK DUPONT AVE S,Minneapolis,MN",44.951233,-93.293184,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951579,798,02/24/2018 12:33am,Snow Emergency,"2800 Block Emerson Ave S,Minneapolis,MN",44.951579,-93.294785,Xerxes,1,10,Lowry Hill East,Calhoun Isle,3
+-93.298031,44.953562,799,02/24/2018 12:34am,Snow Emergency,"2700 HENNEPIN AVE S,Minneapolis,MN",44.953562,-93.298031,Xerxes,1,7,East Isles,Calhoun Isle,3
+-93.263206,44.967837,800,02/24/2018 12:38am,Snow Emergency,"741 E 15TH ST ,Minneapolis,MN",44.967837,-93.263206,Xerxes,1,6,Elliot Park,Central,3
+-93.28167,44.962474,801,02/24/2018 12:39pm,Snow Emergency,"2002 PILLSBURY AVE S,Minneapolis,MN",44.962474,-93.28167,Xerxes,2,10,Whittier,Powderhorn,3
+-93.281267,44.961627,802,02/24/2018 12:42pm,Snow Emergency,"2106 PILLSBURY AVE S,Minneapolis,MN",44.961627,-93.281267,Xerxes,2,10,Whittier,Powderhorn,3
+-93.27937,44.968789,803,02/24/2018 12:46pm,Snow Emergency,"106 14th st W,Minneapolis,MN",44.968789,-93.27937,Xerxes,2,7,Loring Park,Central,3
+-93.263559,44.968355,804,02/24/2018 12:48am,Snow Emergency,"726 E 15TH ST,Minneapolis,MN",44.968355,-93.263559,Xerxes,1,7,Elliot Park,Central,3
+-93.273362,44.986359,805,02/24/2018 12:50am,Snow Emergency,"411 2ND ST N ,Minneapolis,MN",44.986359,-93.273362,Xerxes,1,3,North Loop,Central,3
+-93.27938,44.968789,806,02/24/2018 12:50pm,Snow Emergency,"108 14th St w,Minneapolis,MN",44.968789,-93.27938,Xerxes,2,7,Loring Park,Central,3
+-93.279336,44.970601,807,02/24/2018 12:55am,Snow Emergency,"1300 LASALLE AVE ,Minneapolis,MN",44.970601,-93.279336,Xerxes,1,7,Loring Park,Central,3
+-93.263456,44.968344,808,02/24/2018 12:56am,Snow Emergency,"728 15TH ST E,Minneapolis,MN",44.968344,-93.263456,Xerxes,1,7,Elliot Park,Central,3
+-93.279336,44.970601,809,02/24/2018 12:56am,Snow Emergency,"1300 LASALLE AVE ,Minneapolis,MN",44.970601,-93.279336,Xerxes,1,7,Loring Park,Central,3
+-93.279336,44.970601,810,02/24/2018 12:59am,Snow Emergency,"1300 LASALLE AVE,Minneapolis,MN",44.970601,-93.279336,Xerxes,1,7,Loring Park,Central,3
+-93.282486,44.9607,811,02/25/2018 01:15pm,Snow Emergency,"2205 pleasant ave ,Minneapolis,MN",44.9607,-93.282486,Xerxes,3,10,Whittier,Powderhorn,3
+-93.256073,44.957347,812,02/25/2018 01:49pm,Snow Emergency,"1313 25th st e,Minneapolis,MN",44.957347,-93.256073,Xerxes,3,9,Midtown Phillips,Phillips,3
+-93.25587,44.961091,813,02/25/2018 01:51pm,Snow Emergency,"2125 13th ave s,Minneapolis,MN",44.961091,-93.25587,Xerxes,3,6,Ventura Village,Phillips,3
+-93.258559,44.951495,814,02/25/2018 02:05pm,Snow Emergency,"2811 11TH AVE S,Minneapolis,MN",44.951495,-93.258559,Xerxes,3,9,Midtown Phillips,Phillips,3
+-93.258539,44.951259,815,02/25/2018 02:07pm,Snow Emergency,"2819 11TH AVE S,Minneapolis,MN",44.951259,-93.258539,Xerxes,3,9,Midtown Phillips,Phillips,3
+-93.25589,44.957709,816,02/25/2018 02:15pm,Snow Emergency,"2441 13th ave s,Minneapolis,MN",44.957709,-93.25589,Xerxes,3,9,Midtown Phillips,Phillips,3
+-93.266774,44.968671,817,02/25/2018 02:40pm,Snow Emergency,"617 14th st e,Minneapolis,MN",44.968671,-93.266774,Xerxes,3,7,Elliot Park,Central,3
+-93.256027,44.955119,818,02/25/2018 02:57pm,Snow Emergency,"2609 13th ave s,Minneapolis,MN",44.955119,-93.256027,Xerxes,3,9,Midtown Phillips,Phillips,3
+-93.266853,44.968671,819,02/25/2018 03:02pm,Snow Emergency,"613 14th st e,Minneapolis,MN",44.968671,-93.266853,Xerxes,3,7,Elliot Park,Central,3
+-93.259573,44.966376,820,02/25/2018 03:10pm,Snow Emergency,"1007 17TH ST E,Minneapolis,MN",44.966376,-93.259573,Xerxes,3,6,Elliot Park,Central,3
+-93.259452,44.966379,821,02/25/2018 03:13pm,Snow Emergency,"1015 17TH ST E,Minneapolis,MN",44.966379,-93.259452,Xerxes,3,6,Elliot Park,Central,3
+-93.25514,44.964558,822,02/25/2018 03:19pm,Snow Emergency,"1817 14th ave s,Minneapolis,MN",44.964558,-93.25514,Xerxes,3,6,Ventura Village,Phillips,3
+-93.288678,44.983462,823,02/25/2018 08:55am,Snow Emergency,"825 Lyndale Pl,Minneapolis,MN",44.983462,-93.288678,Xerxes,3,5,Sumner - Glenwood,Near North,3
+-93.281252,44.968649,824,02/25/2018 09:15am,Snow Emergency,"205 14th st w,Minneapolis,MN",44.968649,-93.281252,Xerxes,3,7,Loring Park,Central,3
+-93.279441,44.96879,825,02/25/2018 09:38am,Snow Emergency,"121 14th st w,Minneapolis,MN",44.96879,-93.279441,Xerxes,3,7,Loring Park,Central,3
+-93.281402,44.968648,826,02/25/2018 09:39am,Snow Emergency,"229 14TH ST W,Minneapolis,MN",44.968648,-93.281402,Xerxes,3,7,Loring Park,Central,3
+-93.280458,44.968248,827,02/25/2018 10:02am,Snow Emergency,"1421 spruce pl,Minneapolis,MN",44.968248,-93.280458,Xerxes,3,7,Loring Park,Central,3
+-93.280554,44.968733,828,02/25/2018 10:10am,Snow Emergency,"1403 spruce place ,Minneapolis,MN",44.968733,-93.280554,Xerxes,3,7,Loring Park,Central,3
+-93.280558,44.968464,829,02/25/2018 10:26am,Snow Emergency,"1413 spruce pl,Minneapolis,MN",44.968464,-93.280558,Xerxes,3,7,Loring Park,Central,3
+-93.280556,44.968572,830,02/25/2018 10:27am,Snow Emergency,"1409 Spruce place ,Minneapolis,MN",44.968572,-93.280556,Xerxes,3,7,Loring Park,Central,3
+-93.291533,44.966072,831,02/25/2018 10:48am,Snow Emergency,"1775 colfax s,Minneapolis,MN",44.966072,-93.291533,Xerxes,3,7,Lowry Hill,Calhoun Isle,3
+-93.284807,44.967397,832,02/25/2018 10:50am,Snow Emergency,"405 oak grove st,Minneapolis,MN",44.967397,-93.284807,Xerxes,3,7,Loring Park,Central,3
+-93.293068,44.965111,833,02/25/2018 11:03am,Snow Emergency,"1805 Dupont South,Minneapolis,MN",44.965111,-93.293068,Xerxes,3,7,Lowry Hill,Calhoun Isle,3
+-93.278834,44.966374,834,02/25/2018 11:14am,Snow Emergency,"27 oak grove st ,Minneapolis,MN",44.966374,-93.278834,Xerxes,3,7,Loring Park,Central,3
+-93.27882,44.966374,835,02/25/2018 11:16am,Snow Emergency,"25 oak Grove St ,Minneapolis,MN",44.966374,-93.27882,Xerxes,3,7,Loring Park,Central,3
+-93.278738,44.966374,836,02/25/2018 11:19am,Snow Emergency,"13 oak grove st,Minneapolis,MN",44.966374,-93.278738,Xerxes,3,7,Loring Park,Central,3
+-93.294024,44.962485,837,02/25/2018 11:20am,Snow Emergency,"2001 Emerson s,Minneapolis,MN",44.962485,-93.294024,Xerxes,3,7,Lowry Hill,Calhoun Isle,3
+-93.284012,44.966132,838,02/25/2018 11:40am,Snow Emergency,"221 Clifton av s,Minneapolis,MN",44.966132,-93.284012,Xerxes,3,7,Loring Park,Central,3
+-93.283348,44.965578,839,02/25/2018 11:45am,Snow Emergency,"245 Clifton Ave ,Minneapolis,MN",44.965578,-93.283348,Xerxes,3,7,Loring Park,Central,3
+-93.294186,44.962477,840,02/25/2018 11:49am,Snow Emergency,"2005 emerson s,Minneapolis,MN",44.962477,-93.294186,Xerxes,3,7,Lowry Hill,Calhoun Isle,3
+-93.281268,44.961451,841,02/25/2018 12:02pm,Snow Emergency,"2113 Pillsbury ave ,Minneapolis,MN",44.961451,-93.281268,Xerxes,2,10,Whittier,Powderhorn,3
+-93.281599,44.963873,842,02/25/2018 12:20pm,Snow Emergency,"231 ridgewood av s,Minneapolis,MN",44.963873,-93.281599,Xerxes,2,7,Steven's Square - Loring Heights,Central,3
+-93.282922,44.961921,843,02/25/2018 12:25pm,Snow Emergency,"2019 Pleasant Ave South,Minneapolis,MN",44.961921,-93.282922,Xerxes,2,10,Whittier,Powderhorn,3
+-93.28401,44.966132,844,02/25/2018 12:35pm,Snow Emergency,"219 Clifton Ave ,Minneapolis,MN",44.966132,-93.28401,Xerxes,2,7,Loring Park,Central,3
+-93.280802,44.961443,845,02/25/2018 12:45pm,Snow Emergency,"2115 Pillsbury ave ,Minneapolis,MN",44.961443,-93.280802,Xerxes,2,10,Whittier,Powderhorn,3
+-93.280911,44.962223,846,02/25/2018 12:57pm,Snow Emergency,"2011 pillsbury ave s,Minneapolis,MN",44.962223,-93.280911,Xerxes,2,10,Whittier,Powderhorn,3
+-93.237431,45.029602,847,02/23/2018 09:30pm,Snow Emergency,"3400 Johnson St NE,Minneapolis,MN",45.029602,-93.237431,Xerxes,1,1,Waite Park,Northeast,2
+-93.23736,45.02601,848,02/23/2018 09:56pm,Snow Emergency,"3200 JOHNSON ST NE,Minneapolis,MN",45.02601,-93.23736,Xerxes,1,1,Waite Park,Northeast,2
+-93.237397,45.009758,849,02/23/2018 10:21pm,Snow Emergency,"2200 JOHNSON ST NE,Minneapolis,MN",45.009758,-93.237397,Xerxes,1,1,Windom Park,Northeast,2
+-93.247368,45.00889,850,02/23/2018 10:33pm,Snow Emergency,"20TH & CENTRAL AVE NE,Minneapolis,MN",45.00889,-93.247368,Xerxes,1,1,Holland,Northeast,2
+-93.260258,45.000913,851,02/23/2018 11:04pm,Snow Emergency,"500 13th Ave NE,Minneapolis,MN",45.000913,-93.260258,Xerxes,1,3,Sheridan,Northeast,2
+-93.247602,45.00773,852,02/23/2018 11:07pm,Snow Emergency,"1850 Central,Minneapolis,MN",45.00773,-93.247602,Xerxes,1,1,Logan Park,Northeast,2
+-93.260258,45.000913,853,02/23/2018 11:09pm,Snow Emergency,"500 13th Ave NE,Minneapolis,MN",45.000913,-93.260258,Xerxes,1,3,Sheridan,Northeast,2
+-93.260258,45.000913,854,02/23/2018 11:12pm,Snow Emergency,"500 13TH AVE NE,Minneapolis,MN",45.000913,-93.260258,Xerxes,1,3,Sheridan,Northeast,2
+-93.257747,45.00068,855,02/23/2018 11:14pm,Snow Emergency,"616 13TH AVE NE,Minneapolis,MN",45.00068,-93.257747,Xerxes,1,3,Sheridan,Northeast,2
+-93.250978,44.99173,856,02/23/2018 11:38pm,Snow Emergency,"550 Central Ave NE,Minneapolis,MN",44.99173,-93.250978,Xerxes,1,3,Nicollet Island - East Bank,University,2
+-93.256361,44.988852,857,02/23/2018 11:42pm,Snow Emergency,"27 UNIVERSITYave ne,Minneapolis,MN",44.988852,-93.256361,Xerxes,1,3,Nicollet Island - East Bank,University,2
+-93.258899,45.000907,858,02/23/2018 11:44pm,Snow Emergency,"13th Ave NE & 6th St NE,Minneapolis,MN",45.000907,-93.258899,Xerxes,1,3,Sheridan,Northeast,2
+-93.26314,45.000905,859,02/23/2018 11:45pm,Snow Emergency,"329 13th Ave NE,Minneapolis,MN",45.000905,-93.26314,Xerxes,1,3,Sheridan,Northeast,2
+-93.260258,45.000913,860,02/23/2018 11:49pm,Snow Emergency,"500 13th Ave NE,Minneapolis,MN",45.000913,-93.260258,Xerxes,1,3,Sheridan,Northeast,2
+-93.260258,45.000913,861,02/23/2018 11:59pm,Snow Emergency,"500 13th Ave NE,Minneapolis,MN",45.000913,-93.260258,Xerxes,1,3,Sheridan,Northeast,2
+-93.268009,45.000027,862,02/24/2018 01:03pm,Snow Emergency,"1206 Main st ne,Minneapolis,MN",45.000027,-93.268009,Xerxes,2,3,Sheridan,Northeast,2
+-93.272352,44.999284,863,02/24/2018 01:05am,Snow Emergency,"17 13th Ave NE,Minneapolis,MN",44.999284,-93.272352,Xerxes,1,3,Sheridan,Northeast,2
+-93.26801,45.000161,864,02/24/2018 01:05pm,Snow Emergency,"1210 Main st ne,Minneapolis,MN",45.000161,-93.26801,Xerxes,2,3,Sheridan,Northeast,2
+-93.257747,45.00068,865,02/24/2018 01:08am,Snow Emergency,"616 13th Ave NE,Minneapolis,MN",45.00068,-93.257747,Xerxes,1,3,Sheridan,Northeast,2
+-93.251956,44.989517,866,02/24/2018 01:08pm,Snow Emergency,"96 6th st se,Minneapolis,MN",44.989517,-93.251956,Xerxes,2,3,Marcy Holmes,University,2
+-93.269988,45.000106,867,02/24/2018 01:09am,Snow Emergency,"100 13th Ave NE,Minneapolis,MN",45.000106,-93.269988,Xerxes,1,3,Sheridan,Northeast,2
+-93.255289,44.999769,868,02/24/2018 01:28pm,Snow Emergency,"1134 Jefferson st ne,Minneapolis,MN",44.999769,-93.255289,Xerxes,2,1,Logan Park,Northeast,2
+-93.244813,44.998298,869,02/24/2018 01:30pm,Snow Emergency,"748 Polk st ne,Minneapolis,MN",44.998298,-93.244813,Xerxes,2,3,Beltrami,Northeast,2
+-93.267952,45.003492,870,02/24/2018 01:32pm,Snow Emergency,"1518 main st ne,Minneapolis,MN",45.003492,-93.267952,Xerxes,2,3,Sheridan,Northeast,2
+-93.24481,44.998128,871,02/24/2018 01:33pm,Snow Emergency,"742 polk st ne,Minneapolis,MN",44.998128,-93.24481,Xerxes,2,3,Beltrami,Northeast,2
+-93.263816,44.993558,872,02/24/2018 01:34am,Snow Emergency,"600-799 MAIN ST NE,Minneapolis,MN",44.993558,-93.263816,Xerxes,1,3,St. Anthony West,Northeast,2
+-93.256285,45.005318,873,02/24/2018 01:35pm,Snow Emergency,"1704 Adams st ne,Minneapolis,MN",45.005318,-93.256285,Xerxes,2,1,Logan Park,Northeast,2
+-93.256278,45.00569,874,02/24/2018 01:38pm,Snow Emergency,"1730 adams st ne,Minneapolis,MN",45.00569,-93.256278,Xerxes,2,1,Logan Park,Northeast,2
+-93.268715,45.000281,875,02/24/2018 01:42am,Snow Emergency,"124 13TH AVE NE,Minneapolis,MN",45.000281,-93.268715,Xerxes,1,3,Sheridan,Northeast,2
+-93.266185,45.010091,876,02/24/2018 01:46am,Snow Emergency,"2200 2nd St NE,Minneapolis,MN",45.010091,-93.266185,Xerxes,1,3,Bottineau,Northeast,2
+-93.243338,45.005948,877,02/24/2018 01:51am,Snow Emergency,"1100 18TH AVE NE,Minneapolis,MN",45.005948,-93.243338,Xerxes,1,1,Northeast Park,Northeast,2
+-93.266156,45.000911,878,02/24/2018 01:56am,Snow Emergency,"200 13TH AVE NE,Minneapolis,MN",45.000911,-93.266156,Xerxes,1,3,Sheridan,Northeast,2
+-93.244817,44.997803,879,02/24/2018 02:00pm,Snow Emergency,"1112 Cemetery St ne,Minneapolis,MN",44.997803,-93.244817,Xerxes,2,3,Beltrami,Northeast,2
+-93.243826,44.995407,880,02/24/2018 02:05pm,Snow Emergency,"604 taylor st ne,Minneapolis,MN",44.995407,-93.243826,Xerxes,2,3,Beltrami,Northeast,2
+-93.257411,45.003229,881,02/24/2018 02:29pm,Snow Emergency,"622 15th ave ne,Minneapolis,MN",45.003229,-93.257411,Xerxes,2,1,Logan Park,Northeast,2
+-93.253919,45.002858,882,02/24/2018 02:31pm,Snow Emergency,"668 15th ave ne,Minneapolis,MN",45.002858,-93.253919,Xerxes,2,1,Logan Park,Northeast,2
+-93.254606,45.010601,883,02/24/2018 02:32pm,Snow Emergency,"2218 Madison st ne,Minneapolis,MN",45.010601,-93.254606,Xerxes,2,1,Holland,Northeast,2
+-93.25361,45.002905,884,02/24/2018 02:33pm,Snow Emergency,"674 15th ave ne,Minneapolis,MN",45.002905,-93.25361,Xerxes,2,1,Logan Park,Northeast,2
+-93.257312,45.003228,885,02/24/2018 02:49pm,Snow Emergency,"624 15th ave ne,Minneapolis,MN",45.003228,-93.257312,Xerxes,2,1,Logan Park,Northeast,2
+-93.249691,45.008698,886,02/24/2018 02:52pm,Snow Emergency,"826 20th ave ne,Minneapolis,MN",45.008698,-93.249691,Xerxes,2,1,Holland,Northeast,2
+-93.249488,45.008722,887,02/24/2018 02:53pm,Snow Emergency,"828 20th ave ne,Minneapolis,MN",45.008722,-93.249488,Xerxes,2,1,Holland,Northeast,2
+-93.240055,45.000985,888,02/24/2018 02:57pm,Snow Emergency,"1316 buchanan st ne,Minneapolis,MN",45.000985,-93.240055,Xerxes,2,1,Northeast Park,Northeast,2
+-93.248364,44.995097,889,02/24/2018 03:12pm,Snow Emergency,"910 spring st ne,Minneapolis,MN",44.995097,-93.248364,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.257558,45.008438,890,02/24/2018 03:15pm,Snow Emergency,"618 20th ave ne,Minneapolis,MN",45.008438,-93.257558,Xerxes,2,1,Holland,Northeast,2
+-93.260335,44.990019,891,02/24/2018 08:40am,Snow Emergency,"112 3rd ave ne,Minneapolis,MN",44.990019,-93.260335,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.250819,44.993568,892,02/24/2018 08:46am,Snow Emergency,"810 3rd ave ne,Minneapolis,MN",44.993568,-93.250819,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.250723,44.993608,893,02/24/2018 08:49am,Snow Emergency,"812 3rd ave NE,Minneapolis,MN",44.993608,-93.250723,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.25112,44.993436,894,02/24/2018 08:54am,Snow Emergency,"804 3rd ave ne ,Minneapolis,MN",44.993436,-93.25112,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.253104,44.992344,895,02/24/2018 09:00am,Snow Emergency,"614 3rd ave ne,Minneapolis,MN",44.992344,-93.253104,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.251231,44.993397,896,02/24/2018 09:04am,Snow Emergency,"802 3rd ave ne,Minneapolis,MN",44.993397,-93.251231,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.251303,44.99336,897,02/24/2018 09:11am,Snow Emergency,"800 3rd ave NE,Minneapolis,MN",44.99336,-93.251303,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.257564,44.991847,898,02/24/2018 09:32am,Snow Emergency,"312 4th st ne,Minneapolis,MN",44.991847,-93.257564,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.25223,44.996906,899,02/24/2018 09:41am,Snow Emergency,"716 summer st ne,Minneapolis,MN",44.996906,-93.25223,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.252511,44.996905,900,02/24/2018 09:43am,Snow Emergency,"698 summer st ne,Minneapolis,MN",44.996905,-93.252511,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.256077,44.996893,901,02/24/2018 09:47am,Snow Emergency,"642 Summer St NE,Minneapolis,MN",44.996893,-93.256077,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.252637,44.996905,902,02/24/2018 09:50am,Snow Emergency,"696 summer st ne,Minneapolis,MN",44.996905,-93.252637,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.25857,44.992365,903,02/24/2018 10:10am,Snow Emergency,"312 4TH AVE NE,Minneapolis,MN",44.992365,-93.25857,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.248394,44.996915,904,02/24/2018 10:16am,Snow Emergency,"912 summer ave ,Minneapolis,MN",44.996915,-93.248394,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.249687,44.996916,905,02/24/2018 10:20am,Snow Emergency,"842 summer st ne,Minneapolis,MN",44.996916,-93.249687,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.25571,44.991295,906,02/24/2018 10:36am,Snow Emergency,"220 5th st ne,Minneapolis,MN",44.991295,-93.25571,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.235883,44.99154,907,02/24/2018 10:39am,Snow Emergency,"352 ulysses st ne,Minneapolis,MN",44.99154,-93.235883,Xerxes,2,1,Como,University,2
+-93.25571,44.991295,908,02/24/2018 10:43am,Snow Emergency,"218 5th st ne,Minneapolis,MN",44.991295,-93.25571,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.254509,44.990413,909,02/24/2018 10:45am,Snow Emergency,"112 5th st ne,Minneapolis,MN",44.990413,-93.254509,Xerxes,2,3,Nicollet Island - East Bank,University,2
+-93.254536,44.990454,910,02/24/2018 10:50am,Snow Emergency,"114 5th st ne,Minneapolis,MN",44.990454,-93.254536,Xerxes,2,3,Nicollet Island - East Bank,University,2
+-93.252358,44.996905,911,02/24/2018 11:09am,Snow Emergency,"706 summer st ne,Minneapolis,MN",44.996905,-93.252358,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.255001,44.990351,912,02/24/2018 11:19am,Snow Emergency,"116 5th st ne,Minneapolis,MN",44.990351,-93.255001,Xerxes,2,3,Nicollet Island - East Bank,University,2
+-93.254615,44.990575,913,02/24/2018 11:23am,Snow Emergency,"118 5TH ST NE,Minneapolis,MN",44.990575,-93.254615,Xerxes,2,3,Nicollet Island - East Bank,University,2
+-93.258116,44.995718,914,02/24/2018 11:26am,Snow Emergency,"610 5TH ST NE,Minneapolis,MN",44.995718,-93.258116,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.232048,44.991731,915,02/24/2018 11:37am,Snow Emergency,"1126 14TH AVE,Minneapolis,MN",44.991731,-93.232048,Xerxes,2,1,Como,University,2
+-93.232048,44.991781,916,02/24/2018 11:40am,Snow Emergency,"1128 14TH AVE SE,Minneapolis,MN",44.991781,-93.232048,Xerxes,2,1,Como,University,2
+-93.267673,45.000912,917,02/24/2018 12:02am,Snow Emergency,"140 13th Ave NE,Minneapolis,MN",45.000912,-93.267673,Xerxes,1,3,Sheridan,Northeast,2
+-93.250074,44.995429,918,02/24/2018 12:02pm,Snow Emergency,"600 Jackson st ne,Minneapolis,MN",44.995429,-93.250074,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.251438,44.994536,919,02/24/2018 12:04pm,Snow Emergency,"330 Quincy st ne,Minneapolis,MN",44.994536,-93.251438,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.24988,44.995477,920,02/24/2018 12:08pm,Snow Emergency,"604 Jackson st ne,Minneapolis,MN",44.995477,-93.24988,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.267673,45.000912,921,02/24/2018 12:09am,Snow Emergency,"140 13th Ave NE,Minneapolis,MN",45.000912,-93.267673,Xerxes,1,3,Sheridan,Northeast,2
+-93.23176,44.992177,922,02/24/2018 12:10pm,Snow Emergency,"1142 14th ave se,Minneapolis,MN",44.992177,-93.23176,Xerxes,2,1,Como,University,2
+-93.260258,45.000913,923,02/24/2018 12:17am,Snow Emergency,"500 13th Ave NE,Minneapolis,MN",45.000913,-93.260258,Xerxes,1,3,Sheridan,Northeast,2
+-93.266156,45.000911,924,02/24/2018 12:21am,Snow Emergency,"200 13TH AVE NE,Minneapolis,MN",45.000911,-93.266156,Xerxes,1,3,Sheridan,Northeast,2
+-93.250125,44.997481,925,02/24/2018 12:27pm,Snow Emergency,"718 Jackson st ne,Minneapolis,MN",44.997481,-93.250125,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.24988,44.995547,926,02/24/2018 12:29pm,Snow Emergency,"610 Jackson st ne,Minneapolis,MN",44.995547,-93.24988,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.266781,44.996348,927,02/24/2018 12:30pm,Snow Emergency,"124 9th ave ne,Minneapolis,MN",44.996348,-93.266781,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.264815,44.994593,928,02/24/2018 12:32pm,Snow Emergency,"124 7th ave ne,Minneapolis,MN",44.994593,-93.264815,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.264026,44.993485,929,02/24/2018 12:52am,Snow Emergency,"600 MAIN ST NE,Minneapolis,MN",44.993485,-93.264026,Xerxes,1,3,St. Anthony West,Northeast,2
+-93.268959,45.000632,930,02/24/2018 12:54am,Snow Emergency,"125 13th Ave NE,Minneapolis,MN",45.000632,-93.268959,Xerxes,1,3,Sheridan,Northeast,2
+-93.267448,44.998892,931,02/24/2018 12:54pm,Snow Emergency,"1116 Main st ne,Minneapolis,MN",44.998892,-93.267448,Xerxes,2,3,Sheridan,Northeast,2
+-93.266816,44.997903,932,02/24/2018 12:56pm,Snow Emergency,"1006 main st ne,Minneapolis,MN",44.997903,-93.266816,Xerxes,2,3,St. Anthony West,Northeast,2
+-93.262774,45.004197,933,02/25/2018 01:04pm,Snow Emergency,"345 16th ave ne,Minneapolis,MN",45.004197,-93.262774,Xerxes,3,3,Sheridan,Northeast,2
+-93.25472,45.002574,934,02/25/2018 01:05pm,Snow Emergency,"1419 Jefferson st ne,Minneapolis,MN",45.002574,-93.25472,Xerxes,3,1,Logan Park,Northeast,2
+-93.254751,45.001115,935,02/25/2018 01:10pm,Snow Emergency,"1301 jefferson st ne,Minneapolis,MN",45.001115,-93.254751,Xerxes,3,1,Logan Park,Northeast,2
+-93.254703,45.003815,936,02/25/2018 01:11pm,Snow Emergency,"1523 jefferson st ne,Minneapolis,MN",45.003815,-93.254703,Xerxes,3,1,Logan Park,Northeast,2
+-93.263065,45.003072,937,02/25/2018 01:50pm,Snow Emergency,"341 15th ave ne,Minneapolis,MN",45.003072,-93.263065,Xerxes,3,3,Sheridan,Northeast,2
+-93.261518,45.002978,938,02/25/2018 01:52pm,Snow Emergency,"403 15th ave ne,Minneapolis,MN",45.002978,-93.261518,Xerxes,3,3,Sheridan,Northeast,2
+-93.257064,45.005638,939,02/25/2018 01:55pm,Snow Emergency,"627 17th ave ne,Minneapolis,MN",45.005638,-93.257064,Xerxes,3,1,Logan Park,Northeast,2
+-93.262757,45.007689,940,02/25/2018 01:58pm,Snow Emergency,"337 19th ave ne,Minneapolis,MN",45.007689,-93.262757,Xerxes,3,1,Holland,Northeast,2
+-93.264326,45.009267,941,02/25/2018 02:03pm,Snow Emergency,"2023 3rd st ne,Minneapolis,MN",45.009267,-93.264326,Xerxes,3,3,Bottineau,Northeast,2
+-93.263554,45.00713,942,02/25/2018 02:06pm,Snow Emergency,"321 19th ave ne,Minneapolis,MN",45.00713,-93.263554,Xerxes,3,3,Bottineau,Northeast,2
+-93.263143,45.007463,943,02/25/2018 02:11pm,Snow Emergency,"329 19th ave ne,Minneapolis,MN",45.007463,-93.263143,Xerxes,3,3,Bottineau,Northeast,2
+-93.264322,45.003696,944,02/25/2018 02:13pm,Snow Emergency,"1517 3rd st ne,Minneapolis,MN",45.003696,-93.264322,Xerxes,3,3,Sheridan,Northeast,2
+-93.264272,45.00713,945,02/25/2018 02:38pm,Snow Emergency,"307 19th ave ne,Minneapolis,MN",45.00713,-93.264272,Xerxes,3,3,Bottineau,Northeast,2
+-93.263862,45.00713,946,02/25/2018 02:40pm,Snow Emergency,"315 19th ave ne,Minneapolis,MN",45.00713,-93.263862,Xerxes,3,3,Bottineau,Northeast,2
+-93.265611,45.008756,947,02/25/2018 02:42pm,Snow Emergency,"207 20th ave ne,Minneapolis,MN",45.008756,-93.265611,Xerxes,3,3,Bottineau,Northeast,2
+-93.26087,45.008745,948,02/25/2018 02:43pm,Snow Emergency,"415 20th ave ne,Minneapolis,MN",45.008745,-93.26087,Xerxes,3,1,Holland,Northeast,2
+-93.265847,45.008749,949,02/25/2018 02:58pm,Snow Emergency,"203 20th ave ne,Minneapolis,MN",45.008749,-93.265847,Xerxes,3,3,Bottineau,Northeast,2
+-93.250597,45.011809,950,02/25/2018 03:07pm,Snow Emergency,"2331 quincy st ne,Minneapolis,MN",45.011809,-93.250597,Xerxes,3,1,Holland,Northeast,2
+-93.260143,45.010109,951,02/25/2018 03:25pm,Snow Emergency,"503 22nd ave ne,Minneapolis,MN",45.010109,-93.260143,Xerxes,3,1,Holland,Northeast,2
+-93.250585,45.0117,952,02/25/2018 03:29pm,Snow Emergency,"2327 quincy st ne,Minneapolis,MN",45.0117,-93.250585,Xerxes,3,1,Holland,Northeast,2
+-93.250585,45.0117,953,02/25/2018 03:29pm,Snow Emergency,"2327 quincy st ne,Minneapolis,MN",45.0117,-93.250585,Xerxes,3,1,Holland,Northeast,2
+-93.258144,44.991072,954,02/25/2018 08:49am,Snow Emergency,"311 3rd ave ne,Minneapolis,MN",44.991072,-93.258144,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.257492,44.991557,955,02/25/2018 08:50am,Snow Emergency,"317 3rd ave ne,Minneapolis,MN",44.991557,-93.257492,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.259462,44.990154,956,02/25/2018 08:52am,Snow Emergency,"211 3rd ave ne ,Minneapolis,MN",44.990154,-93.259462,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.259353,44.990921,957,02/25/2018 08:58am,Snow Emergency,"213 3rd ave ne,Minneapolis,MN",44.990921,-93.259353,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.25884,44.992649,958,02/25/2018 09:04am,Snow Emergency,"315 4th ave ne,Minneapolis,MN",44.992649,-93.25884,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.262591,44.993016,959,02/25/2018 09:08am,Snow Emergency,"143 5th ave ne,Minneapolis,MN",44.993016,-93.262591,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.264386,45.010833,960,02/25/2018 09:18am,Snow Emergency,"2221 3rd st n,Minneapolis,MN",45.010833,-93.264386,Xerxes,3,3,Bottineau,Northeast,2
+-93.254585,44.992491,961,02/25/2018 09:24am,Snow Emergency,"515 3rd ave ne,Minneapolis,MN",44.992491,-93.254585,Xerxes,3,3,St. Anthony East,Northeast,2
+-93.254714,44.990726,962,02/25/2018 09:27am,Snow Emergency,"149 5th st ne,Minneapolis,MN",44.990726,-93.254714,Xerxes,3,3,Nicollet Island - East Bank,University,2
+-93.249737,44.996916,963,02/25/2018 09:36am,Snow Emergency,"835 summer st ne,Minneapolis,MN",44.996916,-93.249737,Xerxes,3,3,St. Anthony East,Northeast,2
+-93.261163,44.995846,964,02/25/2018 09:41am,Snow Emergency,"307 7th ave ne,Minneapolis,MN",44.995846,-93.261163,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.252076,44.996906,965,02/25/2018 10:02am,Snow Emergency,"729 summer st ne,Minneapolis,MN",44.996906,-93.252076,Xerxes,3,3,St. Anthony East,Northeast,2
+-93.255426,44.996896,966,02/25/2018 10:10am,Snow Emergency,"653 summer st ne,Minneapolis,MN",44.996896,-93.255426,Xerxes,3,3,St. Anthony East,Northeast,2
+-93.257398,44.992066,967,02/25/2018 10:26am,Snow Emergency,"315 4th st ne,Minneapolis,MN",44.992066,-93.257398,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.254247,44.99061,968,02/25/2018 10:28am,Snow Emergency,"115 5th st ne,Minneapolis,MN",44.99061,-93.254247,Xerxes,3,3,Nicollet Island - East Bank,University,2
+-93.267307,44.997381,969,02/25/2018 10:34am,Snow Emergency,"115 10th ave ne,Minneapolis,MN",44.997381,-93.267307,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.26087,44.998386,970,02/25/2018 10:39am,Snow Emergency,"415 9th ave ne,Minneapolis,MN",44.998386,-93.26087,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.263844,44.997097,971,02/25/2018 11:01am,Snow Emergency,"215 9th ave ne,Minneapolis,MN",44.997097,-93.263844,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.25769,44.997613,972,02/25/2018 11:08am,Snow Emergency,"727 6th st ne,Minneapolis,MN",44.997613,-93.25769,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.267431,45.003598,973,02/25/2018 11:14am,Snow Emergency,"1515 Main st ne,Minneapolis,MN",45.003598,-93.267431,Xerxes,3,3,Sheridan,Northeast,2
+-93.26749,44.997317,974,02/25/2018 11:24am,Snow Emergency,"111 10th ave ne,Minneapolis,MN",44.997317,-93.26749,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.267453,45.002759,975,02/25/2018 11:28am,Snow Emergency,"1423 main st ne,Minneapolis,MN",45.002759,-93.267453,Xerxes,3,3,Sheridan,Northeast,2
+-93.270059,45.001468,976,02/25/2018 11:29am,Snow Emergency,"121 14th ave ne,Minneapolis,MN",45.001468,-93.270059,Xerxes,3,3,Sheridan,Northeast,2
+-93.268147,45.002044,977,02/25/2018 11:46am,Snow Emergency,"145 14th ave ne,Minneapolis,MN",45.002044,-93.268147,Xerxes,3,3,Sheridan,Northeast,2
+-93.265176,44.998106,978,02/25/2018 11:48am,Snow Emergency,"199 10th ave ne,Minneapolis,MN",44.998106,-93.265176,Xerxes,3,3,St. Anthony West,Northeast,2
+-93.263868,45.003072,979,02/25/2018 12:13pm,Snow Emergency,"315 15th ave ne,Minneapolis,MN",45.003072,-93.263868,Xerxes,2,3,Sheridan,Northeast,2
+-93.270107,45.005558,980,02/25/2018 12:15pm,Snow Emergency,"1713 Grand st ne,Minneapolis,MN",45.005558,-93.270107,Xerxes,2,3,Sheridan,Northeast,2
+-93.270662,45.003894,981,02/25/2018 12:19pm,Snow Emergency,"29 16th ave ne,Minneapolis,MN",45.003894,-93.270662,Xerxes,2,3,Sheridan,Northeast,2
+-93.259915,45.003073,982,02/25/2018 12:22pm,Snow Emergency,"525 15th ave ne,Minneapolis,MN",45.003073,-93.259915,Xerxes,2,3,Sheridan,Northeast,2
+-93.262379,45.002172,983,02/25/2018 12:36pm,Snow Emergency,"343 14th ave ne,Minneapolis,MN",45.002172,-93.262379,Xerxes,2,3,Sheridan,Northeast,2
+-93.254734,45.001662,984,02/25/2018 12:37pm,Snow Emergency,"1321 Jefferson st ne,Minneapolis,MN",45.001662,-93.254734,Xerxes,2,1,Logan Park,Northeast,2
+-93.270106,45.005509,985,02/25/2018 12:40pm,Snow Emergency,"1711 grand st ne,Minneapolis,MN",45.005509,-93.270106,Xerxes,2,3,Sheridan,Northeast,2
+-93.263868,45.003072,986,02/25/2018 12:44pm,Snow Emergency,"315 15th ave ne,Minneapolis,MN",45.003072,-93.263868,Xerxes,2,3,Sheridan,Northeast,2
+-93.256026,44.996539,987,02/25/2018 12:47pm,Snow Emergency,"651 adams st ne,Minneapolis,MN",44.996539,-93.256026,Xerxes,2,3,St. Anthony East,Northeast,2
+-93.269855,45.005462,988,02/25/2018 12:48pm,Snow Emergency,"1709 grand st ne,Minneapolis,MN",45.005462,-93.269855,Xerxes,2,3,Sheridan,Northeast,2
+-93.281458,45.017522,989,02/23/2018 09:29pm,Snow Emergency,"3425 2ND ST N,Minneapolis,MN",45.017522,-93.281458,Xerxes,1,4,McKinley,Camden,1
+-93.280085,45.015842,990,02/23/2018 09:32pm,Snow Emergency,"3320 2ND ST N,Minneapolis,MN",45.015842,-93.280085,Xerxes,1,4,McKinley,Camden,1
+-93.280115,45.016173,991,02/23/2018 09:46pm,Snow Emergency,"3350 2ND ST N,Minneapolis,MN",45.016173,-93.280115,Xerxes,1,4,McKinley,Camden,1
+-93.280213,45.003677,992,02/23/2018 10:06pm,Snow Emergency,"2401 2ND ST N,Minneapolis,MN",45.003677,-93.280213,Xerxes,1,5,Hawthorne,Near North,1
+-93.279416,45.00393,993,02/23/2018 10:09pm,Snow Emergency,"2400 2nd st n,Minneapolis,MN",45.00393,-93.279416,Xerxes,1,5,Hawthorne,Near North,1
+-93.280293,45.015722,994,02/23/2018 10:13pm,Snow Emergency,"3310 2ND ST N,Minneapolis,MN",45.015722,-93.280293,Xerxes,1,4,McKinley,Camden,1
+-93.280095,45.015953,995,02/23/2018 10:15pm,Snow Emergency,"3330 2ND ST N,Minneapolis,MN",45.015953,-93.280095,Xerxes,1,4,McKinley,Camden,1
+-93.280853,45.014929,996,02/23/2018 10:21pm,Snow Emergency,"3300 2ND ST N,Minneapolis,MN",45.014929,-93.280853,Xerxes,1,4,McKinley,Camden,1
+-93.277139,44.989228,997,02/23/2018 10:26pm,Snow Emergency,"801 2ND ST N,Minneapolis,MN",44.989228,-93.277139,Xerxes,1,3,North Loop,Central,1
+-93.27896,44.990813,998,02/23/2018 10:31pm,Snow Emergency,"850 2ND ST N ,Minneapolis,MN",44.990813,-93.27896,Xerxes,1,3,North Loop,Central,1
+-93.27592,44.988283,999,02/23/2018 10:54pm,Snow Emergency,"671 2ND ST N,Minneapolis,MN",44.988283,-93.27592,Xerxes,1,3,North Loop,Central,1
+-93.278071,44.989817,1000,02/23/2018 10:58pm,Snow Emergency,"847 2 st n ,Minneapolis,MN",44.989817,-93.278071,Xerxes,1,3,North Loop,Central,1
+-93.274359,44.987503,1001,02/23/2018 11:04pm,Snow Emergency,"551 2ND ST N ,Minneapolis,MN",44.987503,-93.274359,Xerxes,1,3,North Loop,Central,1
+-93.273357,44.987222,1002,02/23/2018 11:05pm,Snow Emergency,"500 2nd n,Minneapolis,MN",44.987222,-93.273357,Xerxes,1,3,North Loop,Central,1
+-93.277139,44.989228,1003,02/23/2018 11:11pm,Snow Emergency,"801 2 st n,Minneapolis,MN",44.989228,-93.277139,Xerxes,1,3,North Loop,Central,1
+-93.277139,44.989228,1004,02/23/2018 11:11pm,Snow Emergency,"801 2 st n,Minneapolis,MN",44.989228,-93.277139,Xerxes,1,3,North Loop,Central,1
+-93.292785,45.008707,1005,02/23/2018 11:11pm,Snow Emergency,"2800 DUPONT AVE ,Minneapolis,MN",45.008707,-93.292785,Xerxes,1,5,Hawthorne,Near North,1
+-93.273604,44.987416,1006,02/23/2018 11:13pm,Snow Emergency,"520 2nd st n,Minneapolis,MN",44.987416,-93.273604,Xerxes,1,3,North Loop,Central,1
+-93.274218,44.987853,1007,02/23/2018 11:14pm,Snow Emergency,"580 2 st n,Minneapolis,MN",44.987853,-93.274218,Xerxes,1,3,North Loop,Central,1
+-93.2761,44.98839,1008,02/23/2018 11:36pm,Snow Emergency,"701 2ND ST N ,Minneapolis,MN",44.98839,-93.2761,Xerxes,1,3,North Loop,Central,1
+-93.272763,44.986694,1009,02/23/2018 11:39pm,Snow Emergency,"410 2ND ST N ,Minneapolis,MN",44.986694,-93.272763,Xerxes,1,3,North Loop,Central,1
+-93.288279,45.014152,1010,02/23/2018 11:39pm,Snow Emergency,"3231 lyndale Ave n,Minneapolis,MN",45.014152,-93.288279,Xerxes,1,4,McKinley,Camden,1
+-93.295652,44.99084,1011,02/24/2018 01:02pm,Snow Emergency,"1208 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.29444,44.994812,1012,02/24/2018 01:09am,Snow Emergency,"1519 EMERSON AVE N ,Minneapolis,MN",44.994812,-93.29444,Xerxes,1,5,Near - North,Near North,1
+-93.293038,44.986263,1013,02/24/2018 01:17am,Snow Emergency,"765 Van White Memorial Blvd,Minneapolis,MN",44.986263,-93.293038,Xerxes,1,5,Sumner - Glenwood,Near North,1
+-93.294458,44.995786,1014,02/24/2018 01:17am,Snow Emergency,"1615 EMERSON AVE N ,Minneapolis,MN",44.995786,-93.294458,Xerxes,1,5,Near - North,Near North,1
+-93.299335,44.9877,1015,02/24/2018 01:18pm,Snow Emergency,"1008 Irving Ave N,Minneapolis,MN",44.9877,-93.299335,Xerxes,2,5,Near - North,Near North,1
+-93.28621,45.022684,1016,02/24/2018 01:19pm,Snow Emergency,"3714 6th st n,Minneapolis,MN",45.022684,-93.28621,Xerxes,2,4,McKinley,Camden,1
+-93.294106,45.002467,1017,02/24/2018 01:24am,Snow Emergency,"2232 EMERSON AVE N ,Minneapolis,MN",45.002467,-93.294106,Xerxes,1,5,Jordan,Near North,1
+-93.295652,44.99084,1018,02/24/2018 01:24pm,Snow Emergency,"706 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.294106,45.002467,1019,02/24/2018 01:25am,Snow Emergency,"2232 EMERSON AVE N ,Minneapolis,MN",45.002467,-93.294106,Xerxes,1,5,Jordan,Near North,1
+-93.299432,44.994354,1020,02/24/2018 01:26pm,Snow Emergency,"1502 IRVING AVE N,Minneapolis,MN",44.994354,-93.299432,Xerxes,2,5,Near - North,Near North,1
+-93.295652,44.99084,1021,02/24/2018 01:29pm,Snow Emergency,"1210 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.29981,44.988577,1022,02/24/2018 01:35pm,Snow Emergency,"1034 Irving Ave N,Minneapolis,MN",44.988577,-93.29981,Xerxes,2,5,Near - North,Near North,1
+-93.289262,45.007897,1023,02/24/2018 01:35pm,Snow Emergency,"2702 Aldrich ave n,Minneapolis,MN",45.007897,-93.289262,Xerxes,2,5,Hawthorne,Near North,1
+-93.293038,44.986263,1024,02/24/2018 01:40am,Snow Emergency,"765 Van White Memorial Blvd,Minneapolis,MN",44.986263,-93.293038,Xerxes,1,5,Sumner - Glenwood,Near North,1
+-93.289032,45.010091,1025,02/24/2018 01:40pm,Snow Emergency,"2918 Aldrich ave n,Minneapolis,MN",45.010091,-93.289032,Xerxes,2,5,Hawthorne,Near North,1
+-93.293864,45.004007,1026,02/24/2018 01:46am,Snow Emergency,"2406 EMERSON AVE ,Minneapolis,MN",45.004007,-93.293864,Xerxes,1,5,Hawthorne,Near North,1
+-93.293864,45.004007,1027,02/24/2018 01:48am,Snow Emergency,"2406 Emerson Ave N,Minneapolis,MN",45.004007,-93.293864,Xerxes,1,5,Hawthorne,Near North,1
+-93.295652,44.99084,1028,02/24/2018 01:48pm,Snow Emergency,"1202 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.299442,44.990793,1029,02/24/2018 01:50pm,Snow Emergency,"1220 Irving Ave N,Minneapolis,MN",44.990793,-93.299442,Xerxes,2,5,Near - North,Near North,1
+-93.295652,44.99084,1030,02/24/2018 01:52pm,Snow Emergency,"1214 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.29395,45.008551,1031,02/24/2018 02:08am,Snow Emergency,"2726 EMERSON AVE N ,Minneapolis,MN",45.008551,-93.29395,Xerxes,1,5,Hawthorne,Near North,1
+-93.294135,45.005343,1032,02/24/2018 02:12am,Snow Emergency,"2512 EMERSON AVE N ,Minneapolis,MN",45.005343,-93.294135,Xerxes,1,5,Jordan,Near North,1
+-93.299312,44.992464,1033,02/24/2018 02:13pm,Snow Emergency,"1314 Irving Ave N,Minneapolis,MN",44.992464,-93.299312,Xerxes,2,5,Near - North,Near North,1
+-93.294089,45.013684,1034,02/24/2018 02:16am,Snow Emergency,"3214 EMERSON AVE N ,Minneapolis,MN",45.013684,-93.294089,Xerxes,1,4,Folwell,Camden,1
+-93.294089,45.013684,1035,02/24/2018 02:29am,Snow Emergency,"3214 Emerson ave n ,Minneapolis,MN",45.013684,-93.294089,Xerxes,1,4,Folwell,Camden,1
+-93.304185,44.993687,1036,02/24/2018 02:29pm,Snow Emergency,"1418 MORGAN AVE N,Minneapolis,MN",44.993687,-93.304185,Xerxes,2,5,Willard - Hay,Near North,1
+-93.300414,44.990218,1037,02/24/2018 02:30pm,Snow Emergency,"1202 James ave n ,Minneapolis,MN",44.990218,-93.300414,Xerxes,2,5,Near - North,Near North,1
+-93.290322,45.015817,1038,02/24/2018 02:30pm,Snow Emergency,"3326 Bryant ave n,Minneapolis,MN",45.015817,-93.290322,Xerxes,2,4,McKinley,Camden,1
+-93.291576,45.014687,1039,02/24/2018 02:33pm,Snow Emergency,"3246 Colfax ave n,Minneapolis,MN",45.014687,-93.291576,Xerxes,2,4,McKinley,Camden,1
+-93.302893,44.993902,1040,02/24/2018 02:35pm,Snow Emergency,"1426 logan ave n,Minneapolis,MN",44.993902,-93.302893,Xerxes,2,5,Willard - Hay,Near North,1
+-93.29434,45.017829,1041,02/24/2018 02:36am,Snow Emergency,"3437 Emerson ave n ,Minneapolis,MN",45.017829,-93.29434,Xerxes,1,4,Folwell,Camden,1
+-93.286466,45.005478,1042,02/24/2018 02:36pm,Snow Emergency,"2526 6TH ST N,Minneapolis,MN",45.005478,-93.286466,Xerxes,2,5,Hawthorne,Near North,1
+-93.289068,45.023478,1043,02/24/2018 02:36pm,Snow Emergency,"3746 Aldrich Ave n,Minneapolis,MN",45.023478,-93.289068,Xerxes,2,4,McKinley,Camden,1
+-93.295597,45.017882,1044,02/24/2018 02:37am,Snow Emergency,"3437 Fremont Ave N,Minneapolis,MN",45.017882,-93.295597,Xerxes,1,4,Folwell,Camden,1
+-93.302777,44.986949,1045,02/24/2018 02:37pm,Snow Emergency,"900 Logan ave n,Minneapolis,MN",44.986949,-93.302777,Xerxes,2,5,Near - North,Near North,1
+-93.295384,45.025449,1046,02/24/2018 02:43am,Snow Emergency,"3850 FREMONT AVE N ,Minneapolis,MN",45.025449,-93.295384,Xerxes,1,4,Webber - Camden,Camden,1
+-93.30447,44.990851,1047,02/24/2018 02:51pm,Snow Emergency,"1236 MORGAN AVE N ,Minneapolis,MN",44.990851,-93.30447,Xerxes,2,5,Near - North,Near North,1
+-93.304246,44.99091,1048,02/24/2018 02:56pm,Snow Emergency,"1238 Morgan Ave NO,Minneapolis,MN",44.99091,-93.304246,Xerxes,2,5,Near - North,Near North,1
+-93.300439,44.992229,1049,02/24/2018 03:02pm,Snow Emergency,"1318 James ave n ,Minneapolis,MN",44.992229,-93.300439,Xerxes,2,5,Near - North,Near North,1
+-93.300335,44.992123,1050,02/24/2018 03:06pm,Snow Emergency,"1316 James ave n ,Minneapolis,MN",44.992123,-93.300335,Xerxes,2,5,Near - North,Near North,1
+-93.290348,45.030483,1051,02/24/2018 03:06pm,Snow Emergency,"4134 Bryant Ave n,Minneapolis,MN",45.030483,-93.290348,Xerxes,2,4,Webber - Camden,Camden,1
+-93.296012,45.028495,1052,02/24/2018 03:09am,Snow Emergency,"4023 FREMONT AVE N,Minneapolis,MN",45.028495,-93.296012,Xerxes,1,4,Webber - Camden,Camden,1
+-93.309501,44.991693,1053,02/24/2018 03:12pm,Snow Emergency,"1308 QUEEN AVE N,Minneapolis,MN",44.991693,-93.309501,Xerxes,2,5,Willard - Hay,Near North,1
+-93.311887,44.986606,1054,02/24/2018 03:15pm,Snow Emergency,"816 Sheridan Ave N,Minneapolis,MN",44.986606,-93.311887,Xerxes,2,5,Willard - Hay,Near North,1
+-93.29029,45.01932,1055,02/24/2018 03:16pm,Snow Emergency,"3522 Bryant ave n,Minneapolis,MN",45.01932,-93.29029,Xerxes,2,4,McKinley,Camden,1
+-93.294089,45.013684,1056,02/24/2018 03:17am,Snow Emergency,"3214 EMERSON AVE N ,Minneapolis,MN",45.013684,-93.294089,Xerxes,1,4,Folwell,Camden,1
+-93.292813,45.019941,1057,02/24/2018 03:18pm,Snow Emergency,"3542 DuPont ave n ,Minneapolis,MN",45.019941,-93.292813,Xerxes,2,4,McKinley,Camden,1
+-93.295782,45.031861,1058,02/24/2018 03:21am,Snow Emergency,"4204 FREMONT AVE N ,Minneapolis,MN",45.031861,-93.295782,Xerxes,1,4,Webber - Camden,Camden,1
+-93.295782,45.031861,1059,02/24/2018 03:26am,Snow Emergency,"4204 FREMONT AVE N ,Minneapolis,MN",45.031861,-93.295782,Xerxes,1,4,Webber - Camden,Camden,1
+-93.298111,45.018771,1060,02/24/2018 03:30pm,Snow Emergency,"3502 Humboldt ave n,Minneapolis,MN",45.018771,-93.298111,Xerxes,2,4,Folwell,Camden,1
+-93.294078,45.018226,1061,02/24/2018 03:35pm,Snow Emergency,"3450 Emerson ave n,Minneapolis,MN",45.018226,-93.294078,Xerxes,2,4,Folwell,Camden,1
+-93.273865,44.988769,1062,02/24/2018 04:17am,Snow Emergency,"627 1ST ST N ,Minneapolis,MN",44.988769,-93.273865,Xerxes,1,3,North Loop,Central,1
+-93.275809,44.989535,1063,02/24/2018 04:33am,Snow Emergency,"701 1TH ST N ,Minneapolis,MN",44.989535,-93.275809,Xerxes,1,3,North Loop,Central,1
+-93.274093,44.988926,1064,02/24/2018 04:55am,Snow Emergency,"612 1ST ST N ,Minneapolis,MN",44.988926,-93.274093,Xerxes,1,3,North Loop,Central,1
+-93.275235,44.989155,1065,02/24/2018 05:11am,Snow Emergency,"711 1ST ST N,Minneapolis,MN",44.989155,-93.275235,Xerxes,1,3,North Loop,Central,1
+-93.284664,44.997035,1066,02/24/2018 08:19am,Snow Emergency,"1712 Lyn Cur Ave N,Minneapolis,MN",44.997035,-93.284664,Xerxes,2,5,Near - North,Near North,1
+-93.284733,44.996431,1067,02/24/2018 08:26am,Snow Emergency,"1700 lyn curve n,Minneapolis,MN",44.996431,-93.284733,Xerxes,2,5,Near - North,Near North,1
+-93.286424,44.997076,1068,02/24/2018 08:26am,Snow Emergency,"500 LYN PARK CIRCLE N,Minneapolis,MN",44.997076,-93.286424,Xerxes,2,5,Near - North,Near North,1
+-93.286032,44.996394,1069,02/24/2018 08:30am,Snow Emergency,"1700 lyn park ave n,Minneapolis,MN",44.996394,-93.286032,Xerxes,2,5,Near - North,Near North,1
+-93.289858,44.986061,1070,02/24/2018 08:36am,Snow Emergency,"722 Aldrich Ave N,Minneapolis,MN",44.986061,-93.289858,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290597,44.985957,1071,02/24/2018 08:42am,Snow Emergency,"736 ALDRICH AVE N ,Minneapolis,MN",44.985957,-93.290597,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.291306,44.996247,1072,02/24/2018 08:48am,Snow Emergency,"1700 Bryant ,Minneapolis,MN",44.996247,-93.291306,Xerxes,2,5,Near - North,Near North,1
+-93.290626,44.987018,1073,02/24/2018 08:52am,Snow Emergency,"828 Aldrich Ave N,Minneapolis,MN",44.987018,-93.290626,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.28988,44.986061,1074,02/24/2018 08:56am,Snow Emergency,"724 aldrich ave n,Minneapolis,MN",44.986061,-93.28988,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290759,44.988181,1075,02/24/2018 08:59am,Snow Emergency,"1000 aldrich ave n,Minneapolis,MN",44.988181,-93.290759,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290631,44.987747,1076,02/24/2018 09:00am,Snow Emergency,"930 ALDRICH AVE N,Minneapolis,MN",44.987747,-93.290631,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290777,44.988334,1077,02/24/2018 09:09am,Snow Emergency,"1038 Aldrich Ave N,Minneapolis,MN",44.988334,-93.290777,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290778,44.98836,1078,02/24/2018 09:17am,Snow Emergency,"1042 ALDRICH AVE N ,Minneapolis,MN",44.98836,-93.290778,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290697,44.986773,1079,02/24/2018 09:27am,Snow Emergency,"826 aldrich ave n,Minneapolis,MN",44.986773,-93.290697,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290776,44.988316,1080,02/24/2018 09:28am,Snow Emergency,"1034 Aldrich Ave N,Minneapolis,MN",44.988316,-93.290776,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290778,44.988386,1081,02/24/2018 09:29am,Snow Emergency,"1046 aldrich ave n,Minneapolis,MN",44.988386,-93.290778,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.29108,44.984798,1082,02/24/2018 09:42am,Snow Emergency,"626 Bryant Ave N,Minneapolis,MN",44.984798,-93.29108,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.291015,44.984741,1083,02/24/2018 09:43am,Snow Emergency,"624 BRYANT AVE N,Minneapolis,MN",44.984741,-93.291015,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.290743,44.997825,1084,02/24/2018 10:04am,Snow Emergency,"1810 Bryant Ave N,Minneapolis,MN",44.997825,-93.290743,Xerxes,2,5,Near - North,Near North,1
+-93.290645,44.998174,1085,02/24/2018 10:07am,Snow Emergency,"1818 Bryant ave n,Minneapolis,MN",44.998174,-93.290645,Xerxes,2,5,Near - North,Near North,1
+-93.28473,45.018057,1086,02/24/2018 10:09am,Snow Emergency,"3446 4th st n,Minneapolis,MN",45.018057,-93.28473,Xerxes,2,4,McKinley,Camden,1
+-93.290773,44.988278,1087,02/24/2018 10:11am,Snow Emergency,"1028 aldrich ave n,Minneapolis,MN",44.988278,-93.290773,Xerxes,2,5,Sumner - Glenwood,Near North,1
+-93.291057,44.998214,1088,02/24/2018 10:11am,Snow Emergency,"1820 Bryant ave n,Minneapolis,MN",44.998214,-93.291057,Xerxes,2,5,Near - North,Near North,1
+-93.29229,44.998054,1089,02/24/2018 10:12am,Snow Emergency,"1818 DUPONT AVE N,Minneapolis,MN",44.998054,-93.29229,Xerxes,2,5,Near - North,Near North,1
+-93.292337,44.99829,1090,02/24/2018 10:15am,Snow Emergency,"1826 dupont ave n,Minneapolis,MN",44.99829,-93.292337,Xerxes,2,5,Near - North,Near North,1
+-93.292584,44.997052,1091,02/24/2018 10:20am,Snow Emergency,"1730 Dupont Ave N,Minneapolis,MN",44.997052,-93.292584,Xerxes,2,5,Near - North,Near North,1
+-93.281878,44.994181,1092,02/24/2018 10:30am,Snow Emergency,"2424 3rd st n,Minneapolis,MN",44.994181,-93.281878,Xerxes,2,5,Near - North,Near North,1
+-93.292346,44.994935,1093,02/24/2018 10:47am,Snow Emergency,"1522 Dupont Ave N,Minneapolis,MN",44.994935,-93.292346,Xerxes,2,5,Near - North,Near North,1
+-93.292582,44.996835,1094,02/24/2018 10:49am,Snow Emergency,"1716 DuPont ave n,Minneapolis,MN",44.996835,-93.292582,Xerxes,2,5,Near - North,Near North,1
+-93.284942,45.000267,1095,02/24/2018 10:50am,Snow Emergency,"2102 4th st n,Minneapolis,MN",45.000267,-93.284942,Xerxes,2,5,Hawthorne,Near North,1
+-93.292582,44.996756,1096,02/24/2018 10:51am,Snow Emergency,"1712 DuPont ave n,Minneapolis,MN",44.996756,-93.292582,Xerxes,2,5,Near - North,Near North,1
+-93.292588,44.994988,1097,02/24/2018 10:53am,Snow Emergency,"1524 dupont ave n,Minneapolis,MN",44.994988,-93.292588,Xerxes,2,5,Near - North,Near North,1
+-93.292582,44.996717,1098,02/24/2018 10:56am,Snow Emergency,"1710 dupont ave n,Minneapolis,MN",44.996717,-93.292582,Xerxes,2,5,Near - North,Near North,1
+-93.28494,45.000493,1099,02/24/2018 11:04am,Snow Emergency,"2120 4th st n,Minneapolis,MN",45.000493,-93.28494,Xerxes,2,5,Hawthorne,Near North,1
+-93.297574,44.989691,1100,02/24/2018 11:15am,Snow Emergency,"1130 Humbolt Ave n,Minneapolis,MN",44.989691,-93.297574,Xerxes,2,5,Near - North,Near North,1
+-93.296919,44.985862,1101,02/24/2018 11:24am,Snow Emergency,"708 Humboldt ave n ,Minneapolis,MN",44.985862,-93.296919,Xerxes,2,5,Near - North,Near North,1
+-93.284931,45.002144,1102,02/24/2018 11:24am,Snow Emergency,"2220 4th st n,Minneapolis,MN",45.002144,-93.284931,Xerxes,2,5,Hawthorne,Near North,1
+-93.297573,44.989552,1103,02/24/2018 11:28am,Snow Emergency,"1120 Humboldt ave n ,Minneapolis,MN",44.989552,-93.297573,Xerxes,2,5,Near - North,Near North,1
+-93.297572,44.989524,1104,02/24/2018 11:30am,Snow Emergency,"1118 Humboldt Ave N,Minneapolis,MN",44.989524,-93.297572,Xerxes,2,5,Near - North,Near North,1
+-93.284665,45.002339,1105,02/24/2018 11:46am,Snow Emergency,"2226 4th st n,Minneapolis,MN",45.002339,-93.284665,Xerxes,2,5,Hawthorne,Near North,1
+-93.297572,44.989468,1106,02/24/2018 11:48am,Snow Emergency,"1114 Humbolt Ave N,Minneapolis,MN",44.989468,-93.297572,Xerxes,2,5,Near - North,Near North,1
+-93.296906,44.992689,1107,02/24/2018 11:50am,Snow Emergency,"1318 Girard ave n ,Minneapolis,MN",44.992689,-93.296906,Xerxes,2,5,Near - North,Near North,1
+-93.296848,44.993894,1108,02/24/2018 11:56am,Snow Emergency,"1422 Girard ave n ,Minneapolis,MN",44.993894,-93.296848,Xerxes,2,5,Near - North,Near North,1
+-93.287774,45.039917,1109,02/24/2018 12:02am,Snow Emergency,"4643 LYNDALE AVE N ,Minneapolis,MN",45.039917,-93.287774,Xerxes,1,4,Lind - Bohanon,Camden,1
+-93.297188,44.99368,1110,02/24/2018 12:06pm,Snow Emergency,"1416 GIRARD AVE N,Minneapolis,MN",44.99368,-93.297188,Xerxes,2,5,Near - North,Near North,1
+-93.29687,44.993747,1111,02/24/2018 12:07pm,Snow Emergency,"1418 Girard Ave N,Minneapolis,MN",44.993747,-93.29687,Xerxes,2,5,Near - North,Near North,1
+-93.284643,45.003014,1112,02/24/2018 12:07pm,Snow Emergency,"2310 4th st n,Minneapolis,MN",45.003014,-93.284643,Xerxes,2,5,Hawthorne,Near North,1
+-93.2846,45.010036,1113,02/24/2018 12:07pm,Snow Emergency,"2914 4th st n,Minneapolis,MN",45.010036,-93.2846,Xerxes,2,5,Hawthorne,Near North,1
+-93.284666,45.005275,1114,02/24/2018 12:10pm,Snow Emergency,"2510 4th st n,Minneapolis,MN",45.005275,-93.284666,Xerxes,2,5,Hawthorne,Near North,1
+-93.28837,45.024629,1115,02/24/2018 12:17am,Snow Emergency,"3823 LYNDALE AVE N ,Minneapolis,MN",45.024629,-93.28837,Xerxes,1,4,Webber - Camden,Camden,1
+-93.275942,44.988298,1116,02/24/2018 12:21am,Snow Emergency,"675 2ND ST N ,Minneapolis,MN",44.988298,-93.275942,Xerxes,1,3,North Loop,Central,1
+-93.288099,45.032496,1117,02/24/2018 12:24am,Snow Emergency,"4224 Lyndale Ave N,Minneapolis,MN",45.032496,-93.288099,Xerxes,1,4,Webber - Camden,Camden,1
+-93.295652,44.99084,1118,02/24/2018 12:24pm,Snow Emergency,"1120 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.297184,44.995483,1119,02/24/2018 12:27pm,Snow Emergency,"1602 GIRARD AVE N,Minneapolis,MN",44.995483,-93.297184,Xerxes,2,5,Near - North,Near North,1
+-93.295652,44.99084,1120,02/24/2018 12:30pm,Snow Emergency,"1118 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.284936,45.013457,1121,02/24/2018 12:30pm,Snow Emergency,"3208 4th st n,Minneapolis,MN",45.013457,-93.284936,Xerxes,2,4,McKinley,Camden,1
+-93.299091,44.999189,1122,02/24/2018 12:34pm,Snow Emergency,"1906 Irving Ave N,Minneapolis,MN",44.999189,-93.299091,Xerxes,2,5,Near - North,Near North,1
+-93.284936,45.013457,1123,02/24/2018 12:53pm,Snow Emergency,"3208 4th st n,Minneapolis,MN",45.013457,-93.284936,Xerxes,2,4,McKinley,Camden,1
+-93.294118,44.992282,1124,02/24/2018 12:56am,Snow Emergency,"1319 EMERSON AVE N ,Minneapolis,MN",44.992282,-93.294118,Xerxes,1,5,Near - North,Near North,1
+-93.294496,44.992685,1125,02/24/2018 12:56am,Snow Emergency,"1317 EMERSON AVE N ,Minneapolis,MN",44.992685,-93.294496,Xerxes,1,5,Near - North,Near North,1
+-93.299218,44.993898,1126,02/24/2018 12:56pm,Snow Emergency,"1424 Irving Ave N,Minneapolis,MN",44.993898,-93.299218,Xerxes,2,5,Near - North,Near North,1
+-93.299116,44.999151,1127,02/24/2018 12:58pm,Snow Emergency,"1902 IRVING AVE N,Minneapolis,MN",44.999151,-93.299116,Xerxes,2,5,Near - North,Near North,1
+-93.295652,44.99084,1128,02/24/2018 12:59pm,Snow Emergency,"1206 Fremont ave n ,Minneapolis,MN",44.99084,-93.295652,Xerxes,2,5,Near - North,Near North,1
+-93.284899,45.012047,1129,02/24/2018 12:59pm,Snow Emergency,"3106 4th st n,Minneapolis,MN",45.012047,-93.284899,Xerxes,2,5,Hawthorne,Near North,1
+-93.289603,45.013686,1130,02/25/2018 01:03pm,Snow Emergency,"3215 ALDRICH AVE N,Minneapolis,MN",45.013686,-93.289603,Xerxes,3,4,McKinley,Camden,1
+-93.309695,45.027937,1131,02/25/2018 01:09pm,Snow Emergency,"4005 queen Ave n,Minneapolis,MN",45.027937,-93.309695,Xerxes,3,4,Victory,Camden,1
+-93.299441,44.992134,1132,02/25/2018 01:14pm,Snow Emergency,"1315 Irving ave n ,Minneapolis,MN",44.992134,-93.299441,Xerxes,3,5,Near - North,Near North,1
+-93.312307,44.992281,1133,02/25/2018 01:15pm,Snow Emergency,"1321 sheridan ave n,Minneapolis,MN",44.992281,-93.312307,Xerxes,3,5,Willard - Hay,Near North,1
+-93.312342,44.9931,1134,02/25/2018 01:17pm,Snow Emergency,"1347 sheridan ave n,Minneapolis,MN",44.9931,-93.312342,Xerxes,3,5,Willard - Hay,Near North,1
+-93.304753,44.999062,1135,02/25/2018 01:19pm,Snow Emergency,"1907 Morgan Ave N,Minneapolis,MN",44.999062,-93.304753,Xerxes,3,5,Willard - Hay,Near North,1
+-93.304739,44.999282,1136,02/25/2018 01:20pm,Snow Emergency,"1913 Morgan ave n ,Minneapolis,MN",44.999282,-93.304739,Xerxes,3,5,Willard - Hay,Near North,1
+-93.309928,45.026051,1137,02/25/2018 01:34pm,Snow Emergency,"3901 queen Ave n,Minneapolis,MN",45.026051,-93.309928,Xerxes,3,4,Victory,Camden,1
+-93.290895,45.021656,1138,02/25/2018 01:38pm,Snow Emergency,"3647 Bryant ave n,Minneapolis,MN",45.021656,-93.290895,Xerxes,3,4,McKinley,Camden,1
+-93.289746,45.030062,1139,02/25/2018 01:40pm,Snow Emergency,"4123 ALDRICH AVE N,Minneapolis,MN",45.030062,-93.289746,Xerxes,3,4,Webber - Camden,Camden,1
+-93.289591,45.0208,1140,02/25/2018 01:42pm,Snow Emergency,"3615 Aldrich ave n,Minneapolis,MN",45.0208,-93.289591,Xerxes,3,4,McKinley,Camden,1
+-93.304777,44.999609,1141,02/25/2018 01:54pm,Snow Emergency,"1925 Morgan Ave N,Minneapolis,MN",44.999609,-93.304777,Xerxes,3,5,Willard - Hay,Near North,1
+-93.311335,44.987642,1142,02/25/2018 01:59pm,Snow Emergency,"923 Russell ave n ,Minneapolis,MN",44.987642,-93.311335,Xerxes,3,5,Willard - Hay,Near North,1
+-93.311347,44.987775,1143,02/25/2018 02:01pm,Snow Emergency,"925 Russell ave n,Minneapolis,MN",44.987775,-93.311347,Xerxes,3,5,Willard - Hay,Near North,1
+-93.304702,44.993485,1144,02/25/2018 02:01pm,Snow Emergency,"1411 Morgan ave n ,Minneapolis,MN",44.993485,-93.304702,Xerxes,3,5,Willard - Hay,Near North,1
+-93.30447,44.990706,1145,02/25/2018 02:08pm,Snow Emergency,"1235 morgan ave n ,Minneapolis,MN",44.990706,-93.30447,Xerxes,3,5,Near - North,Near North,1
+-93.312639,45.031701,1146,02/25/2018 02:14pm,Snow Emergency,"4211 Sheridan Ave n,Minneapolis,MN",45.031701,-93.312639,Xerxes,3,4,Victory,Camden,1
+-93.309658,44.98764,1147,02/25/2018 02:25pm,Snow Emergency,"927 Queen Ave N,Minneapolis,MN",44.98764,-93.309658,Xerxes,3,5,Willard - Hay,Near North,1
+-93.29718,45.00827,1148,02/25/2018 02:26pm,Snow Emergency,"2715 GIRARD AVE N,Minneapolis,MN",45.00827,-93.29718,Xerxes,3,5,Jordan,Near North,1
+-93.309964,44.985349,1149,02/25/2018 02:34pm,Snow Emergency,"707 queen ave n ,Minneapolis,MN",44.985349,-93.309964,Xerxes,3,5,Willard - Hay,Near North,1
+-93.303498,44.986483,1150,02/25/2018 02:42pm,Snow Emergency,"811 Logan Ave N,Minneapolis,MN",44.986483,-93.303498,Xerxes,3,5,Near - North,Near North,1
+-93.309988,44.984874,1151,02/25/2018 02:50pm,Snow Emergency,"619 QUEEN AVE N,Minneapolis,MN",44.984874,-93.309988,Xerxes,3,5,Willard - Hay,Near North,1
+-93.312076,44.991148,1152,02/25/2018 02:52pm,Snow Emergency,"1235 sheridan ave n ,Minneapolis,MN",44.991148,-93.312076,Xerxes,3,5,Willard - Hay,Near North,1
+-93.303224,44.986817,1153,02/25/2018 02:57pm,Snow Emergency,"825 Logan Ave N,Minneapolis,MN",44.986817,-93.303224,Xerxes,3,5,Near - North,Near North,1
+-93.29099,45.028831,1154,02/25/2018 03:04pm,Snow Emergency,"4033 Bryant Ave n,Minneapolis,MN",45.028831,-93.29099,Xerxes,3,4,Webber - Camden,Camden,1
+-93.311107,44.992498,1155,02/25/2018 03:15pm,Snow Emergency,"1329 RUSSELL,Minneapolis,MN",44.992498,-93.311107,Xerxes,3,5,Willard - Hay,Near North,1
+-93.290566,45.020546,1156,02/25/2018 03:16pm,Snow Emergency,"3605 Bryant ave n,Minneapolis,MN",45.020546,-93.290566,Xerxes,3,4,McKinley,Camden,1
+-93.312365,44.986464,1157,02/25/2018 03:17pm,Snow Emergency,"811 Sheridan ave n,Minneapolis,MN",44.986464,-93.312365,Xerxes,3,5,Willard - Hay,Near North,1
+-93.312051,44.997908,1158,02/25/2018 03:21pm,Snow Emergency,"1801 Sheridan ave n ,Minneapolis,MN",44.997908,-93.312051,Xerxes,3,5,Willard - Hay,Near North,1
+-93.290874,45.019923,1159,02/25/2018 03:21pm,Snow Emergency,"3543 Bryant ave n,Minneapolis,MN",45.019923,-93.290874,Xerxes,3,4,McKinley,Camden,1
+-93.312353,44.993701,1160,02/25/2018 03:23pm,Snow Emergency,"1411 sheridan ave n ,Minneapolis,MN",44.993701,-93.312353,Xerxes,3,5,Willard - Hay,Near North,1
+-93.303208,44.990752,1161,02/25/2018 03:24pm,Snow Emergency,"1233 Logan Ave N,Minneapolis,MN",44.990752,-93.303208,Xerxes,3,5,Near - North,Near North,1
+-93.312049,45.000799,1162,02/25/2018 03:28pm,Snow Emergency,"2103 Sheridan ave n ,Minneapolis,MN",45.000799,-93.312049,Xerxes,3,5,Willard - Hay,Near North,1
+-93.313339,44.998288,1163,02/25/2018 03:42pm,Snow Emergency,"1829 THOMAS AVE N,Minneapolis,MN",44.998288,-93.313339,Xerxes,3,5,Willard - Hay,Near North,1
+-93.303206,44.991597,1164,02/25/2018 03:47pm,Snow Emergency,"1303 Logan Ave N,Minneapolis,MN",44.991597,-93.303206,Xerxes,3,5,Willard - Hay,Near North,1
+-93.289645,44.987176,1165,02/25/2018 08:35am,Snow Emergency,"817 lyndale pl,Minneapolis,MN",44.987176,-93.289645,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.289645,44.987176,1166,02/25/2018 08:35am,Snow Emergency,"823 Lyndale Pl,Minneapolis,MN",44.987176,-93.289645,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.289645,44.987176,1167,02/25/2018 08:37am,Snow Emergency,"819 lyndale pl,Minneapolis,MN",44.987176,-93.289645,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.283757,45.002,1168,02/25/2018 08:48am,Snow Emergency,"2215 3RD ST N,Minneapolis,MN",45.002,-93.283757,Xerxes,3,5,Hawthorne,Near North,1
+-93.289645,44.987176,1169,02/25/2018 08:58am,Snow Emergency,"829 lyndale pl,Minneapolis,MN",44.987176,-93.289645,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.289645,44.987176,1170,02/25/2018 09:03am,Snow Emergency,"827 lyndale pl,Minneapolis,MN",44.987176,-93.289645,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.289733,44.98544,1171,02/25/2018 09:16am,Snow Emergency,"721 Aldrich Ave N,Minneapolis,MN",44.98544,-93.289733,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.283742,45.00222,1172,02/25/2018 09:18am,Snow Emergency,"2223 3RD ST N,Minneapolis,MN",45.00222,-93.283742,Xerxes,3,5,Hawthorne,Near North,1
+-93.291066,44.985771,1173,02/25/2018 09:22am,Snow Emergency,"737 Aldrich ave n ,Minneapolis,MN",44.985771,-93.291066,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.290985,44.986531,1174,02/25/2018 09:30am,Snow Emergency,"823 ALDRICH AVE N,Minneapolis,MN",44.986531,-93.290985,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.292027,44.985357,1175,02/25/2018 09:31am,Snow Emergency,"715 Bryant Ave N,Minneapolis,MN",44.985357,-93.292027,Xerxes,3,5,Sumner - Glenwood,Near North,1
+-93.283758,45.006486,1176,02/25/2018 09:50am,Snow Emergency,"2617 3RD ST N ,Minneapolis,MN",45.006486,-93.283758,Xerxes,3,5,Hawthorne,Near North,1
+-93.285265,45.002309,1177,02/25/2018 09:54am,Snow Emergency,"2227 4th st n,Minneapolis,MN",45.002309,-93.285265,Xerxes,3,5,Hawthorne,Near North,1
+-93.291058,44.997788,1178,02/25/2018 09:56am,Snow Emergency,"1807 Bryant Ave N,Minneapolis,MN",44.997788,-93.291058,Xerxes,3,5,Near - North,Near North,1
+-93.291065,44.995664,1179,02/25/2018 09:58am,Snow Emergency,"1601Bryant ave n ,Minneapolis,MN",44.995664,-93.291065,Xerxes,3,5,Near - North,Near North,1
+-93.292714,44.995577,1180,02/25/2018 10:09am,Snow Emergency,"1607 dupont ave n ,Minneapolis,MN",44.995577,-93.292714,Xerxes,3,5,Near - North,Near North,1
+-93.293006,44.995645,1181,02/25/2018 10:17am,Snow Emergency,"1609 Dupont Ave N,Minneapolis,MN",44.995645,-93.293006,Xerxes,3,5,Near - North,Near North,1
+-93.285326,45.01877,1182,02/25/2018 10:17am,Snow Emergency,"3507 4th st n,Minneapolis,MN",45.01877,-93.285326,Xerxes,3,4,McKinley,Camden,1
+-93.286734,45.004541,1183,02/25/2018 10:18am,Snow Emergency,"2427 6th st n ,Minneapolis,MN",45.004541,-93.286734,Xerxes,3,5,Hawthorne,Near North,1
+-93.281878,44.994181,1184,02/25/2018 10:20am,Snow Emergency,"2425 3rd st N,Minneapolis,MN",44.994181,-93.281878,Xerxes,3,5,Near - North,Near North,1
+-93.28523,45.002104,1185,02/25/2018 10:29am,Snow Emergency,"2219 4TH ST N ,Minneapolis,MN",45.002104,-93.28523,Xerxes,3,5,Hawthorne,Near North,1
+-93.292984,44.998417,1186,02/25/2018 10:36am,Snow Emergency,"1831 dupont ave n ,Minneapolis,MN",44.998417,-93.292984,Xerxes,3,5,Near - North,Near North,1
+-93.298406,44.990605,1187,02/25/2018 10:41am,Snow Emergency,"1211 Humboldt Ave N,Minneapolis,MN",44.990605,-93.298406,Xerxes,3,5,Near - North,Near North,1
+-93.298552,44.989777,1188,02/25/2018 10:51am,Snow Emergency,"1123 Humboldt ave n ,Minneapolis,MN",44.989777,-93.298552,Xerxes,3,5,Near - North,Near North,1
+-93.316221,44.993662,1189,02/25/2018 11:01am,Snow Emergency,"1407 Vincent ave n,Minneapolis,MN",44.993662,-93.316221,Xerxes,3,5,Willard - Hay,Near North,1
+-93.29818,44.986807,1190,02/25/2018 11:02am,Snow Emergency,"813 Humboldt Ave N,Minneapolis,MN",44.986807,-93.29818,Xerxes,3,5,Near - North,Near North,1
+-93.2868,45.018873,1191,02/25/2018 11:02am,Snow Emergency,"3511 6TH ST N,Minneapolis,MN",45.018873,-93.2868,Xerxes,3,4,McKinley,Camden,1
+-93.315888,45.006592,1192,02/25/2018 11:04am,Snow Emergency,"2631 Vincent ave n,Minneapolis,MN",45.006592,-93.315888,Xerxes,3,4,Willard - Hay,Near North,1
+-93.298449,44.986884,1193,02/25/2018 11:09am,Snow Emergency,"815 Humboldt ave n ,Minneapolis,MN",44.986884,-93.298449,Xerxes,3,5,Near - North,Near North,1
+-93.285247,45.004656,1194,02/25/2018 11:09am,Snow Emergency,"2431 4th st n,Minneapolis,MN",45.004656,-93.285247,Xerxes,3,5,Hawthorne,Near North,1
+-93.283789,45.006412,1195,02/25/2018 11:11am,Snow Emergency,"2611 3rd st n ,Minneapolis,MN",45.006412,-93.283789,Xerxes,3,5,Hawthorne,Near North,1
+-93.297181,44.993324,1196,02/25/2018 11:21am,Snow Emergency,"1405 Girard Ave N,Minneapolis,MN",44.993324,-93.297181,Xerxes,3,5,Near - North,Near North,1
+-93.297554,44.993509,1197,02/25/2018 11:31am,Snow Emergency,"1411 Girard ave n ,Minneapolis,MN",44.993509,-93.297554,Xerxes,3,5,Near - North,Near North,1
+-93.286835,45.021243,1198,02/25/2018 11:32am,Snow Emergency,"3631 6TH ST N,Minneapolis,MN",45.021243,-93.286835,Xerxes,3,4,McKinley,Camden,1
+-93.29753,44.993983,1199,02/25/2018 11:44am,Snow Emergency,"1425 Girard Ave N,Minneapolis,MN",44.993983,-93.29753,Xerxes,3,5,Near - North,Near North,1
+-93.297328,45.033831,1200,02/25/2018 11:48am,Snow Emergency,"4315 girard Ave n,Minneapolis,MN",45.033831,-93.297328,Xerxes,3,4,Webber - Camden,Camden,1
+-93.297544,44.993764,1201,02/25/2018 12:02pm,Snow Emergency,"1419 Girard ave n ,Minneapolis,MN",44.993764,-93.297544,Xerxes,2,5,Near - North,Near North,1
+-93.289525,45.002392,1202,02/25/2018 12:03pm,Snow Emergency,"2229 Aldrich ave n ,Minneapolis,MN",45.002392,-93.289525,Xerxes,2,5,Hawthorne,Near North,1
+-93.29719,44.993823,1203,02/25/2018 12:06pm,Snow Emergency,"1421 Girard ave n ,Minneapolis,MN",44.993823,-93.29719,Xerxes,2,5,Near - North,Near North,1
+-93.297493,44.996063,1204,02/25/2018 12:07pm,Snow Emergency,"1621 Girard Ave N,Minneapolis,MN",44.996063,-93.297493,Xerxes,2,5,Near - North,Near North,1
+-93.289664,45.028313,1205,02/25/2018 12:09pm,Snow Emergency,"4023 ALDRICH AVE N,Minneapolis,MN",45.028313,-93.289664,Xerxes,2,4,Webber - Camden,Camden,1
+-93.297179,45.035178,1206,02/25/2018 12:17pm,Snow Emergency,"4359 girard Ave n,Minneapolis,MN",45.035178,-93.297179,Xerxes,2,4,Webber - Camden,Camden,1
+-93.314628,44.996049,1207,02/25/2018 12:22pm,Snow Emergency,"1625 Upton. Ave n,Minneapolis,MN",44.996049,-93.314628,Xerxes,2,5,Willard - Hay,Near North,1
+-93.297539,44.99989,1208,02/25/2018 12:27pm,Snow Emergency,"2017 Girard Ave N,Minneapolis,MN",44.99989,-93.297539,Xerxes,2,5,Jordan,Near North,1
+-93.314983,45.008312,1209,02/25/2018 12:32pm,Snow Emergency,"2715 Upton ave n,Minneapolis,MN",45.008312,-93.314983,Xerxes,2,4,Willard - Hay,Near North,1
+-93.299694,44.997677,1210,02/25/2018 12:33pm,Snow Emergency,"1807 Irving ave n ,Minneapolis,MN",44.997677,-93.299694,Xerxes,2,5,Willard - Hay,Near North,1
+-93.299435,44.997603,1211,02/25/2018 12:37pm,Snow Emergency,"1803 Irving ave n ,Minneapolis,MN",44.997603,-93.299435,Xerxes,2,5,Willard - Hay,Near North,1
+-93.309493,45.004689,1212,02/25/2018 12:42pm,Snow Emergency,"2507 queen Ave n,Minneapolis,MN",45.004689,-93.309493,Xerxes,2,5,Willard - Hay,Near North,1
+-93.289268,45.009847,1213,02/25/2018 12:43pm,Snow Emergency,"2907 Aldrich ave n ,Minneapolis,MN",45.009847,-93.289268,Xerxes,2,5,Hawthorne,Near North,1
+-93.289268,45.00987,1214,02/25/2018 12:46pm,Snow Emergency,"2909aldrich ave n ,Minneapolis,MN",45.00987,-93.289268,Xerxes,2,5,Hawthorne,Near North,1
+-93.299648,44.992829,1215,02/25/2018 12:49pm,Snow Emergency,"1341 Irving Ave N,Minneapolis,MN",44.992829,-93.299648,Xerxes,2,5,Near - North,Near North,1

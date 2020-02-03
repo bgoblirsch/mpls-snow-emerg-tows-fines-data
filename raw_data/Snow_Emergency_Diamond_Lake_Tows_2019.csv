@@ -1,0 +1,983 @@
+﻿X,Y,OBJECTID,Call_Taken,Tow_Reason,Location,Latitude,Longitude,Ward,Community,Neighborho,Tow_Zone,Day,Snow_Emerg
+-93.247130999595925,44.984731000135582,1,03/10/2019 09:45pm,Snow Emergency,"592 4TH ST SE,Minneapolis,MN",44.984731,-93.247131,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.278566999567317,44.96771999987817,2,03/10/2019 09:45pm,Snow Emergency,"w 15th/ oak grove,Minneapolis,MN",44.96772,-93.278567,7,Central,Loring Park,3,1,Diamond Lake
+-93.2324590001827,44.933123999872748,3,03/10/2019 09:47pm,Snow Emergency,"3832 28th Avenue s,Minneapolis,MN",44.933124,-93.232459,12,Powderhorn,Standish,6,1,Diamond Lake
+-93.248586000143746,44.985305999672221,4,03/10/2019 09:51pm,Snow Emergency,"464 4TH ST SE,Minneapolis,MN",44.985306,-93.248586,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.287992999877019,45.00024999993758,5,03/10/2019 09:54pm,Snow Emergency,"2101-2199 lyndale ave n ,Minneapolis,MN",45.00025,-93.287993,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.279624999793896,45.005006999873217,6,03/10/2019 09:55pm,Snow Emergency,"2502 2ND ST N,Minneapolis,MN",45.005007,-93.279625,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.270583000105319,44.923093000441668,7,03/10/2019 09:55pm,Snow Emergency,"4400 block of 4th ave s,Minneapolis,MN",44.923093,-93.270583,8,Nokomis,Regina,5,1,Diamond Lake
+-93.28023700013739,45.005802999708749,8,03/10/2019 09:56pm,Snow Emergency,"2552 2 st n,Minneapolis,MN",45.005803,-93.280237,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.280516000413058,45.004838000173606,9,03/10/2019 09:59pm,Snow Emergency,"2501 2nd st n ,Minneapolis,MN",45.004838,-93.280516,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.280516000413058,45.004838000173606,10,03/10/2019 10:00pm,Snow Emergency,"2501 2nd st n,Minneapolis,MN",45.004838,-93.280516,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.278566999567317,44.96771999987817,11,03/10/2019 10:02pm,Snow Emergency,"w 15th/ oak grove,Minneapolis,MN",44.96772,-93.278567,7,Central,Loring Park,3,1,Diamond Lake
+-93.270485000082658,44.921363999848779,12,03/10/2019 10:06pm,Snow Emergency,"4500 block of 4th ave s,Minneapolis,MN",44.921364,-93.270485,8,Nokomis,Regina,5,1,Diamond Lake
+-93.28023700013739,45.005802999708749,13,03/10/2019 10:06pm,Snow Emergency,"2552 2 St N,Minneapolis,MN",45.005803,-93.280237,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.279867000161914,44.993076000057385,14,03/10/2019 10:11pm,Snow Emergency,"1348 2nd st n,Minneapolis,MN",44.993076,-93.279867,5,Near North,Near - North,1,1,Diamond Lake
+-93.283101000011129,44.967553000270811,15,03/10/2019 10:11pm,Snow Emergency,"315 15th st w,Minneapolis,MN",44.967553,-93.283101,7,Central,Loring Park,3,1,Diamond Lake
+-93.237116000003368,45.031267000371827,16,03/10/2019 10:13pm,Snow Emergency,"3498 Johnson St. Ne,Minneapolis,MN",45.031267,-93.237116,1,Northeast,Waite Park,2,1,Diamond Lake
+-93.277819000146678,44.98964600016285,17,03/10/2019 10:20pm,Snow Emergency,"815 2ND ST N,Minneapolis,MN",44.989646,-93.277819,3,Central,North Loop,1,1,Diamond Lake
+-93.253780999593403,45.001149000026373,18,03/10/2019 10:20pm,Snow Emergency,"679 13th ave ne,Minneapolis,MN",45.001149,-93.253781,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.262882000204115,44.94462100035895,19,03/10/2019 10:21pm,Snow Emergency,"3200 CHICAGO AVE S,Minneapolis,MN",44.944621,-93.262882,9,Powderhorn,Central,5,1,Diamond Lake
+-93.280516000413058,45.004838000173606,20,03/10/2019 10:22pm,Snow Emergency,"2501 2nd st n ,Minneapolis,MN",45.004838,-93.280516,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.262979000180678,44.945631000170579,21,03/10/2019 10:22pm,Snow Emergency,"3132 Chicago Ave S,Minneapolis,MN",44.945631,-93.262979,9,Powderhorn,Central,5,1,Diamond Lake
+-93.278566999567317,44.96771999987817,22,03/10/2019 10:24pm,Snow Emergency,"OAK GROVE ST / 15TH AVE W,Minneapolis,MN",44.96772,-93.278567,7,Central,Loring Park,3,1,Diamond Lake
+-93.276100000014935,44.988389999798699,23,03/10/2019 10:25pm,Snow Emergency,"701 2 st N,Minneapolis,MN",44.98839,-93.2761,3,Central,North Loop,1,1,Diamond Lake
+-93.247130999595925,44.984731000135582,24,03/10/2019 10:25pm,Snow Emergency,"592 4TH ST SE,Minneapolis,MN",44.984731,-93.247131,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.283857999846759,44.967767000246909,25,03/10/2019 10:26pm,Snow Emergency,"329 15TH ST W,Minneapolis,MN",44.967767,-93.283858,7,Central,Loring Park,3,1,Diamond Lake
+-93.255882000254076,45.001114000210976,26,03/10/2019 10:28pm,Snow Emergency,"641 13th ave Ne,Minneapolis,MN",45.001114,-93.255882,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.288036000061311,45.01670799987437,27,03/10/2019 10:29pm,Snow Emergency,"3400 lyndale av no,Minneapolis,MN",45.016708,-93.288036,4,Camden,McKinley,1,1,Diamond Lake
+-93.262940000180834,44.941224000187503,28,03/10/2019 10:29pm,Snow Emergency,"3400 CHICAGO AVE S,Minneapolis,MN",44.941224,-93.26294,9,Powderhorn,Central,5,1,Diamond Lake
+-93.247130999595925,44.984731000135582,29,03/10/2019 10:30pm,Snow Emergency,"592 4TH ST SE,Minneapolis,MN",44.984731,-93.247131,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.255882000254076,45.001114000210976,30,03/10/2019 10:32pm,Snow Emergency,"641 13th ave ne,Minneapolis,MN",45.001114,-93.255882,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.274511999629055,44.98761299994004,31,03/10/2019 10:33pm,Snow Emergency,"561 2ND ST N,Minneapolis,MN",44.987613,-93.274512,3,Central,North Loop,1,1,Diamond Lake
+-93.275506999648258,44.988763999958678,32,03/10/2019 10:34pm,Snow Emergency,"680 2nd st n,Minneapolis,MN",44.988764,-93.275507,3,Central,North Loop,1,1,Diamond Lake
+-93.281324999948765,44.967894999854423,33,03/10/2019 10:35pm,Snow Emergency,"200 15TH ST E,Minneapolis,MN",44.967895,-93.281325,7,Central,Loring Park,3,1,Diamond Lake
+-93.273264999679952,44.986357999622044,34,03/10/2019 10:40pm,Snow Emergency,"401 2ND ST N,Minneapolis,MN",44.986358,-93.273265,3,Central,North Loop,3,1,Diamond Lake
+-93.281655999924396,44.968031999876928,35,03/10/2019 10:45pm,Snow Emergency,"214 15th st w ,Minneapolis,MN",44.968032,-93.281656,7,Central,Loring Park,3,1,Diamond Lake
+-93.271381000033102,44.985819999993055,36,03/10/2019 10:47pm,Snow Emergency,"310 2ND ST N,Minneapolis,MN",44.98582,-93.271381,3,Central,North Loop,3,1,Diamond Lake
+-93.248214000076018,44.98449600009036,37,03/10/2019 10:47pm,Snow Emergency,"513 UNIVERSITY AVE SE,Minneapolis,MN",44.984496,-93.248214,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.288021000268884,45.013111000372419,38,03/10/2019 10:49pm,Snow Emergency,"3200 lyndale ave n,Minneapolis,MN",45.013111,-93.288021,4,Camden,McKinley,1,1,Diamond Lake
+-93.251080000041952,44.985284999603095,39,03/10/2019 10:50pm,Snow Emergency,"323 University Ave se,Minneapolis,MN",44.985285,-93.25108,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.255882000254076,45.001114000210976,40,03/10/2019 10:51pm,Snow Emergency,"641-665 13th ave ne,Minneapolis,MN",45.001114,-93.255882,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.262940000180834,44.941224000187503,41,03/10/2019 10:52pm,Snow Emergency,"3400 Chicago Ave,Minneapolis,MN",44.941224,-93.26294,9,Powderhorn,Central,5,1,Diamond Lake
+-93.287759999924049,45.018627000235938,42,03/10/2019 10:53pm,Snow Emergency,"3500 lyndale ave n,Minneapolis,MN",45.018627,-93.28776,4,Camden,McKinley,1,1,Diamond Lake
+-93.281324999948765,44.967894999854423,43,03/10/2019 10:55pm,Snow Emergency,"200 15 st w,Minneapolis,MN",44.967895,-93.281325,7,Central,Loring Park,3,1,Diamond Lake
+-93.255882000254076,45.001114000210976,44,03/10/2019 10:55pm,Snow Emergency,"641-665-13th ave ne,Minneapolis,MN",45.001114,-93.255882,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.287788000315913,45.02231100015257,45,03/10/2019 10:57pm,Snow Emergency,"3700 lyndale av n ,Minneapolis,MN",45.022311,-93.287788,4,Camden,McKinley,1,1,Diamond Lake
+-93.28056199983638,44.967610000201375,46,03/10/2019 10:57pm,Snow Emergency,"127 w 15th st,Minneapolis,MN",44.96761,-93.280562,7,Central,Loring Park,3,1,Diamond Lake
+-93.280654999628496,44.967600999786384,47,03/10/2019 10:59pm,Snow Emergency,"129 15TH ST E,Minneapolis,MN",44.967601,-93.280655,7,Central,Loring Park,3,1,Diamond Lake
+-93.294725000058691,44.951578000124641,48,03/10/2019 10:59pm,Snow Emergency,"2800 emerson av s,Minneapolis,MN",44.951578,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.268559000297614,45.000776999958646,49,03/10/2019 11:00pm,Snow Emergency,"139 13th ave NE,Minneapolis,MN",45.000777,-93.268559,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.287771999578069,45.02044999976772,50,03/10/2019 11:01pm,Snow Emergency,"3600 Lyndale Ave N,Minneapolis,MN",45.02045,-93.287772,4,Camden,McKinley,1,1,Diamond Lake
+-93.268559000297614,45.000776999958646,51,03/10/2019 11:02pm,Snow Emergency,"139 13TH AVE NE,Minneapolis,MN",45.000777,-93.268559,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.270206999853144,44.939551000378401,52,03/10/2019 11:02pm,Snow Emergency,"3500 block of 4th Ave S,Minneapolis,MN",44.939551,-93.270207,9,Powderhorn,Central,5,1,Diamond Lake
+-93.270642000128191,44.914141999553692,53,03/10/2019 11:04pm,Snow Emergency,"4900 block of 4th ave s,Minneapolis,MN",44.914142,-93.270642,8,Nokomis,Field,5,1,Diamond Lake
+-93.274511999629055,44.98761299994004,54,03/10/2019 11:04pm,Snow Emergency,"561 2ND ST N,Minneapolis,MN",44.987613,-93.274512,3,Central,North Loop,1,1,Diamond Lake
+-93.281511000432261,44.967453000155899,55,03/10/2019 11:06pm,Snow Emergency,"209 15th st w ,Minneapolis,MN",44.967453,-93.281511,7,Central,Loring Park,3,1,Diamond Lake
+-93.270206999853144,44.939551000378401,56,03/10/2019 11:07pm,Snow Emergency,"3500 block of 4th ave s,Minneapolis,MN",44.939551,-93.270207,9,Powderhorn,Central,5,1,Diamond Lake
+-93.273697999862748,44.98787799957006,57,03/10/2019 11:08pm,Snow Emergency,"562 2nd st n,Minneapolis,MN",44.987878,-93.273698,3,Central,North Loop,1,1,Diamond Lake
+-93.262173999930098,44.931570000155432,58,03/10/2019 11:08pm,Snow Emergency,"3923 Chicago Avenue S,Minneapolis,MN",44.93157,-93.262174,8,Powderhorn,Bancroft,6,1,Diamond Lake
+-93.263410000271278,44.932026999646382,59,03/10/2019 11:08pm,Snow Emergency,"3900 Chicago,Minneapolis,MN",44.932027,-93.26341,8,Powderhorn,Bryant,5,1,Diamond Lake
+-93.270024999554039,45.000092999892104,60,03/10/2019 11:09pm,Snow Emergency,"99 13th ave ne,Minneapolis,MN",45.000093,-93.270025,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.294725000058691,44.951578000124641,61,03/10/2019 11:10pm,Snow Emergency,"2800 Emerson ave s,Minneapolis,MN",44.951578,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.270141000406795,44.926817000404299,62,03/10/2019 11:10pm,Snow Emergency,"4200 4TH AVE S,Minneapolis,MN",44.926817,-93.270141,8,Nokomis,Regina,5,1,Diamond Lake
+-93.24615999978414,44.983705999632207,63,03/10/2019 11:11pm,Snow Emergency,"665 university ave se,Minneapolis,MN",44.983706,-93.24616,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.321446000232697,44.923340000140968,64,03/10/2019 11:13pm,Snow Emergency,"4398 - 4300 Zenith Ave S,Minneapolis,MN",44.92334,-93.321446,13,Southwest,Linden Hills,5,1,Diamond Lake
+-93.270485000082658,44.921363999848779,65,03/10/2019 11:14pm,Snow Emergency,"4500 BLOCK 4th Ave. S. ,Minneapolis,MN",44.921364,-93.270485,8,Nokomis,Regina,5,1,Diamond Lake
+-93.253780999593403,45.001149000026373,66,03/10/2019 11:14pm,Snow Emergency,"679 13th ave ne,Minneapolis,MN",45.001149,-93.253781,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.262873999835165,44.933959999754222,67,03/10/2019 11:15pm,Snow Emergency,"3800 Chicago ave,Minneapolis,MN",44.93396,-93.262874,8,Powderhorn,Bryant,5,1,Diamond Lake
+-93.245862999577753,44.983485000232633,68,03/10/2019 11:16pm,Snow Emergency,"701 university ave se,Minneapolis,MN",44.983485,-93.245863,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.262873999835165,44.933959999754222,69,03/10/2019 11:16pm,Snow Emergency,"3800 Chicago ave s,Minneapolis,MN",44.93396,-93.262874,8,Powderhorn,Bryant,5,1,Diamond Lake
+-93.262882000204115,44.94462100035895,70,03/10/2019 11:18pm,Snow Emergency,"3200 Chicago ,Minneapolis,MN",44.944621,-93.262882,9,Powderhorn,Central,5,1,Diamond Lake
+-93.262689000297087,44.948356999975601,71,03/10/2019 11:20pm,Snow Emergency,"3000 Chicago ave s,Minneapolis,MN",44.948357,-93.262689,6,Phillips,Phillips West,3,1,Diamond Lake
+-93.271303000033413,45.000018000030707,72,03/10/2019 11:22pm,Snow Emergency,"71-99 13th ave ne,Minneapolis,MN",45.000018,-93.271303,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.237319000371542,44.980117999646041,73,03/10/2019 11:23pm,Snow Emergency,"1301 University Ave Se,Minneapolis,MN",44.980118,-93.237319,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.268698000412371,44.968300999691451,74,03/10/2019 11:24pm,Snow Emergency,"500 e 15th,Minneapolis,MN",44.968301,-93.268698,7,Central,Elliot Park,3,1,Diamond Lake
+-93.247287999641458,44.984046000022943,75,03/10/2019 11:26pm,Snow Emergency,"601 university ave se,Minneapolis,MN",44.984046,-93.247288,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.268698000412371,44.968300999691451,76,03/10/2019 11:26pm,Snow Emergency,"500 15th st e ,Minneapolis,MN",44.968301,-93.268698,7,Central,Elliot Park,3,1,Diamond Lake
+-93.245495999740569,44.98340300004844,77,03/10/2019 11:27pm,Snow Emergency,"711 University Ave se,Minneapolis,MN",44.983403,-93.245496,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.232567999813284,44.909987000399781,78,03/10/2019 11:27pm,Snow Emergency,"5126 28th ave,Minneapolis,MN",44.909987,-93.232568,11,Nokomis,Keewaydin,6,1,Diamond Lake
+-93.312244000360295,44.991736000316223,79,03/10/2019 11:30pm,Snow Emergency,"2500 PLYMOUTH AVE N,Minneapolis,MN",44.991736,-93.312244,5,Near North,Willard - Hay,1,1,Diamond Lake
+-93.294725000058691,44.951578000124641,80,03/10/2019 11:30pm,Snow Emergency,"2800 BLOCK OF EMERSON AVE S,Minneapolis,MN",44.951578,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.287788000315913,45.02231100015257,81,03/10/2019 11:31pm,Snow Emergency,"3700 LYNDALE AVE N ,Minneapolis,MN",45.022311,-93.287788,4,Camden,McKinley,1,1,Diamond Lake
+-93.287775999762516,45.027711000062652,82,03/10/2019 11:31pm,Snow Emergency,"4000 Lyndale Ave N,Minneapolis,MN",45.027711,-93.287776,4,Camden,Webber - Camden,1,1,Diamond Lake
+-93.262192999906972,44.92623000031432,83,03/10/2019 11:33pm,Snow Emergency,"4221 Chicago,Minneapolis,MN",44.92623,-93.262193,8,Nokomis,Northrop,6,1,Diamond Lake
+-93.262901000180989,44.923621999655609,84,03/10/2019 11:34pm,Snow Emergency,"4350 Chicago Avenue South,Minneapolis,MN",44.923622,-93.262901,8,Nokomis,Regina,5,1,Diamond Lake
+-93.271381000033102,44.985819999993055,85,03/10/2019 11:34pm,Snow Emergency,"310 2ND ST N,Minneapolis,MN",44.98582,-93.271381,3,Central,North Loop,3,1,Diamond Lake
+-93.245495999740569,44.98340300004844,86,03/10/2019 11:36pm,Snow Emergency,"711 university se,Minneapolis,MN",44.983403,-93.245496,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.287795999785544,45.024097999822914,87,03/10/2019 11:38pm,Snow Emergency,"3800-3899 lyndale ave n ,Minneapolis,MN",45.024098,-93.287796,4,Camden,Webber - Camden,1,1,Diamond Lake
+-93.268698000412371,44.968300999691451,88,03/10/2019 11:38pm,Snow Emergency,"500 15TH ST E,Minneapolis,MN",44.968301,-93.268698,7,Central,Elliot Park,3,1,Diamond Lake
+-93.245495999740569,44.98340300004844,89,03/10/2019 11:39pm,Snow Emergency,"711 university se,Minneapolis,MN",44.983403,-93.245496,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.268559000297614,45.000776999958646,90,03/10/2019 11:39pm,Snow Emergency,"139 13th ave ne,Minneapolis,MN",45.000777,-93.268559,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.294481999644518,44.950062000361072,91,03/10/2019 11:41pm,Snow Emergency,"2900 emerson av s,Minneapolis,MN",44.950062,-93.294482,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.279335999956402,44.967716999739821,92,03/10/2019 11:42pm,Snow Emergency,"15th st and lasalle ,Minneapolis,MN",44.967717,-93.279336,7,Central,Loring Park,3,1,Diamond Lake
+-93.231641000231946,44.97785499960861,93,03/10/2019 11:42pm,Snow Emergency,"1711 university ave,Minneapolis,MN",44.977855,-93.231641,2,University,University of Minnesota,4,1,Diamond Lake
+-93.287775999762516,45.027711000062652,94,03/10/2019 11:44pm,Snow Emergency,"4000-4098 lyndale ave n ,Minneapolis,MN",45.027711,-93.287776,4,Camden,Webber - Camden,1,1,Diamond Lake
+-93.268958999857944,45.00063199956719,95,03/10/2019 11:44pm,Snow Emergency,"125 13th ave ne ,Minneapolis,MN",45.000632,-93.268959,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.286358000021664,45.041045999873063,96,03/10/2019 11:45pm,Snow Emergency,"4698 Lyndale Ave n,Minneapolis,MN",45.041046,-93.286358,4,Camden,Camden Industrial,1,1,Diamond Lake
+-93.286358000021664,45.041045999873063,97,03/10/2019 11:47pm,Snow Emergency,"4698 Lyndale Ave n,Minneapolis,MN",45.041046,-93.286358,4,Camden,Camden Industrial,1,1,Diamond Lake
+-93.26850599965212,44.968261999691606,98,03/10/2019 11:49pm,Snow Emergency,"508 15st e,Minneapolis,MN",44.968262,-93.268506,7,Central,Elliot Park,3,1,Diamond Lake
+-93.268559000297614,45.000776999958646,99,03/10/2019 11:49pm,Snow Emergency,"139 13th ave ne,Minneapolis,MN",45.000777,-93.268559,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.281511000432261,44.967453000155899,100,03/10/2019 11:51pm,Snow Emergency,"209 w 15th st ,Minneapolis,MN",44.967453,-93.281511,7,Central,Loring Park,3,1,Diamond Lake
+-93.262852999766096,45.005698000262555,101,03/10/2019 11:51pm,Snow Emergency,"1711 university ne,Minneapolis,MN",45.005698,-93.262853,1,Northeast,Holland,2,1,Diamond Lake
+-93.226933999904134,44.987830000054487,102,03/10/2019 11:53pm,Snow Emergency,"1001 18th ave se,Minneapolis,MN",44.98783,-93.226934,1,University,Como,4,1,Diamond Lake
+-93.263499999925045,45.005829000008418,103,03/10/2019 11:55pm,Snow Emergency,"1712 university ave Ne,Minneapolis,MN",45.005829,-93.2635,3,Northeast,Bottineau,2,1,Diamond Lake
+-93.286223000091354,45.038465999606274,104,03/10/2019 11:57pm,Snow Emergency,"4600 lyndale av no ,Minneapolis,MN",45.038466,-93.286223,4,Camden,Camden Industrial,1,1,Diamond Lake
+-93.286836999627781,45.038737000412311,105,03/10/2019 11:59pm,Snow Emergency,"4608 Lyndale Ave N,Minneapolis,MN",45.038737,-93.286837,4,Camden,Camden Industrial,1,1,Diamond Lake
+-93.27028900003728,44.948332999768184,106,03/11/2019 12:02am,Snow Emergency,"3000 block of 4th ave s,Minneapolis,MN",44.948333,-93.270289,9,Powderhorn,Central,5,1,Diamond Lake
+-93.265021999965313,44.967986999600384,107,03/11/2019 12:03am,Snow Emergency,"15th st e park ave s,Minneapolis,MN",44.967987,-93.265022,6,Central,Elliot Park,3,1,Diamond Lake
+-93.262597999697903,44.919684999762978,108,03/11/2019 12:03am,Snow Emergency,"4601 Chicago Avenue,Minneapolis,MN",44.919685,-93.262598,11,Nokomis,Field,5,1,Diamond Lake
+-93.26641200021362,44.967885000292597,109,03/11/2019 12:03am,Snow Emergency,"623 E 15TH ST,Minneapolis,MN",44.967885,-93.266412,6,Central,Elliot Park,3,1,Diamond Lake
+-93.267661000254918,44.9680570001305,110,03/11/2019 12:06am,Snow Emergency,"Portland ave / 15st e ,Minneapolis,MN",44.968057,-93.267661,6,Central,Elliot Park,3,1,Diamond Lake
+-93.230987999796298,44.977352999841116,111,03/11/2019 12:06am,Snow Emergency,"311 18th ave se,Minneapolis,MN",44.977353,-93.230988,2,University,University of Minnesota,4,1,Diamond Lake
+-93.270524000082503,44.9447970003813,112,03/11/2019 12:07am,Snow Emergency,"3200 block of 4th ave s,Minneapolis,MN",44.944797,-93.270524,9,Powderhorn,Central,5,1,Diamond Lake
+-93.262901000180989,44.916002999938542,113,03/11/2019 12:08am,Snow Emergency,"4800 Chicago,Minneapolis,MN",44.916003,-93.262901,8,Nokomis,Field,5,1,Diamond Lake
+-93.294725000058691,44.951578000124641,114,03/11/2019 12:08am,Snow Emergency,"2800 emerson av s,Minneapolis,MN",44.951578,-93.294725,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.230793999843172,44.977600999586514,115,03/11/2019 12:09am,Snow Emergency,"365 18TH AVE SE,Minneapolis,MN",44.977601,-93.230794,2,University,University of Minnesota,4,1,Diamond Lake
+-93.313530000309242,44.991753000200845,116,03/11/2019 12:09am,Snow Emergency,"2600 plymouth ave n,Minneapolis,MN",44.991753,-93.31353,5,Near North,Willard - Hay,1,1,Diamond Lake
+-93.26286100013499,44.9238779997699,117,03/11/2019 12:11am,Snow Emergency,"4340 Chicago Ave S,Minneapolis,MN",44.923878,-93.262861,8,Nokomis,Regina,5,1,Diamond Lake
+-93.252433000382609,44.939571000401372,118,03/11/2019 12:13am,Snow Emergency,"3498 bloomington ave,Minneapolis,MN",44.939571,-93.252433,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.252646000312609,44.941225000233601,119,03/11/2019 12:13am,Snow Emergency,"3400 BLOOMINGTON AVE S,Minneapolis,MN",44.941225,-93.252646,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.286223000091354,45.038465999606274,120,03/11/2019 12:14am,Snow Emergency,"4600-4698 lyndale ave n ,Minneapolis,MN",45.038466,-93.286223,4,Camden,Camden Industrial,1,1,Diamond Lake
+-93.265021999965313,44.967986999600384,121,03/11/2019 12:15am,Snow Emergency,"15th St E & Park Ave S,Minneapolis,MN",44.967987,-93.265022,6,Central,Elliot Park,3,1,Diamond Lake
+-93.252646000312609,44.941225000233601,122,03/11/2019 12:16am,Snow Emergency,"3400 Bloomington ,Minneapolis,MN",44.941225,-93.252646,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.252089999853581,44.942533000297772,123,03/11/2019 12:18am,Snow Emergency,"3311 BLOOMINGTON AVE S,Minneapolis,MN",44.942533,-93.25209,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.291205999657109,45.038633000112895,124,03/11/2019 12:18am,Snow Emergency,"4600 BLOCK BRYANT AVE N,Minneapolis,MN",45.038633,-93.291206,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.276575000335981,44.978631000320433,125,03/11/2019 12:24am,Snow Emergency,"706 1st ave n,Minneapolis,MN",44.978631,-93.276575,7,Central,Downtown West,3,1,Diamond Lake
+-93.278642000328034,44.967897999992772,126,03/11/2019 12:26am,Snow Emergency,"W 15th st west of lasalle ave,Minneapolis,MN",44.967898,-93.278642,7,Central,Loring Park,3,1,Diamond Lake
+-93.274919000411501,44.989145999588288,127,03/11/2019 12:27am,Snow Emergency,"675 1st st n,Minneapolis,MN",44.989146,-93.274919,3,Central,North Loop,1,1,Diamond Lake
+-93.293671000016616,44.951237999733962,128,03/11/2019 12:27am,Snow Emergency,"2800 BLOCK OF DUPONT AV S,Minneapolis,MN",44.951238,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.220264999929782,44.966392999837126,129,03/11/2019 12:28am,Snow Emergency,"46-98 27th Ave se,Minneapolis,MN",44.966393,-93.220265,2,University,Prospect Park - East River Road,4,1,Diamond Lake
+-93.293798999624073,44.951192000310641,130,03/11/2019 12:29am,Snow Emergency,"2820 Dupont Avenue s,Minneapolis,MN",44.951192,-93.293799,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.252075000061154,44.91944000015593,131,03/11/2019 12:34am,Snow Emergency,"4601 Bloomington ave s,Minneapolis,MN",44.91944,-93.252075,11,Nokomis,Northrop,6,1,Diamond Lake
+-93.291119000141691,45.036846999589386,132,03/11/2019 12:37am,Snow Emergency,"4500 Bryant Ave N,Minneapolis,MN",45.036847,-93.291119,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.262802000112174,44.924991999880945,133,03/11/2019 12:37am,Snow Emergency,"4300 Chicago ave s,Minneapolis,MN",44.924992,-93.262802,8,Nokomis,Regina,5,1,Diamond Lake
+-93.26789100006954,44.984581000412902,134,03/11/2019 12:37am,Snow Emergency,"100 block/1st Ave SE,Minneapolis,MN",44.984581,-93.267891,3,Central,North Loop,3,1,Diamond Lake
+-93.280445999882943,44.988805000050775,135,03/11/2019 12:38am,Snow Emergency,"800 3RD ST N,Minneapolis,MN",44.988805,-93.280446,3,Central,North Loop,1,1,Diamond Lake
+-93.262545999997883,44.967994999969335,136,03/11/2019 12:42am,Snow Emergency,"15th and Chicago ,Minneapolis,MN",44.967995,-93.262546,6,Central,Elliot Park,3,1,Diamond Lake
+-93.266854999958241,44.968309000060344,137,03/11/2019 12:43am,Snow Emergency,"610 15TH ST E,Minneapolis,MN",44.968309,-93.266855,7,Central,Elliot Park,3,1,Diamond Lake
+-93.266854999958241,44.968309000060344,138,03/11/2019 12:45am,Snow Emergency,"610 15 st e,Minneapolis,MN",44.968309,-93.266855,7,Central,Elliot Park,3,1,Diamond Lake
+-93.220776000112267,44.971906999608393,139,03/11/2019 12:46am,Snow Emergency,"2600 Delaware St SE,Minneapolis,MN",44.971907,-93.220776,2,University,Prospect Park - East River Road,4,1,Diamond Lake
+-93.279043999980559,44.987934000353903,140,03/11/2019 12:46am,Snow Emergency,"748 3 ST N,Minneapolis,MN",44.987934,-93.279044,3,Central,North Loop,1,1,Diamond Lake
+-93.252843000404084,44.926605999667231,141,03/11/2019 12:48am,Snow Emergency,"4200 Bloomington,Minneapolis,MN",44.926606,-93.252843,8,Nokomis,Northrop,6,1,Diamond Lake
+-93.2795439996558,44.987318999872002,142,03/11/2019 12:49am,Snow Emergency,"745 3 ST N,Minneapolis,MN",44.987319,-93.279544,3,Central,North Loop,1,1,Diamond Lake
+-93.252665000289483,44.93939600042512,143,03/11/2019 12:49am,Snow Emergency,"3500 Bloomington Ave,Minneapolis,MN",44.939396,-93.252665,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.291119000141691,45.036846999589386,144,03/11/2019 12:49am,Snow Emergency,"4500 Block Bryant ave n ,Minneapolis,MN",45.036847,-93.291119,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.291205999657109,45.038633000112895,145,03/11/2019 12:54am,Snow Emergency,"4600 BLOCK BRYANT AVE N,Minneapolis,MN",45.038633,-93.291206,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.269560999740293,44.988214999822446,146,03/11/2019 12:55am,Snow Emergency,"40 4th ave n,Minneapolis,MN",44.988215,-93.269561,3,Central,North Loop,1,1,Diamond Lake
+-93.293486999625316,44.984949000296183,147,03/11/2019 12:55am,Snow Emergency,"636 VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.984949,-93.293487,5,Near North,Sumner - Glenwood,1,1,Diamond Lake
+-93.293671000016616,44.951237999733962,148,03/11/2019 12:55am,Snow Emergency,"2800 BLOCK OF DUPONT AV S,Minneapolis,MN",44.951238,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.251951999784922,44.983685999609236,149,03/11/2019 12:56am,Snow Emergency,"100 block of 3 ave se,Minneapolis,MN",44.983686,-93.251952,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.262266999722215,44.912730000089482,150,03/11/2019 12:56am,Snow Emergency,"4943 Chicago Ave S,Minneapolis,MN",44.91273,-93.262267,11,Nokomis,Northrop,6,1,Diamond Lake
+-93.269060000018953,44.988572000097804,151,03/11/2019 12:56am,Snow Emergency,"11 4th ave n,Minneapolis,MN",44.988572,-93.26906,3,Central,North Loop,1,1,Diamond Lake
+-93.29316700015687,44.951948000100174,152,03/11/2019 12:57am,Snow Emergency,"2801 Dupont Avenue s,Minneapolis,MN",44.951948,-93.293167,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.291887999631456,44.988480000351785,153,03/11/2019 01:01am,Snow Emergency,"1000 Van White Memorial Blvd,Minneapolis,MN",44.98848,-93.291888,5,Near North,Sumner - Glenwood,1,1,Diamond Lake
+-93.227348000110055,44.989722000070287,154,03/11/2019 01:06am,Snow Emergency,"1061 18th ave se,Minneapolis,MN",44.989722,-93.227348,1,University,Como,4,1,Diamond Lake
+-93.298014999792372,44.953542999909587,155,03/11/2019 01:13am,Snow Emergency,"2700 hennepin Avenue ,Minneapolis,MN",44.953543,-93.298015,7,Calhoun Isle,East Isles,3,1,Diamond Lake
+-93.293100999811259,44.988299000098834,156,03/11/2019 01:16am,Snow Emergency,"1001 Van White Memorial Blvd,Minneapolis,MN",44.988299,-93.293101,5,Near North,Sumner - Glenwood,1,1,Diamond Lake
+-93.297202000072218,44.955351999695097,157,03/11/2019 01:21am,Snow Emergency,"2600 block of Hennepin ave s,Minneapolis,MN",44.955352,-93.297202,7,Calhoun Isle,East Isles,3,1,Diamond Lake
+-93.280445999882943,44.988805000050775,158,03/11/2019 01:21am,Snow Emergency,"800 3RD ST N,Minneapolis,MN",44.988805,-93.280446,3,Central,North Loop,1,1,Diamond Lake
+-93.293671000016616,44.951237999733962,159,03/11/2019 01:21am,Snow Emergency,"2800 BLOCK OF DUPONT AV S,Minneapolis,MN",44.951238,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.280445999882943,44.988805000050775,160,03/11/2019 01:22am,Snow Emergency,"800 3 ST N,Minneapolis,MN",44.988805,-93.280446,3,Central,North Loop,1,1,Diamond Lake
+-93.280445999882943,44.988805000050775,161,03/11/2019 01:24am,Snow Emergency,"800 3 ST N,Minneapolis,MN",44.988805,-93.280446,3,Central,North Loop,1,1,Diamond Lake
+-93.219972999953939,44.905223000141405,162,03/11/2019 01:25am,Snow Emergency,"3607 54 st e,Minneapolis,MN",44.905223,-93.219973,12,Nokomis,Morris Park,6,1,Diamond Lake
+-93.297163000072374,44.954653999882225,163,03/11/2019 01:28am,Snow Emergency,"2621 HENNEPIN AVE ,Minneapolis,MN",44.954654,-93.297163,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.270206999853144,44.939551000378401,164,03/11/2019 01:28am,Snow Emergency,"3500 block of 4th ave s,Minneapolis,MN",44.939551,-93.270207,9,Powderhorn,Central,5,1,Diamond Lake
+-93.295935000100144,44.95718299959583,165,03/11/2019 01:28am,Snow Emergency,"2500 hennepin av,Minneapolis,MN",44.957183,-93.295935,7,Calhoun Isle,East Isles,3,1,Diamond Lake
+-93.27991499967743,44.986924999689052,166,03/11/2019 01:28am,Snow Emergency,"730 4th st n,Minneapolis,MN",44.986925,-93.279915,3,Central,North Loop,1,1,Diamond Lake
+-93.249710999862714,44.980669999920622,167,03/11/2019 01:30am,Snow Emergency,"600 block of mains se,Minneapolis,MN",44.98067,-93.249711,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.291205999657109,45.038633000112895,168,03/11/2019 01:31am,Snow Emergency,"4600 BLOCK BRYANT AVE N,Minneapolis,MN",45.038633,-93.291206,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.263058000226465,44.908742999689764,169,03/11/2019 01:31am,Snow Emergency,"5200 chicago,Minneapolis,MN",44.908743,-93.263058,11,Nokomis,Page,5,1,Diamond Lake
+-93.297163000072374,44.954653999882225,170,03/11/2019 01:32am,Snow Emergency,"2621 Hennepin av,Minneapolis,MN",44.954654,-93.297163,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.291119000141691,45.036846999589386,171,03/11/2019 01:33am,Snow Emergency,"4500 Bryant ave no ,Minneapolis,MN",45.036847,-93.291119,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.252665000289483,44.93939600042512,172,03/11/2019 01:33am,Snow Emergency,"3500 Bloomington ,Minneapolis,MN",44.939396,-93.252665,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.291976000092291,44.988713000304756,173,03/11/2019 01:35am,Snow Emergency,"1010 Van White Memorial Blvd,Minneapolis,MN",44.988713,-93.291976,5,Near North,Sumner - Glenwood,1,1,Diamond Lake
+-93.291205999657109,45.038633000112895,174,03/11/2019 01:35am,Snow Emergency,"4600 BLOCK BRYANT AVE N,Minneapolis,MN",45.038633,-93.291206,4,Camden,Lind - Bohanon,1,1,Diamond Lake
+-93.222578999621078,44.904341999983387,175,03/11/2019 01:36am,Snow Emergency,"5429 34th av s,Minneapolis,MN",44.904342,-93.222579,12,Nokomis,Morris Park,6,1,Diamond Lake
+-93.268654000181925,44.99811899969211,176,03/11/2019 01:39am,Snow Emergency,"1099 marshall st ne,Minneapolis,MN",44.998119,-93.268654,3,Northeast,St. Anthony West,2,1,Diamond Lake
+-93.252725000358453,44.932184999738013,177,03/11/2019 01:39am,Snow Emergency,"3900 Bloomington ave s,Minneapolis,MN",44.932185,-93.252725,8,Powderhorn,Bancroft,6,1,Diamond Lake
+-93.278443000144307,44.985558999648163,178,03/11/2019 01:41am,Snow Emergency,"630 4TH ST N,Minneapolis,MN",44.985559,-93.278443,3,Central,North Loop,1,1,Diamond Lake
+-93.252835000035191,44.91053599963675,179,03/11/2019 01:41am,Snow Emergency,"5100 Bloomington av,Minneapolis,MN",44.910536,-93.252835,11,Nokomis,Hale,6,1,Diamond Lake
+-93.268654000181925,44.99811899969211,180,03/11/2019 01:42am,Snow Emergency,"1099 marshall st ne,Minneapolis,MN",44.998119,-93.268654,3,Northeast,St. Anthony West,2,1,Diamond Lake
+-93.270206999853144,44.939551000378401,181,03/11/2019 01:45am,Snow Emergency,"3500 block of 4th ave s,Minneapolis,MN",44.939551,-93.270207,9,Powderhorn,Central,5,1,Diamond Lake
+-93.279332999818052,44.969854000261932,182,03/11/2019 01:46am,Snow Emergency,"1351 Lasalle ave,Minneapolis,MN",44.969854,-93.279333,7,Central,Loring Park,3,1,Diamond Lake
+-93.293671000016616,44.951237999733962,183,03/11/2019 01:46am,Snow Emergency,"2800 blk dupont ave s ,Minneapolis,MN",44.951238,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.231921999700489,44.911665000439484,184,03/11/2019 01:48am,Snow Emergency,"5029 28th ave s,Minneapolis,MN",44.911665,-93.231922,12,Nokomis,Keewaydin,6,1,Diamond Lake
+-93.279335999956402,44.970600999636474,185,03/11/2019 01:49am,Snow Emergency,"1300 LaSalle av,Minneapolis,MN",44.970601,-93.279336,7,Central,Loring Park,3,1,Diamond Lake
+-93.280541999813408,44.986860000288857,186,03/11/2019 01:54am,Snow Emergency,"757 4th st n,Minneapolis,MN",44.98686,-93.280542,5,Central,North Loop,1,1,Diamond Lake
+-93.298014999792372,44.953542999909587,187,03/11/2019 01:55am,Snow Emergency,"2700 BLOCK OF HENNEPIN AV,Minneapolis,MN",44.953543,-93.298015,7,Calhoun Isle,East Isles,3,1,Diamond Lake
+-93.27928500030248,44.985970999761889,188,03/11/2019 01:56am,Snow Emergency,"631 4TH ST N,Minneapolis,MN",44.985971,-93.279285,5,Central,North Loop,1,1,Diamond Lake
+-93.272579999567313,44.999337000102514,189,03/11/2019 01:56am,Snow Emergency,"17-99 13th ave ne,Minneapolis,MN",44.999337,-93.27258,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.280083000230263,44.986534999690548,190,03/11/2019 01:57am,Snow Emergency,"711 4th st n ,Minneapolis,MN",44.986535,-93.280083,5,Central,North Loop,1,1,Diamond Lake
+-93.280083000230263,44.986534999690548,191,03/11/2019 01:58am,Snow Emergency,"711 4TH ST N,Minneapolis,MN",44.986535,-93.280083,5,Central,North Loop,1,1,Diamond Lake
+-93.29194499956202,44.98872900014328,192,03/11/2019 01:58am,Snow Emergency,"1012 Van White Memorial Blvd,Minneapolis,MN",44.988729,-93.291945,5,Near North,Sumner - Glenwood,1,1,Diamond Lake
+-93.279392999887023,44.986501999967402,193,03/11/2019 02:00am,Snow Emergency,"720 4TH ST N,Minneapolis,MN",44.986502,-93.279393,3,Central,North Loop,1,1,Diamond Lake
+-93.244071999722962,44.984289999583893,194,03/11/2019 02:01am,Snow Emergency,"711 4th st h,Minneapolis,MN",44.98429,-93.244072,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.271481000148015,45.001202999818645,195,03/11/2019 02:01am,Snow Emergency,"1400 marshall st ne,Minneapolis,MN",45.001203,-93.271481,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.234880000311705,44.982149999822695,196,03/11/2019 02:05am,Snow Emergency,"Marshall @ 14th,Minneapolis,MN",44.98215,-93.23488,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.27933399986415,44.968778000104692,197,03/11/2019 02:05am,Snow Emergency,"1400 LaSalle ave,Minneapolis,MN",44.968778,-93.279334,7,Central,Loring Park,3,1,Diamond Lake
+-93.270329000083223,44.924286999745277,198,03/11/2019 02:06am,Snow Emergency,"4300 BLK 4th Ave. S. ,Minneapolis,MN",44.924287,-93.270329,8,Nokomis,Regina,5,1,Diamond Lake
+-93.279335999956402,44.970600999636474,199,03/11/2019 02:08am,Snow Emergency,"1300 LaSalle av,Minneapolis,MN",44.970601,-93.279336,7,Central,Loring Park,3,1,Diamond Lake
+-93.234880000311705,44.982149999822695,200,03/11/2019 02:09am,Snow Emergency,"Marshall @ 14th,Minneapolis,MN",44.98215,-93.23488,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.278886999935082,44.986224999783985,201,03/11/2019 02:11am,Snow Emergency,"710 4TH ST N,Minneapolis,MN",44.986225,-93.278887,3,Central,North Loop,1,1,Diamond Lake
+-93.294677999689895,44.982759000027897,202,03/11/2019 02:12am,Snow Emergency,"1020 Van White Memorial Blvd,Minneapolis,MN",44.982759,-93.294678,5,Near North,Sumner - Glenwood,3,1,Diamond Lake
+-93.279332999818052,44.969854000261932,203,03/11/2019 02:12am,Snow Emergency,"1351 lasalle ave ,Minneapolis,MN",44.969854,-93.279333,7,Central,Loring Park,3,1,Diamond Lake
+-93.298612000343496,44.95196600003095,204,03/11/2019 02:12am,Snow Emergency,"2790 Hennepin ave,Minneapolis,MN",44.951966,-93.298612,7,Calhoun Isle,East Isles,3,1,Diamond Lake
+-93.270024999554039,45.000092999892104,205,03/11/2019 02:13am,Snow Emergency,"99 & 13th ave ne,Minneapolis,MN",45.000093,-93.270025,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.278443000144307,44.985558999648163,206,03/11/2019 02:15am,Snow Emergency,"630 4th st n,Minneapolis,MN",44.985559,-93.278443,3,Central,North Loop,1,1,Diamond Lake
+-93.271359999963977,45.003856999900677,207,03/11/2019 02:15am,Snow Emergency,"1598 Marshall st ne,Minneapolis,MN",45.003857,-93.27136,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.298484999882817,44.952290999729883,208,03/11/2019 02:17am,Snow Emergency,"2748 Hennepin ave,Minneapolis,MN",44.952291,-93.298485,7,Calhoun Isle,East Isles,3,1,Diamond Lake
+-93.313354000286836,45.02048400043634,209,03/11/2019 02:17am,Snow Emergency,"3600 block of thomas ave n ,Minneapolis,MN",45.020484,-93.313354,4,Camden,Cleveland,1,1,Diamond Lake
+-93.270329000083223,44.924286999745277,210,03/11/2019 02:18am,Snow Emergency,"4300 BLK 4th Ave. S. ,Minneapolis,MN",44.924287,-93.270329,8,Nokomis,Regina,5,1,Diamond Lake
+-93.271481000148015,45.001202999818645,211,03/11/2019 02:21am,Snow Emergency,"1400-1598 Marshall ave ne,Minneapolis,MN",45.001203,-93.271481,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.272859999889022,44.988402000352096,212,03/11/2019 02:22am,Snow Emergency,"432 1st ave n,Minneapolis,MN",44.988402,-93.27286,3,Central,North Loop,1,1,Diamond Lake
+-93.27933399986415,44.968778000104692,213,03/11/2019 02:24am,Snow Emergency,"1400 LaSalle ave,Minneapolis,MN",44.968778,-93.279334,7,Central,Loring Park,3,1,Diamond Lake
+-93.271303000033413,45.000018000030707,214,03/11/2019 02:25am,Snow Emergency,"71 - 99 13 Ave Ne,Minneapolis,MN",45.000018,-93.271303,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.24942200002522,44.98367600004741,215,03/11/2019 02:25am,Snow Emergency,"200 5TH AVE SE,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.280083000230263,44.986534999690548,216,03/11/2019 02:25am,Snow Emergency,"711 4TH ST N,Minneapolis,MN",44.986535,-93.280083,5,Central,North Loop,1,1,Diamond Lake
+-93.289525000378433,44.979669999670818,217,03/11/2019 02:26am,Snow Emergency,"ALDRICH AVE & GLENWOOD AV N,Minneapolis,MN",44.97967,-93.289525,5,Near North,Harrison,3,1,Diamond Lake
+-93.27933399986415,44.968691999736052,218,03/11/2019 02:27am,Snow Emergency,"1408 LaSalle Avenue s,Minneapolis,MN",44.968692,-93.279334,7,Central,Loring Park,3,1,Diamond Lake
+-93.222642999874495,44.906278000229577,219,03/11/2019 02:27am,Snow Emergency,"5329 34th ave s,Minneapolis,MN",44.906278,-93.222643,12,Nokomis,Minnehaha,6,1,Diamond Lake
+-93.298650000297243,44.941166000210785,220,03/11/2019 02:29am,Snow Emergency,"3400 Hennepin ,Minneapolis,MN",44.941166,-93.29865,10,Calhoun Isle,ECCO,5,1,Diamond Lake
+-93.24942200002522,44.98367600004741,221,03/11/2019 02:31am,Snow Emergency,"200 Block 5th Ave Se,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.21959599965561,44.926759999574358,222,03/11/2019 02:31am,Snow Emergency,"3623 42ND ST E,Minneapolis,MN",44.92676,-93.219596,12,Longfellow,Hiawatha,6,1,Diamond Lake
+-93.271359999963977,45.003856999900677,223,03/11/2019 02:33am,Snow Emergency,"1598 Marshall st ne,Minneapolis,MN",45.003857,-93.27136,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.279335999956402,44.964201000375908,224,03/11/2019 02:33am,Snow Emergency,"1899 lasalle av,Minneapolis,MN",44.964201,-93.279336,7,Central,Steven's Square - Loring Heights,3,1,Diamond Lake
+-93.298552000274583,44.944611999943902,225,03/11/2019 02:35am,Snow Emergency,"3200 Hennepin ave,Minneapolis,MN",44.944612,-93.298552,10,Calhoun Isle,ECCO,5,1,Diamond Lake
+-93.24942200002522,44.98367600004741,226,03/11/2019 02:36am,Snow Emergency,"200 block of 5th ave se,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.295726000354591,44.956593000266821,227,03/11/2019 02:37am,Snow Emergency,"2527 Hennepin ave,Minneapolis,MN",44.956593,-93.295726,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.293037999603939,44.986262999737676,228,03/11/2019 02:40am,Snow Emergency,"765 Van White Memorial Blvd,Minneapolis,MN",44.986263,-93.293038,5,Near North,Sumner - Glenwood,1,1,Diamond Lake
+-93.252767999643424,44.958873000188873,229,03/11/2019 02:43am,Snow Emergency,"2400 BLOCK OF BLOOMINGTON AVE,Minneapolis,MN",44.958873,-93.252768,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.293771000131528,44.993231000010667,230,03/11/2019 02:44am,Snow Emergency,"1400 EMERSON AVE N,Minneapolis,MN",44.993231,-93.293771,5,Near North,Near - North,1,1,Diamond Lake
+-93.29887800001967,44.979125999765131,231,03/11/2019 02:47am,Snow Emergency,"1414 2 av n ,Minneapolis,MN",44.979126,-93.298878,5,Near North,Harrison,3,1,Diamond Lake
+-93.265908000353875,45.005408000378964,232,03/11/2019 02:48am,Snow Emergency,"1701-1899 2nd st ne,Minneapolis,MN",45.005408,-93.265908,3,Northeast,Bottineau,2,1,Diamond Lake
+-93.280306999768186,44.98724199991841,233,03/11/2019 02:50am,Snow Emergency,"756 4STN,Minneapolis,MN",44.987242,-93.280307,3,Central,North Loop,1,1,Diamond Lake
+-93.279679999632265,44.965246000002935,234,03/11/2019 02:50am,Snow Emergency,"1800 LaSalle av ,Minneapolis,MN",44.965246,-93.27968,7,Central,Steven's Square - Loring Heights,3,1,Diamond Lake
+-93.279332999818052,44.969854000261932,235,03/11/2019 02:50am,Snow Emergency,"1351 Lasalle ave,Minneapolis,MN",44.969854,-93.279333,7,Central,Loring Park,3,1,Diamond Lake
+-93.24942200002522,44.98367600004741,236,03/11/2019 02:51am,Snow Emergency,"200 5TH AVE SE,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.266152999960923,45.004180000406734,237,03/11/2019 02:52am,Snow Emergency,"1599 2nd st ne,Minneapolis,MN",45.00418,-93.266153,3,Northeast,Sheridan,2,1,Diamond Lake
+-93.278886999935082,44.986224999783985,238,03/11/2019 02:52am,Snow Emergency,"710 4th st n,Minneapolis,MN",44.986225,-93.278887,3,Central,North Loop,1,1,Diamond Lake
+-93.279392999887023,44.986501999967402,239,03/11/2019 02:52am,Snow Emergency,"720 4 ST N,Minneapolis,MN",44.986502,-93.279393,3,Central,North Loop,1,1,Diamond Lake
+-93.232027000046003,44.902257000060558,240,03/11/2019 02:53am,Snow Emergency,"5533 28th av so,Minneapolis,MN",44.902257,-93.232027,11,Nokomis,Wenonah,6,1,Diamond Lake
+-93.297982000069226,44.946443999890732,241,03/11/2019 02:54am,Snow Emergency,"3100 of hennepin,Minneapolis,MN",44.946444,-93.297982,10,Calhoun Isle,CARAG,5,1,Diamond Lake
+-93.293692000085684,44.994311000352411,242,03/11/2019 02:54am,Snow Emergency,"1500 Emerson Ave N,Minneapolis,MN",44.994311,-93.293692,5,Near North,Near - North,1,1,Diamond Lake
+-93.266184999637971,45.010072999669262,243,03/11/2019 02:54am,Snow Emergency,"2199 2nd st ne,Minneapolis,MN",45.010073,-93.266185,3,Northeast,Bottineau,2,1,Diamond Lake
+-93.294416000198225,44.998860999735427,244,03/11/2019 02:55am,Snow Emergency,"1901-2099 Emerson ave n ,Minneapolis,MN",44.998861,-93.294416,5,Near North,Near - North,1,1,Diamond Lake
+-93.25280400040424,44.949673000408723,245,03/11/2019 02:55am,Snow Emergency,"2910 Bloomington ave,Minneapolis,MN",44.949673,-93.252804,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.254217999960701,44.985249999787698,246,03/11/2019 02:54am,Snow Emergency,"200 2 St SE,Minneapolis,MN",44.98525,-93.254218,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.297982000069226,44.946443999890732,247,03/11/2019 02:56am,Snow Emergency,"3100 Hennepin ave,Minneapolis,MN",44.946444,-93.297982,10,Calhoun Isle,CARAG,5,1,Diamond Lake
+-93.294478000359391,45.000416000398161,248,03/11/2019 02:59am,Snow Emergency,"2101-2199 Emerson ave n ,Minneapolis,MN",45.000416,-93.294478,5,Near North,Jordan,1,1,Diamond Lake
+-93.293749000016305,44.99879700038133,249,03/11/2019 03:01am,Snow Emergency,"1898 Emerson Ave n,Minneapolis,MN",44.998797,-93.293749,5,Near North,Near - North,1,1,Diamond Lake
+-93.294478000359391,45.000416000398161,250,03/11/2019 03:03am,Snow Emergency,"2101 EMERSON AVE N,Minneapolis,MN",45.000416,-93.294478,5,Near North,Jordan,1,1,Diamond Lake
+-93.24942200002522,44.98367600004741,251,03/11/2019 03:08am,Snow Emergency,"200 block/5th Ave SE,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.293822999831548,45.000487000075054,252,03/11/2019 03:09am,Snow Emergency,"2100 Emerson av n ,Minneapolis,MN",45.000487,-93.293823,5,Near North,Hawthorne,1,1,Diamond Lake
+-93.24942200002522,44.98367600004741,253,03/11/2019 03:11am,Snow Emergency,"200 5th ave se,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.252340999737328,44.95999299967724,254,03/11/2019 03:11am,Snow Emergency,"2237 BLOOM INGTON AVE,Minneapolis,MN",44.959993,-93.252341,6,Phillips,Ventura Village,3,1,Diamond Lake
+-93.252684000266356,44.957089999803713,255,03/11/2019 03:11am,Snow Emergency,"2500 Bloomington Avenue s ,Minneapolis,MN",44.95709,-93.252684,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.252726999551328,44.958509999636817,256,03/11/2019 03:22am,Snow Emergency,"2418 Bloomington Ave ,Minneapolis,MN",44.95851,-93.252727,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.294133999784208,45.00483099985081,257,03/11/2019 03:22am,Snow Emergency,"2500 Emerson Ave N,Minneapolis,MN",45.004831,-93.294134,5,Near North,Jordan,1,1,Diamond Lake
+-93.280083000230263,44.986534999690548,258,03/11/2019 03:22am,Snow Emergency,"711 4th st n ,Minneapolis,MN",44.986535,-93.280083,5,Central,North Loop,1,1,Diamond Lake
+-93.295958000261464,45.018714999797453,259,03/11/2019 03:25am,Snow Emergency,"3501 FREMONT AVE N,Minneapolis,MN",45.018715,-93.295958,4,Camden,Folwell,1,1,Diamond Lake
+-93.272352999890984,45.017287999641496,260,03/11/2019 03:25am,Snow Emergency,"2698 Marshall st ne,Minneapolis,MN",45.017288,-93.272353,1,Northeast,Marshall Terrace,2,1,Diamond Lake
+-93.293671000016616,44.951237999733962,261,03/11/2019 03:26am,Snow Emergency,"2800 blk dupont ave s ,Minneapolis,MN",44.951238,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.294241000221973,45.006111000422379,262,03/11/2019 03:29am,Snow Emergency,"2600-2698 Emerson ave n ,Minneapolis,MN",45.006111,-93.294241,5,Near North,Jordan,1,1,Diamond Lake
+-93.24942200002522,44.98367600004741,263,03/11/2019 03:29am,Snow Emergency,"200 block /5th Ave SE,Minneapolis,MN",44.983676,-93.249422,3,University,Marcy Holmes,4,1,Diamond Lake
+-93.252764000358297,44.950877000173477,264,03/11/2019 03:30am,Snow Emergency,"2830 Bloomington Ave,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.294336000106284,45.014961000250025,265,03/11/2019 03:31am,Snow Emergency,"3301-3399 Emerson ave n ,Minneapolis,MN",45.014961,-93.294336,4,Camden,Folwell,1,1,Diamond Lake
+-93.252684000266356,44.957089999803713,266,03/11/2019 03:32am,Snow Emergency,"2500 Bloomington Avenue s ,Minneapolis,MN",44.95709,-93.252684,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.266154000007077,45.01217899966116,267,03/11/2019 03:33am,Snow Emergency,"2401 2ND ST NE,Minneapolis,MN",45.012179,-93.266154,3,Northeast,Bottineau,2,1,Diamond Lake
+-93.271996999661781,45.014957000065579,268,03/11/2019 03:35am,Snow Emergency,"2600 marshall st ne,Minneapolis,MN",45.014957,-93.271997,1,Northeast,Marshall Terrace,2,1,Diamond Lake
+-93.252764000358297,44.950877000173477,269,03/11/2019 03:36am,Snow Emergency,"2830 Bloomington ave,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.266154000007077,45.01217899966116,270,03/11/2019 03:37am,Snow Emergency,"2401 2ND ST NE,Minneapolis,MN",45.012179,-93.266154,3,Northeast,Bottineau,2,1,Diamond Lake
+-93.271998999753976,45.016962999942564,271,03/11/2019 03:40am,Snow Emergency,"2701 Marshall st ne,Minneapolis,MN",45.016963,-93.271999,1,Northeast,Marshall Terrace,2,1,Diamond Lake
+-93.252631999667017,44.955383000225311,272,03/11/2019 03:42am,Snow Emergency,"2600 BLOOMINGTON AVE,Minneapolis,MN",44.955383,-93.252632,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.271996999661781,45.014957000065579,273,03/11/2019 03:43am,Snow Emergency,"2600 marshall st ne,Minneapolis,MN",45.014957,-93.271997,1,Northeast,Marshall Terrace,2,1,Diamond Lake
+-93.295597999847757,45.013123000026496,274,03/11/2019 03:46am,Snow Emergency,"3199 FREMONT AVE N,Minneapolis,MN",45.013123,-93.295598,5,Near North,Jordan,1,1,Diamond Lake
+-93.295334000263892,45.008702000297149,275,03/11/2019 03:47am,Snow Emergency,"2800 Fremont av no ,Minneapolis,MN",45.008702,-93.295334,5,Near North,Jordan,1,1,Diamond Lake
+-93.295597999847757,45.013145000141719,276,03/11/2019 03:47am,Snow Emergency,"3200 Fremont Ave N,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Diamond Lake
+-93.228688999897372,44.922988000096154,277,03/11/2019 03:53am,Snow Emergency,"4406 Nokomis av so,Minneapolis,MN",44.922988,-93.228689,12,Nokomis,Ericsson,6,1,Diamond Lake
+-93.252774999966221,44.95459199972106,278,03/11/2019 03:58am,Snow Emergency,"2628 Bloomington ave ,Minneapolis,MN",44.954592,-93.252775,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.252843000404084,44.954153000160886,279,03/11/2019 04:00am,Snow Emergency,"2644 BLOOMINGTON AV,Minneapolis,MN",44.954153,-93.252843,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.295597999847757,45.013145000141719,280,03/11/2019 04:00am,Snow Emergency,"3200 FREMONT AVE N,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Diamond Lake
+-93.231988000046101,44.905942000023344,281,03/11/2019 04:01am,Snow Emergency,"5341 28th ave s,Minneapolis,MN",44.905942,-93.231988,11,Nokomis,Keewaydin,6,1,Diamond Lake
+-93.261658999563167,44.993097000126511,282,03/11/2019 04:03am,Snow Emergency,"499 2nd st ne,Minneapolis,MN",44.993097,-93.261659,3,Northeast,St. Anthony West,2,1,Diamond Lake
+-93.252764000358297,44.950877000173477,283,03/11/2019 04:04am,Snow Emergency,"2830 Bloomington Ave,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.295870999846727,45.0134790002557,284,03/11/2019 04:04am,Snow Emergency,"3209 FREMONT AVE N,Minneapolis,MN",45.013479,-93.295871,4,Camden,Folwell,1,1,Diamond Lake
+-93.252416999644765,44.957354000286955,285,03/11/2019 04:04am,Snow Emergency,"2498 Bloomington Ave,Minneapolis,MN",44.957354,-93.252417,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.295904999616027,45.00611899989201,286,03/11/2019 04:05am,Snow Emergency,"2601 FREMONT AVE N,Minneapolis,MN",45.006119,-93.295905,5,Near North,Jordan,1,1,Diamond Lake
+-93.295247999895253,45.024124000122583,287,03/11/2019 04:05am,Snow Emergency,"3800-3899 Fremont ave n ,Minneapolis,MN",45.024124,-93.295248,4,Camden,Webber - Camden,1,1,Diamond Lake
+-93.222586999990028,44.898999000003926,288,03/11/2019 04:06am,Snow Emergency,"5731 34TH AVE S,Minneapolis,MN",44.898999,-93.222587,12,Nokomis,Morris Park,6,1,Diamond Lake
+-93.258156999945527,44.997907999854363,289,03/11/2019 04:07am,Snow Emergency,"598 8th ave ne,Minneapolis,MN",44.997908,-93.258157,3,Northeast,St. Anthony West,2,1,Diamond Lake
+-93.293671000016616,44.951237999733962,290,03/11/2019 04:08am,Snow Emergency,"2800 blk dupont ave s ,Minneapolis,MN",44.951238,-93.293671,10,Calhoun Isle,Lowry Hill East,3,1,Diamond Lake
+-93.25208200038395,44.951317999825903,291,03/11/2019 04:08am,Snow Emergency,"2819 Bloomington ave,Minneapolis,MN",44.951318,-93.252082,9,Phillips,East Phillips,3,1,Diamond Lake
+-93.296045999822979,45.033603000178346,292,03/11/2019 04:09am,Snow Emergency,"4307-4399 Fremont ave n ,Minneapolis,MN",45.033603,-93.296046,4,Camden,Webber - Camden,1,1,Diamond Lake
+-93.295196000195233,45.006138999914981,293,03/11/2019 04:14am,Snow Emergency,"2600 Fremont av no ,Minneapolis,MN",45.006139,-93.295196,5,Near North,Jordan,1,1,Diamond Lake
+-93.295377000448184,45.004966999827218,294,03/11/2019 04:16am,Snow Emergency,"2500 Fremont Ave. N.,Minneapolis,MN",45.004967,-93.295377,5,Near North,Jordan,1,1,Diamond Lake
+-93.25726099999514,44.998892000265641,295,03/11/2019 04:16am,Snow Emergency,"1101 washington st ne,Minneapolis,MN",44.998892,-93.257261,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.25726099999514,44.998892000265641,296,03/11/2019 04:21am,Snow Emergency,"1101-1299 washington st ne,Minneapolis,MN",44.998892,-93.257261,1,Northeast,Logan Park,2,1,Diamond Lake
+-93.295196000195233,45.006138999914981,297,03/11/2019 04:21am,Snow Emergency,"2600 BLOCK OF FREMONT AVE N,Minneapolis,MN",45.006139,-93.295196,5,Near North,Jordan,1,1,Diamond Lake
+-93.252774999966221,44.95459199972106,298,03/11/2019 04:25am,Snow Emergency,"2628 BLOOMINGTON AV,Minneapolis,MN",44.954592,-93.252775,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.253039000449462,44.952144000145552,299,03/11/2019 04:27am,Snow Emergency,"2750 Bloomington Avenue s ,Minneapolis,MN",44.952144,-93.253039,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.252805999597172,44.951398999963942,300,03/11/2019 04:36am,Snow Emergency,"2812 Bloomington Ave ,Minneapolis,MN",44.951399,-93.252806,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.257552999970926,45.005230000264362,301,03/11/2019 04:36am,Snow Emergency,"1698 washington st ne,Minneapolis,MN",45.00523,-93.257553,1,Northeast,Sheridan,2,1,Diamond Lake
+-93.296009999961484,44.961777000108498,302,03/11/2019 04:38am,Snow Emergency,"2100 Fremont Ave,Minneapolis,MN",44.961777,-93.29601,7,Calhoun Isle,Lowry Hill,3,1,Diamond Lake
+-93.262618999766971,44.968181999599665,303,03/11/2019 04:38am,Snow Emergency,"Chicago/ 15th st e,Minneapolis,MN",44.968182,-93.262619,7,Central,Elliot Park,3,1,Diamond Lake
+-93.257552999970926,45.005230000264362,304,03/11/2019 04:39am,Snow Emergency,"1698 washington st ne,Minneapolis,MN",45.00523,-93.257553,1,Northeast,Sheridan,2,1,Diamond Lake
+-93.295597999847757,45.013145000141719,305,03/11/2019 04:39am,Snow Emergency,"3200-3298 Fremont ave n ,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Diamond Lake
+-93.252764000358297,44.950877000173477,306,03/11/2019 04:41am,Snow Emergency,"2830 Bloomington Ave ,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.295196000195233,45.006138999914981,307,03/11/2019 04:41am,Snow Emergency,"2600 BLOCK OF FREMONT AVE N,Minneapolis,MN",45.006139,-93.295196,5,Near North,Jordan,1,1,Diamond Lake
+-93.295377000448184,45.004966999827218,308,03/11/2019 04:42am,Snow Emergency,"2500 Fremont av no ,Minneapolis,MN",45.004967,-93.295377,5,Near North,Jordan,1,1,Diamond Lake
+-93.295597999847757,45.013145000141719,309,03/11/2019 04:45am,Snow Emergency,"3200-3298 Fremont ave n ,Minneapolis,MN",45.013145,-93.295598,5,Near North,Jordan,1,1,Diamond Lake
+-93.252764000358297,44.950877000173477,310,03/11/2019 04:48am,Snow Emergency,"2830 BLOOMINGTON AV,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.231988000046101,44.905942000023344,311,03/11/2019 05:04am,Snow Emergency,"5341 28th ave s,Minneapolis,MN",44.905942,-93.231988,11,Nokomis,Keewaydin,6,1,Diamond Lake
+-93.279176999818674,44.961544000155527,312,03/11/2019 05:09am,Snow Emergency,"2109 BLAISDELL AV,Minneapolis,MN",44.961544,-93.279177,10,Powderhorn,Whittier,3,1,Diamond Lake
+-93.232027000046003,44.902402999598792,313,03/11/2019 05:10am,Snow Emergency,"5529 28TH AVE S,Minneapolis,MN",44.902403,-93.232027,11,Nokomis,Wenonah,6,1,Diamond Lake
+-93.295660000008979,45.000247999845385,314,03/11/2019 05:10am,Snow Emergency,"2100 BLOCK OF FREMONT AVE N,Minneapolis,MN",45.000248,-93.29566,5,Near North,Jordan,1,1,Diamond Lake
+-93.252774999966221,44.95459199972106,315,03/11/2019 05:10am,Snow Emergency,"2628 Bloomington Ave,Minneapolis,MN",44.954592,-93.252775,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.28153999997096,44.994183999891732,316,03/11/2019 05:10am,Snow Emergency,"1499 washington st ne,Minneapolis,MN",44.994184,-93.28154,5,Near North,Near - North,1,1,Diamond Lake
+-93.28153999997096,44.994183999891732,317,03/11/2019 05:14am,Snow Emergency,"1499 washington st ne,Minneapolis,MN",44.994184,-93.28154,5,Near North,Near - North,1,1,Diamond Lake
+-93.252805999597172,44.951398999963942,318,03/11/2019 05:14am,Snow Emergency,"2812 Bloomington Ave ,Minneapolis,MN",44.951399,-93.252806,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.295334000263892,45.008702000297149,319,03/11/2019 05:17am,Snow Emergency,"2800 Fremont av no ,Minneapolis,MN",45.008702,-93.295334,5,Near North,Jordan,1,1,Diamond Lake
+-93.252764000358297,44.950877000173477,320,03/11/2019 05:21am,Snow Emergency,"2830 Bloomington Ave,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.27991499967743,44.986924999689052,321,03/11/2019 05:29am,Snow Emergency,"730 4TH ST N,Minneapolis,MN",44.986925,-93.279915,3,Central,North Loop,1,1,Diamond Lake
+-93.252764000358297,44.950877000173477,322,03/11/2019 05:31am,Snow Emergency,"2830 BLOOMINGTON AV,Minneapolis,MN",44.950877,-93.252764,9,Phillips,Midtown Phillips,3,1,Diamond Lake
+-93.25208200038395,44.951317999825903,323,03/11/2019 05:37am,Snow Emergency,"2819 Bloomington Ave,Minneapolis,MN",44.951318,-93.252082,9,Phillips,East Phillips,3,1,Diamond Lake
+-93.258156999945527,44.997907999854363,324,03/11/2019 05:41am,Snow Emergency,"598 8th ave NE,Minneapolis,MN",44.997908,-93.258157,3,Northeast,St. Anthony West,2,1,Diamond Lake
+-93.248128999753476,44.946709000420071,325,03/11/2019 05:50am,Snow Emergency,"1808 31st st e,Minneapolis,MN",44.946709,-93.248129,9,Powderhorn,Powderhorn Park,6,1,Diamond Lake
+-93.24740300044806,44.946561999936421,326,03/11/2019 05:54am,Snow Emergency,"1824 E 31st St,Minneapolis,MN",44.946562,-93.247403,9,Powderhorn,Corcoran,6,1,Diamond Lake
+-93.285946999954035,44.995831000300484,327,03/11/2019 08:27am,Snow Emergency,"1608 Lyn Park Ave N,Minneapolis,MN",44.995831,-93.285947,5,Near North,Near - North,1,2,Diamond Lake
+-93.288422999921465,44.993279000425559,328,03/11/2019 08:27am,Snow Emergency,"1404 VAN WHITE LANE,Minneapolis,MN",44.993279,-93.288423,5,Near North,Near - North,1,2,Diamond Lake
+-93.276725000058661,44.968915000127197,329,03/11/2019 08:35am,Snow Emergency,"122 14TH ST W,Minneapolis,MN",44.968915,-93.276725,7,Central,Loring Park,3,2,Diamond Lake
+-93.281163999718785,44.967007000272872,330,03/11/2019 08:37am,Snow Emergency,"1518 SPRUCE PLACE,Minneapolis,MN",44.967007,-93.281164,7,Central,Loring Park,3,2,Diamond Lake
+-93.289854000261869,44.98559699960191,331,03/11/2019 08:39am,Snow Emergency,"720 Aldrich Ave N,Minneapolis,MN",44.985597,-93.289854,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.252525000128628,44.987427000355808,332,03/11/2019 08:40am,Snow Emergency,"422 2nd ave se,Minneapolis,MN",44.987427,-93.252525,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.281254000271872,44.967893999808325,333,03/11/2019 08:41am,Snow Emergency,"1430 spruce pl,Minneapolis,MN",44.967894,-93.281254,7,Central,Loring Park,3,2,Diamond Lake
+-93.290334999960237,44.985860000038997,334,03/11/2019 08:41am,Snow Emergency,"734 ALDRICH AVE N,Minneapolis,MN",44.98586,-93.290335,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.252531000405327,44.987420000033012,335,03/11/2019 08:44am,Snow Emergency,"410 2nd Ave SE,Minneapolis,MN",44.98742,-93.252531,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.286450999813781,45.009542000363069,336,03/11/2019 08:45am,Snow Emergency,"2902 6th st n,Minneapolis,MN",45.009542,-93.286451,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.286757999581994,45.009566999717322,337,03/11/2019 08:49am,Snow Emergency,"2904 6th st n ,Minneapolis,MN",45.009567,-93.286758,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.280555999559681,44.966904000019611,338,03/11/2019 08:58am,Snow Emergency,"1526 SPRUCE PL,Minneapolis,MN",44.966904,-93.280556,7,Central,Loring Park,3,2,Diamond Lake
+-93.291050999703828,44.991409999671816,339,03/11/2019 08:58am,Snow Emergency,"704 Bryant Ave N,Minneapolis,MN",44.99141,-93.291051,5,Near North,Near - North,1,2,Diamond Lake
+-93.28114000041063,44.96850600015182,340,03/11/2019 08:59am,Snow Emergency,"1374 SPRUCE PLEASE ,Minneapolis,MN",44.968506,-93.28114,7,Central,Loring Park,3,2,Diamond Lake
+-93.286429999744655,45.012199999730228,341,03/11/2019 08:59am,Snow Emergency,"3120 6th st n ,Minneapolis,MN",45.0122,-93.28643,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.291050999703828,44.991409999671816,342,03/11/2019 08:59am,Snow Emergency,"702 BRYANT AVE N,Minneapolis,MN",44.99141,-93.291051,5,Near North,Near - North,1,2,Diamond Lake
+-93.303664000393269,44.945410999917783,343,03/11/2019 09:00am,Snow Emergency,"3132 James ave s,Minneapolis,MN",44.945411,-93.303664,10,Calhoun Isle,ECCO,5,2,Diamond Lake
+-93.28114000041063,44.96850600015182,344,03/11/2019 09:00am,Snow Emergency,"1376 SPRUCE PL,Minneapolis,MN",44.968506,-93.28114,7,Central,Loring Park,3,2,Diamond Lake
+-93.2607069997282,44.98989700004654,345,03/11/2019 09:02am,Snow Emergency,"102 3rd st ne,Minneapolis,MN",44.989897,-93.260707,3,Northeast,St. Anthony West,2,2,Diamond Lake
+-93.28114000041063,44.96850600015182,346,03/11/2019 09:03am,Snow Emergency,"1364 SPRUCE PLACE,Minneapolis,MN",44.968506,-93.28114,7,Central,Loring Park,3,2,Diamond Lake
+-93.260565000374413,44.989942000323083,347,03/11/2019 09:03am,Snow Emergency,"106 3rd ave ne,Minneapolis,MN",44.989942,-93.260565,3,Northeast,St. Anthony West,2,2,Diamond Lake
+-93.289072000172609,45.022821000288957,348,03/11/2019 09:04am,Snow Emergency,"3722 Aldrich ave n ,Minneapolis,MN",45.022821,-93.289072,4,Camden,McKinley,1,2,Diamond Lake
+-93.291050999703828,44.991409999671816,349,03/11/2019 09:17am,Snow Emergency,"700 bryant ave n,Minneapolis,MN",44.99141,-93.291051,5,Near North,Near - North,1,2,Diamond Lake
+-93.289923999892665,44.986062000361073,350,03/11/2019 09:20am,Snow Emergency,"722 aldrich ave n,Minneapolis,MN",44.986062,-93.289924,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.289053000195793,45.018187999776444,351,03/11/2019 09:20am,Snow Emergency,"3450 aldrich ave n,Minneapolis,MN",45.018188,-93.289053,4,Camden,McKinley,1,2,Diamond Lake
+-93.289323000056356,44.982774999866422,352,03/11/2019 09:20am,Snow Emergency,"710 5TH AVE N,Minneapolis,MN",44.982775,-93.289323,5,Near North,Sumner - Glenwood,3,2,Diamond Lake
+-93.27614999962276,44.964161000329966,353,03/11/2019 09:22am,Snow Emergency,"104 19th st e,Minneapolis,MN",44.964161,-93.27615,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.28905700038024,45.017532000101767,354,03/11/2019 09:23am,Snow Emergency,"3426 aldrich ave n,Minneapolis,MN",45.017532,-93.289057,4,Camden,McKinley,1,2,Diamond Lake
+-93.291050999703828,44.991409999671816,355,03/11/2019 09:24am,Snow Emergency,"716 BRYANT AVE N,Minneapolis,MN",44.99141,-93.291051,5,Near North,Near - North,1,2,Diamond Lake
+-93.245206999903075,44.988825000073746,356,03/11/2019 09:25am,Snow Emergency,"716 5th ave se,Minneapolis,MN",44.988825,-93.245207,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.276100000014935,44.964161000329966,357,03/11/2019 09:26am,Snow Emergency,"106 19TH ST E,Minneapolis,MN",44.964161,-93.2761,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.242102999753627,44.984941999973387,358,03/11/2019 09:28am,Snow Emergency,"820 6th ave se,Minneapolis,MN",44.984942,-93.242103,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.291050999703828,44.991409999671816,359,03/11/2019 09:31am,Snow Emergency,"722 Bryant Avenue North,Minneapolis,MN",44.99141,-93.291051,5,Near North,Near - North,1,2,Diamond Lake
+-93.290278000029616,45.008560000044042,360,03/11/2019 09:35am,Snow Emergency,"2726 Bryant ave n ,Minneapolis,MN",45.00856,-93.290278,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.285061999611571,44.966768000043203,361,03/11/2019 09:37am,Snow Emergency,"400 CLIFTON AVE ,Minneapolis,MN",44.966768,-93.285062,7,Central,Loring Park,3,2,Diamond Lake
+-93.2607069997282,44.98989700004654,362,03/11/2019 09:40am,Snow Emergency,"102 3rd ave ne,Minneapolis,MN",44.989897,-93.260707,3,Northeast,St. Anthony West,2,2,Diamond Lake
+-93.295650000447154,44.99198400006162,363,03/11/2019 09:44am,Snow Emergency,"1210 FREMONT AVE N,Minneapolis,MN",44.991984,-93.29565,5,Near North,Near - North,1,2,Diamond Lake
+-93.242720000327722,44.987468000447905,364,03/11/2019 09:47am,Snow Emergency,"706 7th ave se,Minneapolis,MN",44.987468,-93.24272,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.242783999681819,44.987386000263768,365,03/11/2019 09:50am,Snow Emergency,"704 7th ave se,Minneapolis,MN",44.987386,-93.242784,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.229212999780088,44.991953999577447,366,03/11/2019 09:51am,Snow Emergency,"1128 16th ave se,Minneapolis,MN",44.991954,-93.229213,1,University,Como,2,2,Diamond Lake
+-93.230427000005989,44.988525999775106,367,03/11/2019 09:52am,Snow Emergency,"1022 15th ave se,Minneapolis,MN",44.988526,-93.230427,1,University,Como,4,2,Diamond Lake
+-93.250904000019545,44.993544000055635,368,03/11/2019 09:52am,Snow Emergency,"808 3rd ave ne,Minneapolis,MN",44.993544,-93.250904,3,Northeast,St. Anthony East,2,2,Diamond Lake
+-93.262035999861496,44.943325999994954,369,03/11/2019 09:53am,Snow Emergency,"808 33RD ST E,Minneapolis,MN",44.943326,-93.262036,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.267923999792743,44.99813000019941,370,03/11/2019 09:54am,Snow Emergency,"142 11th ave ne,Minneapolis,MN",44.99813,-93.267924,3,Northeast,St. Anthony West,2,2,Diamond Lake
+-93.257832000246594,44.939292000125761,371,03/11/2019 09:56am,Snow Emergency,"3504 12th Ave S,Minneapolis,MN",44.939292,-93.257832,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.231669999770645,44.992607000013095,372,03/11/2019 09:56am,Snow Emergency,"1158 14th ave ne,Minneapolis,MN",44.992607,-93.23167,1,University,Como,2,2,Diamond Lake
+-93.293852000269567,44.985946000407637,373,03/11/2019 09:58am,Snow Emergency,"710 Emerson Ave N,Minneapolis,MN",44.985946,-93.293852,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.262174999976253,44.94334399992573,374,03/11/2019 09:58am,Snow Emergency,"806 33rd st e,Minneapolis,MN",44.943344,-93.262175,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.286272999699122,44.96552899956373,375,03/11/2019 09:59am,Snow Emergency,"10 Dell PL,Minneapolis,MN",44.965529,-93.286273,7,Central,Loring Park,3,2,Diamond Lake
+-93.293519000201684,44.943663000247341,376,03/11/2019 10:00am,Snow Emergency,"3232 DuPont Ave s,Minneapolis,MN",44.943663,-93.293519,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.285244999956774,44.966869000204269,377,03/11/2019 10:01am,Snow Emergency,"406 Clifton ave,Minneapolis,MN",44.966869,-93.285245,7,Central,Loring Park,3,2,Diamond Lake
+-93.294108000383858,44.985723000016492,378,03/11/2019 10:01am,Snow Emergency,"704 EMERSON AVE N,Minneapolis,MN",44.985723,-93.294108,5,Near North,Near - North,1,2,Diamond Lake
+-93.291494000347825,45.006327999637506,379,03/11/2019 10:05am,Snow Emergency,"2608 Colfax ave n ,Minneapolis,MN",45.006328,-93.291494,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.300832000196635,44.949883000200373,380,03/11/2019 10:07am,Snow Emergency,"The mall / humboldt ave s,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Diamond Lake
+-93.292253000275693,45.000990999934743,381,03/11/2019 10:13am,Snow Emergency,"2122 dupont Ave n,Minneapolis,MN",45.000991,-93.292253,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.292329000183202,45.003030999581028,382,03/11/2019 10:15am,Snow Emergency,"2310 dupont Ave n,Minneapolis,MN",45.003031,-93.292329,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.239621999555595,44.98569799976292,383,03/11/2019 10:15am,Snow Emergency,"806 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.264175999622637,44.951647999755437,384,03/11/2019 10:17am,Snow Emergency,"2806 Columbus ave s,Minneapolis,MN",44.951648,-93.264176,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.239621999555595,44.98569799976292,385,03/11/2019 10:17am,Snow Emergency,"726 7th st SE ,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.303664000393269,44.94781600020832,386,03/11/2019 10:17am,Snow Emergency,"3012 James ave s,Minneapolis,MN",44.947816,-93.303664,10,Calhoun Isle,ECCO,5,2,Diamond Lake
+-93.260661000304879,44.99310000026486,387,03/11/2019 10:18am,Snow Emergency,"220 5th ave ne,Minneapolis,MN",44.9931,-93.260661,3,Northeast,St. Anthony West,2,2,Diamond Lake
+-93.239621999555595,44.98569799976292,388,03/11/2019 10:19am,Snow Emergency,"802 7th st se,Minneapolis,MN",44.985698,-93.239622,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.244882000204086,44.986482999990528,389,03/11/2019 10:19am,Snow Emergency,"610 6TH ST SE,Minneapolis,MN",44.986483,-93.244882,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.293854000361819,44.986099000268723,390,03/11/2019 10:19am,Snow Emergency,"720 Emerson Ave N,Minneapolis,MN",44.986099,-93.293854,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.293843999900616,44.987017000334333,391,03/11/2019 10:21am,Snow Emergency,"808 EMERSON AVE N,Minneapolis,MN",44.987017,-93.293844,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.248997000211375,44.986615999828587,392,03/11/2019 10:21am,Snow Emergency,"424 4th ave se,Minneapolis,MN",44.986616,-93.248997,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.242794000142965,44.986773999920217,393,03/11/2019 10:22am,Snow Emergency,"712 7th st se,Minneapolis,MN",44.986774,-93.242794,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.295955000123115,44.944962999942561,394,03/11/2019 10:24am,Snow Emergency,"1302 w 32nd st ,Minneapolis,MN",44.944963,-93.295955,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.278129000053298,44.967550000132462,395,03/11/2019 10:31am,Snow Emergency,"1500 mall st,Minneapolis,MN",44.96755,-93.278129,7,Central,Loring Park,3,2,Diamond Lake
+-93.300832000196635,44.949883000200373,396,03/11/2019 10:36am,Snow Emergency,"Mall and Humboldt ,Minneapolis,MN",44.949883,-93.300832,7,Calhoun Isle,East Isles,3,2,Diamond Lake
+-93.25366899982447,44.941362000256163,397,03/11/2019 10:36am,Snow Emergency,"804 34th st e,Minneapolis,MN",44.941362,-93.253669,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.292280999768309,45.000552000374569,398,03/11/2019 10:36am,Snow Emergency,"2106 dupont ave n ,Minneapolis,MN",45.000552,-93.292281,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.294117999945684,44.992106000291756,399,03/11/2019 10:37am,Snow Emergency,"912 emerson ave n,Minneapolis,MN",44.992106,-93.294118,5,Near North,Near - North,1,2,Diamond Lake
+-93.293838999670072,44.987683999616934,400,03/11/2019 10:37am,Snow Emergency,"908 Emerson Ave N,Minneapolis,MN",44.987684,-93.293839,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.230462999867541,44.989005000280599,401,03/11/2019 10:38am,Snow Emergency,"1038 15th ave se,Minneapolis,MN",44.989005,-93.230463,1,University,Como,4,2,Diamond Lake
+-93.293855000407916,44.987453999802312,402,03/11/2019 10:39am,Snow Emergency,"904 EMERSON AVE N,Minneapolis,MN",44.987454,-93.293855,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.292763999558872,45.006501000420883,403,03/11/2019 10:40am,Snow Emergency,"2616 Dupont ave n ,Minneapolis,MN",45.006501,-93.292764,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.252391000244415,44.941360000163911,404,03/11/2019 10:40am,Snow Emergency,"1528 34th st e,Minneapolis,MN",44.94136,-93.252391,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.293774000269877,44.987783999731846,405,03/11/2019 10:41am,Snow Emergency,"910 emerson ave n,Minneapolis,MN",44.987784,-93.293774,5,Near North,Sumner - Glenwood,1,2,Diamond Lake
+-93.299431000340348,44.982952999981023,406,03/11/2019 10:43am,Snow Emergency,"520 Irving Ave N,Minneapolis,MN",44.982953,-93.299431,5,Near North,Harrison,3,2,Diamond Lake
+-93.297151999565074,44.941479000255697,407,03/11/2019 10:43am,Snow Emergency,"1400 w 34th st,Minneapolis,MN",44.941479,-93.297152,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.237859000092726,44.944950000242386,408,03/11/2019 10:43am,Snow Emergency,"2326 32ND ST E,Minneapolis,MN",44.94495,-93.237859,9,Powderhorn,Corcoran,6,2,Diamond Lake
+-93.24250800044382,44.987736000216273,409,03/11/2019 10:44am,Snow Emergency,"718 7th ave se,Minneapolis,MN",44.987736,-93.242508,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.289783999731753,44.938231999806987,410,03/11/2019 10:45am,Snow Emergency,"3540 Aldrich Ave s,Minneapolis,MN",44.938232,-93.289784,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.245230000064396,44.946264999730033,411,03/11/2019 10:46am,Snow Emergency,"3104 19TH AVE S,Minneapolis,MN",44.946265,-93.24523,9,Powderhorn,Corcoran,6,2,Diamond Lake
+-93.255286999795146,45.002703999789787,412,03/11/2019 10:47am,Snow Emergency,"1426 jefferson st ne,Minneapolis,MN",45.002704,-93.255287,1,Northeast,Logan Park,2,2,Diamond Lake
+-93.297391999840897,44.942586000043946,413,03/11/2019 10:47am,Snow Emergency,"3308 Girard Ave S,Minneapolis,MN",44.942586,-93.297392,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.304978999880916,44.95019500019913,414,03/11/2019 10:49am,Snow Emergency,"The mall / east lake Calhoun pkwy ,Minneapolis,MN",44.950195,-93.304979,7,Calhoun Isle,East Isles,3,2,Diamond Lake
+-93.2617530003007,44.948094000437834,415,03/11/2019 10:49am,Snow Emergency,"3042 elliot ave,Minneapolis,MN",44.948094,-93.261753,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.253905999961887,44.997442999994519,416,03/11/2019 10:52am,Snow Emergency,"714 madison st ne,Minneapolis,MN",44.997443,-93.253906,3,Northeast,St. Anthony East,2,2,Diamond Lake
+-93.24900999991155,44.986598999943965,417,03/11/2019 10:52am,Snow Emergency,"420 4th ave se,Minneapolis,MN",44.986599,-93.24901,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.24305100030341,44.987036000311207,418,03/11/2019 10:53am,Snow Emergency,"700 7th st se,Minneapolis,MN",44.987036,-93.243051,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.23536100001013,44.985204000364376,419,03/11/2019 10:54am,Snow Emergency,"724 12th ave se,Minneapolis,MN",44.985204,-93.235361,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.26355399971726,45.007581999909405,420,03/11/2019 10:54am,Snow Emergency,"320 19th ave ne,Minneapolis,MN",45.007582,-93.263554,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.31478499972792,45.02606100041487,421,03/11/2019 10:54am,Snow Emergency,"2706 39th ave n,Minneapolis,MN",45.026061,-93.314785,4,Camden,Victory,1,2,Diamond Lake
+-93.264271999553102,45.007581999909405,422,03/11/2019 10:55am,Snow Emergency,"306 19th ave ne,Minneapolis,MN",45.007582,-93.264272,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.292207999999164,44.965134000234002,423,03/11/2019 10:56am,Snow Emergency,"1804 colfax s,Minneapolis,MN",44.965134,-93.292208,7,Calhoun Isle,Lowry Hill,3,2,Diamond Lake
+-93.288922999596707,44.944915000426988,424,03/11/2019 10:56am,Snow Emergency,"716 w 32nd ,Minneapolis,MN",44.944915,-93.288923,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.299430000294251,44.982778000004771,425,03/11/2019 10:58am,Snow Emergency,"508 Irving Avenue n,Minneapolis,MN",44.982778,-93.29943,5,Near North,Harrison,3,2,Diamond Lake
+-93.247063000057381,44.98628699994515,426,03/11/2019 11:00am,Snow Emergency,"506 5th st se,Minneapolis,MN",44.986287,-93.247063,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.289702000446937,44.945722999916541,427,03/11/2019 11:00am,Snow Emergency,"3146 Aldrich ave s ,Minneapolis,MN",44.945723,-93.289702,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.299431000340348,44.982895000004305,428,03/11/2019 11:02am,Snow Emergency,"516 Irving ave n,Minneapolis,MN",44.982895,-93.299431,5,Near North,Harrison,3,2,Diamond Lake
+-93.290808000189031,44.964930999865828,429,03/11/2019 11:03am,Snow Emergency,"1812 BRYANT AVE S,Minneapolis,MN",44.964931,-93.290808,7,Calhoun Isle,Lowry Hill,3,2,Diamond Lake
+-93.294687000104943,44.963951999685094,430,03/11/2019 11:03am,Snow Emergency,"1910 Emerson Ave S,Minneapolis,MN",44.963952,-93.294687,7,Calhoun Isle,Lowry Hill,3,2,Diamond Lake
+-93.290884000096469,44.965202999818644,431,03/11/2019 11:05am,Snow Emergency,"1804 BRYANT AVE S,Minneapolis,MN",44.965203,-93.290884,7,Calhoun Isle,Lowry Hill,3,2,Diamond Lake
+-93.265350999848749,45.008281999814471,432,03/11/2019 11:06am,Snow Emergency,"210 20th ave ne,Minneapolis,MN",45.008282,-93.265351,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.292121999630524,44.966218999906971,433,03/11/2019 11:06am,Snow Emergency,"1768 COLFAX AVE S,Minneapolis,MN",44.966219,-93.292122,7,Calhoun Isle,Lowry Hill,3,2,Diamond Lake
+-93.294026000199722,45.01571099976286,434,03/11/2019 11:07am,Snow Emergency,"3322 Emerson Ave n,Minneapolis,MN",45.015711,-93.294026,4,Camden,Folwell,1,2,Diamond Lake
+-93.294874999781371,44.940327000190962,435,03/11/2019 11:07am,Snow Emergency,"3428 emerson ave s,Minneapolis,MN",44.940327,-93.294875,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.263245999902949,45.007581999909405,436,03/11/2019 11:08am,Snow Emergency,"326 19th ave ne,Minneapolis,MN",45.007582,-93.263246,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.245631999716977,44.985300000294842,437,03/11/2019 11:14am,Snow Emergency,"614 5th st se,Minneapolis,MN",44.9853,-93.245632,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.252656999920589,45.005139999711275,438,03/11/2019 11:15am,Snow Emergency,"694 17th ave ne,Minneapolis,MN",45.00514,-93.252657,1,Northeast,Logan Park,2,2,Diamond Lake
+-93.299431000340348,44.982924000442324,439,03/11/2019 11:18am,Snow Emergency,"518 Irving Avenue n ,Minneapolis,MN",44.982924,-93.299431,5,Near North,Harrison,3,2,Diamond Lake
+-93.242992000280537,44.986830999850838,440,03/11/2019 11:19am,Snow Emergency,"710 7th st se,Minneapolis,MN",44.986831,-93.242992,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.244288999837408,44.984796000435097,441,03/11/2019 11:20am,Snow Emergency,"728 5TH ST SE,Minneapolis,MN",44.984796,-93.244289,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.24657500003616,44.985790000408258,442,03/11/2019 11:22am,Snow Emergency,"528 5th st se ,Minneapolis,MN",44.98579,-93.246575,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.265350999848749,45.008281999814471,443,03/11/2019 11:25am,Snow Emergency,"208 20th ave ne,Minneapolis,MN",45.008282,-93.265351,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.287032999673158,44.959805000000813,444,03/11/2019 11:29am,Snow Emergency,"2304 GARFIELD AVE S ,Minneapolis,MN",44.959805,-93.287033,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.222616999574825,44.985142000203211,445,03/11/2019 11:30am,Snow Emergency,"850 21st ave se,Minneapolis,MN",44.985142,-93.222617,2,University,Como,4,2,Diamond Lake
+-93.265874999731409,44.999818999847037,446,03/11/2019 11:30am,Snow Emergency,"206 12th ave ne,Minneapolis,MN",44.999819,-93.265875,3,Northeast,Sheridan,2,2,Diamond Lake
+-93.265968999569623,44.999818999847037,447,03/11/2019 11:31am,Snow Emergency,"204 12th ave ne,Minneapolis,MN",44.999819,-93.265969,3,Northeast,Sheridan,2,2,Diamond Lake
+-93.254010000261246,44.997304999925859,448,03/11/2019 11:33am,Snow Emergency,"712 madison st ne,Minneapolis,MN",44.997305,-93.25401,3,Northeast,St. Anthony East,2,2,Diamond Lake
+-93.268642999674682,45.011079000195764,449,03/11/2019 11:35am,Snow Emergency,"114 23rd ave ne,Minneapolis,MN",45.011079,-93.268643,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.247008000219012,44.98593099971589,450,03/11/2019 11:35am,Snow Emergency,"516 5th st se,Minneapolis,MN",44.985931,-93.247008,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.309215000072186,44.999240000125951,451,03/11/2019 11:36am,Snow Emergency,"1914 Queen ave n ,Minneapolis,MN",44.99924,-93.309215,5,Near North,Willard - Hay,1,2,Diamond Lake
+-93.255357000325262,44.947887999931311,452,03/11/2019 11:38am,Snow Emergency,"3012 14th av s,Minneapolis,MN",44.947888,-93.255357,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.294953999827214,44.938720999874306,453,03/11/2019 11:38am,Snow Emergency,"3520 Emerson Ave S,Minneapolis,MN",44.938721,-93.294954,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.24670699982812,44.985885000292569,454,03/11/2019 11:40am,Snow Emergency,"520 5th st se,Minneapolis,MN",44.985885,-93.246707,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.267152000164629,44.945266000425647,455,03/11/2019 11:43am,Snow Emergency,"608 32nd st w ,Minneapolis,MN",44.945266,-93.267152,9,Powderhorn,Central,5,2,Diamond Lake
+-93.256546000297647,44.946098000122674,456,03/11/2019 11:43am,Snow Emergency,"3120 13th Av S,Minneapolis,MN",44.946098,-93.256546,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.283376000102294,44.945667000032074,457,03/11/2019 11:46am,Snow Emergency,"3124 pleasant ave s ,Minneapolis,MN",44.945667,-93.283376,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.255357000325262,44.947450999564012,458,03/11/2019 11:46am,Snow Emergency,"3028 14th av s,Minneapolis,MN",44.947451,-93.255357,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.264556000059315,44.965222999841615,459,03/11/2019 11:49am,Snow Emergency,"720 18tH st e ,Minneapolis,MN",44.965223,-93.264556,6,Phillips,Ventura Village,3,2,Diamond Lake
+-93.246615000082159,44.985806000246782,460,03/11/2019 11:49am,Snow Emergency,"526 5th st se,Minneapolis,MN",44.985806,-93.246615,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.303204999910804,44.938808000289043,461,03/11/2019 11:52am,Snow Emergency,"3508 James Ave s,Minneapolis,MN",44.938808,-93.303205,10,Calhoun Isle,ECCO,5,2,Diamond Lake
+-93.311758999578103,44.991219999903137,462,03/11/2019 11:54am,Snow Emergency,"1242 Sheridan ave n ,Minneapolis,MN",44.99122,-93.311759,5,Near North,Willard - Hay,1,2,Diamond Lake
+-93.270956000219201,44.951630999870815,463,03/11/2019 11:55am,Snow Emergency,"1920 4TH AVE S ,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.270956000219201,44.951630999870815,464,03/11/2019 11:56am,Snow Emergency,"1826 4th av s,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.245875000131093,44.985423999717852,465,03/11/2019 11:56am,Snow Emergency,"606 5th st se,Minneapolis,MN",44.985424,-93.245875,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.314378999890891,44.992768000243075,466,03/11/2019 11:59am,Snow Emergency,"1336 Upton Ave n,Minneapolis,MN",44.992768,-93.314379,5,Near North,Willard - Hay,1,2,Diamond Lake
+-93.270956000219201,44.951630999870815,467,03/11/2019 12:00pm,Snow Emergency,"1918 4th ave s,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.237445999932902,44.926131000245505,468,03/11/2019 12:01pm,Snow Emergency,"4224 24th Ave S,Minneapolis,MN",44.926131,-93.237446,12,Powderhorn,Standish,6,2,Diamond Lake
+-93.289783999731753,44.937430999740911,469,03/11/2019 12:03pm,Snow Emergency,"3604 Aldrich Ave s,Minneapolis,MN",44.937431,-93.289784,10,Southwest,East Harriet,5,2,Diamond Lake
+-93.26915299981107,44.936215000322079,470,03/11/2019 12:05pm,Snow Emergency,"424 37th st w,Minneapolis,MN",44.936215,-93.269153,8,Powderhorn,Central,5,2,Diamond Lake
+-93.254060999915168,44.947233000302788,471,03/11/2019 12:06pm,Snow Emergency,"3036 15th Ave S,Minneapolis,MN",44.947233,-93.254061,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.26078999995849,45.012001999592655,472,03/11/2019 12:06pm,Snow Emergency,"428 24th ave ne,Minneapolis,MN",45.012002,-93.26079,1,Northeast,Holland,2,2,Diamond Lake
+-93.270956000219201,44.951630999870815,473,03/11/2019 12:07pm,Snow Emergency,"1916 4th ave s,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.248828999658599,44.986681000128101,474,03/11/2019 12:07pm,Snow Emergency,"406 5th st se,Minneapolis,MN",44.986681,-93.248829,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.280252999975914,44.966608999905475,475,03/11/2019 12:08pm,Snow Emergency,"120 0AK GROVE ST,Minneapolis,MN",44.966609,-93.280253,7,Central,Loring Park,3,2,Diamond Lake
+-93.261214999772392,45.012002999638753,476,03/11/2019 12:09pm,Snow Emergency,"406 24th ave ne,Minneapolis,MN",45.012003,-93.261215,1,Northeast,Holland,2,2,Diamond Lake
+-93.248558999797979,44.986560999990218,477,03/11/2019 12:09pm,Snow Emergency,"414 5th st se,Minneapolis,MN",44.986561,-93.248559,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.270956000219201,44.951630999870815,478,03/11/2019 12:10pm,Snow Emergency,"1906 4th ave s ,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.261435000025187,45.012003999684907,479,03/11/2019 12:10pm,Snow Emergency,"402 24th ave ne,Minneapolis,MN",45.012004,-93.261435,1,Northeast,Holland,2,2,Diamond Lake
+-93.269160000133866,44.936215000322079,480,03/11/2019 12:10pm,Snow Emergency,"422 37th st w,Minneapolis,MN",44.936215,-93.26916,8,Powderhorn,Central,5,2,Diamond Lake
+-93.280249999837565,44.966608999905475,481,03/11/2019 12:11pm,Snow Emergency,"118 OAK GROVE ST,Minneapolis,MN",44.966609,-93.28025,7,Central,Loring Park,3,2,Diamond Lake
+-93.233680999878231,44.985087000364842,482,03/11/2019 12:13pm,Snow Emergency,"804. 13th ave se,Minneapolis,MN",44.985087,-93.233681,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.260801999612568,45.012001999592655,483,03/11/2019 12:13pm,Snow Emergency,"426 24th ave ne,Minneapolis,MN",45.012002,-93.260802,1,Northeast,Holland,2,2,Diamond Lake
+-93.268860999835226,45.011078000149666,484,03/11/2019 12:15pm,Snow Emergency,"102 23rd ave ne,Minneapolis,MN",45.011078,-93.268861,3,Northeast,Bottineau,2,2,Diamond Lake
+-93.233047000318777,44.985231999856978,485,03/11/2019 12:17pm,Snow Emergency,"814 13th ave se,Minneapolis,MN",44.985232,-93.233047,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.244288999837408,44.984796000435097,486,03/11/2019 12:17pm,Snow Emergency,"728 5TH ST SE,Minneapolis,MN",44.984796,-93.244289,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.299159000387533,44.994354999683537,487,03/11/2019 12:17pm,Snow Emergency,"1502 IRVING AVE N,Minneapolis,MN",44.994355,-93.299159,5,Near North,Near - North,1,2,Diamond Lake
+-93.299160000433631,44.994465000259595,488,03/11/2019 12:17pm,Snow Emergency,"1506 Irving av north ,Minneapolis,MN",44.994465,-93.29916,5,Near North,Near - North,1,2,Diamond Lake
+-93.283386999710217,44.947119000441546,489,03/11/2019 12:18pm,Snow Emergency,"3034 pleasent ave s ,Minneapolis,MN",44.947119,-93.283387,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.246657000220353,44.970254999868416,490,03/11/2019 12:19pm,Snow Emergency,"1808 4TH AVE S ,Minneapolis,MN",44.970255,-93.246657,6,University,Cedar Riverside,4,2,Diamond Lake
+-93.270956000219201,44.951630999870815,491,03/11/2019 12:20pm,Snow Emergency,"1816 4th ave s,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.244433000182767,44.984853000365717,492,03/11/2019 12:20pm,Snow Emergency,"714 5th st se,Minneapolis,MN",44.984853,-93.244433,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.245631999716977,44.985300000294842,493,03/11/2019 12:21pm,Snow Emergency,"618 5TH ST SE,Minneapolis,MN",44.9853,-93.245632,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.299180999603436,44.993571000401403,494,03/11/2019 12:22pm,Snow Emergency,"1414 Irving Ave n,Minneapolis,MN",44.993571,-93.299181,5,Near North,Near - North,1,2,Diamond Lake
+-93.283385999664119,44.947290000233352,495,03/11/2019 12:23pm,Snow Emergency,"3028 pleasent ave s ,Minneapolis,MN",44.94729,-93.283386,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.270956000219201,44.951630999870815,496,03/11/2019 12:31pm,Snow Emergency,"1802 4th av s,Minneapolis,MN",44.951631,-93.270956,6,Phillips,Phillips West,3,2,Diamond Lake
+-93.209190000018452,44.949993999923208,497,03/11/2019 12:36pm,Snow Emergency,"1536 45th ave s,Minneapolis,MN",44.949994,-93.20919,2,Longfellow,Cooper,4,2,Diamond Lake
+-93.239419000086741,44.984269000414088,498,03/11/2019 12:37pm,Snow Emergency,"1002 6th st se,Minneapolis,MN",44.984269,-93.239419,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.255799000023785,45.013448999771583,499,03/11/2019 12:38pm,Snow Emergency,"2506 jefferson st ne,Minneapolis,MN",45.013449,-93.255799,1,Northeast,Holland,2,2,Diamond Lake
+-93.299244999856796,44.994621000259031,500,03/11/2019 12:39pm,Snow Emergency,"1516 Irving ave n ,Minneapolis,MN",44.994621,-93.299245,5,Near North,Near - North,1,2,Diamond Lake
+-93.2621679996534,45.011953000030985,501,03/11/2019 12:40pm,Snow Emergency,"354 24th ave ne,Minneapolis,MN",45.011953,-93.262168,1,Northeast,Holland,2,2,Diamond Lake
+-93.274027999792338,44.965087999911304,502,03/11/2019 12:40pm,Snow Emergency,"1804 2nd ave s,Minneapolis,MN",44.965088,-93.274028,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.252290000083406,44.937906000061901,503,03/11/2019 12:40pm,Snow Emergency,"1532 36th st e,Minneapolis,MN",44.937906,-93.25229,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.243240000025935,44.984524999629059,504,03/11/2019 12:42pm,Snow Emergency,"800 5th st se,Minneapolis,MN",44.984525,-93.24324,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.299862999577726,44.988693000281785,505,03/11/2019 12:43pm,Snow Emergency,"1038 Irving av n,Minneapolis,MN",44.988693,-93.299863,5,Near North,Near - North,1,2,Diamond Lake
+-93.272444999637003,44.964215000122238,506,03/11/2019 12:43pm,Snow Emergency,"304 19TH ST E,Minneapolis,MN",44.964215,-93.272445,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.252203999714766,44.943165999811072,507,03/11/2019 12:45pm,Snow Emergency,"1540 33rd st e,Minneapolis,MN",44.943166,-93.252204,9,Powderhorn,Powderhorn Park,6,2,Diamond Lake
+-93.248035999961417,44.986289000037402,508,03/11/2019 12:46pm,Snow Emergency,"424 5th st se,Minneapolis,MN",44.986289,-93.248036,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.245919000361539,44.985542999809638,509,03/11/2019 12:48pm,Snow Emergency,"604 5th st se,Minneapolis,MN",44.985543,-93.245919,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.275814000315847,44.964049999707754,510,03/11/2019 12:49pm,Snow Emergency,"118 19th st e ,Minneapolis,MN",44.96405,-93.275814,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.248116000053301,44.986352000244665,511,03/11/2019 12:50pm,Snow Emergency,"422 5th st Se,Minneapolis,MN",44.986352,-93.248116,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.299182999695631,44.994956999565943,512,03/11/2019 12:53pm,Snow Emergency,"1524 irving ave n,Minneapolis,MN",44.994957,-93.299183,5,Near North,Near - North,1,2,Diamond Lake
+-93.296855000258006,44.985610000201405,513,03/11/2019 12:53pm,Snow Emergency,"1306 7TH AVE N,Minneapolis,MN",44.98561,-93.296855,5,Near North,Near - North,1,2,Diamond Lake
+-93.275650999993616,44.965544000255477,514,03/11/2019 12:53pm,Snow Emergency,"110 18TH ST E,Minneapolis,MN",44.965544,-93.275651,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.300335999806521,44.995895999700679,515,03/11/2019 12:57pm,Snow Emergency,"1618 james ave n,Minneapolis,MN",44.995896,-93.300336,5,Near North,Near - North,1,2,Diamond Lake
+-93.289861999731443,44.930176999768776,516,03/11/2019 12:58pm,Snow Emergency,"4004 Aldrich ave s,Minneapolis,MN",44.930177,-93.289862,10,Southwest,East Harriet,5,2,Diamond Lake
+-93.283382000378992,44.948211000437368,517,03/11/2019 12:59pm,Snow Emergency,"3002 pleasent ave s ,Minneapolis,MN",44.948211,-93.283382,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.299361999856387,45.02037499990638,518,03/11/2019 01:00pm,Snow Emergency,"3842 Irving ave n ,Minneapolis,MN",45.020375,-93.299362,4,Camden,Folwell,1,2,Diamond Lake
+-93.301640999732342,44.989278000279569,519,03/11/2019 01:01pm,Snow Emergency,"1106 Knox Ave n,Minneapolis,MN",44.989278,-93.301641,5,Near North,Near - North,1,2,Diamond Lake
+-93.292260999745281,44.946322999706751,520,03/11/2019 01:02pm,Snow Emergency,"3104 colfax ave s,Minneapolis,MN",44.946323,-93.292261,10,Calhoun Isle,CARAG,5,2,Diamond Lake
+-93.283258000056605,44.948074999561641,521,03/11/2019 01:03pm,Snow Emergency,"3004 pleasent ave s ,Minneapolis,MN",44.948075,-93.283258,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.276179000060779,44.96546900039408,522,03/11/2019 01:05pm,Snow Emergency,"104 18th st e,Minneapolis,MN",44.965469,-93.276179,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.283436000171207,44.943099000318682,523,03/11/2019 01:05pm,Snow Emergency,"3254 pleasant Ave ,Minneapolis,MN",44.943099,-93.283436,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.295538999824942,44.985604999970803,524,03/11/2019 01:06pm,Snow Emergency,"1212 7TH AVE N,Minneapolis,MN",44.985605,-93.295539,5,Near North,Near - North,1,2,Diamond Lake
+-93.261376000002372,44.967222000295124,525,03/11/2019 01:06pm,Snow Emergency,"1520 elliot Avenue s ,Minneapolis,MN",44.967222,-93.261376,6,Central,Elliot Park,3,2,Diamond Lake
+-93.23926400013346,44.980709999966564,526,03/11/2019 01:08pm,Snow Emergency,"308 12th ave se,Minneapolis,MN",44.98071,-93.239264,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.253637000147421,45.01108599961924,527,03/11/2019 01:10pm,Snow Emergency,"680 23rd ave ne,Minneapolis,MN",45.011086,-93.253637,1,Northeast,Holland,2,2,Diamond Lake
+-93.273898000092572,44.960900000134927,528,03/11/2019 01:11pm,Snow Emergency,"218 22nd st e,Minneapolis,MN",44.9609,-93.273898,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.273835999931407,44.960900000134927,529,03/11/2019 01:12pm,Snow Emergency,"228 22nd st e,Minneapolis,MN",44.9609,-93.273836,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.271793000146829,44.961107999834383,530,03/11/2019 01:13pm,Snow Emergency,"2120 Clinton ave s,Minneapolis,MN",44.961108,-93.271793,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.271799000423471,44.961766999647352,531,03/11/2019 01:14pm,Snow Emergency,"2026 CLINTON AVE S ,Minneapolis,MN",44.961767,-93.271799,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.252776000012375,45.011084999573143,532,03/11/2019 01:15pm,Snow Emergency,"694 23rd ave ne,Minneapolis,MN",45.011085,-93.252776,1,Northeast,Holland,2,2,Diamond Lake
+-93.252767999643424,45.010927000380832,533,03/11/2019 01:17pm,Snow Emergency,"692 23rd ave ne,Minneapolis,MN",45.010927,-93.252768,1,Northeast,Holland,2,2,Diamond Lake
+-93.235863999823721,44.984167000206924,534,03/11/2019 01:19pm,Snow Emergency,"1218 7th st se,Minneapolis,MN",44.984167,-93.235864,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.252771999827871,45.010915999873532,535,03/11/2019 01:19pm,Snow Emergency,"690 23rd ave ne,Minneapolis,MN",45.010916,-93.252772,1,Northeast,Holland,2,2,Diamond Lake
+-93.274354999583522,44.965600000139943,536,03/11/2019 01:20pm,Snow Emergency,"1716 2ND AVE S,Minneapolis,MN",44.9656,-93.274355,6,Central,Steven's Square - Loring Heights,3,2,Diamond Lake
+-93.252926999781153,45.014976000042395,537,03/11/2019 01:21pm,Snow Emergency,"694 26th ave ne,Minneapolis,MN",45.014976,-93.252927,1,Northeast,Holland,2,2,Diamond Lake
+-93.240532000151632,44.984647999905349,538,03/11/2019 01:21pm,Snow Emergency,"924 6th st se,Minneapolis,MN",44.984648,-93.240532,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.233585999993863,44.985172999834106,539,03/11/2019 01:22pm,Snow Emergency,"810 13th ave se,Minneapolis,MN",44.985173,-93.233586,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.271799999570305,44.962165000014807,540,03/11/2019 01:23pm,Snow Emergency,"2014 CLINTON AVE S,Minneapolis,MN",44.962165,-93.2718,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.237446999979056,44.984798999674126,541,03/11/2019 01:25pm,Snow Emergency,"1104 7th st se,Minneapolis,MN",44.984799,-93.237447,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.237359999564319,44.983455999794614,542,03/11/2019 01:25pm,Snow Emergency,"1128 6th st se,Minneapolis,MN",44.983456,-93.23736,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.237923000346143,44.984196999791777,543,03/11/2019 01:27pm,Snow Emergency,"602 11TH AVE SE,Minneapolis,MN",44.984197,-93.237923,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.237617999770862,44.984683999766844,544,03/11/2019 01:31pm,Snow Emergency,"620 11TH AVE SE,Minneapolis,MN",44.984684,-93.237618,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.280008000368866,44.957506000101887,545,03/11/2019 01:33pm,Snow Emergency,"122 25th st w,Minneapolis,MN",44.957506,-93.280008,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.236910000396165,44.983535999886556,546,03/11/2019 01:34pm,Snow Emergency,"1204 6th st se,Minneapolis,MN",44.983536,-93.23691,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.29519700024133,45.00042199977554,547,03/11/2019 01:37pm,Snow Emergency,"1118 21st ave n ,Minneapolis,MN",45.000422,-93.295197,5,Near North,Jordan,1,2,Diamond Lake
+-93.280085000322458,44.961160000433722,548,03/11/2019 01:38pm,Snow Emergency,"128 22ND ST W,Minneapolis,MN",44.96116,-93.280085,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.24288199970448,44.963592000170706,549,03/11/2019 01:39pm,Snow Emergency,"904 21st ave n ,Minneapolis,MN",44.963592,-93.242882,6,Longfellow,Seward,4,2,Diamond Lake
+-93.306696999966562,44.988317000029554,550,03/11/2019 01:40pm,Snow Emergency,"1008 OLIVER AVE N ,Minneapolis,MN",44.988317,-93.306697,5,Near North,Near - North,1,2,Diamond Lake
+-93.298386999860099,44.985278000179619,551,03/11/2019 01:42pm,Snow Emergency,"610 Elwood av n,Minneapolis,MN",44.985278,-93.298387,5,Near North,Near - North,1,2,Diamond Lake
+-93.235018000380364,44.98336500009475,552,03/11/2019 01:42pm,Snow Emergency,"614 13th ave se,Minneapolis,MN",44.983365,-93.235018,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.225488999817458,44.899286999795265,553,03/11/2019 01:46pm,Snow Emergency,"5734 Sander Drive,Minneapolis,MN",44.899287,-93.225489,11,Nokomis,Wenonah,6,2,Diamond Lake
+-93.278332000421472,44.941476000117348,554,03/11/2019 01:46pm,Snow Emergency,"24 34th st w ,Minneapolis,MN",44.941476,-93.278332,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.254602999728604,45.014966999627404,555,03/11/2019 01:49pm,Snow Emergency,"644 26th ave ne,Minneapolis,MN",45.014967,-93.254603,1,Northeast,Holland,2,2,Diamond Lake
+-93.280159000137701,44.94157600023226,556,03/11/2019 01:50pm,Snow Emergency,"108 34th st w ,Minneapolis,MN",44.941576,-93.280159,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.248339999591281,45.016615000082254,557,03/11/2019 01:50pm,Snow Emergency,"912 27th ave ne,Minneapolis,MN",45.016615,-93.24834,1,Northeast,Holland,2,2,Diamond Lake
+-93.208533000297678,44.907341999833477,558,03/11/2019 01:51pm,Snow Emergency,"4524 53rd St E,Minneapolis,MN",44.907342,-93.208533,12,Nokomis,Minnehaha,6,2,Diamond Lake
+-93.306725000358426,44.988431999936893,559,03/11/2019 01:55pm,Snow Emergency,"1014 oliver ave n,Minneapolis,MN",44.988432,-93.306725,5,Near North,Near - North,1,2,Diamond Lake
+-93.281710999762765,44.947106999888206,560,03/11/2019 01:56pm,Snow Emergency,"3034 pillsbury ave s,Minneapolis,MN",44.947107,-93.281711,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.236074999661469,44.963377000148512,561,03/11/2019 01:57pm,Snow Emergency,"915 25 ave s,Minneapolis,MN",44.963377,-93.236075,6,Longfellow,Seward,4,2,Diamond Lake
+-93.295338000448339,45.000420999729386,562,03/11/2019 01:58pm,Snow Emergency,"1122 21st ave n,Minneapolis,MN",45.000421,-93.295338,5,Near North,Jordan,1,2,Diamond Lake
+-93.276859999988972,44.957463999963693,563,03/11/2019 01:59pm,Snow Emergency,"22 25TH ST E,Minneapolis,MN",44.957464,-93.27686,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.24038799980633,44.983201999772518,564,03/11/2019 02:00pm,Snow Emergency,"1000 5th st se,Minneapolis,MN",44.983202,-93.240388,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.276846000242699,44.957473000378741,565,03/11/2019 02:00pm,Snow Emergency,"26 25th st e,Minneapolis,MN",44.957473,-93.276846,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.306710999712834,44.988651000143591,566,03/11/2019 02:01pm,Snow Emergency,"1022 OLIVER AVE N ,Minneapolis,MN",44.988651,-93.306711,5,Near North,Near - North,1,2,Diamond Lake
+-93.2227910004043,44.903326999941157,567,03/11/2019 02:01pm,Snow Emergency,"3408 55th st e,Minneapolis,MN",44.903327,-93.222791,12,Nokomis,Morris Park,6,2,Diamond Lake
+-93.283376000102294,44.940858000396474,568,03/11/2019 02:05pm,Snow Emergency,"3410 pleasant ave s,Minneapolis,MN",44.940858,-93.283376,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.24030200033701,44.983249000141313,569,03/11/2019 02:05pm,Snow Emergency,"1002 5th st se,Minneapolis,MN",44.983249,-93.240302,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.294876999873622,45.004817000104538,570,03/11/2019 02:06pm,Snow Emergency,"1118 25th ave n,Minneapolis,MN",45.004817,-93.294877,5,Near North,Jordan,1,2,Diamond Lake
+-93.272042999984421,44.961074000065082,571,03/11/2019 02:08pm,Snow Emergency,"310 22ND ST E,Minneapolis,MN",44.961074,-93.272043,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.287448999971332,44.961101000410906,572,03/11/2019 02:09pm,Snow Emergency,"612 22ND ST W,Minneapolis,MN",44.961101,-93.287449,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.235037000357238,44.983327000141003,573,03/11/2019 02:11pm,Snow Emergency,"608 13th ave se,Minneapolis,MN",44.983327,-93.235037,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.278495999890424,44.961207999949295,574,03/11/2019 02:11pm,Snow Emergency,"8 22ND ST W,Minneapolis,MN",44.961208,-93.278496,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.238585000297462,44.983144999841898,575,03/11/2019 02:12pm,Snow Emergency,"504 11th ave se,Minneapolis,MN",44.983145,-93.238585,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.289603000378122,45.002586999790253,576,03/11/2019 02:14pm,Snow Emergency,"804 23rd ave n ,Minneapolis,MN",45.002587,-93.289603,5,Near North,Hawthorne,1,2,Diamond Lake
+-93.235196999641801,44.983140999657451,577,03/11/2019 02:17pm,Snow Emergency,"604 13th ave se,Minneapolis,MN",44.983141,-93.235197,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.271473999825218,44.96090699955846,578,03/11/2019 02:17pm,Snow Emergency,"320 22ND ST E,Minneapolis,MN",44.960907,-93.271474,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.238651999789909,44.983584000301448,579,03/11/2019 02:25pm,Snow Emergency,"512 11th ave se,Minneapolis,MN",44.983584,-93.238652,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.281745000431386,44.938951999735025,580,03/11/2019 02:27pm,Snow Emergency,"3518 Pillsbury Ave,Minneapolis,MN",44.938952,-93.281745,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.240050999553944,44.983149000026401,581,03/11/2019 02:29pm,Snow Emergency,"1014 5TH ST SE,Minneapolis,MN",44.983149,-93.240051,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.239156999695751,44.982598999844015,582,03/11/2019 02:29pm,Snow Emergency,"416 11th ave se,Minneapolis,MN",44.982599,-93.239157,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.238654999928258,44.983059000372634,583,03/11/2019 02:33pm,Snow Emergency,"502 11th ave se,Minneapolis,MN",44.983059,-93.238655,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.236633000212748,44.983422000025314,584,03/11/2019 02:34pm,Snow Emergency,"1224 6th st se,Minneapolis,MN",44.983422,-93.236633,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.239719999578256,44.983358999818051,585,03/11/2019 02:34pm,Snow Emergency,"1018 5TH ST SE,Minneapolis,MN",44.983359,-93.23972,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.271345000171607,44.96090699955846,586,03/11/2019 02:38pm,Snow Emergency,"328 22ND ST E,Minneapolis,MN",44.960907,-93.271345,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.238486000228704,44.982567000166966,587,03/11/2019 02:42pm,Snow Emergency,"1118 5TH ST SE,Minneapolis,MN",44.982567,-93.238486,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.234616999874618,44.983602000232167,588,03/11/2019 02:46pm,Snow Emergency,"1308 7th st se,Minneapolis,MN",44.983602,-93.234617,3,University,Marcy Holmes,4,2,Diamond Lake
+-93.291575999632641,45.014687000204958,589,03/11/2019 02:49pm,Snow Emergency,"3246 Colfax ave n ,Minneapolis,MN",45.014687,-93.291576,4,Camden,McKinley,1,2,Diamond Lake
+-93.278136000376094,44.941477000163502,590,03/11/2019 02:49pm,Snow Emergency,"14 w 34th st,Minneapolis,MN",44.941477,-93.278136,8,Powderhorn,Lyndale,5,2,Diamond Lake
+-93.217453999802217,44.991194999649565,591,03/11/2019 03:03pm,Snow Emergency,"1104 25th ave n,Minneapolis,MN",44.991195,-93.217454,1,University,Como,4,2,Diamond Lake
+-93.287346999764168,45.015107999834356,592,03/11/2019 03:07pm,Snow Emergency,"614 33rd ave n,Minneapolis,MN",45.015108,-93.287347,4,Camden,McKinley,1,2,Diamond Lake
+-93.287094999834324,44.95989499965458,593,03/11/2019 03:10pm,Snow Emergency,"2300 GARFIELD AVE S,Minneapolis,MN",44.959895,-93.287095,10,Powderhorn,Whittier,3,2,Diamond Lake
+-93.280829999604748,44.966423000321242,594,03/12/2019 08:18am,Snow Emergency,"1525 spruce place,Minneapolis,MN",44.966423,-93.28083,7,Central,Loring Park,3,3,Diamond Lake
+-93.281878000269444,44.994180999753382,595,03/12/2019 08:19am,Snow Emergency,"2215 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.281878000269444,44.994180999753382,596,03/12/2019 08:21am,Snow Emergency,"2315 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.281878000269444,44.994180999753382,597,03/12/2019 08:23am,Snow Emergency,"2311 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.248686000258658,44.98333100032545,598,03/12/2019 08:26am,Snow Emergency,"521 2nd Ave SE,Minneapolis,MN",44.983331,-93.248686,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.303053000095815,44.94791700036933,599,03/12/2019 08:26am,Snow Emergency,"3011 James ave s,Minneapolis,MN",44.947917,-93.303053,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.281878000269444,44.994180999753382,600,03/12/2019 08:27am,Snow Emergency,"2419 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.286165000114636,44.997037000157491,601,03/12/2019 08:28am,Snow Emergency,"1711 Lyn Park Ave N,Minneapolis,MN",44.997037,-93.286165,5,Near North,Near - North,1,3,Diamond Lake
+-93.304295999860472,44.947269000164283,602,03/12/2019 08:29am,Snow Emergency,"3031 Knox ave s,Minneapolis,MN",44.947269,-93.304296,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.252278999576106,44.988093999638409,603,03/12/2019 08:30am,Snow Emergency,"427 2nd ave se,Minneapolis,MN",44.988094,-93.252279,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.252226999876086,44.988115999753632,604,03/12/2019 08:31am,Snow Emergency,"429 2nd Ave SE,Minneapolis,MN",44.988116,-93.252227,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.286820999789256,44.996735999766656,605,03/12/2019 08:35am,Snow Emergency,"505 LYN PARK CIR N,Minneapolis,MN",44.996736,-93.286821,5,Near North,Near - North,1,3,Diamond Lake
+-93.259274000194921,44.991028000042206,606,03/12/2019 08:40am,Snow Emergency,"223 3rd ave ne,Minneapolis,MN",44.991028,-93.259274,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.280829999604748,44.966423000321242,607,03/12/2019 08:42am,Snow Emergency,"1529 SPRUCE PLACE,Minneapolis,MN",44.966423,-93.28083,7,Central,Loring Park,3,3,Diamond Lake
+-93.259322999756591,44.991013000249836,608,03/12/2019 08:44am,Snow Emergency,"219 3rd ave ne,Minneapolis,MN",44.991013,-93.259323,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.289232000356492,44.985828000362005,609,03/12/2019 08:46am,Snow Emergency,"707 Lyndale Pl,Minneapolis,MN",44.985828,-93.289232,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.251595000408884,44.989044000280444,610,03/12/2019 08:48am,Snow Emergency,"525 2nd ave se,Minneapolis,MN",44.989044,-93.251595,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.254614000235904,44.934518000305502,611,03/12/2019 08:50am,Snow Emergency,"3739 14 ave s,Minneapolis,MN",44.934518,-93.254614,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.289648999801443,44.987469999640837,612,03/12/2019 08:51am,Snow Emergency,"945 LYNDALE PLACE,Minneapolis,MN",44.98747,-93.289649,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.281878000269444,44.994180999753382,613,03/12/2019 08:52am,Snow Emergency,"2601 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.281878000269444,44.994180999753382,614,03/12/2019 08:55am,Snow Emergency,"2605 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.233824000177435,44.994071000076644,615,03/12/2019 08:59am,Snow Emergency,"1225 winter st ne,Minneapolis,MN",44.994071,-93.233824,1,University,Mid - City Industrial,2,3,Diamond Lake
+-93.233143000249243,44.993078000149637,616,03/12/2019 09:00am,Snow Emergency,"1229 winter st ne,Minneapolis,MN",44.993078,-93.233143,1,University,Como,2,3,Diamond Lake
+-93.281878000269444,44.994180999753382,617,03/12/2019 09:01am,Snow Emergency,"2423 3rd st n,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.24911100007256,44.928497999682975,618,03/12/2019 09:01am,Snow Emergency,"1715 41st st,Minneapolis,MN",44.928498,-93.249111,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.283649000101263,45.005541000217022,619,03/12/2019 09:04am,Snow Emergency,"2523 3rd st n,Minneapolis,MN",45.005541,-93.283649,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.246508999690548,44.928588000236061,620,03/12/2019 09:04am,Snow Emergency,"1837 41st st,Minneapolis,MN",44.928588,-93.246509,12,Powderhorn,Standish,6,3,Diamond Lake
+-93.254592000120681,44.938965000334576,621,03/12/2019 09:05am,Snow Emergency,"3515 14th Ave so,Minneapolis,MN",44.938965,-93.254592,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.29208000039165,44.987773000123923,622,03/12/2019 09:06am,Snow Emergency,"905 Aldrich Ave N,Minneapolis,MN",44.987773,-93.29208,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.250482000343993,44.985776999808763,623,03/12/2019 09:06am,Snow Emergency,"317 4th ave se,Minneapolis,MN",44.985777,-93.250482,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.304298999998821,44.947124999818925,624,03/12/2019 09:06am,Snow Emergency,"3035 Knox ave s,Minneapolis,MN",44.947125,-93.304299,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.292081000437804,44.987780000446719,625,03/12/2019 09:07am,Snow Emergency,"907 ALDRICH AVE N,Minneapolis,MN",44.98778,-93.292081,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.285974000299859,44.966927000180988,626,03/12/2019 09:07am,Snow Emergency,"1735 CLIFTON PL,Minneapolis,MN",44.966927,-93.285974,7,Central,Loring Park,3,3,Diamond Lake
+-93.303054000141969,44.947450999564012,627,03/12/2019 09:09am,Snow Emergency,"3025 James ave s,Minneapolis,MN",44.947451,-93.303054,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.248190999914698,44.986113000014996,628,03/12/2019 09:10am,Snow Emergency,"425 5th ave se,Minneapolis,MN",44.986113,-93.248191,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.280829999604748,44.966423000321242,629,03/12/2019 09:11am,Snow Emergency,"1525 SPRUCE PL,Minneapolis,MN",44.966423,-93.28083,7,Central,Loring Park,3,3,Diamond Lake
+-93.249315999633666,44.987356999825749,630,03/12/2019 09:11am,Snow Emergency,"505 4th ave se,Minneapolis,MN",44.987357,-93.249316,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.280399999560302,44.967304999626094,631,03/12/2019 09:12am,Snow Emergency,"1511 SPRUCE PLACE,Minneapolis,MN",44.967305,-93.2804,7,Central,Loring Park,3,3,Diamond Lake
+-93.247761999916349,44.986679000035849,632,03/12/2019 09:16am,Snow Emergency,"505 5th ave se,Minneapolis,MN",44.986679,-93.247762,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.292117000299299,44.987907000008079,633,03/12/2019 09:17am,Snow Emergency,"945 ALDRICH AVE N,Minneapolis,MN",44.987907,-93.292117,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.288948999896377,44.98334199993343,634,03/12/2019 09:19am,Snow Emergency,"511 lyndale pl,Minneapolis,MN",44.983342,-93.288949,5,Near North,Sumner - Glenwood,3,3,Diamond Lake
+-93.254529999959516,44.930184000091572,635,03/12/2019 09:20am,Snow Emergency,"4009 14TH AV S,Minneapolis,MN",44.930184,-93.25453,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.281878000269444,44.994180999753382,636,03/12/2019 09:20am,Snow Emergency,"2809 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.254650000097399,44.933443000194359,637,03/12/2019 09:20am,Snow Emergency,"3821 14TH AVE S,Minneapolis,MN",44.933443,-93.25465,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.281878000269444,44.994180999753382,638,03/12/2019 09:23am,Snow Emergency,"2629 3rd st n ,Minneapolis,MN",44.994181,-93.281878,5,Near North,Near - North,1,3,Diamond Lake
+-93.292084999722931,44.987794000192991,639,03/12/2019 09:24am,Snow Emergency,"911 Aldrich Ave N,Minneapolis,MN",44.987794,-93.292085,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.254650000097399,44.938325999645201,640,03/12/2019 09:24am,Snow Emergency,"3533 14th Avenue South,Minneapolis,MN",44.938326,-93.25465,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.303053000095815,44.948227000275892,641,03/12/2019 09:26am,Snow Emergency,"3003 James ave s,Minneapolis,MN",44.948227,-93.303053,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.254962000096214,44.992853999712395,642,03/12/2019 09:28am,Snow Emergency,"505 3rd ave ne,Minneapolis,MN",44.992854,-93.254962,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.28886999985059,44.983086999865179,643,03/12/2019 09:29am,Snow Emergency,"505 lyndale pl,Minneapolis,MN",44.983087,-93.28887,5,Near North,Sumner - Glenwood,3,3,Diamond Lake
+-93.289648999801443,44.987469999640837,644,03/12/2019 09:29am,Snow Emergency,"941 lyndale pl,Minneapolis,MN",44.98747,-93.289649,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.291350000002467,44.988610000051494,645,03/12/2019 09:32am,Snow Emergency,"1033 aldrich ave n,Minneapolis,MN",44.98861,-93.29135,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.303054000141969,44.946897000096556,646,03/12/2019 09:32am,Snow Emergency,"3053 James ave s,Minneapolis,MN",44.946897,-93.303054,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.261625999839964,44.993123999572958,647,03/12/2019 09:33am,Snow Emergency,"203 5th ave ne,Minneapolis,MN",44.993124,-93.261626,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.291261000394798,44.988612000143746,648,03/12/2019 09:34am,Snow Emergency,"1031 ALDRICH AVE N,Minneapolis,MN",44.988612,-93.291261,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.303078000349387,44.945246000402676,649,03/12/2019 09:37am,Snow Emergency,"3139 James ave s,Minneapolis,MN",44.945246,-93.303078,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.254531000005613,44.929782999585825,650,03/12/2019 09:38am,Snow Emergency,"4019 14 th ave s,Minneapolis,MN",44.929783,-93.254531,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.291350000002467,44.988610000051494,651,03/12/2019 09:38am,Snow Emergency,"1033 Aldrich Ave N,Minneapolis,MN",44.98861,-93.29135,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.262548000090078,44.993004000334395,652,03/12/2019 09:40am,Snow Emergency,"145 5th ave ne,Minneapolis,MN",44.993004,-93.262548,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.27430700006795,44.963726000054919,653,03/12/2019 09:41am,Snow Emergency,"143 19TH ST E,Minneapolis,MN",44.963726,-93.274307,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.283695000423904,45.011448000125142,654,03/12/2019 09:43am,Snow Emergency,"3021 3rd st n,Minneapolis,MN",45.011448,-93.283695,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.289753000100859,44.982790999704946,655,03/12/2019 09:43am,Snow Emergency,"819 5th ave n,Minneapolis,MN",44.982791,-93.289753,5,Near North,Sumner - Glenwood,3,3,Diamond Lake
+-93.254532000051711,44.929329000233224,656,03/12/2019 09:45am,Snow Emergency,"4037 14th av s,Minneapolis,MN",44.929329,-93.254532,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.260245000006705,44.99217099969195,657,03/12/2019 09:46am,Snow Emergency,"215 4th ave ne,Minneapolis,MN",44.992171,-93.260245,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.259839000169677,44.996558999698152,658,03/12/2019 09:47am,Snow Emergency,"411 7th ave ne,Minneapolis,MN",44.996559,-93.259839,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.247063000057381,44.98517399988026,659,03/12/2019 09:47am,Snow Emergency,"403 6th ave se,Minneapolis,MN",44.985174,-93.247063,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.291435000324952,44.988609000005397,660,03/12/2019 09:48am,Snow Emergency,"1035 ALDRICH AVE N,Minneapolis,MN",44.988609,-93.291435,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.254602999728604,44.93338800035599,661,03/12/2019 09:48am,Snow Emergency,"3823 14th av s,Minneapolis,MN",44.933388,-93.254603,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.246598000197537,44.988057999776913,662,03/12/2019 09:51am,Snow Emergency,"619 5th ave se,Minneapolis,MN",44.988058,-93.246598,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.260046999869132,44.994830000004526,663,03/12/2019 09:53am,Snow Emergency,"325 6th ave ne,Minneapolis,MN",44.99483,-93.260047,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.247402000401962,44.987151000218546,664,03/12/2019 09:53am,Snow Emergency,"523 5th ave se,Minneapolis,MN",44.987151,-93.247402,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.262518999652059,44.99301399989622,665,03/12/2019 09:54am,Snow Emergency,"147 5th ave ne,Minneapolis,MN",44.993014,-93.262519,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.260644999567035,44.99463900018975,666,03/12/2019 09:55am,Snow Emergency,"301 6th ave ne,Minneapolis,MN",44.994639,-93.260645,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.294096999876615,44.988117999845883,667,03/12/2019 09:55am,Snow Emergency,"1009 Emerson Ave N,Minneapolis,MN",44.988118,-93.294097,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.246926000034819,44.985302000387037,668,03/12/2019 09:55am,Snow Emergency,"405 6th ave se,Minneapolis,MN",44.985302,-93.246926,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.247177999964663,44.987244000010662,669,03/12/2019 09:56am,Snow Emergency,"527 5th ave se,Minneapolis,MN",44.987244,-93.247178,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.26002199961556,44.992286999645387,670,03/12/2019 09:57am,Snow Emergency,"223 4th ave ne,Minneapolis,MN",44.992287,-93.260022,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.283415000102138,44.966682999720717,671,03/12/2019 09:57am,Snow Emergency,"309 OAK GROVE,Minneapolis,MN",44.966683,-93.283415,7,Central,Loring Park,3,3,Diamond Lake
+-93.254590000028429,44.929320999864331,672,03/12/2019 09:57am,Snow Emergency,"4029 14th ave so,Minneapolis,MN",44.929321,-93.25459,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.245816000108277,44.929045999773109,673,03/12/2019 09:58am,Snow Emergency,"4049 longfellow ave s,Minneapolis,MN",44.929046,-93.245816,12,Powderhorn,Standish,6,3,Diamond Lake
+-93.245865999716102,44.988897999842891,674,03/12/2019 09:58am,Snow Emergency,"711 5th ave n,Minneapolis,MN",44.988898,-93.245866,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.303034000118998,44.946960000303818,675,03/12/2019 09:58am,Snow Emergency,"3041 James ave s,Minneapolis,MN",44.94696,-93.303034,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.260245000006705,44.99217099969195,676,03/12/2019 09:58am,Snow Emergency,"215 4th ave ne,Minneapolis,MN",44.992171,-93.260245,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.246636000151227,44.928588000236061,677,03/12/2019 10:01am,Snow Emergency,"1835 41st st,Minneapolis,MN",44.928588,-93.246636,12,Powderhorn,Standish,6,3,Diamond Lake
+-93.294117999945684,44.992109000430105,678,03/12/2019 10:03am,Snow Emergency,"719 EMERSON AVE N,Minneapolis,MN",44.992109,-93.294118,5,Near North,Near - North,1,3,Diamond Lake
+-93.245456999740725,44.987244000010662,679,03/12/2019 10:03am,Snow Emergency,"525 6th st se,Minneapolis,MN",44.987244,-93.245457,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.246487999621422,44.988195999845573,680,03/12/2019 10:04am,Snow Emergency,"623 5th ave,Minneapolis,MN",44.988196,-93.246488,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.300498000082598,44.945898999938947,681,03/12/2019 10:05am,Snow Emergency,"3117 humbolt ave s ,Minneapolis,MN",44.945899,-93.300498,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.246811000127536,44.985361999556687,682,03/12/2019 10:05am,Snow Emergency,"409 6th ave se,Minneapolis,MN",44.985362,-93.246811,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.283945000261497,44.966838999720096,683,03/12/2019 10:08am,Snow Emergency,"327 OAK GROVE ST,Minneapolis,MN",44.966839,-93.283945,7,Central,Loring Park,3,3,Diamond Lake
+-93.244028000391893,44.985343999625911,684,03/12/2019 10:08am,Snow Emergency,"711 5th street ,Minneapolis,MN",44.985344,-93.244028,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.288844999597018,44.983141999703548,685,03/12/2019 10:10am,Snow Emergency,"507 lyndale pl,Minneapolis,MN",44.983142,-93.288845,5,Near North,Sumner - Glenwood,3,3,Diamond Lake
+-93.283450999963634,44.966693000181863,686,03/12/2019 10:11am,Snow Emergency,"311 OAK GROVE ST,Minneapolis,MN",44.966693,-93.283451,7,Central,Loring Park,3,3,Diamond Lake
+-93.291050999703828,44.99141800004071,687,03/12/2019 10:12am,Snow Emergency,"627 BRYANT AVE N,Minneapolis,MN",44.991418,-93.291051,5,Near North,Near - North,1,3,Diamond Lake
+-93.285270000210289,45.013810000231388,688,03/12/2019 10:13am,Snow Emergency,"3219 4th st n,Minneapolis,MN",45.01381,-93.28527,4,Camden,McKinley,1,3,Diamond Lake
+-93.300537000082443,44.945556000309239,689,03/12/2019 10:14am,Snow Emergency,"3129 Humboldt ave s,Minneapolis,MN",44.945556,-93.300537,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.285236999587823,45.013519000301699,690,03/12/2019 10:15am,Snow Emergency,"3211 4th st n,Minneapolis,MN",45.013519,-93.285237,4,Camden,McKinley,1,3,Diamond Lake
+-93.294109000430012,44.985888000430919,691,03/12/2019 10:16am,Snow Emergency,"721 Emerson Ave. N.,Minneapolis,MN",44.985888,-93.294109,5,Near North,Near - North,1,3,Diamond Lake
+-93.289231000310394,44.985821000039152,692,03/12/2019 10:16am,Snow Emergency,"705 LYNDALE PL,Minneapolis,MN",44.985821,-93.289231,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.265463999663837,44.992928999573735,693,03/12/2019 10:17am,Snow Emergency,"101 6th ave ne,Minneapolis,MN",44.992929,-93.265464,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.300527999667395,44.94516800040293,694,03/12/2019 10:18am,Snow Emergency,"3141 humboldt av s,Minneapolis,MN",44.945168,-93.300528,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.291050999703828,44.99141800004071,695,03/12/2019 10:19am,Snow Emergency,"625 BRYANT AVE N,Minneapolis,MN",44.991418,-93.291051,5,Near North,Near - North,1,3,Diamond Lake
+-93.282494999944277,44.956198000037716,696,03/12/2019 10:19am,Snow Emergency,"2531 Pleasant Ave ,Minneapolis,MN",44.956198,-93.282495,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.259983999661813,44.996509000090327,697,03/12/2019 10:20am,Snow Emergency,"403 7th ave ne,Minneapolis,MN",44.996509,-93.259984,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.246564999575014,44.988275999937514,698,03/12/2019 10:20am,Snow Emergency,"621 5th ave se,Minneapolis,MN",44.988276,-93.246565,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.24421600006832,44.988616000328193,699,03/12/2019 10:22am,Snow Emergency,"719 6th ave se,Minneapolis,MN",44.988616,-93.244216,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.256562000136171,44.997032999973044,700,03/12/2019 10:22am,Snow Emergency,"637 summer st ne,Minneapolis,MN",44.997033,-93.256562,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.255906999608328,44.936649999697806,701,03/12/2019 10:23am,Snow Emergency,"3629 13 ave s,Minneapolis,MN",44.93665,-93.255907,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.285372000417453,45.021320000317814,702,03/12/2019 10:24am,Snow Emergency,"3635 4th st n ,Minneapolis,MN",45.02132,-93.285372,4,Camden,McKinley,1,3,Diamond Lake
+-93.254677000443166,44.99703199992689,703,03/12/2019 10:24am,Snow Emergency,"665 summer st ne,Minneapolis,MN",44.997032,-93.254677,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.294108000383858,44.985741999993365,704,03/12/2019 10:25am,Snow Emergency,"705 EMERSON AVE N,Minneapolis,MN",44.985742,-93.294108,5,Near North,Near - North,1,3,Diamond Lake
+-93.248835999981395,44.985147000433756,705,03/12/2019 10:25am,Snow Emergency,"319 5th ave se,Minneapolis,MN",44.985147,-93.248836,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.285274000394793,45.021763000062435,706,03/12/2019 10:26am,Snow Emergency,"3651 4th st n ,Minneapolis,MN",45.021763,-93.285274,4,Camden,McKinley,1,3,Diamond Lake
+-93.246173000383635,44.984067000092011,707,03/12/2019 10:28am,Snow Emergency,"321 7th ave se,Minneapolis,MN",44.984067,-93.246173,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.282339999990995,44.966417000044544,708,03/12/2019 10:28am,Snow Emergency,"229 OAK GROVE ST,Minneapolis,MN",44.966417,-93.28234,7,Central,Loring Park,3,3,Diamond Lake
+-93.284160000283748,44.965879999562389,709,03/12/2019 10:31am,Snow Emergency,"211 Clifton ave ,Minneapolis,MN",44.96588,-93.28416,7,Central,Loring Park,3,3,Diamond Lake
+-93.294109000430012,44.985899000038899,710,03/12/2019 10:32am,Snow Emergency,"723 Emerson Ave N,Minneapolis,MN",44.985899,-93.294109,5,Near North,Near - North,1,3,Diamond Lake
+-93.294117999945684,44.992109000430105,711,03/12/2019 10:34am,Snow Emergency,"707 EMERSON AVE N,Minneapolis,MN",44.992109,-93.294118,5,Near North,Near - North,1,3,Diamond Lake
+-93.305321000363847,44.981400000309804,712,03/12/2019 10:34am,Snow Emergency,"1917 4th av n,Minneapolis,MN",44.9814,-93.305321,5,Near North,Harrison,3,3,Diamond Lake
+-93.245251000133521,44.985162000226182,713,03/12/2019 10:36am,Snow Emergency,"429 7th ave se,Minneapolis,MN",44.985162,-93.245251,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.253252000379462,44.997127999857355,714,03/12/2019 10:36am,Snow Emergency,"687 summer st ne,Minneapolis,MN",44.997128,-93.253252,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.245266999972046,44.985078999995892,715,03/12/2019 10:37am,Snow Emergency,"413 7th ave se,Minneapolis,MN",44.985079,-93.245267,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.245257999556998,44.985153999857289,716,03/12/2019 10:37am,Snow Emergency,"427 7th ave se,Minneapolis,MN",44.985154,-93.245258,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.252868999804434,44.996750999559026,717,03/12/2019 10:38am,Snow Emergency,"692 summer st ne,Minneapolis,MN",44.996751,-93.252869,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.306205999806991,44.981372999964037,718,03/12/2019 10:38am,Snow Emergency,"2003 4TH AVE N,Minneapolis,MN",44.981373,-93.306206,5,Near North,Harrison,3,3,Diamond Lake
+-93.244427999952222,44.986109999876646,719,03/12/2019 10:39am,Snow Emergency,"527 7th ave se,Minneapolis,MN",44.98611,-93.244428,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.244360999560456,44.988502999613786,720,03/12/2019 10:40am,Snow Emergency,"715 6th ave se,Minneapolis,MN",44.988503,-93.244361,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.25335899991785,44.935190999864801,721,03/12/2019 10:40am,Snow Emergency,"3621 15th av s,Minneapolis,MN",44.935191,-93.253359,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.246532999897966,44.983618000070692,722,03/12/2019 10:41am,Snow Emergency,"305 7th ave se,Minneapolis,MN",44.983618,-93.246533,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.25335899991785,44.935190999864801,723,03/12/2019 10:43am,Snow Emergency,"3719 15th av s,Minneapolis,MN",44.935191,-93.253359,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.294109000430012,44.985910999692919,724,03/12/2019 10:43am,Snow Emergency,"725 Emerson Ave N,Minneapolis,MN",44.985911,-93.294109,5,Near North,Near - North,1,3,Diamond Lake
+-93.291050999703828,44.99141800004071,725,03/12/2019 10:44am,Snow Emergency,"631 BRYANT AVE N,Minneapolis,MN",44.991418,-93.291051,5,Near North,Near - North,1,3,Diamond Lake
+-93.285255999564697,45.000664000143558,726,03/12/2019 10:44am,Snow Emergency,"2113 4th st n,Minneapolis,MN",45.000664,-93.285256,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.292927999927201,44.998272999599294,727,03/12/2019 10:44am,Snow Emergency,"1827 DuPont av no,Minneapolis,MN",44.998273,-93.292928,5,Near North,Near - North,1,3,Diamond Lake
+-93.282559000197637,44.961975000246127,728,03/12/2019 10:44am,Snow Emergency,"2017 Pleasant Ave,Minneapolis,MN",44.961975,-93.282559,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.232064999999693,44.992890999619988,729,03/12/2019 10:44am,Snow Emergency,"1167 14th ave se,Minneapolis,MN",44.992891,-93.232065,1,University,Como,2,3,Diamond Lake
+-93.253353999687306,44.91765999990912,730,03/12/2019 10:45am,Snow Emergency,"4703 15TH AV S,Minneapolis,MN",44.91766,-93.253354,11,Nokomis,Northrop,6,3,Diamond Lake
+-93.245334000363812,44.984902999973542,731,03/12/2019 10:45am,Snow Emergency,"411 6th ave se ,Minneapolis,MN",44.984903,-93.245334,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.285372000417453,45.001236999587888,732,03/12/2019 10:46am,Snow Emergency,"2135 4th st n,Minneapolis,MN",45.001237,-93.285372,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.232358000021634,44.992926000334705,733,03/12/2019 10:46am,Snow Emergency,"1169 14th ave se,Minneapolis,MN",44.992926,-93.232358,1,University,Como,2,3,Diamond Lake
+-93.282585999644141,44.96186499967007,734,03/12/2019 10:47am,Snow Emergency,"2021 pleasant ave ,Minneapolis,MN",44.961865,-93.282586,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.308773000373606,44.981355000033261,735,03/12/2019 10:48am,Snow Emergency,"2207 4th ave n,Minneapolis,MN",44.981355,-93.308773,5,Near North,Harrison,3,3,Diamond Lake
+-93.247297000056449,44.984815999558805,736,03/12/2019 10:48am,Snow Emergency,"325 6th ave se ,Minneapolis,MN",44.984816,-93.247297,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.273751999655019,44.981893999708348,737,03/12/2019 10:49am,Snow Emergency,"351 4th st n ,Minneapolis,MN",44.981894,-93.273752,3,Central,Downtown West,3,3,Diamond Lake
+-93.285282999910464,45.019427000255916,738,03/12/2019 10:52am,Snow Emergency,"3531 4th st n ,Minneapolis,MN",45.019427,-93.285283,4,Camden,McKinley,1,3,Diamond Lake
+-93.253286000148762,44.930210000391241,739,03/12/2019 10:53am,Snow Emergency,"4011 15th ave so,Minneapolis,MN",44.93021,-93.253286,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.25592100025392,44.937978999831046,740,03/12/2019 10:55am,Snow Emergency,"3545 13th ave s,Minneapolis,MN",44.937979,-93.255921,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.245776000062335,44.927279000125793,741,03/12/2019 10:56am,Snow Emergency,"4149 longfellow ,Minneapolis,MN",44.927279,-93.245776,12,Powderhorn,Standish,6,3,Diamond Lake
+-93.249636000001374,44.996915999973453,742,03/12/2019 10:57am,Snow Emergency,"841 summer st ne,Minneapolis,MN",44.996916,-93.249636,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.25599900025361,44.938401000405918,743,03/12/2019 10:57am,Snow Emergency,"3531 13th ave s,Minneapolis,MN",44.938401,-93.255999,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.245814000016026,44.929612999840117,744,03/12/2019 10:58am,Snow Emergency,"4029 longfellow ,Minneapolis,MN",44.929613,-93.245814,12,Powderhorn,Standish,6,3,Diamond Lake
+-93.284156000099301,44.965879000415612,745,03/12/2019 11:03am,Snow Emergency,"205 CLIFTON AVE,Minneapolis,MN",44.965879,-93.284156,7,Central,Loring Park,3,3,Diamond Lake
+-93.291449000071282,44.995034000418855,746,03/12/2019 11:03am,Snow Emergency,"1529 BRYANT AVE N,Minneapolis,MN",44.995034,-93.291449,5,Near North,Near - North,1,3,Diamond Lake
+-93.232048000115071,44.991498000132651,747,03/12/2019 11:03am,Snow Emergency,"1123 14th ave se,Minneapolis,MN",44.991498,-93.232048,1,University,Como,2,3,Diamond Lake
+-93.310407000182863,44.981325999595242,748,03/12/2019 11:03am,Snow Emergency,"2315 4th ave n,Minneapolis,MN",44.981326,-93.310407,5,Near North,Harrison,3,3,Diamond Lake
+-93.257153999557374,44.936595999905535,749,03/12/2019 11:03am,Snow Emergency,"3631 12 th ave s,Minneapolis,MN",44.936596,-93.257154,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.284155000053147,44.965879000415612,750,03/12/2019 11:04am,Snow Emergency,"203 CLIFTON AVE ,Minneapolis,MN",44.965879,-93.284155,7,Central,Loring Park,3,3,Diamond Lake
+-93.245477999809793,44.984794000342902,751,03/12/2019 11:04am,Snow Emergency,"407 7th ave se,Minneapolis,MN",44.984794,-93.245478,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.232330999675867,44.993036000011443,752,03/12/2019 11:05am,Snow Emergency,"1173 14th ave se,Minneapolis,MN",44.993036,-93.232331,1,University,Como,2,3,Diamond Lake
+-93.300557000105414,44.941602999678764,753,03/12/2019 11:06am,Snow Emergency,"3343 Humboldt ave s,Minneapolis,MN",44.941603,-93.300557,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.292920999604405,44.994945999957963,754,03/12/2019 11:08am,Snow Emergency,"1523 DuPont av north ,Minneapolis,MN",44.994946,-93.292921,5,Near North,Near - North,1,3,Diamond Lake
+-93.232048000115071,44.991449999717759,755,03/12/2019 11:08am,Snow Emergency,"1121 14th ave se,Minneapolis,MN",44.99145,-93.232048,2,University,Como,4,3,Diamond Lake
+-93.244752999651155,44.98569799976292,756,03/12/2019 11:10am,Snow Emergency,"509 7th ave se,Minneapolis,MN",44.985698,-93.244753,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.285842999654676,44.96325099973393,757,03/12/2019 11:12am,Snow Emergency,"523 ridgewood ,Minneapolis,MN",44.963251,-93.285843,7,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.243153999657295,44.9873199999181,758,03/12/2019 11:14am,Snow Emergency,"701 7th ave se,Minneapolis,MN",44.98732,-93.243154,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.242962999842518,44.987952000284622,759,03/12/2019 11:14am,Snow Emergency,"713 7th ave se,Minneapolis,MN",44.987952,-93.242963,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.232362000206081,44.99243300008294,760,03/12/2019 11:15am,Snow Emergency,"1151 14th ave se,Minneapolis,MN",44.992433,-93.232362,1,University,Como,2,3,Diamond Lake
+-93.243084000026556,44.988072000422562,761,03/12/2019 11:16am,Snow Emergency,"723 7th ave se,Minneapolis,MN",44.988072,-93.243084,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.263479999902017,44.997693999878265,762,03/12/2019 11:16am,Snow Emergency,"221 9th ave ne,Minneapolis,MN",44.997694,-93.26348,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.285322999956463,45.01771200030862,763,03/12/2019 11:17am,Snow Emergency,"3435 4th st n,Minneapolis,MN",45.017712,-93.285323,4,Camden,McKinley,1,3,Diamond Lake
+-93.232386999560333,44.992486999875211,764,03/12/2019 11:19am,Snow Emergency,"1153 14th ave se,Minneapolis,MN",44.992487,-93.232387,1,University,Como,2,3,Diamond Lake
+-93.282594000013034,44.960553000320772,765,03/12/2019 11:19am,Snow Emergency,"2209 pleasant ave ,Minneapolis,MN",44.960553,-93.282594,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.242352999591219,44.986446000082879,766,03/12/2019 11:19am,Snow Emergency,"619 8th ave se,Minneapolis,MN",44.986446,-93.242353,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.253330000379151,44.917587000139974,767,03/12/2019 11:19am,Snow Emergency,"4707 15TH AV S,Minneapolis,MN",44.917587,-93.25333,11,Nokomis,Northrop,6,3,Diamond Lake
+-93.284963000442076,45.01568200022416,768,03/12/2019 11:20am,Snow Emergency,"3323 4th st n,Minneapolis,MN",45.015682,-93.284963,4,Camden,McKinley,1,3,Diamond Lake
+-93.28294900019614,44.966573000043979,769,03/12/2019 11:20am,Snow Emergency,"301 OAK GROVE ST,Minneapolis,MN",44.966573,-93.282949,7,Central,Loring Park,3,3,Diamond Lake
+-93.292892000065706,44.99504700011903,770,03/12/2019 11:20am,Snow Emergency,"1525 DUPONT AVE N,Minneapolis,MN",44.995047,-93.292892,5,Near North,Near - North,1,3,Diamond Lake
+-93.285307000117939,45.019481000048188,771,03/12/2019 11:20am,Snow Emergency,"3533 4th st n ,Minneapolis,MN",45.019481,-93.285307,4,Camden,McKinley,1,3,Diamond Lake
+-93.243064000003585,44.987846999939165,772,03/12/2019 11:21am,Snow Emergency,"709 6th ave se,Minneapolis,MN",44.987847,-93.243064,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.298406999883127,44.990629999674809,773,03/12/2019 11:22am,Snow Emergency,"1213 Humboldt Ave N,Minneapolis,MN",44.99063,-93.298407,5,Near North,Near - North,1,3,Diamond Lake
+-93.298535000389904,44.989718999931938,774,03/12/2019 11:23am,Snow Emergency,"1121 HUMBOLDT AVE N,Minneapolis,MN",44.989719,-93.298535,5,Near North,Near - North,1,3,Diamond Lake
+-93.284963999588854,45.015764000408353,775,03/12/2019 11:23am,Snow Emergency,"3325 4th st n ,Minneapolis,MN",45.015764,-93.284964,4,Camden,McKinley,1,3,Diamond Lake
+-93.282564000428238,44.960299000298676,776,03/12/2019 11:23am,Snow Emergency,"2219 Pleasant Ave S,Minneapolis,MN",44.960299,-93.282564,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.287081000088051,44.963317000079542,777,03/12/2019 11:23am,Snow Emergency,"605 RIDGEWOOD AVE S,Minneapolis,MN",44.963317,-93.287081,7,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.291464999909806,44.988607999959299,778,03/12/2019 11:24am,Snow Emergency,"1043 ALDRICH AVE N,Minneapolis,MN",44.988608,-93.291465,5,Near North,Sumner - Glenwood,1,3,Diamond Lake
+-93.263810999877705,44.997000000249841,779,03/12/2019 11:25am,Snow Emergency,"211 9th ave ne,Minneapolis,MN",44.997,-93.263811,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.263782000339006,44.997010999857821,780,03/12/2019 11:26am,Snow Emergency,"215 9th ave ne,Minneapolis,MN",44.997011,-93.263782,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.298484999882817,44.988560000443726,781,03/12/2019 11:28am,Snow Emergency,"1011 humboldt av no,Minneapolis,MN",44.98856,-93.298485,5,Near North,Near - North,1,3,Diamond Lake
+-93.284256000214214,44.965910000046506,782,03/12/2019 11:28am,Snow Emergency,"311 CLIFTON AVE ,Minneapolis,MN",44.96591,-93.284256,7,Central,Loring Park,3,3,Diamond Lake
+-93.261516000163226,44.998170000245352,783,03/12/2019 11:29am,Snow Emergency,"327 9th ave ne,Minneapolis,MN",44.99817,-93.261516,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.244440999652397,44.986092999992024,784,03/12/2019 11:30am,Snow Emergency,"523 7th ave se,Minneapolis,MN",44.986093,-93.244441,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.241634999755377,44.987413999756313,785,03/12/2019 11:33am,Snow Emergency,"715 8th ave se,Minneapolis,MN",44.987414,-93.241635,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.284181000352874,44.965886999885186,786,03/12/2019 11:34am,Snow Emergency,"247 Clifton Ave,Minneapolis,MN",44.965887,-93.284181,7,Central,Loring Park,3,3,Diamond Lake
+-93.275088000111054,44.966083999976661,787,03/12/2019 11:35am,Snow Emergency,"117 17th st e,Minneapolis,MN",44.966084,-93.275088,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.257903999969585,44.995970000415241,788,03/12/2019 11:35am,Snow Emergency,"615 5th st ne,Minneapolis,MN",44.99597,-93.257904,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.284394000282873,44.965957000415301,789,03/12/2019 11:36am,Snow Emergency,"315 clifton,Minneapolis,MN",44.965957,-93.284394,7,Central,Loring Park,3,3,Diamond Lake
+-93.284435000374913,44.965977000438272,790,03/12/2019 11:38am,Snow Emergency,"323 Clifton Ave,Minneapolis,MN",44.965977,-93.284435,7,Central,Loring Park,3,3,Diamond Lake
+-93.244426999906068,44.986105999692199,791,03/12/2019 11:39am,Snow Emergency,"521 7th ave se,Minneapolis,MN",44.986106,-93.244427,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.242970000165315,44.985626000039929,792,03/12/2019 11:41am,Snow Emergency,"525 8th ave se,Minneapolis,MN",44.985626,-93.24297,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.298522999836564,44.989801000116131,793,03/12/2019 11:41am,Snow Emergency,"1125 HUMBOLDT AVE N ,Minneapolis,MN",44.989801,-93.298523,5,Near North,Near - North,1,3,Diamond Lake
+-93.242538000028617,44.985787000269909,794,03/12/2019 11:43am,Snow Emergency,"601 8th ave se,Minneapolis,MN",44.985787,-93.242538,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.243417000094439,44.985116999949639,795,03/12/2019 11:43am,Snow Emergency,"503 8th ave se,Minneapolis,MN",44.985117,-93.243417,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.266428000052144,44.996798999973919,796,03/12/2019 11:44am,Snow Emergency,"125 9th ave ne,Minneapolis,MN",44.996799,-93.266428,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.257171000341373,44.938066000245783,797,03/12/2019 11:45am,Snow Emergency,"3541 12th Ave S,Minneapolis,MN",44.938066,-93.257171,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.25347099968684,44.946885999589256,798,03/12/2019 11:46am,Snow Emergency,"3053 15th av s,Minneapolis,MN",44.946886,-93.253471,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.298531000205458,44.98936499979493,799,03/12/2019 11:46am,Snow Emergency,"1109 Humboldt Ave., North,MN",44.989365,-93.298531,5,Near North,Near - North,1,3,Diamond Lake
+-93.253353999687306,44.93311500035702,800,03/12/2019 11:47am,Snow Emergency,"3833 15 ave e,Minneapolis,MN",44.933115,-93.253354,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.298532000251555,44.98944800002522,801,03/12/2019 11:47am,Snow Emergency,"1113 humboldt av n,Minneapolis,MN",44.989448,-93.298532,5,Near North,Near - North,1,3,Diamond Lake
+-93.253410999617927,44.939327999987256,802,03/12/2019 11:49am,Snow Emergency,"3503 15th av s,Minneapolis,MN",44.939328,-93.253411,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.283818999846915,45.019761000369897,803,03/12/2019 11:50am,Snow Emergency,"3543 3rd st n ,Minneapolis,MN",45.019761,-93.283819,4,Camden,McKinley,1,3,Diamond Lake
+-93.253392999687151,44.933769999985543,804,03/12/2019 11:50am,Snow Emergency,"3809 15th ave so,Minneapolis,MN",44.93377,-93.253393,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.25717200038747,44.938218000060715,805,03/12/2019 11:50am,Snow Emergency,"3537 12th ave s,Minneapolis,MN",44.938218,-93.257172,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.243079999842109,44.985550000132434,806,03/12/2019 11:52am,Snow Emergency,"521 8th ave se,Minneapolis,MN",44.98555,-93.24308,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.257232999603218,44.995866000115882,807,03/12/2019 11:52am,Snow Emergency,"625 washington st ne,Minneapolis,MN",44.995866,-93.257233,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.299214000225902,44.944365000244602,808,03/12/2019 11:52am,Snow Emergency,"3211 Holmes ave,Minneapolis,MN",44.944365,-93.299214,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.254939999980991,44.991784999877893,809,03/12/2019 11:53am,Snow Emergency,"223 5th st ne,Minneapolis,MN",44.991785,-93.25494,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.299278999626097,44.941148000280066,810,03/12/2019 11:55am,Snow Emergency,"3401 Holmes ave,Minneapolis,MN",44.941148,-93.299279,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.276326999691264,44.963954999823443,811,03/12/2019 11:56am,Snow Emergency,"105 19th st e,Minneapolis,MN",44.963955,-93.276327,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.244572000297524,44.98368699965539,812,03/12/2019 11:56am,Snow Emergency,"327 8th ave se,Minneapolis,MN",44.983687,-93.244572,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.242992000280537,44.985652000339599,813,03/12/2019 11:56am,Snow Emergency,"529 8th ave se,Minneapolis,MN",44.985652,-93.242992,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.243822999931467,44.984536000136359,814,03/12/2019 11:58am,Snow Emergency,"419 8th ave se,Minneapolis,MN",44.984536,-93.243823,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.275114000410781,44.966083999976661,815,03/12/2019 12:00pm,Snow Emergency,"115 17th st e,Minneapolis,MN",44.966084,-93.275114,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.276544999851808,44.965218999657168,816,03/12/2019 12:01pm,Snow Emergency,"101 18th st e,Minneapolis,MN",44.965219,-93.276545,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.257660999555469,44.995625999840058,817,03/12/2019 12:01pm,Snow Emergency,"605 5th st ne,Minneapolis,MN",44.995626,-93.257661,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.253394999779402,44.938077999899804,818,03/12/2019 12:01pm,Snow Emergency,"3541 15th ave,Minneapolis,MN",44.938078,-93.253395,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.297511999978781,44.993320999664434,819,03/12/2019 12:02pm,Snow Emergency,"1405 GIRARD AVE N,Minneapolis,MN",44.993321,-93.297512,5,Near North,Near - North,1,3,Diamond Lake
+-93.275781999739479,44.96394100007717,820,03/12/2019 12:03pm,Snow Emergency,"115 19TH STE,Minneapolis,MN",44.963941,-93.275782,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.297523999632858,44.994968000073186,821,03/12/2019 12:03pm,Snow Emergency,"1523 Girard Ave N,Minneapolis,MN",44.994968,-93.297524,5,Near North,Near - North,1,3,Diamond Lake
+-93.255945999608173,44.937050000157456,822,03/12/2019 12:04pm,Snow Emergency,"3617 13th ave,Minneapolis,MN",44.93705,-93.255946,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.249669999770617,44.996915999973453,823,03/12/2019 12:04pm,Snow Emergency,"839 summer st ne,Minneapolis,MN",44.996916,-93.24967,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.243779999747176,44.984716000343212,824,03/12/2019 12:05pm,Snow Emergency,"429 8th ave se,Minneapolis,MN",44.984716,-93.24378,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.243661999701487,44.984698000412436,825,03/12/2019 12:06pm,Snow Emergency,"427 8th ave se,Minneapolis,MN",44.984698,-93.243662,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.268493999998043,44.998327000290885,826,03/12/2019 12:06pm,Snow Emergency,"111 11th ave ne,Minneapolis,MN",44.998327,-93.268494,3,Northeast,St. Anthony West,2,3,Diamond Lake
+-93.282590999874685,44.960188999722618,827,03/12/2019 12:07pm,Snow Emergency,"2223 pleasant ave ,Minneapolis,MN",44.960189,-93.282591,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.280786000273679,44.961134000134052,828,03/12/2019 12:08pm,Snow Emergency,"2119 Pillsbury Ave,Minneapolis,MN",44.961134,-93.280786,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.28255500001319,44.958036000261245,829,03/12/2019 12:09pm,Snow Emergency,"2429 Pleasant Ave S,Minneapolis,MN",44.958036,-93.282555,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.280833999789195,44.961841000361915,830,03/12/2019 12:12pm,Snow Emergency,"2021 Pillsbury Ave,Minneapolis,MN",44.961841,-93.280834,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.257164000018577,44.925644000270438,831,03/12/2019 12:13pm,Snow Emergency,"4239 12TH AV S,Minneapolis,MN",44.925644,-93.257164,8,Nokomis,Northrop,6,3,Diamond Lake
+-93.284216000168215,44.965897000346331,832,03/12/2019 12:14pm,Snow Emergency,"307 CLIFTON AVE,Minneapolis,MN",44.965897,-93.284216,7,Central,Loring Park,3,3,Diamond Lake
+-93.235883999846692,45.013314999887371,833,03/12/2019 12:15pm,Snow Emergency,"2507 ulysses st ne,Minneapolis,MN",45.013315,-93.235884,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.275697000316256,44.965086999865207,834,03/12/2019 12:18pm,Snow Emergency,"113 18TH ST E,Minneapolis,MN",44.965087,-93.275697,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.274958000411345,44.966083999976661,835,03/12/2019 12:19pm,Snow Emergency,"127 17th st e,Minneapolis,MN",44.966084,-93.274958,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.285234000348794,45.004547000243917,836,03/12/2019 12:19pm,Snow Emergency,"2427 4th st n,Minneapolis,MN",45.004547,-93.285234,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.247173999780216,44.982585000097743,837,03/12/2019 12:20pm,Snow Emergency,"211 7th ave se,Minneapolis,MN",44.982585,-93.247174,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.285348000209979,45.010014999692544,838,03/12/2019 12:20pm,Snow Emergency,"2913 4th st n ,Minneapolis,MN",45.010015,-93.285348,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.235548999686557,45.016296999806741,839,03/12/2019 12:21pm,Snow Emergency,"2641 ulysses st ne,Minneapolis,MN",45.016297,-93.235549,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.28522900011825,45.000717999935773,840,03/12/2019 12:21pm,Snow Emergency,"2115 4th st n,Minneapolis,MN",45.000718,-93.285229,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.237561999886339,44.985831999647132,841,03/12/2019 12:22pm,Snow Emergency,"729 11th ave se,Minneapolis,MN",44.985832,-93.237562,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.285177000418173,45.011774999916383,842,03/12/2019 12:23pm,Snow Emergency,"3035 4th st n ,Minneapolis,MN",45.011775,-93.285177,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.297540000370702,45.00062099995921,843,03/12/2019 12:24pm,Snow Emergency,"2105 GIRARD AVE N,Minneapolis,MN",45.000621,-93.29754,5,Near North,Jordan,1,3,Diamond Lake
+-93.245101000410784,44.98299400007312,844,03/12/2019 12:26pm,Snow Emergency,"303 8th ave se,Minneapolis,MN",44.982994,-93.245101,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.30935800037139,44.981381000332931,845,03/12/2019 12:26pm,Snow Emergency,"2225 4th Ave N,Minneapolis,MN",44.981381,-93.309358,5,Near North,Harrison,3,3,Diamond Lake
+-93.299693999878173,44.997676999993587,846,03/12/2019 12:31pm,Snow Emergency,"1807 Irving Ave. N.,Minneapolis,MN",44.997677,-93.299694,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.253431999686995,44.947670999816864,847,03/12/2019 12:31pm,Snow Emergency,"3021 15th ave so,Minneapolis,MN",44.947671,-93.253432,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.244719999928009,44.983493999748362,848,03/12/2019 12:31pm,Snow Emergency,"319 8th ave se,Minneapolis,MN",44.983494,-93.24472,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.243348999656575,44.985141000157057,849,03/12/2019 12:33pm,Snow Emergency,"505 8th ave se,Minneapolis,MN",44.985141,-93.243349,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.258437000267293,44.92777699970884,850,03/12/2019 12:33pm,Snow Emergency,"4131 11 ave s,Minneapolis,MN",44.927777,-93.258437,8,Powderhorn,Bancroft,6,3,Diamond Lake
+-93.261669000024312,44.935956000069382,851,03/12/2019 12:35pm,Snow Emergency,"831 37th Street East,Minneapolis,MN",44.935956,-93.261669,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.250956999765663,44.947176000372167,852,03/12/2019 12:35pm,Snow Emergency,"3037 16th av s,Minneapolis,MN",44.947176,-93.250957,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.235541000216926,45.021792999647289,853,03/12/2019 12:37pm,Snow Emergency,"2947 ulysses st ne,Minneapolis,MN",45.021793,-93.235541,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.244958000111581,44.983181999749547,854,03/12/2019 12:38pm,Snow Emergency,"309 8th ave se ,Minneapolis,MN",44.983182,-93.244958,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.250960999950166,44.947777000208418,855,03/12/2019 12:38pm,Snow Emergency,"3015 16th av s,Minneapolis,MN",44.947777,-93.250961,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.238955000272995,44.983389000302168,856,03/12/2019 12:38pm,Snow Emergency,"525 11th ave se,Minneapolis,MN",44.983389,-93.238955,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.235577000078479,45.020109000230207,857,03/12/2019 12:38pm,Snow Emergency,"2849 ulysses st ne,Minneapolis,MN",45.020109,-93.235577,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.282590999874685,44.955915999623755,858,03/12/2019 12:39pm,Snow Emergency,"2547 Pleasant Ave S,Minneapolis,MN",44.955916,-93.282591,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.235548999686557,45.022066999692356,859,03/12/2019 12:39pm,Snow Emergency,"2957 ulysses st ne,Minneapolis,MN",45.022067,-93.235549,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.282567999713365,44.954732999928069,860,03/12/2019 12:40pm,Snow Emergency,"2621 pleasant ave ,Minneapolis,MN",44.954733,-93.282568,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.260943999865674,44.935758999977907,861,03/12/2019 12:41pm,Snow Emergency,"925 37th st e,Minneapolis,MN",44.935759,-93.260944,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.267353999587385,45.000500999821327,862,03/12/2019 12:41pm,Snow Emergency,"1221 main st ne,Minneapolis,MN",45.000501,-93.267354,3,Northeast,Sheridan,2,3,Diamond Lake
+-93.275837999623946,44.965087999911304,863,03/12/2019 12:42pm,Snow Emergency,"111 18TH ST E,Minneapolis,MN",44.965088,-93.275838,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.245005999627153,44.983119000441548,864,03/12/2019 12:42pm,Snow Emergency,"307 8th ave se,Minneapolis,MN",44.983119,-93.245006,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.234868999804462,44.988096999776758,865,03/12/2019 12:43pm,Snow Emergency,"1005 12th ave se,Minneapolis,MN",44.988097,-93.234869,2,University,Como,4,3,Diamond Lake
+-93.235556000009353,45.021574000339911,866,03/12/2019 12:44pm,Snow Emergency,"2939 ulysses st ne,Minneapolis,MN",45.021574,-93.235556,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.300674000105005,44.938246999599414,867,03/12/2019 12:45pm,Snow Emergency,"3543 humboldt ave s ,Minneapolis,MN",44.938247,-93.300674,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.299298999649068,44.941856999700803,868,03/12/2019 12:48pm,Snow Emergency,"3335 Holmes ave ,Minneapolis,MN",44.941857,-93.299299,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.269829000407981,45.009036999557964,869,03/12/2019 12:50pm,Snow Emergency,"2101 grand st ne,Minneapolis,MN",45.009037,-93.269829,3,Northeast,Bottineau,2,3,Diamond Lake
+-93.286832000296556,45.000700000005054,870,03/12/2019 12:54pm,Snow Emergency,"2113 6th st n,Minneapolis,MN",45.0007,-93.286832,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.286852000319527,45.014165999561271,871,03/12/2019 12:54pm,Snow Emergency,"3231 6th st n ,Minneapolis,MN",45.014166,-93.286852,4,Camden,McKinley,1,3,Diamond Lake
+-93.246572999943965,44.983567999563604,872,03/12/2019 12:54pm,Snow Emergency,"303 7th ave se,Minneapolis,MN",44.983568,-93.246573,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.237577999724863,44.985810999578007,873,03/12/2019 12:55pm,Snow Emergency,"725 11th ave se,Minneapolis,MN",44.985811,-93.237578,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.286718999582149,45.003374000110057,874,03/12/2019 12:56pm,Snow Emergency,"2325 6th st n,Minneapolis,MN",45.003374,-93.286719,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.286829000158207,45.014093999838281,875,03/12/2019 12:56pm,Snow Emergency,"3229 6th st n ,Minneapolis,MN",45.014094,-93.286829,4,Camden,McKinley,1,3,Diamond Lake
+-93.313038000103575,44.995396000025437,876,03/12/2019 12:57pm,Snow Emergency,"1604 Thomas Ave N,Minneapolis,MN",44.995396,-93.313038,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.247501999617555,44.990549999582868,877,03/12/2019 12:58pm,Snow Emergency,"311 8th se ,Minneapolis,MN",44.99055,-93.247502,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.31496599998087,44.98777400017002,878,03/12/2019 12:58pm,Snow Emergency,"927 UPTON AVE N,Minneapolis,MN",44.987774,-93.314966,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.273336000256165,44.964819000096838,879,03/12/2019 12:59pm,Snow Emergency,"217 18th st e,Minneapolis,MN",44.964819,-93.273336,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.249737000162384,44.996915999973453,880,03/12/2019 12:59pm,Snow Emergency,"835 summer st ne,Minneapolis,MN",44.996916,-93.249737,3,Northeast,St. Anthony East,2,3,Diamond Lake
+-93.239123999972605,44.981282000264173,881,03/12/2019 01:00pm,Snow Emergency,"315 12th ave se,Minneapolis,MN",44.981282,-93.239124,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.24836599989095,44.937597000201436,882,03/12/2019 01:01pm,Snow Emergency,"1805 36th st,Minneapolis,MN",44.937597,-93.248366,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.273540999817271,44.96609799972299,883,03/12/2019 01:03pm,Snow Emergency,"209 17th st e,Minneapolis,MN",44.966098,-93.273541,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.247419000286584,44.937738999555222,884,03/12/2019 01:03pm,Snow Emergency,"1823 36th st,Minneapolis,MN",44.937739,-93.247419,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.245371000271405,44.982624000097587,885,03/12/2019 01:05pm,Snow Emergency,"217 8th ave se,Minneapolis,MN",44.982624,-93.245371,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.269844000200408,45.012364000098557,886,03/12/2019 01:09pm,Snow Emergency,"2409 grand st ne,Minneapolis,MN",45.012364,-93.269844,3,Northeast,Bottineau,2,3,Diamond Lake
+-93.280888999627621,44.959965000184638,887,03/12/2019 01:11pm,Snow Emergency,"2301 Pillsbury Ave S,Minneapolis,MN",44.959965,-93.280889,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.27521799981082,44.966083999976661,888,03/12/2019 01:11pm,Snow Emergency,"107 17TH ST E,Minneapolis,MN",44.966084,-93.275218,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.269748000269942,45.009638000293535,889,03/12/2019 01:11pm,Snow Emergency,"2125 grand st ne,Minneapolis,MN",45.009638,-93.269748,3,Northeast,Bottineau,2,3,Diamond Lake
+-93.27524400011049,44.966083999976661,890,03/12/2019 01:12pm,Snow Emergency,"105 17TH ST E,Minneapolis,MN",44.966084,-93.275244,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.300689999943529,44.995228000371981,891,03/12/2019 01:13pm,Snow Emergency,"1223 JAMES ave n,Minneapolis,MN",44.995228,-93.30069,5,Near North,Near - North,1,3,Diamond Lake
+-93.280882000204087,44.960419999583394,892,03/12/2019 01:14pm,Snow Emergency,"2215 Pillsbury ave ,Minneapolis,MN",44.96042,-93.280882,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.314959999704172,44.987778000354467,893,03/12/2019 01:15pm,Snow Emergency,"929 UPTON AVE N,Minneapolis,MN",44.987778,-93.31496,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.269866000315631,45.012299999845197,894,03/12/2019 01:15pm,Snow Emergency,"2407 grand st ne,Minneapolis,MN",45.0123,-93.269866,3,Northeast,Bottineau,2,3,Diamond Lake
+-93.282786999920063,44.951076000357205,895,03/12/2019 01:16pm,Snow Emergency,"2825 Pleasant Ave,Minneapolis,MN",44.951076,-93.282787,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.299426000109804,44.99879700038133,896,03/12/2019 01:18pm,Snow Emergency,"1911 IRVING AVE N,Minneapolis,MN",44.998797,-93.299426,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.234915000127103,44.988170000445223,897,03/12/2019 01:18pm,Snow Emergency,"1007 12th ave se,Minneapolis,MN",44.98817,-93.234915,2,University,Como,4,3,Diamond Lake
+-93.25347099968684,44.946703000143373,898,03/12/2019 01:21pm,Snow Emergency,"3055 15th ave so,Minneapolis,MN",44.946703,-93.253471,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.286782999835509,45.015010999857793,899,03/12/2019 01:21pm,Snow Emergency,"3303 6th st n ,Minneapolis,MN",45.015011,-93.286783,4,Camden,McKinley,1,3,Diamond Lake
+-93.258402999598729,44.935757999931809,900,03/12/2019 01:21pm,Snow Emergency,"3703 11TH AV S,Minneapolis,MN",44.935758,-93.258403,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.282572999943966,44.952312999845105,901,03/12/2019 01:22pm,Snow Emergency,"2747 Pleasant Ave,Minneapolis,MN",44.952313,-93.282573,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.286698999559121,45.002658000366466,902,03/12/2019 01:23pm,Snow Emergency,"2303 6th st n ,Minneapolis,MN",45.002658,-93.286699,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.275346000317597,44.96394100007717,903,03/12/2019 01:23pm,Snow Emergency,"123 19TH ST E,Minneapolis,MN",44.963941,-93.275346,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.286510999882694,45.01677500026608,904,03/12/2019 01:24pm,Snow Emergency,"3403 6th st n ,Minneapolis,MN",45.016775,-93.286511,4,Camden,McKinley,1,3,Diamond Lake
+-93.286900999881198,45.00096899981952,905,03/12/2019 01:26pm,Snow Emergency,"2123 6th st n,Minneapolis,MN",45.000969,-93.286901,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.234886999735238,44.990958000411467,906,03/12/2019 01:26pm,Snow Emergency,"1101 12th ave se,Minneapolis,MN",44.990958,-93.234887,2,University,Como,4,3,Diamond Lake
+-93.262185000437398,44.937602999578814,907,03/12/2019 01:27pm,Snow Emergency,"807 36TH ST E,Minneapolis,MN",44.937603,-93.262185,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.272765000004711,44.965216999564916,908,03/12/2019 01:27pm,Snow Emergency,"301 18th st e,Minneapolis,MN",44.965217,-93.272765,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.274940999627404,44.966029000138292,909,03/12/2019 01:28pm,Snow Emergency,"1707 STEVENS AVE S,Minneapolis,MN",44.966029,-93.274941,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.289831000100548,45.000516999659851,910,03/12/2019 01:28pm,Snow Emergency,"2105 aldrich ave n,Minneapolis,MN",45.000517,-93.289831,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.314954000326793,44.985950999738918,911,03/12/2019 01:29pm,Snow Emergency,"729 UPTON AVE N,Minneapolis,MN",44.985951,-93.314954,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.269827000315786,45.009365000294565,912,03/12/2019 01:30pm,Snow Emergency,"2115 grand st ne,Minneapolis,MN",45.009365,-93.269827,3,Northeast,Bottineau,2,3,Diamond Lake
+-93.261702999793556,44.937601000385939,913,03/12/2019 01:31pm,Snow Emergency,"831 36th St E,Minneapolis,MN",44.937601,-93.261703,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.273847999585485,44.966099999815185,914,03/12/2019 01:32pm,Snow Emergency,"1703 2ND AVE S ,Minneapolis,MN",44.9661,-93.273848,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.234590000428113,44.991134999580595,915,03/12/2019 01:32pm,Snow Emergency,"1117 12th ave se,Minneapolis,MN",44.991135,-93.23459,2,University,Como,4,3,Diamond Lake
+-93.25085699965075,44.943649999647846,916,03/12/2019 01:33pm,Snow Emergency,"3233 16th av s,Minneapolis,MN",44.94365,-93.250857,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.237786000323638,44.985546999994085,917,03/12/2019 01:34pm,Snow Emergency,"707 11th ave se,Minneapolis,MN",44.985547,-93.237786,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.243338000048652,44.943084999673033,918,03/12/2019 01:35pm,Snow Emergency,"3255 20th ave s,Minneapolis,MN",44.943085,-93.243338,9,Powderhorn,Corcoran,6,3,Diamond Lake
+-93.237621999955309,44.98575499969354,919,03/12/2019 01:36pm,Snow Emergency,"715 11th Ave se,Minneapolis,MN",44.985755,-93.237622,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.299253000225747,44.943895000154214,920,03/12/2019 01:44pm,Snow Emergency,"3225 holmes ave,Minneapolis,MN",44.943895,-93.299253,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.302207999799293,44.973824999923863,921,03/12/2019 01:44pm,Snow Emergency,"1909 Morgan Ave N,Minneapolis,MN",44.973825,-93.302208,7,Calhoun Isle,Bryn - Mawr,3,3,Diamond Lake
+-93.25885699985065,45.011882000354092,922,03/12/2019 01:45pm,Snow Emergency,"2327 6th st ne,Minneapolis,MN",45.011882,-93.258857,1,Northeast,Holland,2,3,Diamond Lake
+-93.234802000312015,44.983992000230671,923,03/12/2019 01:49pm,Snow Emergency,"701 13th ave se,Minneapolis,MN",44.983992,-93.234802,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.299258999603126,44.945101000011221,924,03/12/2019 01:50pm,Snow Emergency,"3143 Holmes ave ,Minneapolis,MN",44.945101,-93.299259,10,Calhoun Isle,ECCO,5,3,Diamond Lake
+-93.238154000206919,45.015775000016276,925,03/12/2019 01:51pm,Snow Emergency,"2623 lincoln st ne,Minneapolis,MN",45.015775,-93.238154,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.286844999996731,45.025122000280135,926,03/12/2019 01:53pm,Snow Emergency,"3841 6th st n ,Minneapolis,MN",45.025122,-93.286845,4,Camden,Webber - Camden,1,3,Diamond Lake
+-93.274940999627404,44.966029000138292,927,03/12/2019 01:53pm,Snow Emergency,"1705 STEVENS AVE S ,Minneapolis,MN",44.966029,-93.274941,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.272443999590848,44.963954999823443,928,03/12/2019 01:55pm,Snow Emergency,"305 19th st e,Minneapolis,MN",44.963955,-93.272444,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.237658999862902,44.985739999901114,929,03/12/2019 01:55pm,Snow Emergency,"711 11th ave se,Minneapolis,MN",44.98574,-93.237659,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.287221000248906,45.020081999884439,930,03/12/2019 01:56pm,Snow Emergency,"617 36th ave n ,Minneapolis,MN",45.020082,-93.287221,4,Camden,McKinley,1,3,Diamond Lake
+-93.246337999898742,44.983670999816866,931,03/12/2019 01:59pm,Snow Emergency,"309 7th ave se ,Minneapolis,MN",44.983671,-93.246338,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.289058999573115,44.957616999824722,932,03/12/2019 02:00pm,Snow Emergency,"2447 Aldrich Ave s,Minneapolis,MN",44.957617,-93.289059,10,Calhoun Isle,Lowry Hill East,3,3,Diamond Lake
+-93.250956999765663,44.945864000123549,933,03/12/2019 02:00pm,Snow Emergency,"3121 16th ave,Minneapolis,MN",44.945864,-93.250957,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.280976000042358,44.959412999910057,934,03/12/2019 02:01pm,Snow Emergency,"2321 Pillsbury Ave,Minneapolis,MN",44.959413,-93.280976,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.250956999765663,44.94597299975419,935,03/12/2019 02:02pm,Snow Emergency,"3117 16th ave,Minneapolis,MN",44.945973,-93.250957,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.242870000050402,44.986201999622665,936,03/12/2019 02:02pm,Snow Emergency,"719 6th street se ,Minneapolis,MN",44.986202,-93.24287,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.289034000218919,44.958254999568624,937,03/12/2019 02:03pm,Snow Emergency,"2425 Aldrich Ave s,Minneapolis,MN",44.958255,-93.289034,10,Calhoun Isle,Lowry Hill East,3,3,Diamond Lake
+-93.233595000408911,44.98935000000256,938,03/12/2019 02:04pm,Snow Emergency,"1053 13th ave se,Minneapolis,MN",44.98935,-93.233595,2,University,Como,4,3,Diamond Lake
+-93.25887199964302,45.010173999830272,939,03/12/2019 02:05pm,Snow Emergency,"2205 6th st ne,Minneapolis,MN",45.010174,-93.258872,1,Northeast,Holland,2,3,Diamond Lake
+-93.286827000065955,45.001218999657169,940,03/12/2019 02:08pm,Snow Emergency,"2131 6th st n,Minneapolis,MN",45.001219,-93.286827,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.260072000122648,45.011877000123491,941,03/12/2019 02:09pm,Snow Emergency,"2325 5th st ne,Minneapolis,MN",45.011877,-93.260072,1,Northeast,Holland,2,3,Diamond Lake
+-93.289875000330937,45.004269000014403,942,03/12/2019 02:14pm,Snow Emergency,"2413 Aldrich av n ,Minneapolis,MN",45.004269,-93.289875,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.312373000013906,44.986422999921558,943,03/12/2019 02:15pm,Snow Emergency,"809 SHERIDAN AVE N,Minneapolis,MN",44.986423,-93.312373,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.238022999561736,45.020700999651467,944,03/12/2019 02:15pm,Snow Emergency,"2905 lincoln st ne,Minneapolis,MN",45.020701,-93.238023,1,Northeast,Audubon Park,2,3,Diamond Lake
+-93.250900999881196,44.946994000073119,945,03/12/2019 02:16pm,Snow Emergency,"3043 16th av s,Minneapolis,MN",44.946994,-93.250901,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.282495999990374,44.954549000436089,946,03/12/2019 02:17pm,Snow Emergency,"2629 pleasant ave ,Minneapolis,MN",44.954549,-93.282496,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.235066999942035,44.984191000414398,947,03/12/2019 02:19pm,Snow Emergency,"703 13th ave se,Minneapolis,MN",44.984191,-93.235067,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.283867000261807,44.961350000202401,948,03/12/2019 02:19pm,Snow Emergency,"2117 grand ave n,Minneapolis,MN",44.96135,-93.283867,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.237595999655639,44.985789000362104,949,03/12/2019 02:19pm,Snow Emergency,"721 11th ave se,Minneapolis,MN",44.985789,-93.237596,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.234516999759705,44.984808000089174,950,03/12/2019 02:23pm,Snow Emergency,"723 13th ave se,Minneapolis,MN",44.984808,-93.234517,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.236677999589972,44.986243999760859,951,03/12/2019 02:24pm,Snow Emergency,"805 11th ave se,Minneapolis,MN",44.986244,-93.236678,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.234583000105317,44.984697000366339,952,03/12/2019 02:24pm,Snow Emergency,"719 13th Ave SE ,Minneapolis,MN",44.984697,-93.234583,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.249582000209102,44.943353000340721,953,03/12/2019 02:26pm,Snow Emergency,"3237 17 ave s,Minneapolis,MN",44.943353,-93.249582,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.25347099968684,44.945282000264172,954,03/12/2019 02:27pm,Snow Emergency,"3143 15th Avenue South,Minneapolis,MN",44.945282,-93.253471,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.273509000140223,44.963683999916725,955,03/12/2019 02:27pm,Snow Emergency,"213 19TH ST E,Minneapolis,MN",44.963684,-93.273509,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.269693999578408,44.951429000448059,956,03/12/2019 02:30pm,Snow Emergency,"1931 4TH AVE S ,Minneapolis,MN",44.951429,-93.269694,6,Phillips,Phillips West,3,3,Diamond Lake
+-93.25347099968684,44.945027000195978,957,03/12/2019 02:30pm,Snow Emergency,"3153 15th Ave S,Minneapolis,MN",44.945027,-93.253471,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.282564999575015,44.95315700009553,958,03/12/2019 02:31pm,Snow Emergency,"2715 Pleasant Ave S,Minneapolis,MN",44.953157,-93.282565,10,Powderhorn,Whittier,3,3,Diamond Lake
+-93.271186000033822,44.964268999914452,959,03/12/2019 02:32pm,Snow Emergency,"1825 CLINTON AVE S,Minneapolis,MN",44.964269,-93.271186,6,Central,Steven's Square - Loring Heights,3,3,Diamond Lake
+-93.254455000098119,44.998992000380554,960,03/12/2019 02:32pm,Snow Emergency,"1125 jefferson st ne,Minneapolis,MN",44.998992,-93.254455,1,Northeast,Logan Park,2,3,Diamond Lake
+-93.312360000313731,44.992061000015212,961,03/12/2019 02:33pm,Snow Emergency,"1313 SHERIDAN AVE N,Minneapolis,MN",44.992061,-93.31236,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.254455000098119,44.999949999592843,962,03/12/2019 02:35pm,Snow Emergency,"1211 jefferson st ne,Minneapolis,MN",44.99995,-93.254455,1,Northeast,Logan Park,2,3,Diamond Lake
+-93.255938000138542,45.000097000076551,963,03/12/2019 02:37pm,Snow Emergency,"1207 adams st ne,Minneapolis,MN",45.000097,-93.255938,1,Northeast,Logan Park,2,3,Diamond Lake
+-93.30349699988659,44.988524999729009,964,03/12/2019 02:39pm,Snow Emergency,"1017 Logan Ave N,Minneapolis,MN",44.988525,-93.303497,5,Near North,Near - North,1,3,Diamond Lake
+-93.25594999979262,45.000205999707191,965,03/12/2019 02:40pm,Snow Emergency,"1211 adams st ne,Minneapolis,MN",45.000206,-93.25595,1,Northeast,Logan Park,2,3,Diamond Lake
+-93.234411000267414,44.984919999858164,966,03/12/2019 02:43pm,Snow Emergency,"727 13th ave se,Minneapolis,MN",44.98492,-93.234411,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.314937000442171,44.997928999923488,967,03/12/2019 02:43pm,Snow Emergency,"1801 uptown av n ,Minneapolis,MN",44.997929,-93.314937,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.289559000147676,45.008836000181304,968,03/12/2019 02:47pm,Snow Emergency,"2807 aldrich ave n,Minneapolis,MN",45.008836,-93.289559,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.246080999738297,44.942934999950353,969,03/12/2019 02:49pm,Snow Emergency,"1845 33rd st e,Minneapolis,MN",44.942935,-93.246081,9,Powderhorn,Corcoran,6,3,Diamond Lake
+-93.286810000181333,45.023432999733188,970,03/12/2019 02:49pm,Snow Emergency,"3749 6th st n ,Minneapolis,MN",45.023433,-93.28681,4,Camden,McKinley,1,3,Diamond Lake
+-93.28952899966356,45.007887999631521,971,03/12/2019 02:50pm,Snow Emergency,"2701 aldrich ave n,Minneapolis,MN",45.007888,-93.289529,5,Near North,Hawthorne,1,3,Diamond Lake
+-93.311056000434064,44.993083000380238,972,03/12/2019 02:50pm,Snow Emergency,"1349 RUSSELL AVE N,Minneapolis,MN",44.993083,-93.311056,5,Near North,Willard - Hay,1,3,Diamond Lake
+-93.285585000347453,45.014657999766939,973,03/12/2019 02:52pm,Snow Emergency,"411 33rd ave n ,Minneapolis,MN",45.014658,-93.285585,4,Camden,McKinley,1,3,Diamond Lake
+-93.234485000082657,44.98495299958131,974,03/12/2019 02:53pm,Snow Emergency,"729 13th ave se,Minneapolis,MN",44.984953,-93.234485,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.243123000026401,44.986278000429422,975,03/12/2019 02:54pm,Snow Emergency,"715 6th street ,Minneapolis,MN",44.986278,-93.243123,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.236245000306496,44.984768000043232,976,03/12/2019 02:57pm,Snow Emergency,"703 12th ave se,Minneapolis,MN",44.984768,-93.236245,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.244525999974883,44.986821000289012,977,03/12/2019 02:58pm,Snow Emergency,"613 6th street se ,Minneapolis,MN",44.986821,-93.244526,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.303539000024784,44.990836000181332,978,03/12/2019 03:03pm,Snow Emergency,"1237 Logan Ave N,Minneapolis,MN",44.990836,-93.303539,5,Near North,Near - North,1,3,Diamond Lake
+-93.262372000067728,44.944408999575728,979,03/12/2019 03:06pm,Snow Emergency,"821 32nd Street East,Minneapolis,MN",44.944409,-93.262372,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.234835000035162,44.984495000044262,980,03/12/2019 03:09pm,Snow Emergency,"711 13th ave se,Minneapolis,MN",44.984495,-93.234835,3,University,Marcy Holmes,4,3,Diamond Lake
+-93.261076999703732,44.943919000361632,981,03/12/2019 03:14pm,Snow Emergency,"3227 Elliot Ave S,Minneapolis,MN",44.943919,-93.261077,9,Powderhorn,Powderhorn Park,6,3,Diamond Lake
+-93.23415900033757,44.985124000272435,982,03/12/2019 03:11pm,Snow Emergency,"803 13th Ave Se,Minneapolis,MN",44.985124,-93.234159,3,University,Marcy Holmes,4,3,Diamond Lake

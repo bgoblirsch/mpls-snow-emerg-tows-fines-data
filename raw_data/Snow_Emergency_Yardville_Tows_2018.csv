@@ -1,0 +1,729 @@
+﻿X,Y,FID,Call_Taken,Customer,Location,Latitude,Longitude,Snow_Emerg,Day,Ward,Neighborho,Community,Tow_Dist
+-93.26249,44.933471,1,02/25/2018 10:51pm,Snow Emergency,"3820 CHICAGO AVE S,Minneapolis,MN",44.933471,-93.26249,Yardville,1,8,Bancroft,Powderhorn,6
+-93.237405,45.021521,2,02/25/2018 09:58pm,Snow Emergency,"2936 Johnson St NE,Minneapolis,MN",45.021521,-93.237405,Yardville,1,1,Audubon Park,Northeast,2
+-93.261285,44.938653,3,02/26/2018 01:03pm,Snow Emergency,"3526 Elliott Avenue,Minneapolis,MN",44.938653,-93.261285,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.269084,45.000589,4,02/25/2018 10:02pm,Snow Emergency,"119 13th Ave NE,Minneapolis,MN",45.000589,-93.269084,Yardville,1,3,Sheridan,Northeast,2
+-93.248997,44.94492,5,02/26/2018 01:04pm,Snow Emergency,"3148 18th ave so,Minneapolis,MN",44.94492,-93.248997,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.246999,45.006588,6,02/25/2018 10:27pm,Snow Emergency,"1815 Central Ave NE,Minneapolis,MN",45.006588,-93.246999,Yardville,1,1,Windom Park,Northeast,2
+-93.260445,44.945102,7,02/26/2018 01:09pm,Snow Emergency,"3148 10th ave s,Minneapolis,MN",44.945102,-93.260445,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.247791,45.006193,8,02/25/2018 10:31pm,Snow Emergency,"1804 Central Ave NE,Minneapolis,MN",45.006193,-93.247791,Yardville,1,1,Logan Park,Northeast,2
+-93.253982,44.935138,9,02/26/2018 01:16pm,Snow Emergency,"3720 15th av s,Minneapolis,MN",44.935138,-93.253982,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.247128,45.006141,10,02/25/2018 10:33pm,Snow Emergency,"1801 Central Ave NE,Minneapolis,MN",45.006141,-93.247128,Yardville,1,1,Windom Park,Northeast,2
+-93.261525,44.935798,11,02/26/2018 01:27pm,Snow Emergency,"3700 ELLIOT AVE,Minneapolis,MN",44.935798,-93.261525,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.246999,45.006588,12,02/25/2018 10:35pm,Snow Emergency,"1815 Central Ave NE,Minneapolis,MN",45.006588,-93.246999,Yardville,1,1,Windom Park,Northeast,2
+-93.232616,44.908185,13,02/26/2018 01:28am,Snow Emergency,"5224 28th ave,Minneapolis,MN",44.908185,-93.232616,Yardville,1,11,Keewaydin,Nokomis,6
+-93.268566,45.000297,14,02/25/2018 10:52pm,Snow Emergency,"130 13th Ave NE,Minneapolis,MN",45.000297,-93.268566,Yardville,1,3,Sheridan,Northeast,2
+-93.261248,44.934908,15,02/26/2018 01:28pm,Snow Emergency,"3734 ELLIOT AVE,Minneapolis,MN",44.934908,-93.261248,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.269084,45.000589,16,02/25/2018 11:10pm,Snow Emergency,"119 13th Ave NE,Minneapolis,MN",45.000589,-93.269084,Yardville,1,3,Sheridan,Northeast,2
+-93.231824,44.932705,17,02/26/2018 01:31am,Snow Emergency,"3851 28th ave,Minneapolis,MN",44.932705,-93.231824,Yardville,1,12,Standish,Powderhorn,6
+-93.247591,45.011,18,02/25/2018 11:14pm,Snow Emergency,"2300 Central Ave NE,Minneapolis,MN",45.011,-93.247591,Yardville,1,1,Holland,Northeast,2
+-93.247636,45.009541,19,02/25/2018 11:16pm,Snow Emergency,"2016 Central Ave NE,Minneapolis,MN",45.009541,-93.247636,Yardville,1,1,Holland,Northeast,2
+-93.238918,44.944594,20,02/26/2018 01:31am,Snow Emergency,"3200 BLOCK 23 ave s,Minneapolis,MN",44.944594,-93.238918,Yardville,1,9,Corcoran,Powderhorn,6
+-93.24771,45.006338,21,02/25/2018 11:26pm,Snow Emergency,"1810 Central Ave NE,Minneapolis,MN",45.006338,-93.24771,Yardville,1,1,Logan Park,Northeast,2
+-93.217867,44.932538,22,02/26/2018 01:35am,Snow Emergency,"3858 38TH AVE S,Minneapolis,MN",44.932538,-93.217867,Yardville,1,12,Howe,Longfellow,6
+-93.246832,45.015855,23,02/25/2018 11:28pm,Snow Emergency,"2625 Central Ave NE,Minneapolis,MN",45.015855,-93.246832,Yardville,1,1,Audubon Park,Northeast,2
+-93.225594,44.939565,24,02/26/2018 01:36am,Snow Emergency,"3207 35TH ST E,Minneapolis,MN",44.939565,-93.225594,Yardville,1,12,Howe,Longfellow,6
+-93.269084,45.000589,25,02/25/2018 11:32pm,Snow Emergency,"119 13th Ave NE,Minneapolis,MN",45.000589,-93.269084,Yardville,1,3,Sheridan,Northeast,2
+-93.245183,44.947048,26,02/26/2018 01:44pm,Snow Emergency,"3036 19th ave so,Minneapolis,MN",44.947048,-93.245183,Yardville,2,9,Corcoran,Powderhorn,6
+-93.251184,44.997881,27,02/26/2018 01:06pm,Snow Emergency,"732 quincy st ne,Minneapolis,MN",44.997881,-93.251184,Yardville,2,3,St. Anthony East,Northeast,2
+-93.26174,44.947489,28,02/26/2018 01:45pm,Snow Emergency,"3024 elliot AVE,Minneapolis,MN",44.947489,-93.26174,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.27206,45.016324,29,02/26/2018 01:11am,Snow Emergency,"2641 Marshall St NE,Minneapolis,MN",45.016324,-93.27206,Yardville,1,1,Marshall Terrace,Northeast,2
+-93.24523,44.946265,30,02/26/2018 01:46pm,Snow Emergency,"3104 19th ave s,Minneapolis,MN",44.946265,-93.24523,Yardville,2,9,Corcoran,Powderhorn,6
+-93.219108,44.946472,31,02/26/2018 01:47pm,Snow Emergency,"3106 37th ave s,Minneapolis,MN",44.946472,-93.219108,Yardville,2,2,Longfellow,Longfellow,6
+-93.256639,44.947602,32,02/26/2018 01:47pm,Snow Emergency,"3014 13th ave,Minneapolis,MN",44.947602,-93.256639,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.253982,44.939037,33,02/26/2018 01:48pm,Snow Emergency,"3512 15th ave s,Minneapolis,MN",44.939037,-93.253982,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.251139,44.933299,34,02/26/2018 01:51pm,Snow Emergency,"3822 16th Ave South,Minneapolis,MN",44.933299,-93.251139,Yardville,2,8,Bancroft,Powderhorn,6
+-93.219813,44.905377,35,02/26/2018 02:00am,Snow Emergency,"3640 54th St E,Minneapolis,MN",44.905377,-93.219813,Yardville,1,12,Minnehaha,Nokomis,6
+-93.252444,44.908744,36,02/26/2018 02:03am,Snow Emergency,"5200 BLOCK BLOOMINGTON AVE ,Minneapolis,MN",44.908744,-93.252444,Yardville,1,11,Hale,Nokomis,6
+-93.225005,44.939572,37,02/26/2018 02:07am,Snow Emergency,"3250 35th St E,Minneapolis,MN",44.939572,-93.225005,Yardville,1,12,Howe,Longfellow,6
+-93.230692,44.942687,38,02/26/2018 02:09am,Snow Emergency,"3300-3399 Minnehaha Avenue South,Minneapolis,MN",44.942687,-93.230692,Yardville,1,9,Longfellow,Longfellow,6
+-93.232039,44.942952,39,02/26/2018 02:09am,Snow Emergency,"2800 33st ST e,Minneapolis,MN",44.942952,-93.232039,Yardville,1,9,Longfellow,Longfellow,6
+-93.258863,44.947943,40,02/26/2018 02:11pm,Snow Emergency,"3008 11th av s,Minneapolis,MN",44.947943,-93.258863,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.231585,44.945766,41,02/26/2018 02:16pm,Snow Emergency,"3146 28TH AVE S,Minneapolis,MN",44.945766,-93.231585,Yardville,2,2,Longfellow,Longfellow,6
+-93.231929,44.944599,42,02/26/2018 02:24am,Snow Emergency,"3200 minnehaha AVE S,Minneapolis,MN",44.944599,-93.231929,Yardville,1,9,Longfellow,Longfellow,6
+-93.229869,44.942357,43,02/26/2018 02:26am,Snow Emergency,"3320 MINNEHAHA AVE S,Minneapolis,MN",44.942357,-93.229869,Yardville,1,9,Longfellow,Longfellow,6
+-93.231929,44.944599,44,02/26/2018 02:27am,Snow Emergency,"3200 minnehaha AVE S,Minneapolis,MN",44.944599,-93.231929,Yardville,1,9,Longfellow,Longfellow,6
+-93.261565,44.93853,45,02/26/2018 02:27pm,Snow Emergency,"3530 ELLIOT AVE,Minneapolis,MN",44.93853,-93.261565,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.226443,44.937064,46,02/26/2018 02:28am,Snow Emergency,"3620 MINNEHAHA AVE S,Minneapolis,MN",44.937064,-93.226443,Yardville,1,12,Howe,Longfellow,6
+-93.224214,44.899102,47,02/26/2018 02:29pm,Snow Emergency,"5736 33rd ave s,Minneapolis,MN",44.899102,-93.224214,Yardville,2,11,Wenonah,Nokomis,6
+-93.2423,44.940419,48,02/26/2018 02:30pm,Snow Emergency,"3426 21ST AVE S,Minneapolis,MN",44.940419,-93.2423,Yardville,2,9,Corcoran,Powderhorn,6
+-93.240981,44.945965,49,02/26/2018 02:31pm,Snow Emergency,"3116 22ND AVE S,Minneapolis,MN",44.945965,-93.240981,Yardville,2,9,Corcoran,Powderhorn,6
+-93.247513,44.928642,50,02/26/2018 02:38pm,Snow Emergency,"1820 41st st e,Minneapolis,MN",44.928642,-93.247513,Yardville,2,8,Bancroft,Powderhorn,6
+-93.226764,44.937605,51,02/26/2018 02:47am,Snow Emergency,"3600-3699 Minnehaha Avenue,Minneapolis,MN",44.937605,-93.226764,Yardville,1,12,Howe,Longfellow,6
+-93.251103,44.943153,52,02/26/2018 02:52pm,Snow Emergency,"1606 33rd st e,Minneapolis,MN",44.943153,-93.251103,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.225548,44.935761,53,02/26/2018 02:53am,Snow Emergency,"3700 minnehaha ave,Minneapolis,MN",44.935761,-93.225548,Yardville,1,12,Howe,Longfellow,6
+-93.233255,44.928844,54,02/26/2018 02:54pm,Snow Emergency,"2710 41st st e,Minneapolis,MN",44.928844,-93.233255,Yardville,2,12,Standish,Powderhorn,6
+-93.221112,44.928925,55,02/26/2018 02:56pm,Snow Emergency,"3516 41st st,Minneapolis,MN",44.928925,-93.221112,Yardville,2,12,Hiawatha,Longfellow,6
+-93.237525,44.943767,56,02/26/2018 02:58pm,Snow Emergency,"3228 24th ave,Minneapolis,MN",44.943767,-93.237525,Yardville,2,9,Corcoran,Powderhorn,6
+-93.22971,44.942567,57,02/26/2018 03:14am,Snow Emergency,"3317 MINNEHAHA AVE S,Minneapolis,MN",44.942567,-93.22971,Yardville,2,2,Longfellow,Longfellow,6
+-93.22328,44.933315,58,02/26/2018 03:15am,Snow Emergency,"3830 MINNEHAHA AVE S,Minneapolis,MN",44.933315,-93.22328,Yardville,1,12,Howe,Longfellow,6
+-93.226764,44.937605,59,02/26/2018 03:20am,Snow Emergency,"3600 Minnehaha Ave,Minneapolis,MN",44.937605,-93.226764,Yardville,1,12,Howe,Longfellow,6
+-93.224845,44.935471,60,02/26/2018 03:25am,Snow Emergency,"3701-3799 Minnehaha Avenue,Minneapolis,MN",44.935471,-93.224845,Yardville,1,12,Howe,Longfellow,6
+-93.225226,44.935974,61,02/26/2018 03:36am,Snow Emergency,"3698 Minnehaha Ave,Minneapolis,MN",44.935974,-93.225226,Yardville,1,12,Howe,Longfellow,6
+-93.216774,44.924326,62,02/26/2018 04:25am,Snow Emergency,"4329 MINNEHAHA AVE S,Minneapolis,MN",44.924326,-93.216774,Yardville,1,12,Hiawatha,Longfellow,6
+-93.217814,44.924497,63,02/26/2018 04:26am,Snow Emergency,"4320 MINNEHAHA AVE S,Minneapolis,MN",44.924497,-93.217814,Yardville,1,12,Hiawatha,Longfellow,6
+-93.25519,44.939322,64,02/26/2018 08:33am,Snow Emergency,"3504 14th ave s ,Minneapolis,MN",44.939322,-93.25519,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.25521,44.938137,65,02/26/2018 08:53am,Snow Emergency,"3538 14th ave S,Minneapolis,MN",44.938137,-93.25521,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.2552,44.938055,66,02/26/2018 08:54am,Snow Emergency,"3542 14th ave,Minneapolis,MN",44.938055,-93.2552,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.2552,44.929309,67,02/26/2018 09:00am,Snow Emergency,"4040 14th av s,Minneapolis,MN",44.929309,-93.2552,Yardville,2,8,Bancroft,Powderhorn,6
+-93.256496,44.924461,68,02/26/2018 09:21am,Snow Emergency,"4318 13th ave s,Minneapolis,MN",44.924461,-93.256496,Yardville,2,11,Northrop,Nokomis,6
+-93.257465,44.929475,69,02/26/2018 09:34am,Snow Emergency,"4034 12th ave s ,Minneapolis,MN",44.929475,-93.257465,Yardville,2,8,Bancroft,Powderhorn,6
+-93.254562,44.930524,70,02/26/2018 09:49am,Snow Emergency,"1428 40th st E,Minneapolis,MN",44.930524,-93.254562,Yardville,2,8,Bancroft,Powderhorn,6
+-93.2552,44.93452,71,02/26/2018 09:51am,Snow Emergency,"3736 14th ave,Minneapolis,MN",44.93452,-93.2552,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.257754,44.928398,72,02/26/2018 10:02am,Snow Emergency,"4108 12th ave s,Minneapolis,MN",44.928398,-93.257754,Yardville,2,8,Bancroft,Powderhorn,6
+-93.257754,44.935577,73,02/26/2018 10:07am,Snow Emergency,"3708 12th av s,Minneapolis,MN",44.935577,-93.257754,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.254934,44.930335,74,02/26/2018 10:18am,Snow Emergency,"4002 14TH AVE S ,Minneapolis,MN",44.930335,-93.254934,Yardville,2,8,Bancroft,Powderhorn,6
+-93.257459,44.930406,75,02/26/2018 10:21am,Snow Emergency,"4002 12TH AVE S,Minneapolis,MN",44.930406,-93.257459,Yardville,2,8,Bancroft,Powderhorn,6
+-93.25376,44.946069,76,02/26/2018 10:21am,Snow Emergency,"3114 15th ave s,Minneapolis,MN",44.946069,-93.25376,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.258972,44.933429,77,02/26/2018 10:25am,Snow Emergency,"3820 11th ave s,Minneapolis,MN",44.933429,-93.258972,Yardville,2,8,Bancroft,Powderhorn,6
+-93.253762,44.946291,78,02/26/2018 10:27am,Snow Emergency,"3106 15th ave s,Minneapolis,MN",44.946291,-93.253762,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.258753,44.938379,79,02/26/2018 10:42am,Snow Emergency,"3536 11th av s,Minneapolis,MN",44.938379,-93.258753,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.258773,44.940044,80,02/26/2018 10:42am,Snow Emergency,"3444 11th ave,Minneapolis,MN",44.940044,-93.258773,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.256457,44.929965,81,02/26/2018 10:44am,Snow Emergency,"4016 13th ave,Minneapolis,MN",44.929965,-93.256457,Yardville,2,8,Bancroft,Powderhorn,6
+-93.253662,44.934634,82,02/26/2018 10:57am,Snow Emergency,"3734 15th ave s,Minneapolis,MN",44.934634,-93.253662,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.253925,44.946409,83,02/26/2018 11:01am,Snow Emergency,"3102 15TH AVE S,Minneapolis,MN",44.946409,-93.253925,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.259011,44.934813,84,02/26/2018 11:06am,Snow Emergency,"3736 11th ave s,Minneapolis,MN",44.934813,-93.259011,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.254129,44.946785,85,02/26/2018 11:06am,Snow Emergency,"3052 15TH AVE S,Minneapolis,MN",44.946785,-93.254129,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.260039,44.940151,86,02/26/2018 11:19am,Snow Emergency,"3440 10th av s,Minneapolis,MN",44.940151,-93.260039,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.251409,44.939092,87,02/26/2018 11:23am,Snow Emergency,"3512 16th Ave South,Minneapolis,MN",44.939092,-93.251409,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.250263,44.934497,88,02/26/2018 11:26am,Snow Emergency,"3748 17th Ave South,Minneapolis,MN",44.934497,-93.250263,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.261525,44.9245,89,02/26/2018 11:35am,Snow Emergency,"4320 Elliott Avenue,Minneapolis,MN",44.9245,-93.261525,Yardville,2,11,Northrop,Nokomis,6
+-93.23121,44.942798,90,02/26/2018 11:44am,Snow Emergency,"2829 33RD ST E,Minneapolis,MN",44.942798,-93.23121,Yardville,2,9,Longfellow,Longfellow,6
+-93.259603,44.930548,91,02/26/2018 11:46am,Snow Emergency,"1030 40th ST E,Minneapolis,MN",44.930548,-93.259603,Yardville,2,8,Bancroft,Powderhorn,6
+-93.258717,44.934579,92,02/26/2018 11:47am,Snow Emergency,"3746 11th ave,Minneapolis,MN",44.934579,-93.258717,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.261525,44.934522,93,02/26/2018 11:49am,Snow Emergency,"3748 Elliot ave s,Minneapolis,MN",44.934522,-93.261525,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.25905,44.940205,94,02/26/2018 11:51am,Snow Emergency,"3440 11TH AVE S,Minneapolis,MN",44.940205,-93.25905,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.260347,44.940204,95,02/26/2018 11:52am,Snow Emergency,"3438 10TH AVE S,Minneapolis,MN",44.940204,-93.260347,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.261299,44.940042,96,02/26/2018 11:56am,Snow Emergency,"3444 Elliot av s,Minneapolis,MN",44.940042,-93.261299,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.252038,44.925954,97,02/26/2018 12:00am,Snow Emergency,"4225 BLOOMINGTON AVE S,Minneapolis,MN",44.925954,-93.252038,Yardville,1,8,Northrop,Nokomis,6
+-93.252385,44.926183,98,02/26/2018 12:01am,Snow Emergency,"4220 BLOOMINGTON AVE S,Minneapolis,MN",44.926183,-93.252385,Yardville,1,8,Northrop,Nokomis,6
+-93.249564,44.908925,99,02/26/2018 12:04am,Snow Emergency,"5165 Bloomington Ave S,Minneapolis,MN",44.908925,-93.249564,Yardville,1,11,Hale,Nokomis,6
+-93.261238,44.933849,100,02/26/2018 12:06pm,Snow Emergency,"3806 Elliott Avenue,Minneapolis,MN",44.933849,-93.261238,Yardville,2,8,Bancroft,Powderhorn,6
+-93.259977,44.934577,101,02/26/2018 12:06pm,Snow Emergency,"3746 10TH AVE S,Minneapolis,MN",44.934577,-93.259977,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.252725,44.937615,102,02/26/2018 12:08am,Snow Emergency,"3600 bloomington AVE S,Minneapolis,MN",44.937615,-93.252725,Yardville,1,9,Powderhorn Park,Powderhorn,6
+-93.252411,44.935934,103,02/26/2018 12:10am,Snow Emergency,"3699 Bloomington Ave S,Minneapolis,MN",44.935934,-93.252411,Yardville,1,9,Powderhorn Park,Powderhorn,6
+-93.252764,44.923145,104,02/26/2018 12:14am,Snow Emergency,"4400 Bloomington AVE S,Minneapolis,MN",44.923145,-93.252764,Yardville,1,11,Northrop,Nokomis,6
+-93.252389,44.923145,105,02/26/2018 12:14am,Snow Emergency,"4400 BLOCK Bloomington Avenue,Minneapolis,MN",44.923145,-93.252389,Yardville,1,11,Northrop,Nokomis,6
+-93.260307,44.938347,106,02/26/2018 12:14pm,Snow Emergency,"3536 10TH AVE S,Minneapolis,MN",44.938347,-93.260307,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.261295,44.939399,107,02/26/2018 12:16pm,Snow Emergency,"3504 Elliot Ave South,Minneapolis,MN",44.939399,-93.261295,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.261565,44.938275,108,02/26/2018 12:20pm,Snow Emergency,"3538 Elliot Ave South,Minneapolis,MN",44.938275,-93.261565,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.252476,44.944733,109,02/26/2018 12:23pm,Snow Emergency,"1526 32nd st e,Minneapolis,MN",44.944733,-93.252476,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.261525,44.933903,110,02/26/2018 12:29pm,Snow Emergency,"3804 Elliot ave s,Minneapolis,MN",44.933903,-93.261525,Yardville,2,8,Bancroft,Powderhorn,6
+-93.252385,44.926606,111,02/26/2018 12:31am,Snow Emergency,"4200 BLOCK BLOOMINGTON AVE,Minneapolis,MN",44.926606,-93.252385,Yardville,1,8,Northrop,Nokomis,6
+-93.261304,44.940919,112,02/26/2018 12:31pm,Snow Emergency,"3412 Elliot av s,Minneapolis,MN",44.940919,-93.261304,Yardville,2,9,Powderhorn Park,Powderhorn,6
+-93.252457,44.94279,113,02/26/2018 12:37am,Snow Emergency,"3300 BLOCK BLOOMINGTON AVE ,Minneapolis,MN",44.94279,-93.252457,Yardville,1,9,Powderhorn Park,Powderhorn,6
+-93.251205,44.946558,114,02/26/2018 12:54am,Snow Emergency,"1600 BLOCK 31 st e,Minneapolis,MN",44.946558,-93.251205,Yardville,1,9,Powderhorn Park,Powderhorn,6
+-93.251205,44.946558,115,02/26/2018 12:54am,Snow Emergency,"1600 BLOCK 31 st e,Minneapolis,MN",44.946558,-93.251205,Yardville,1,9,Powderhorn Park,Powderhorn,6
+-93.226294,44.898881,116,02/27/2018 01:00pm,Snow Emergency,"5745 Bossen Terr,Minneapolis,MN",44.898881,-93.226294,Yardville,3,11,Wenonah,Nokomis,6
+-93.216322,44.92607,117,02/27/2018 12:06pm,Snow Emergency,"4229 39th Ave S,Minneapolis,MN",44.92607,-93.216322,Yardville,3,12,Hiawatha,Longfellow,6
+-93.221347,44.947648,118,02/27/2018 12:08pm,Snow Emergency,"3019 35th Ave S,Minneapolis,MN",44.947648,-93.221347,Yardville,2,2,Longfellow,Longfellow,6
+-93.233667,44.934111,119,02/27/2018 12:28pm,Snow Emergency,"2625 38th st e,Minneapolis,MN",44.934111,-93.233667,Yardville,3,12,Standish,Powderhorn,6
+-93.226044,44.899443,120,02/27/2018 12:59pm,Snow Emergency,"5723 Bossen Terr,Minneapolis,MN",44.899443,-93.226044,Yardville,3,11,Wenonah,Nokomis,6
+-93.270563,44.91881,121,02/25/2018 09:18pm,Snow Emergency,"4628 4TH AVE S,Minneapolis,MN",44.91881,-93.270563,Yardville,1,8,Field,Nokomis,5
+-93.262882,44.944621,122,02/25/2018 09:24pm,Snow Emergency,"3200 BLOCK CHICAGO AVE S,Minneapolis,MN",44.944621,-93.262882,Yardville,1,9,Central,Powderhorn,5
+-93.262665,44.946671,123,02/25/2018 09:31pm,Snow Emergency,"3100 BLOCK Chicago Avenue,Minneapolis,MN",44.946671,-93.262665,Yardville,1,9,Central,Powderhorn,5
+-93.262979,44.946506,124,02/25/2018 09:33pm,Snow Emergency,"3100 Chicago ave ,Minneapolis,MN",44.946506,-93.262979,Yardville,1,9,Central,Powderhorn,5
+-93.269817,44.931516,125,02/25/2018 09:38pm,Snow Emergency,"3925 4th Avenue South,Minneapolis,MN",44.931516,-93.269817,Yardville,1,8,Bryant,Powderhorn,5
+-93.270945,44.923875,126,02/25/2018 09:42pm,Snow Emergency,"4352 4th Ave S,Minneapolis,MN",44.923875,-93.270945,Yardville,1,8,Regina,Nokomis,5
+-93.26294,44.941224,127,02/25/2018 10:11pm,Snow Emergency,"3400 Chicago ave ,Minneapolis,MN",44.941224,-93.26294,Yardville,1,9,Central,Powderhorn,5
+-93.262536,44.93762,128,02/25/2018 10:13pm,Snow Emergency,"3600 BLOCK Chicago Avenue,Minneapolis,MN",44.93762,-93.262536,Yardville,1,8,Central,Powderhorn,5
+-93.262519,44.936206,129,02/25/2018 10:22pm,Snow Emergency,"3650 Chicago Ave S,Minneapolis,MN",44.936206,-93.262519,Yardville,1,8,Central,Powderhorn,5
+-93.26261,44.943325,130,02/25/2018 10:27pm,Snow Emergency,"3250 Chicago Ave S,Minneapolis,MN",44.943325,-93.26261,Yardville,1,9,Central,Powderhorn,5
+-93.269856,44.932827,131,02/25/2018 10:31pm,Snow Emergency,"3845 4th Avenue South,Minneapolis,MN",44.932827,-93.269856,Yardville,1,8,Bryant,Powderhorn,5
+-93.270524,44.944213,132,02/25/2018 10:35pm,Snow Emergency,"3220 4th Avenue South,Minneapolis,MN",44.944213,-93.270524,Yardville,1,9,Central,Powderhorn,5
+-93.262497,44.928581,133,02/25/2018 10:48pm,Snow Emergency,"4100 BLOCK Chicago Avenue,Minneapolis,MN",44.928581,-93.262497,Yardville,1,8,Bryant,Powderhorn,5
+-93.263013,44.905013,134,02/25/2018 10:53pm,Snow Emergency,"5400 BLOCK CHICAGO AVE S,Minneapolis,MN",44.905013,-93.263013,Yardville,1,11,Page,Nokomis,5
+-93.264206,44.900465,135,02/25/2018 10:56pm,Snow Emergency,"5600 BLOCK chicago AVE S,Minneapolis,MN",44.900465,-93.264206,Yardville,1,11,Diamond Lake,Nokomis,5
+-93.262497,44.928581,136,02/25/2018 10:56pm,Snow Emergency,"4100 BLOCK CHICAGO AVE,Minneapolis,MN",44.928581,-93.262497,Yardville,1,8,Bryant,Powderhorn,5
+-93.270289,44.948333,137,02/25/2018 10:59pm,Snow Emergency,"3000 block 4th ave s,Minneapolis,MN",44.948333,-93.270289,Yardville,1,9,Central,Powderhorn,5
+-93.262777,44.943067,138,02/25/2018 11:01pm,Snow Emergency,"3300 BLOCK CHICAGO ABE,Minneapolis,MN",44.943067,-93.262777,Yardville,1,9,Central,Powderhorn,5
+-93.264206,44.900465,139,02/25/2018 11:21pm,Snow Emergency,"5600 BLOCK Chicago Avenue,Minneapolis,MN",44.900465,-93.264206,Yardville,1,11,Diamond Lake,Nokomis,5
+-93.270289,44.948333,140,02/25/2018 11:31pm,Snow Emergency,"3000 block 4th ave s,Minneapolis,MN",44.948333,-93.270289,Yardville,1,9,Central,Powderhorn,5
+-93.29603,44.945171,141,02/26/2018 01:20pm,Snow Emergency,"3140 FREMONT AVE S,Minneapolis,MN",44.945171,-93.29603,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.288057,44.892079,142,02/26/2018 01:26am,Snow Emergency,"633 61st Street West,Minneapolis,MN",44.892079,-93.288057,Yardville,1,11,Windom,Southwest,5
+-93.287807,44.892078,143,02/26/2018 01:30am,Snow Emergency,"595 61st Street West,Minneapolis,MN",44.892078,-93.287807,Yardville,1,11,Windom,Southwest,5
+-93.295775,44.945979,144,02/26/2018 01:46pm,Snow Emergency,"3114 Fremont Ave South,Minneapolis,MN",44.945979,-93.295775,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.296049,44.945808,145,02/26/2018 01:52pm,Snow Emergency,"3120 freemont ave s,Minneapolis,MN",44.945808,-93.296049,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.295818,44.942109,146,02/26/2018 01:57pm,Snow Emergency,"3326 freemont ave s,Minneapolis,MN",44.942109,-93.295818,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.295772,44.946219,147,02/26/2018 01:57pm,Snow Emergency,"3108 Fremont Avenue South,Minneapolis,MN",44.946219,-93.295772,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.278463,44.905314,148,02/26/2018 01:59am,Snow Emergency,"5320 Nicollet Av,Minneapolis,MN",44.905314,-93.278463,Yardville,1,11,Tangletown,Southwest,5
+-93.277569,44.917518,149,02/26/2018 02:29am,Snow Emergency,"4707 Nicollet Ave,Minneapolis,MN",44.917518,-93.277569,Yardville,1,11,Tangletown,Southwest,5
+-93.288057,44.892079,150,02/26/2018 02:33am,Snow Emergency,"633 61st Street West,Minneapolis,MN",44.892079,-93.288057,Yardville,1,11,Windom,Southwest,5
+-93.294548,44.940217,151,02/26/2018 02:33pm,Snow Emergency,"3430 Emerson Avenue South,Minneapolis,MN",44.940217,-93.294548,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.288057,44.892079,152,02/26/2018 02:36am,Snow Emergency,"633 61st Street West,Minneapolis,MN",44.892079,-93.288057,Yardville,1,11,Windom,Southwest,5
+-93.294545,44.940707,153,02/26/2018 02:36pm,Snow Emergency,"3416 Emerson Avenue South,Minneapolis,MN",44.940707,-93.294545,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.266612,44.939005,154,02/26/2018 02:42pm,Snow Emergency,"3518 Oakland Ave South,Minneapolis,MN",44.939005,-93.266612,Yardville,2,9,Central,Powderhorn,5
+-93.278188,44.920306,155,02/26/2018 02:44am,Snow Emergency,"4534 Nicollet ave ,Minneapolis,MN",44.920306,-93.278188,Yardville,1,8,King Field,Southwest,5
+-93.266612,44.939005,156,02/26/2018 02:46pm,Snow Emergency,"3518 Oakland Ave South,Minneapolis,MN",44.939005,-93.266612,Yardville,2,9,Central,Powderhorn,5
+-93.294545,44.940886,157,02/26/2018 03:02pm,Snow Emergency,"3406 emerson ave s,Minneapolis,MN",44.940886,-93.294545,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.294856,44.942678,158,02/26/2018 03:08pm,Snow Emergency,"3304 Emerson ave s ,Minneapolis,MN",44.942678,-93.294856,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.278207,44.921636,159,02/26/2018 03:22am,Snow Emergency,"4450 NICOLLET AVE,Minneapolis,MN",44.921636,-93.278207,Yardville,1,8,King Field,Southwest,5
+-93.2793,44.89232,160,02/26/2018 03:25am,Snow Emergency,"28 61st st w ,Minneapolis,MN",44.89232,-93.2793,Yardville,1,11,Windom,Southwest,5
+-93.277677,44.921705,161,02/26/2018 03:44am,Snow Emergency,"4453 Nicollet ave S,Minneapolis,MN",44.921705,-93.277677,Yardville,1,8,King Field,Southwest,5
+-93.278266,44.922673,162,02/26/2018 03:54am,Snow Emergency,"4414 Nicollet Ave,Minneapolis,MN",44.922673,-93.278266,Yardville,1,8,King Field,Southwest,5
+-93.277519,44.924225,163,02/26/2018 04:25am,Snow Emergency,"4325 NICOLLET AVE,Minneapolis,MN",44.924225,-93.277519,Yardville,1,8,King Field,Southwest,5
+-93.277598,44.938801,164,02/26/2018 04:43am,Snow Emergency,"3521 Nicollet AVE S,Minneapolis,MN",44.938801,-93.277598,Yardville,1,8,Lyndale,Powderhorn,5
+-93.277519,44.924116,165,02/26/2018 04:53am,Snow Emergency,"4329 NICOLLET AVE S,Minneapolis,MN",44.924116,-93.277519,Yardville,1,8,King Field,Southwest,5
+-93.277923,44.942203,166,02/26/2018 05:05am,Snow Emergency,"3327 Nicollet ave,Minneapolis,MN",44.942203,-93.277923,Yardville,1,8,Lyndale,Powderhorn,5
+-93.277579,44.9425,167,02/26/2018 05:20am,Snow Emergency,"3317 NICOLLET Ave,Minneapolis,MN",44.9425,-93.277579,Yardville,1,8,Lyndale,Powderhorn,5
+-93.277559,44.942336,168,02/26/2018 05:27am,Snow Emergency,"3325 Nicollet ave ,Minneapolis,MN",44.942336,-93.277559,Yardville,1,8,Lyndale,Powderhorn,5
+-93.303395,44.948004,169,02/26/2018 09:08am,Snow Emergency,"3006 James ave s,Minneapolis,MN",44.948004,-93.303395,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.324372,44.922783,170,02/26/2018 09:12am,Snow Emergency,"4410 Beard Avenue South,Minneapolis,MN",44.922783,-93.324372,Yardville,2,13,Linden Hills,Southwest,5
+-93.303586,44.948172,171,02/26/2018 09:12am,Snow Emergency,"3000 James ave s,Minneapolis,MN",44.948172,-93.303586,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.324167,44.92303,172,02/26/2018 09:14am,Snow Emergency,"4402 BEARD AVE S,Minneapolis,MN",44.92303,-93.324167,Yardville,2,13,Linden Hills,Southwest,5
+-93.303664,44.947816,173,02/26/2018 09:15am,Snow Emergency,"3012 James Ave South,Minneapolis,MN",44.947816,-93.303664,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.303664,44.946832,174,02/26/2018 10:03am,Snow Emergency,"3044 James ave s.,Minneapolis,MN",44.946832,-93.303664,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.303406,44.945117,175,02/26/2018 10:08am,Snow Emergency,"3148 James Ave South,Minneapolis,MN",44.945117,-93.303406,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.303664,44.945557,176,02/26/2018 10:08am,Snow Emergency,"3128 james ave s,Minneapolis,MN",44.945557,-93.303664,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.321396,44.946152,177,02/26/2018 10:08am,Snow Emergency,"3100 CALHOUN BLVD W,Minneapolis,MN",44.946152,-93.321396,Yardville,2,13,West Calhoun,Calhoun Isle,5
+-93.303399,44.945983,178,02/26/2018 10:11am,Snow Emergency,"3114 James Ave South,Minneapolis,MN",44.945983,-93.303399,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.301258,44.938551,179,02/26/2018 10:51am,Snow Emergency,"3532 HUMBOLD AVE S,Minneapolis,MN",44.938551,-93.301258,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.299658,44.938859,180,02/26/2018 11:13am,Snow Emergency,"3518 holmes ave s,Minneapolis,MN",44.938859,-93.299658,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.301147,44.94195,181,02/26/2018 11:17am,Snow Emergency,"3338 humboldt ave s.,Minneapolis,MN",44.94195,-93.301147,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.301133,44.944514,182,02/26/2018 11:33am,Snow Emergency,"3202 Humboldt Ave South,Minneapolis,MN",44.944514,-93.301133,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.299849,44.945303,183,02/26/2018 11:40am,Snow Emergency,"3136 HOLMES AVE,Minneapolis,MN",44.945303,-93.299849,Yardville,2,10,ECCO,Calhoun Isle,5
+-93.262494,44.932491,184,02/26/2018 12:10am,Snow Emergency,"3858 Chicago AVE S,Minneapolis,MN",44.932491,-93.262494,Yardville,1,8,Bryant,Powderhorn,5
+-93.269856,44.93618,185,02/26/2018 12:27am,Snow Emergency,"3653 4 ave s,Minneapolis,MN",44.93618,-93.269856,Yardville,1,8,Central,Powderhorn,5
+-93.29747,44.945426,186,02/26/2018 12:30pm,Snow Emergency,"3132GIRARD AVE S,Minneapolis,MN",44.945426,-93.29747,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.285977,44.89258,187,02/26/2018 12:38am,Snow Emergency,"500 BLOCK 61st W,Minneapolis,MN",44.89258,-93.285977,Yardville,1,11,Windom,Southwest,5
+-93.297068,44.942693,188,02/26/2018 12:39pm,Snow Emergency,"3304 girard ave s. ,Minneapolis,MN",44.942693,-93.297068,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.296108,44.944294,189,02/26/2018 12:39pm,Snow Emergency,"3212 Fremont Avenue South,Minneapolis,MN",44.944294,-93.296108,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.296262,44.942493,190,02/26/2018 12:41pm,Snow Emergency,"3310 Fremont Avenue South,Minneapolis,MN",44.942493,-93.296262,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.297411,44.94173,191,02/26/2018 12:42pm,Snow Emergency,"3340 girard ave s,Minneapolis,MN",44.94173,-93.297411,Yardville,2,10,CARAG,Calhoun Isle,5
+-93.304293,44.947579,192,02/27/2018 08:45am,Snow Emergency,"3021 Knox Ave South,Minneapolis,MN",44.947579,-93.304293,Yardville,3,10,ECCO,Calhoun Isle,5
+-93.282669,44.938109,193,02/27/2018 09:45am,Snow Emergency,"3549 Pleasant Avenue South,Minneapolis,MN",44.938109,-93.282669,Yardville,3,8,Lyndale,Powderhorn,5
+-93.279229,44.941141,194,02/27/2018 11:57am,Snow Emergency,"27 34th st w,Minneapolis,MN",44.941141,-93.279229,Yardville,3,8,Lyndale,Powderhorn,5
+-93.278734,44.942927,195,02/27/2018 12:02pm,Snow Emergency,"15 33rd st w,Minneapolis,MN",44.942927,-93.278734,Yardville,3,8,Lyndale,Powderhorn,5
+-93.279013,44.941165,196,02/27/2018 12:12pm,Snow Emergency,"21 34th Street West,Minneapolis,MN",44.941165,-93.279013,Yardville,3,8,Lyndale,Powderhorn,5
+-93.220587,44.965225,197,02/25/2018 09:13pm,Snow Emergency,"20 27TH AVE SE,Minneapolis,MN",44.965225,-93.220587,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.220587,44.965225,198,02/25/2018 09:13pm,Snow Emergency,"20 27TH AVE SE,Minneapolis,MN",44.965225,-93.220587,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.220007,44.965476,199,02/25/2018 09:14pm,Snow Emergency,"24 27TH AVE SE,Minneapolis,MN",44.965476,-93.220007,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.253406,44.986213,200,02/25/2018 09:42pm,Snow Emergency,"203 university ave se,Minneapolis,MN",44.986213,-93.253406,Yardville,1,3,Marcy Holmes,University,4
+-93.251351,44.9857,201,02/25/2018 09:48pm,Snow Emergency,"307 university ave se,Minneapolis,MN",44.9857,-93.251351,Yardville,1,3,Marcy Holmes,University,4
+-93.246658,44.984166,202,02/25/2018 09:56pm,Snow Emergency,"613 university Ave se,Minneapolis,MN",44.984166,-93.246658,Yardville,1,3,Marcy Holmes,University,4
+-93.24616,44.983916,203,02/25/2018 10:33pm,Snow Emergency,"311 university ave se,Minneapolis,MN",44.983916,-93.24616,Yardville,1,3,Marcy Holmes,University,4
+-93.226943,44.990781,204,02/25/2018 10:33pm,Snow Emergency,"1098 18TH AVE SE,Minneapolis,MN",44.990781,-93.226943,Yardville,1,1,Como,University,4
+-93.226942,44.988662,205,02/25/2018 10:36pm,Snow Emergency,"1028 18TH AVE SE,Minneapolis,MN",44.988662,-93.226942,Yardville,1,1,Como,University,4
+-93.226942,44.988362,206,02/25/2018 10:41pm,Snow Emergency,"1016 18th ave se,Minneapolis,MN",44.988362,-93.226942,Yardville,1,1,Como,University,4
+-93.250663,44.985462,207,02/25/2018 10:43pm,Snow Emergency,"327 university ave SE ,Minneapolis,MN",44.985462,-93.250663,Yardville,1,3,Marcy Holmes,University,4
+-93.227115,44.969981,208,02/25/2018 10:46pm,Snow Emergency,"607 oak st se,Minneapolis,MN",44.969981,-93.227115,Yardville,2,2,University of Minnesota,University,4
+-93.226942,44.98847,209,02/25/2018 10:46pm,Snow Emergency,"1020 18th ave se,Minneapolis,MN",44.98847,-93.226942,Yardville,1,1,Como,University,4
+-93.244549,44.963551,210,02/25/2018 11:00pm,Snow Emergency,"900 20th Ave s ,Minneapolis,MN",44.963551,-93.244549,Yardville,1,6,Seward,Longfellow,4
+-93.244086,44.963975,211,02/25/2018 11:03pm,Snow Emergency,"900 BLOCK 20TH AVE S,Minneapolis,MN",44.963975,-93.244086,Yardville,1,6,Seward,Longfellow,4
+-93.22872,44.972551,212,02/25/2018 11:13pm,Snow Emergency,"606 DELAWARE ST SE,Minneapolis,MN",44.972551,-93.22872,Yardville,2,2,University of Minnesota,University,4
+-93.240929,44.963997,213,02/25/2018 11:20pm,Snow Emergency,"2199 9TH S,Minneapolis,MN",44.963997,-93.240929,Yardville,1,6,Seward,Longfellow,4
+-93.23544,44.964651,214,02/25/2018 11:43pm,Snow Emergency,"2604 BUTLER PL,Minneapolis,MN",44.964651,-93.23544,Yardville,2,2,Cedar Riverside,University,4
+-93.256715,44.987009,215,02/26/2018 01:00am,Snow Emergency,"205 BANK ST ,Minneapolis,MN",44.987009,-93.256715,Yardville,1,3,Nicollet Island - East Bank,University,4
+-93.221306,44.985837,216,02/26/2018 01:00pm,Snow Emergency,"874 22nd ave se,Minneapolis,MN",44.985837,-93.221306,Yardville,2,2,Como,University,4
+-93.24622,44.968116,217,02/26/2018 01:01pm,Snow Emergency,"1822 6th st s,Minneapolis,MN",44.968116,-93.24622,Yardville,2,6,Cedar Riverside,University,4
+-93.247755,44.987517,218,02/26/2018 01:03pm,Snow Emergency,"414 6th st se,Minneapolis,MN",44.987517,-93.247755,Yardville,2,3,Marcy Holmes,University,4
+-93.238615,44.983813,219,02/26/2018 01:05pm,Snow Emergency,"520 11TH AVE SE,Minneapolis,MN",44.983813,-93.238615,Yardville,2,3,Marcy Holmes,University,4
+-93.233836,44.978762,220,02/26/2018 01:06am,Snow Emergency,"325 16th Ave se,Minneapolis,MN",44.978762,-93.233836,Yardville,2,2,University of Minnesota,University,4
+-93.224201,44.989262,221,02/26/2018 01:07pm,Snow Emergency,"1046 20th Ave SE ,Minneapolis,MN",44.989262,-93.224201,Yardville,2,1,Como,University,4
+-93.235592,44.985008,222,02/26/2018 01:08pm,Snow Emergency,"710 12th ave se,Minneapolis,MN",44.985008,-93.235592,Yardville,2,3,Marcy Holmes,University,4
+-93.238494,44.983337,223,02/26/2018 01:09pm,Snow Emergency,"508 11TH AVE SE,Minneapolis,MN",44.983337,-93.238494,Yardville,2,3,Marcy Holmes,University,4
+-93.22141,44.988029,224,02/26/2018 01:10pm,Snow Emergency,"1002 22nd Ave SE ,Minneapolis,MN",44.988029,-93.22141,Yardville,2,1,Como,University,4
+-93.230776,44.989888,225,02/26/2018 01:16pm,Snow Emergency,"1062 15TH AVE SE,Minneapolis,MN",44.989888,-93.230776,Yardville,2,1,Como,University,4
+-93.24271,44.986834,226,02/26/2018 01:17pm,Snow Emergency,"712 7th st se,Minneapolis,MN",44.986834,-93.24271,Yardville,2,3,Marcy Holmes,University,4
+-93.238815,44.982718,227,02/26/2018 01:20pm,Snow Emergency,"1110 5th st se,Minneapolis,MN",44.982718,-93.238815,Yardville,2,3,Marcy Holmes,University,4
+-93.237251,44.980098,228,02/26/2018 01:21am,Snow Emergency,"1305 UNIVERSITY AVE SE,Minneapolis,MN",44.980098,-93.237251,Yardville,1,3,Marcy Holmes,University,4
+-93.238663,44.982595,229,02/26/2018 01:28pm,Snow Emergency,"1116 5th st se,Minneapolis,MN",44.982595,-93.238663,Yardville,2,3,Marcy Holmes,University,4
+-93.237813,44.983621,230,02/26/2018 01:39pm,Snow Emergency,"1112 6th St se,Minneapolis,MN",44.983621,-93.237813,Yardville,2,3,Marcy Holmes,University,4
+-93.238564,44.983251,231,02/26/2018 01:40pm,Snow Emergency,"506 11TH AVE SE,Minneapolis,MN",44.983251,-93.238564,Yardville,2,3,Marcy Holmes,University,4
+-93.237258,44.98513,232,02/26/2018 01:43pm,Snow Emergency,"704 11TH AVE SE,Minneapolis,MN",44.98513,-93.237258,Yardville,2,3,Marcy Holmes,University,4
+-93.227955,44.988857,233,02/26/2018 01:47pm,Snow Emergency,"1034 17TH AVE SE,Minneapolis,MN",44.988857,-93.227955,Yardville,2,1,Como,University,4
+-93.207733,44.965811,234,02/26/2018 01:49pm,Snow Emergency,"98 emerald st se ,Minneapolis,MN",44.965811,-93.207733,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.237591,44.983573,235,02/26/2018 01:59pm,Snow Emergency,"1120 6th st se,Minneapolis,MN",44.983573,-93.237591,Yardville,2,3,Marcy Holmes,University,4
+-93.239058,44.9841,236,02/26/2018 02:03pm,Snow Emergency,"1028 6th st SE ,Minneapolis,MN",44.9841,-93.239058,Yardville,2,3,Marcy Holmes,University,4
+-93.239133,44.984129,237,02/26/2018 02:03pm,Snow Emergency,"1026 6th st se,Minneapolis,MN",44.984129,-93.239133,Yardville,2,3,Marcy Holmes,University,4
+-93.226649,44.987071,238,02/26/2018 02:05pm,Snow Emergency,"916 18th ave se,Minneapolis,MN",44.987071,-93.226649,Yardville,2,2,Como,University,4
+-93.236029,44.984756,239,02/26/2018 02:06pm,Snow Emergency,"704 12th Ave SE ,Minneapolis,MN",44.984756,-93.236029,Yardville,2,3,Marcy Holmes,University,4
+-93.226673,44.985137,240,02/26/2018 02:14pm,Snow Emergency,"858 18th ave se,Minneapolis,MN",44.985137,-93.226673,Yardville,2,2,Como,University,4
+-93.239487,44.982213,241,02/26/2018 02:15pm,Snow Emergency,"404 11TH AVE SE,Minneapolis,MN",44.982213,-93.239487,Yardville,2,3,Marcy Holmes,University,4
+-93.237255,44.982872,242,02/26/2018 02:16pm,Snow Emergency,"508 12TH AVE SE,Minneapolis,MN",44.982872,-93.237255,Yardville,2,3,Marcy Holmes,University,4
+-93.238049,44.983988,243,02/26/2018 02:18pm,Snow Emergency,"1106 6TH ST SE,Minneapolis,MN",44.983988,-93.238049,Yardville,2,3,Marcy Holmes,University,4
+-93.25277,44.986642,244,02/26/2018 02:24am,Snow Emergency,"320 2nd ave se,Minneapolis,MN",44.986642,-93.25277,Yardville,1,3,Marcy Holmes,University,4
+-93.208075,44.96416,245,02/26/2018 02:25pm,Snow Emergency,"142 emerald st se,Minneapolis,MN",44.96416,-93.208075,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.234784,44.985962,246,02/26/2018 02:31pm,Snow Emergency,"818 12TH AVE SE,Minneapolis,MN",44.985962,-93.234784,Yardville,2,3,Marcy Holmes,University,4
+-93.25277,44.986642,247,02/26/2018 02:32am,Snow Emergency,"320 2ND AVE SE,Minneapolis,MN",44.986642,-93.25277,Yardville,1,3,Marcy Holmes,University,4
+-93.236744,44.983468,248,02/26/2018 02:33pm,Snow Emergency,"1216 6TH ST SE,Minneapolis,MN",44.983468,-93.236744,Yardville,2,3,Marcy Holmes,University,4
+-93.25277,44.986642,249,02/26/2018 02:34am,Snow Emergency,"320 2ND AVE SE,Minneapolis,MN",44.986642,-93.25277,Yardville,1,3,Marcy Holmes,University,4
+-93.236166,44.984015,250,02/26/2018 02:44pm,Snow Emergency,"616 12th ave se,Minneapolis,MN",44.984015,-93.236166,Yardville,2,3,Marcy Holmes,University,4
+-93.229185,44.989539,251,02/26/2018 02:45pm,Snow Emergency,"1056 Talmage ave se,Minneapolis,MN",44.989539,-93.229185,Yardville,2,1,Como,University,4
+-93.218769,44.985097,252,02/26/2018 02:46pm,Snow Emergency,"846 24TH AVE SE,Minneapolis,MN",44.985097,-93.218769,Yardville,2,2,Como,University,4
+-93.251059,44.986401,253,02/26/2018 02:50am,Snow Emergency,"330 3rd ave se,Minneapolis,MN",44.986401,-93.251059,Yardville,1,3,Marcy Holmes,University,4
+-93.236625,44.984002,254,02/26/2018 02:50pm,Snow Emergency,"606 12th Ave se ,Minneapolis,MN",44.984002,-93.236625,Yardville,2,3,Marcy Holmes,University,4
+-93.242496,44.974071,255,02/26/2018 02:59am,Snow Emergency,"262 21st Ave s,Minneapolis,MN",44.974071,-93.242496,Yardville,2,2,University of Minnesota,University,4
+-93.253258,44.985938,256,02/26/2018 03:06am,Snow Emergency,"200 UNIVERSITY AVE,Minneapolis,MN",44.985938,-93.253258,Yardville,1,3,Marcy Holmes,University,4
+-93.236584,44.984053,257,02/26/2018 03:14pm,Snow Emergency,"608 12TH AVE SE,Minneapolis,MN",44.984053,-93.236584,Yardville,2,3,Marcy Holmes,University,4
+-93.253712,44.985909,258,02/26/2018 03:15am,Snow Emergency,"222 2nd ave se,Minneapolis,MN",44.985909,-93.253712,Yardville,1,3,Marcy Holmes,University,4
+-93.235817,44.984378,259,02/26/2018 03:24pm,Snow Emergency,"1210 7TH ST SE,Minneapolis,MN",44.984378,-93.235817,Yardville,2,3,Marcy Holmes,University,4
+-93.253712,44.985909,260,02/26/2018 03:45am,Snow Emergency,"222 2nd ave se,Minneapolis,MN",44.985909,-93.253712,Yardville,1,3,Marcy Holmes,University,4
+-93.252478,44.987485,261,02/26/2018 08:15am,Snow Emergency,"428 2nd Ave SE,Minneapolis,MN",44.987485,-93.252478,Yardville,2,3,Marcy Holmes,University,4
+-93.249678,44.988265,262,02/26/2018 08:20am,Snow Emergency,"528 3rd ave se,Minneapolis,MN",44.988265,-93.249678,Yardville,2,3,Marcy Holmes,University,4
+-93.251312,44.988939,263,02/26/2018 08:56am,Snow Emergency,"526 2nd Ave SE,Minneapolis,MN",44.988939,-93.251312,Yardville,2,3,Marcy Holmes,University,4
+-93.235882,44.991532,264,02/26/2018 09:04am,Snow Emergency,"348 ulysses st ne,Minneapolis,MN",44.991532,-93.235882,Yardville,2,1,Como,University,4
+-93.249708,44.988659,265,02/26/2018 09:09am,Snow Emergency,"600 3rd ave se,Minneapolis,MN",44.988659,-93.249708,Yardville,2,3,Marcy Holmes,University,4
+-93.249038,44.984495,266,02/26/2018 09:31am,Snow Emergency,"300 5TH AVE SE,Minneapolis,MN",44.984495,-93.249038,Yardville,2,3,Marcy Holmes,University,4
+-93.243733,44.988357,267,02/26/2018 09:31am,Snow Emergency,"720 6th ave se,Minneapolis,MN",44.988357,-93.243733,Yardville,2,3,Marcy Holmes,University,4
+-93.2484,44.987586,268,02/26/2018 09:44am,Snow Emergency,"516 4th ave se,Minneapolis,MN",44.987586,-93.2484,Yardville,2,3,Marcy Holmes,University,4
+-93.247747,44.988443,269,02/26/2018 09:46am,Snow Emergency,"614 4th ave se,Minneapolis,MN",44.988443,-93.247747,Yardville,2,3,Marcy Holmes,University,4
+-93.243568,44.984494,270,02/26/2018 09:59am,Snow Emergency,"428 8th ave se,Minneapolis,MN",44.984494,-93.243568,Yardville,2,3,Marcy Holmes,University,4
+-93.24676,44.984607,271,02/26/2018 10:19am,Snow Emergency,"326 6th ave se,Minneapolis,MN",44.984607,-93.24676,Yardville,2,3,Marcy Holmes,University,4
+-93.250078,44.985486,272,02/26/2018 10:26am,Snow Emergency,"308 4TH AVE SE,Minneapolis,MN",44.985486,-93.250078,Yardville,2,3,Marcy Holmes,University,4
+-93.245045,44.984435,273,02/26/2018 10:27am,Snow Emergency,"406 7th ave se,Minneapolis,MN",44.984435,-93.245045,Yardville,2,3,Marcy Holmes,University,4
+-93.24403,44.985672,274,02/26/2018 10:27am,Snow Emergency,"528 7TH AVE SE,Minneapolis,MN",44.985672,-93.24403,Yardville,2,3,Marcy Holmes,University,4
+-93.244776,44.984772,275,02/26/2018 10:29am,Snow Emergency,"428 7th ave se,Minneapolis,MN",44.984772,-93.244776,Yardville,2,3,Marcy Holmes,University,4
+-93.244328,44.985293,276,02/26/2018 10:30am,Snow Emergency,"502 7TH AVE SE,Minneapolis,MN",44.985293,-93.244328,Yardville,2,3,Marcy Holmes,University,4
+-93.242474,44.987765,277,02/26/2018 10:30am,Snow Emergency,"724 7th ave se,Minneapolis,MN",44.987765,-93.242474,Yardville,2,3,Marcy Holmes,University,4
+-93.245774,44.983493,278,02/26/2018 10:36am,Snow Emergency,"324 7th ave se,Minneapolis,MN",44.983493,-93.245774,Yardville,2,3,Marcy Holmes,University,4
+-93.242993,44.985216,279,02/26/2018 10:43am,Snow Emergency,"506 8TH AVE SE,Minneapolis,MN",44.985216,-93.242993,Yardville,2,3,Marcy Holmes,University,4
+-93.244097,44.983825,280,02/26/2018 10:44am,Snow Emergency,"400 8TH AVE SE ,Minneapolis,MN",44.983825,-93.244097,Yardville,2,3,Marcy Holmes,University,4
+-93.244897,44.984621,281,02/26/2018 10:50am,Snow Emergency,"412 7TH AVE SE,Minneapolis,MN",44.984621,-93.244897,Yardville,2,3,Marcy Holmes,University,4
+-93.245318,44.989203,282,02/26/2018 10:54am,Snow Emergency,"726 5th Ave se,Minneapolis,MN",44.989203,-93.245318,Yardville,2,3,Marcy Holmes,University,4
+-93.244076,44.985613,283,02/26/2018 10:55am,Snow Emergency,"520 7TH AVE SE,Minneapolis,MN",44.985613,-93.244076,Yardville,2,3,Marcy Holmes,University,4
+-93.242509,44.987722,284,02/26/2018 10:57am,Snow Emergency,"716 7th ave se,Minneapolis,MN",44.987722,-93.242509,Yardville,2,3,Marcy Holmes,University,4
+-93.242815,44.98544,285,02/26/2018 11:05am,Snow Emergency,"520 8TH AVE SE,Minneapolis,MN",44.98544,-93.242815,Yardville,2,3,Marcy Holmes,University,4
+-93.24407,44.983273,286,02/26/2018 11:06am,Snow Emergency,"324 8TH AVE SE,Minneapolis,MN",44.983273,-93.24407,Yardville,2,3,Marcy Holmes,University,4
+-93.242396,44.988273,287,02/26/2018 11:08am,Snow Emergency,"818 7TH AVE SE,Minneapolis,MN",44.988273,-93.242396,Yardville,2,3,Marcy Holmes,University,4
+-93.243403,44.984229,288,02/26/2018 11:09am,Snow Emergency,"416 8th ave se,Minneapolis,MN",44.984229,-93.243403,Yardville,2,3,Marcy Holmes,University,4
+-93.244991,44.985461,289,02/26/2018 11:09am,Snow Emergency,"624 5th st se,Minneapolis,MN",44.985461,-93.244991,Yardville,2,3,Marcy Holmes,University,4
+-93.242238,44.986945,290,02/26/2018 11:13am,Snow Emergency,"724 7th st se,Minneapolis,MN",44.986945,-93.242238,Yardville,2,3,Marcy Holmes,University,4
+-93.244054,44.988951,291,02/26/2018 11:24am,Snow Emergency,"526 8th st se,Minneapolis,MN",44.988951,-93.244054,Yardville,2,3,Marcy Holmes,University,4
+-93.244709,44.984962,292,02/26/2018 11:27am,Snow Emergency,"704 5th st se,Minneapolis,MN",44.984962,-93.244709,Yardville,2,3,Marcy Holmes,University,4
+-93.246574,44.985791,293,02/26/2018 11:30am,Snow Emergency,"528 5TH ST SE,Minneapolis,MN",44.985791,-93.246574,Yardville,2,3,Marcy Holmes,University,4
+-93.245632,44.9853,294,02/26/2018 11:31am,Snow Emergency,"620 5TH ST SE,Minneapolis,MN",44.9853,-93.245632,Yardville,2,3,Marcy Holmes,University,4
+-93.245442,44.982098,295,02/26/2018 11:38am,Snow Emergency,"224 8th ave se,Minneapolis,MN",44.982098,-93.245442,Yardville,2,3,Marcy Holmes,University,4
+-93.229241,44.988548,296,02/26/2018 11:41am,Snow Emergency,"1022 16TH AVE SE,Minneapolis,MN",44.988548,-93.229241,Yardville,2,1,Como,University,4
+-93.248447,44.986826,297,02/26/2018 11:43am,Snow Emergency,"412 5th st se,Minneapolis,MN",44.986826,-93.248447,Yardville,2,3,Marcy Holmes,University,4
+-93.240215,44.983171,298,02/26/2018 11:44am,Snow Emergency,"1008 5TH ST SE,Minneapolis,MN",44.983171,-93.240215,Yardville,2,3,Marcy Holmes,University,4
+-93.246707,44.985885,299,02/26/2018 11:46am,Snow Emergency,"520 5th st se,Minneapolis,MN",44.985885,-93.246707,Yardville,2,3,Marcy Holmes,University,4
+-93.240178,44.983156,300,02/26/2018 11:47am,Snow Emergency,"1010 5TH ST SE,Minneapolis,MN",44.983156,-93.240178,Yardville,2,3,Marcy Holmes,University,4
+-93.247884,44.987569,301,02/26/2018 11:50am,Snow Emergency,"412 6th st se,Minneapolis,MN",44.987569,-93.247884,Yardville,2,3,Marcy Holmes,University,4
+-93.247653,44.987433,302,02/26/2018 11:57am,Snow Emergency,"416 6th st se,Minneapolis,MN",44.987433,-93.247653,Yardville,2,3,Marcy Holmes,University,4
+-93.217575,44.971454,303,02/26/2018 12:00am,Snow Emergency,"2760 UNIVERSITY AVE SE,Minneapolis,MN",44.971454,-93.217575,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.228717,44.972551,304,02/26/2018 12:00am,Snow Emergency,"612 Delaware st se,Minneapolis,MN",44.972551,-93.228717,Yardville,2,2,University of Minnesota,University,4
+-93.246653,44.985823,305,02/26/2018 12:06pm,Snow Emergency,"524 5th st se,Minneapolis,MN",44.985823,-93.246653,Yardville,2,3,Marcy Holmes,University,4
+-93.235391,44.964186,306,02/26/2018 12:07am,Snow Emergency,"2500 BLOCK 9th st s,Minneapolis,MN",44.964186,-93.235391,Yardville,1,6,Seward,Longfellow,4
+-93.239471,44.982736,307,02/26/2018 12:14pm,Snow Emergency,"418 11THE AVE SE,Minneapolis,MN",44.982736,-93.239471,Yardville,2,3,Marcy Holmes,University,4
+-93.248189,44.986426,308,02/26/2018 12:14pm,Snow Emergency,"420 5TH ST SE,Minneapolis,MN",44.986426,-93.248189,Yardville,2,3,Marcy Holmes,University,4
+-93.242865,44.985738,309,02/26/2018 12:15pm,Snow Emergency,"728 6TH ST SE,Minneapolis,MN",44.985738,-93.242865,Yardville,2,3,Marcy Holmes,University,4
+-93.250844,44.989095,310,02/26/2018 12:16pm,Snow Emergency,"218 6th st se ,Minneapolis,MN",44.989095,-93.250844,Yardville,2,3,Marcy Holmes,University,4
+-93.228031,44.972552,311,02/26/2018 12:18am,Snow Emergency,"716 Deleware st se,Minneapolis,MN",44.972552,-93.228031,Yardville,2,2,University of Minnesota,University,4
+-93.248861,44.988298,312,02/26/2018 12:19pm,Snow Emergency,"326 6th st se,Minneapolis,MN",44.988298,-93.248861,Yardville,2,3,Marcy Holmes,University,4
+-93.229499,44.988366,313,02/26/2018 12:19pm,Snow Emergency,"1016 16TH AVE SE,Minneapolis,MN",44.988366,-93.229499,Yardville,2,1,Como,University,4
+-93.235821,44.967538,314,02/26/2018 12:23am,Snow Emergency,"9th st 25th ave s,Minneapolis,MN",44.967538,-93.235821,Yardville,2,2,Cedar Riverside,University,4
+-93.236468,44.984197,315,02/26/2018 12:29pm,Snow Emergency,"626 12th ave se,Minneapolis,MN",44.984197,-93.236468,Yardville,2,3,Marcy Holmes,University,4
+-93.228718,44.972551,316,02/26/2018 12:35am,Snow Emergency,"610 DELAWARE ST SE,Minneapolis,MN",44.972551,-93.228718,Yardville,2,2,University of Minnesota,University,4
+-93.233878,44.978709,317,02/26/2018 12:35am,Snow Emergency,"313 16th Ave se,Minneapolis,MN",44.978709,-93.233878,Yardville,2,2,University of Minnesota,University,4
+-93.239463,44.982746,318,02/26/2018 12:35pm,Snow Emergency,"420 11TH AVE SE,Minneapolis,MN",44.982746,-93.239463,Yardville,2,3,Marcy Holmes,University,4
+-93.238652,44.983584,319,02/26/2018 12:38pm,Snow Emergency,"512 11th Ave se,Minneapolis,MN",44.983584,-93.238652,Yardville,2,3,Marcy Holmes,University,4
+-93.241214,44.986314,320,02/26/2018 12:38pm,Snow Emergency,"812 7th st se,Minneapolis,MN",44.986314,-93.241214,Yardville,2,3,Marcy Holmes,University,4
+-93.233715,44.978519,321,02/26/2018 12:44am,Snow Emergency,"310 16th ave se,Minneapolis,MN",44.978519,-93.233715,Yardville,2,2,University of Minnesota,University,4
+-93.240328,44.983216,322,02/26/2018 12:58pm,Snow Emergency,"1002 5TH ST SE,Minneapolis,MN",44.983216,-93.240328,Yardville,2,3,Marcy Holmes,University,4
+-93.241067,44.98362,323,02/26/2018 12:59pm,Snow Emergency,"928 5TH ST SE,Minneapolis,MN",44.98362,-93.241067,Yardville,2,3,Marcy Holmes,University,4
+-93.215971,44.985764,324,02/27/2018 01:06pm,Snow Emergency,"859 weeks ave se,Minneapolis,MN",44.985764,-93.215971,Yardville,2,2,Como,University,4
+-93.224286,44.968391,325,02/27/2018 01:46pm,Snow Emergency,"651 erie st se,Minneapolis,MN",44.968391,-93.224286,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.224029,44.969068,326,02/27/2018 02:03pm,Snow Emergency,"631 Erie st se,Minneapolis,MN",44.969068,-93.224029,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.224048,44.968885,327,02/27/2018 02:08pm,Snow Emergency,"637 erie st se,Minneapolis,MN",44.968885,-93.224048,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.225276,44.96892,328,02/27/2018 02:35pm,Snow Emergency,"635 Ontario st se,Minneapolis,MN",44.96892,-93.225276,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.23459,44.991155,329,02/27/2018 08:40am,Snow Emergency,"1207 12th ave se,Minneapolis,MN",44.991155,-93.23459,Yardville,2,2,Como,University,4
+-93.234627,44.984219,330,02/27/2018 09:03am,Snow Emergency,"707 13th ave se,Minneapolis,MN",44.984219,-93.234627,Yardville,3,3,Marcy Holmes,University,4
+-93.234569,44.984295,331,02/27/2018 09:05am,Snow Emergency,"709 13th ave se,Minneapolis,MN",44.984295,-93.234569,Yardville,3,3,Marcy Holmes,University,4
+-93.228863,44.986794,332,02/27/2018 09:17am,Snow Emergency,"1529 brook ave se,Minneapolis,MN",44.986794,-93.228863,Yardville,2,2,Como,University,4
+-93.216448,44.990009,333,02/27/2018 09:38am,Snow Emergency,"1061 26th ave se,Minneapolis,MN",44.990009,-93.216448,Yardville,3,1,Como,University,4
+-93.216458,44.988794,334,02/27/2018 09:43am,Snow Emergency,"1025 26TH AVE SE,Minneapolis,MN",44.988794,-93.216458,Yardville,3,1,Como,University,4
+-93.216776,44.989291,335,02/27/2018 09:47am,Snow Emergency,"1045 26th ave se,Minneapolis,MN",44.989291,-93.216776,Yardville,3,1,Como,University,4
+-93.221861,44.987248,336,02/27/2018 09:52am,Snow Emergency,"919 22ave se,Minneapolis,MN",44.987248,-93.221861,Yardville,2,2,Como,University,4
+-93.216436,44.99072,337,02/27/2018 10:14am,Snow Emergency,"1087 26TH AVE SE,Minneapolis,MN",44.99072,-93.216436,Yardville,3,1,Como,University,4
+-93.223228,44.988553,338,02/27/2018 10:16am,Snow Emergency,"1023 21st ave se,Minneapolis,MN",44.988553,-93.223228,Yardville,3,1,Como,University,4
+-93.218326,44.987446,339,02/27/2018 10:17am,Snow Emergency,"937 WEEKS AVE SE,Minneapolis,MN",44.987446,-93.218326,Yardville,2,2,Como,University,4
+-93.216776,44.989291,340,02/27/2018 10:20am,Snow Emergency,"1045 26th ave se,Minneapolis,MN",44.989291,-93.216776,Yardville,3,1,Como,University,4
+-93.218059,44.99009,341,02/27/2018 10:31am,Snow Emergency,"1065 25th ave se,Minneapolis,MN",44.99009,-93.218059,Yardville,3,1,Como,University,4
+-93.217701,44.990809,342,02/27/2018 10:33am,Snow Emergency,"1091 25th ave se,Minneapolis,MN",44.990809,-93.217701,Yardville,3,1,Como,University,4
+-93.218057,44.990645,343,02/27/2018 10:35am,Snow Emergency,"1085 25 TH ST SE,Minneapolis,MN",44.990645,-93.218057,Yardville,3,1,Como,University,4
+-93.218219,44.987127,344,02/27/2018 10:37am,Snow Emergency,"925 weeks ave se,Minneapolis,MN",44.987127,-93.218219,Yardville,2,2,Como,University,4
+-93.217753,44.987477,345,02/27/2018 10:42am,Snow Emergency,"941 25th ave se,Minneapolis,MN",44.987477,-93.217753,Yardville,2,2,Como,University,4
+-93.219202,44.986406,346,02/27/2018 10:51am,Snow Emergency,"2327 cole ave se,Minneapolis,MN",44.986406,-93.219202,Yardville,2,2,Como,University,4
+-93.219367,44.98534,347,02/27/2018 10:55am,Snow Emergency,"857 24th ave se,Minneapolis,MN",44.98534,-93.219367,Yardville,2,2,Como,University,4
+-93.228863,44.986794,348,02/27/2018 10:56am,Snow Emergency,"1529 brook ave se,Minneapolis,MN",44.986794,-93.228863,Yardville,2,2,Como,University,4
+-93.219372,44.984761,349,02/27/2018 11:02am,Snow Emergency,"837 24th ave se ,Minneapolis,MN",44.984761,-93.219372,Yardville,2,2,Como,University,4
+-93.218041,44.9852,350,02/27/2018 11:07am,Snow Emergency,"851 25th ave se,Minneapolis,MN",44.9852,-93.218041,Yardville,2,2,Como,University,4
+-93.24209,44.963238,351,02/27/2018 11:16am,Snow Emergency,"923 21st ave so,Minneapolis,MN",44.963238,-93.24209,Yardville,3,6,Seward,Longfellow,4
+-93.217754,44.987396,352,02/27/2018 11:16am,Snow Emergency,"921 25th ave se,Minneapolis,MN",44.987396,-93.217754,Yardville,2,2,Como,University,4
+-93.225311,44.968753,353,02/27/2018 11:25am,Snow Emergency,"645 ONTARIO ST SE,Minneapolis,MN",44.968753,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.215631,44.985873,354,02/27/2018 11:29am,Snow Emergency,"855 weeks ave se,Minneapolis,MN",44.985873,-93.215631,Yardville,2,2,Como,University,4
+-93.225311,44.968664,355,02/27/2018 11:30am,Snow Emergency,"657 Ontario st se,Minneapolis,MN",44.968664,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.215554,44.986217,356,02/27/2018 11:30am,Snow Emergency,"879 27th ave se,Minneapolis,MN",44.986217,-93.215554,Yardville,2,2,Como,University,4
+-93.225311,44.968664,357,02/27/2018 11:33am,Snow Emergency,"657 Ontario st se,Minneapolis,MN",44.968664,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.220586,44.985748,358,02/27/2018 11:33am,Snow Emergency,"871 23rd ave se,Minneapolis,MN",44.985748,-93.220586,Yardville,2,2,Como,University,4
+-93.238578,44.965201,359,02/27/2018 11:42am,Snow Emergency,"835 23rd ave s,Minneapolis,MN",44.965201,-93.238578,Yardville,2,2,Cedar Riverside,University,4
+-93.244396,44.971069,360,02/27/2018 11:46am,Snow Emergency,"303 19th st s,Minneapolis,MN",44.971069,-93.244396,Yardville,2,2,University of Minnesota,University,4
+-93.225311,44.968738,361,02/27/2018 11:54am,Snow Emergency,"647 ONTARIO ST SE,Minneapolis,MN",44.968738,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.22402,44.969423,362,02/27/2018 12:03pm,Snow Emergency,"621 erie st se,Minneapolis,MN",44.969423,-93.22402,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.224022,44.970052,363,02/27/2018 12:09pm,Snow Emergency,"601 Erie st se,Minneapolis,MN",44.970052,-93.224022,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.217497,44.986673,364,02/27/2018 12:15pm,Snow Emergency,"901 weeks Ave SE ,Minneapolis,MN",44.986673,-93.217497,Yardville,2,2,Como,University,4
+-93.242113,44.963446,365,02/27/2018 12:17pm,Snow Emergency,"917 21st ave so,Minneapolis,MN",44.963446,-93.242113,Yardville,3,6,Seward,Longfellow,4
+-93.245642,44.969529,366,02/27/2018 12:17pm,Snow Emergency,"425 19th ave s,Minneapolis,MN",44.969529,-93.245642,Yardville,3,6,Cedar Riverside,University,4
+-93.241456,44.960779,367,02/27/2018 12:18pm,Snow Emergency,"2121 22nd St E ,Minneapolis,MN",44.960779,-93.241456,Yardville,3,6,Seward,Longfellow,4
+-93.242149,44.963419,368,02/27/2018 12:24pm,Snow Emergency,"919 21st Ave S,Minneapolis,MN",44.963419,-93.242149,Yardville,3,6,Seward,Longfellow,4
+-93.218845,44.987437,369,02/27/2018 12:28pm,Snow Emergency,"947 weeks ave se,Minneapolis,MN",44.987437,-93.218845,Yardville,2,2,Como,University,4
+-93.225307,44.969973,370,02/27/2018 12:30pm,Snow Emergency,"605 Ontario St Se,Minneapolis,MN",44.969973,-93.225307,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.245642,44.96957,371,02/27/2018 12:34pm,Snow Emergency,"419 19th ave s,Minneapolis,MN",44.96957,-93.245642,Yardville,2,2,Cedar Riverside,University,4
+-93.242149,44.963419,372,02/27/2018 12:38pm,Snow Emergency,"919 21st Ave S,Minneapolis,MN",44.963419,-93.242149,Yardville,3,6,Seward,Longfellow,4
+-93.242149,44.963419,373,02/27/2018 12:39pm,Snow Emergency,"919 21st Av S,Minneapolis,MN",44.963419,-93.242149,Yardville,3,6,Seward,Longfellow,4
+-93.225311,44.968708,374,02/27/2018 12:40pm,Snow Emergency,"651 Ontario st se,Minneapolis,MN",44.968708,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.225397,44.969321,375,02/27/2018 12:44pm,Snow Emergency,"623 Ontario st se,Minneapolis,MN",44.969321,-93.225397,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.242011,44.96202,376,02/27/2018 12:46pm,Snow Emergency,"2019 21st Ave S,Minneapolis,MN",44.96202,-93.242011,Yardville,3,6,Seward,Longfellow,4
+-93.22391,44.968707,377,02/27/2018 12:46pm,Snow Emergency,"641 Erie st se,Minneapolis,MN",44.968707,-93.22391,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.225311,44.968679,378,02/27/2018 12:49pm,Snow Emergency,"655 Ontario st se,Minneapolis,MN",44.968679,-93.225311,Yardville,2,2,Prospect Park - East River Road,University,4
+-93.262689,44.948357,379,02/25/2018 09:25pm,Snow Emergency,"3000 BLOCK CHICAGO AVE S,Minneapolis,MN",44.948357,-93.262689,Yardville,1,6,Phillips West,Phillips,3
+-93.285917,44.968409,380,02/25/2018 09:33pm,Snow Emergency,"333 15 th st w ,Minneapolis,MN",44.968409,-93.285917,Yardville,1,7,Loring Park,Central,3
+-93.294785,44.951577,381,02/25/2018 09:35pm,Snow Emergency,"2806 emerson s,Minneapolis,MN",44.951577,-93.294785,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.262689,44.948357,382,02/25/2018 09:43pm,Snow Emergency,"3000 BLOCK CHICAGO AVE,Minneapolis,MN",44.948357,-93.262689,Yardville,1,6,Phillips West,Phillips,3
+-93.262689,44.948357,383,02/25/2018 09:47pm,Snow Emergency,"3000 BLOCK CHICAGO AVE S,Minneapolis,MN",44.948357,-93.262689,Yardville,1,6,Phillips West,Phillips,3
+-93.285931,44.968414,384,02/25/2018 09:54pm,Snow Emergency,"355 15th st w,Minneapolis,MN",44.968414,-93.285931,Yardville,1,7,Loring Park,Central,3
+-93.294794,44.951198,385,02/25/2018 10:10pm,Snow Emergency,"2824 emerson s,Minneapolis,MN",44.951198,-93.294794,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294785,44.951577,386,02/25/2018 10:13pm,Snow Emergency,"2806 EMERSON AVE S,Minneapolis,MN",44.951577,-93.294785,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.281039,44.967466,387,02/25/2018 10:13pm,Snow Emergency,"201 15th st w,Minneapolis,MN",44.967466,-93.281039,Yardville,1,7,Loring Park,Central,3
+-93.294787,44.951512,388,02/25/2018 10:23pm,Snow Emergency,"2814 EMERSON AVE S,Minneapolis,MN",44.951512,-93.294787,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294482,44.950029,389,02/25/2018 10:27pm,Snow Emergency,"2900 EMERSON AVE S,Minneapolis,MN",44.950029,-93.294482,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.274253,44.980367,390,02/25/2018 10:27pm,Snow Emergency,"504 1st Ave n,Minneapolis,MN",44.980367,-93.274253,Yardville,1,3,Downtown West,Central,3
+-93.281275,44.967459,391,02/25/2018 10:28pm,Snow Emergency,"205 15th st w ,Minneapolis,MN",44.967459,-93.281275,Yardville,1,7,Loring Park,Central,3
+-93.294797,44.949479,392,02/25/2018 10:39pm,Snow Emergency,"2914 Emerson av s,Minneapolis,MN",44.949479,-93.294797,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.294792,44.949401,393,02/25/2018 10:42pm,Snow Emergency,"2916 EMERSON AVE S,Minneapolis,MN",44.949401,-93.294792,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.281511,44.967453,394,02/25/2018 10:43pm,Snow Emergency,"209 15th st w,Minneapolis,MN",44.967453,-93.281511,Yardville,1,7,Loring Park,Central,3
+-93.294798,44.949286,395,02/25/2018 10:44pm,Snow Emergency,"2920 emerson ave s,Minneapolis,MN",44.949286,-93.294798,Yardville,1,10,Lowry Hill East,Calhoun Isle,3
+-93.275052,44.97891,396,02/25/2018 10:46pm,Snow Emergency,"601 1st Ave n,Minneapolis,MN",44.97891,-93.275052,Yardville,1,3,Downtown West,Central,3
+-93.27619,44.979455,397,02/25/2018 10:52pm,Snow Emergency,"600 1st ave n,Minneapolis,MN",44.979455,-93.27619,Yardville,1,3,Downtown West,Central,3
+-93.279336,44.967717,398,02/25/2018 10:56pm,Snow Emergency,"15th st & la Salle ave ,Minneapolis,MN",44.967717,-93.279336,Yardville,1,7,Loring Park,Central,3
+-93.280141,44.967576,399,02/25/2018 11:04pm,Snow Emergency,"109 15th st W,Minneapolis,MN",44.967576,-93.280141,Yardville,1,7,Loring Park,Central,3
+-93.281656,44.968032,400,02/25/2018 11:06pm,Snow Emergency,"214 15th st w,Minneapolis,MN",44.968032,-93.281656,Yardville,1,7,Loring Park,Central,3
+-93.281469,44.967727,401,02/25/2018 11:15pm,Snow Emergency,"206 15th St w ,Minneapolis,MN",44.967727,-93.281469,Yardville,1,7,Loring Park,Central,3
+-93.273119,44.966071,402,02/25/2018 11:29pm,Snow Emergency,"1700 BLOCK OF 3RD AVE S,Minneapolis,MN",44.966071,-93.273119,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.268469,44.968277,403,02/25/2018 11:29pm,Snow Emergency,"512 15th st,Minneapolis,MN",44.968277,-93.268469,Yardville,1,7,Elliot Park,Central,3
+-93.286022,44.968446,404,02/25/2018 11:31pm,Snow Emergency,"515 15TH ST W,Minneapolis,MN",44.968446,-93.286022,Yardville,1,7,Loring Park,Central,3
+-93.282001,44.967747,405,02/25/2018 11:34pm,Snow Emergency,"712 15th st w,Minneapolis,MN",44.967747,-93.282001,Yardville,1,7,Loring Park,Central,3
+-93.285899,44.968403,406,02/25/2018 11:40pm,Snow Emergency,"304 15th st w,Minneapolis,MN",44.968403,-93.285899,Yardville,1,7,Loring Park,Central,3
+-93.27299,44.965052,407,02/25/2018 11:47pm,Snow Emergency,"1800 3RD AVE S,Minneapolis,MN",44.965052,-93.27299,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.272544,44.96494,408,02/25/2018 11:48pm,Snow Emergency,"1805 3rd Ave s,Minneapolis,MN",44.96494,-93.272544,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.281422,44.967727,409,02/25/2018 11:51pm,Snow Emergency,"204 15TH ST W,Minneapolis,MN",44.967727,-93.281422,Yardville,1,7,Loring Park,Central,3
+-93.272443,44.964736,410,02/25/2018 11:54pm,Snow Emergency,"1811 3rd av s,Minneapolis,MN",44.964736,-93.272443,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.272443,44.964633,411,02/25/2018 11:59pm,Snow Emergency,"1815 3rd ave s,Minneapolis,MN",44.964633,-93.272443,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.272752,44.962,412,02/26/2018 01:04am,Snow Emergency,"2019 3rd av s,Minneapolis,MN",44.962,-93.272752,Yardville,1,10,Whittier,Powderhorn,3
+-93.284182,44.961964,413,02/26/2018 01:06pm,Snow Emergency,"2020 grand ave s ,Minneapolis,MN",44.961964,-93.284182,Yardville,2,10,Whittier,Powderhorn,3
+-93.273113,44.961329,414,02/26/2018 01:13am,Snow Emergency,"2114 3rd ave s,Minneapolis,MN",44.961329,-93.273113,Yardville,1,10,Whittier,Powderhorn,3
+-93.284531,44.960606,415,02/26/2018 01:20pm,Snow Emergency,"2204 Grand ave s,Minneapolis,MN",44.960606,-93.284531,Yardville,2,10,Whittier,Powderhorn,3
+-93.272748,44.96089,416,02/26/2018 01:22am,Snow Emergency,"2200 3RD AVE S,Minneapolis,MN",44.96089,-93.272748,Yardville,1,10,Whittier,Powderhorn,3
+-93.284188,44.960668,417,02/26/2018 01:24pm,Snow Emergency,"2202 Grand ave s,Minneapolis,MN",44.960668,-93.284188,Yardville,2,10,Whittier,Powderhorn,3
+-93.274028,44.964849,418,02/26/2018 01:24pm,Snow Emergency,"1824 2nd av s,Minneapolis,MN",44.964849,-93.274028,Yardville,2,6,Steven's Square - Loring Heights,Central,3
+-93.272749,44.960764,419,02/26/2018 01:27am,Snow Emergency,"2214 3rd Ave s ,Minneapolis,MN",44.960764,-93.272749,Yardville,1,10,Whittier,Powderhorn,3
+-93.263253,44.980708,420,02/26/2018 01:27am,Snow Emergency,"211 3 AVE S,Minneapolis,MN",44.980708,-93.263253,Yardville,1,3,Downtown West,Central,3
+-93.272749,44.9608,421,02/26/2018 01:30am,Snow Emergency,"2210 3rd av s,Minneapolis,MN",44.9608,-93.272749,Yardville,1,10,Whittier,Powderhorn,3
+-93.281154,44.967725,422,02/26/2018 01:31am,Snow Emergency,"203 15TH ST W,Minneapolis,MN",44.967725,-93.281154,Yardville,1,7,Loring Park,Central,3
+-93.253751,44.970362,423,02/26/2018 01:32pm,Snow Emergency,"1806 6th st s,Minneapolis,MN",44.970362,-93.253751,Yardville,2,6,Downtown East,Central,3
+-93.286022,44.968446,424,02/26/2018 01:36am,Snow Emergency,"629 15TH ST W,Minneapolis,MN",44.968446,-93.286022,Yardville,1,7,Loring Park,Central,3
+-93.268982,44.960028,425,02/26/2018 01:36pm,Snow Emergency,"2302 5TH AVE S,Minneapolis,MN",44.960028,-93.268982,Yardville,2,6,Phillips West,Phillips,3
+-93.268289,44.957573,426,02/26/2018 01:38pm,Snow Emergency,"516 25TH ST E,Minneapolis,MN",44.957573,-93.268289,Yardville,2,6,Phillips West,Phillips,3
+-93.273117,44.956653,427,02/26/2018 01:40am,Snow Emergency,"2500 BLOCK OF 3RD AVE S,Minneapolis,MN",44.956653,-93.273117,Yardville,1,10,Whittier,Powderhorn,3
+-93.284519,44.960498,428,02/26/2018 01:43pm,Snow Emergency,"2208 grand ave s ,Minneapolis,MN",44.960498,-93.284519,Yardville,2,10,Whittier,Powderhorn,3
+-93.285902,44.968404,429,02/26/2018 02:00am,Snow Emergency,"308 15TH ST W,Minneapolis,MN",44.968404,-93.285902,Yardville,1,7,Loring Park,Central,3
+-93.289389,44.963775,430,02/26/2018 02:04pm,Snow Emergency,"1904 Aldrich av s,Minneapolis,MN",44.963775,-93.289389,Yardville,2,10,Lowry Hill East,Calhoun Isle,3
+-93.273117,44.956653,431,02/26/2018 02:08am,Snow Emergency,"2500 block of 3rd Ave s,Minneapolis,MN",44.956653,-93.273117,Yardville,1,10,Whittier,Powderhorn,3
+-93.276351,44.952699,432,02/26/2018 02:12am,Snow Emergency,"2727 1st ave s,Minneapolis,MN",44.952699,-93.276351,Yardville,1,10,Whittier,Powderhorn,3
+-93.276913,44.95137,433,02/26/2018 02:19am,Snow Emergency,"2814 1st ave s,Minneapolis,MN",44.95137,-93.276913,Yardville,1,10,Whittier,Powderhorn,3
+-93.260897,44.967996,434,02/26/2018 02:20pm,Snow Emergency,"904 15th st e,Minneapolis,MN",44.967996,-93.260897,Yardville,2,6,Elliot Park,Central,3
+-93.276913,44.95137,435,02/26/2018 02:21am,Snow Emergency,"2814 1stsv s ,Minneapolis,MN",44.95137,-93.276913,Yardville,1,10,Whittier,Powderhorn,3
+-93.289304,44.962262,436,02/26/2018 02:22pm,Snow Emergency,"2008 Aldrich av s ,Minneapolis,MN",44.962262,-93.289304,Yardville,2,10,Lowry Hill East,Calhoun Isle,3
+-93.268924,44.96886,437,02/26/2018 02:27pm,Snow Emergency,"1410 5th ave s,Minneapolis,MN",44.96886,-93.268924,Yardville,2,7,Elliot Park,Central,3
+-93.276891,44.951099,438,02/26/2018 02:29am,Snow Emergency,"2822 1st av s,Minneapolis,MN",44.951099,-93.276891,Yardville,1,10,Whittier,Powderhorn,3
+-93.294348,44.96698,439,02/26/2018 02:31am,Snow Emergency,"1400 emerson AVE N,Minneapolis,MN",44.96698,-93.294348,Yardville,1,7,Lowry Hill,Calhoun Isle,3
+-93.259678,44.96799,440,02/26/2018 02:32pm,Snow Emergency,"1504 10TH AVE S,Minneapolis,MN",44.96799,-93.259678,Yardville,2,6,Elliot Park,Central,3
+-93.276481,44.953375,441,02/26/2018 02:35am,Snow Emergency,"2707 1ST AVE S,Minneapolis,MN",44.953375,-93.276481,Yardville,1,10,Whittier,Powderhorn,3
+-93.259992,44.966966,442,02/26/2018 02:36pm,Snow Emergency,"1624 10TH AVE S,Minneapolis,MN",44.966966,-93.259992,Yardville,2,6,Elliot Park,Central,3
+-93.261331,44.967651,443,02/26/2018 02:36pm,Snow Emergency,"1508 Elliot ave ,Minneapolis,MN",44.967651,-93.261331,Yardville,2,6,Elliot Park,Central,3
+-93.261381,44.967512,444,02/26/2018 02:38pm,Snow Emergency,"1512 elliot Ave ,Minneapolis,MN",44.967512,-93.261381,Yardville,2,6,Elliot Park,Central,3
+-93.260194,44.968221,445,02/26/2018 02:47pm,Snow Emergency,"924 15th st e,Minneapolis,MN",44.968221,-93.260194,Yardville,2,6,Elliot Park,Central,3
+-93.265945,44.978687,446,02/26/2018 09:00am,Snow Emergency,"220 4th ave ne,Minneapolis,MN",44.978687,-93.265945,Yardville,2,3,Downtown West,Central,3
+-93.300829,44.950057,447,02/26/2018 09:08am,Snow Emergency,"The mall & Humboldt Ave n ,Minneapolis,MN",44.950057,-93.300829,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.300708,44.949982,448,02/26/2018 09:10am,Snow Emergency,"Mall/ Humboldt,Minneapolis,MN",44.949982,-93.300708,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.259656,44.961368,449,02/26/2018 09:25am,Snow Emergency,"2118 10th av s,Minneapolis,MN",44.961368,-93.259656,Yardville,2,6,Ventura Village,Phillips,3
+-93.300829,44.950057,450,02/26/2018 09:27am,Snow Emergency,"The mall & Humboldt Ave n ,Minneapolis,MN",44.950057,-93.300829,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.302097,44.949925,451,02/26/2018 09:35am,Snow Emergency,"THE MALL & IRVING AVE S,Minneapolis,MN",44.949925,-93.302097,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.300829,44.950057,452,02/26/2018 09:39am,Snow Emergency,"THE MALL @ HUMBOLDT AVE S,Minneapolis,MN",44.950057,-93.300829,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.303368,44.950175,453,02/26/2018 09:50am,Snow Emergency,"The mall & James ave s,Minneapolis,MN",44.950175,-93.303368,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.259656,44.961379,454,02/26/2018 09:54am,Snow Emergency,"2116 10th av s,Minneapolis,MN",44.961379,-93.259656,Yardville,2,6,Ventura Village,Phillips,3
+-93.280834,44.966751,455,02/26/2018 09:56am,Snow Emergency,"1508 spruce place,Minneapolis,MN",44.966751,-93.280834,Yardville,2,7,Loring Park,Central,3
+-93.302097,44.949925,456,02/26/2018 10:06am,Snow Emergency,"The mall & Irving Ave s,Minneapolis,MN",44.949925,-93.302097,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.281164,44.967007,457,02/26/2018 10:28am,Snow Emergency,"1518 spruce place,Minneapolis,MN",44.967007,-93.281164,Yardville,2,7,Loring Park,Central,3
+-93.259988,44.960341,458,02/26/2018 10:31am,Snow Emergency,"2214 10th av s,Minneapolis,MN",44.960341,-93.259988,Yardville,2,6,Ventura Village,Phillips,3
+-93.260048,44.957678,459,02/26/2018 10:49am,Snow Emergency,"2448 10TH AVE S,Minneapolis,MN",44.957678,-93.260048,Yardville,2,9,Midtown Phillips,Phillips,3
+-93.261589,44.958638,460,02/26/2018 10:50am,Snow Emergency,"2404 Elliot ave ,Minneapolis,MN",44.958638,-93.261589,Yardville,2,9,Midtown Phillips,Phillips,3
+-93.26036,44.957705,461,02/26/2018 10:52am,Snow Emergency,"2444 10TH AVE S,Minneapolis,MN",44.957705,-93.26036,Yardville,2,9,Midtown Phillips,Phillips,3
+-93.26036,44.957705,462,02/26/2018 10:52am,Snow Emergency,"2444 10TH AVE S,Minneapolis,MN",44.957705,-93.26036,Yardville,2,9,Midtown Phillips,Phillips,3
+-93.29474,44.960168,463,02/26/2018 11:00am,Snow Emergency,"2220 Emerson av s,Minneapolis,MN",44.960168,-93.29474,Yardville,2,7,East Isles,Calhoun Isle,3
+-93.264186,44.951269,464,02/26/2018 11:16am,Snow Emergency,"2814 Columbus ave s ,Minneapolis,MN",44.951269,-93.264186,Yardville,2,6,Phillips West,Phillips,3
+-93.29306,44.965918,465,02/26/2018 11:17am,Snow Emergency,"1778 DuPont av s,Minneapolis,MN",44.965918,-93.29306,Yardville,2,7,Lowry Hill,Calhoun Isle,3
+-93.296903,44.962051,466,02/26/2018 11:46am,Snow Emergency,"2018 Girard av s ,Minneapolis,MN",44.962051,-93.296903,Yardville,2,7,Lowry Hill,Calhoun Isle,3
+-93.264197,44.949422,467,02/26/2018 11:47am,Snow Emergency,"2918 columbus,Minneapolis,MN",44.949422,-93.264197,Yardville,2,6,Phillips West,Phillips,3
+-93.273028,44.964343,468,02/26/2018 12:01am,Snow Emergency,"1830 3rd ave s,Minneapolis,MN",44.964343,-93.273028,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.282001,44.967747,469,02/26/2018 12:07am,Snow Emergency,"708 15th st w,Minneapolis,MN",44.967747,-93.282001,Yardville,1,7,Loring Park,Central,3
+-93.264134,44.949884,470,02/26/2018 12:10pm,Snow Emergency,"2904 COLUMBUS AVE S,Minneapolis,MN",44.949884,-93.264134,Yardville,2,6,Phillips West,Phillips,3
+-93.263918,44.950223,471,02/26/2018 12:13pm,Snow Emergency,"2852 Columbus ave s,Minneapolis,MN",44.950223,-93.263918,Yardville,2,6,Phillips West,Phillips,3
+-93.272492,44.964389,472,02/26/2018 12:14am,Snow Emergency,"1829 3rd av s,Minneapolis,MN",44.964389,-93.272492,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.26415,44.949106,473,02/26/2018 12:14pm,Snow Emergency,"2930 COLUMBUS AVE S,Minneapolis,MN",44.949106,-93.26415,Yardville,2,6,Phillips West,Phillips,3
+-93.293465,44.964229,474,02/26/2018 12:21pm,Snow Emergency,"1902 DuPont AVE S,Minneapolis,MN",44.964229,-93.293465,Yardville,2,7,Lowry Hill,Calhoun Isle,3
+-93.257832,44.949421,475,02/26/2018 12:22pm,Snow Emergency,"2920 12th av s,Minneapolis,MN",44.949421,-93.257832,Yardville,2,9,Midtown Phillips,Phillips,3
+-93.264188,44.951175,476,02/26/2018 12:25pm,Snow Emergency,"2816 Columbus ave s,Minneapolis,MN",44.951175,-93.264188,Yardville,2,6,Phillips West,Phillips,3
+-93.272756,44.963176,477,02/26/2018 12:26am,Snow Emergency,"1918 3rd av s,Minneapolis,MN",44.963176,-93.272756,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.281374,44.967726,478,02/26/2018 12:27am,Snow Emergency,"202 15TH ST W,Minneapolis,MN",44.967726,-93.281374,Yardville,1,7,Loring Park,Central,3
+-93.273114,44.963614,479,02/26/2018 12:30am,Snow Emergency,"1906 3RD AVE S,Minneapolis,MN",44.963614,-93.273114,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.273077,44.96201,480,02/26/2018 12:36am,Snow Emergency,"2014 3rd av s,Minneapolis,MN",44.96201,-93.273077,Yardville,1,10,Whittier,Powderhorn,3
+-93.273114,44.963614,481,02/26/2018 12:36am,Snow Emergency,"1906 3rd Ave s,Minneapolis,MN",44.963614,-93.273114,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.273119,44.963758,482,02/26/2018 12:37am,Snow Emergency,"1900 3AVE S,Minneapolis,MN",44.963758,-93.273119,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.285062,44.966768,483,02/26/2018 12:37pm,Snow Emergency,"400 clifton av,Minneapolis,MN",44.966768,-93.285062,Yardville,2,7,Loring Park,Central,3
+-93.282001,44.967747,484,02/26/2018 12:38am,Snow Emergency,"620 15th st w,Minneapolis,MN",44.967747,-93.282001,Yardville,1,7,Loring Park,Central,3
+-93.27299,44.965052,485,02/26/2018 12:42am,Snow Emergency,"1800 3RD AVE S,Minneapolis,MN",44.965052,-93.27299,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.273119,44.963758,486,02/26/2018 12:45am,Snow Emergency,"1900 3rd ave s,Minneapolis,MN",44.963758,-93.273119,Yardville,1,6,Steven's Square - Loring Heights,Central,3
+-93.273077,44.96201,487,02/26/2018 12:52am,Snow Emergency,"2014 3rd av s,Minneapolis,MN",44.96201,-93.273077,Yardville,1,10,Whittier,Powderhorn,3
+-93.284207,44.959257,488,02/26/2018 12:57pm,Snow Emergency,"2332 grand av s,Minneapolis,MN",44.959257,-93.284207,Yardville,2,10,Whittier,Powderhorn,3
+-93.279349,44.968789,489,02/27/2018 10:01am,Snow Emergency,"103 14th st w,Minneapolis,MN",44.968789,-93.279349,Yardville,3,7,Loring Park,Central,3
+-93.284017,44.966134,490,02/27/2018 10:09am,Snow Emergency,"231 clifton Ave,Minneapolis,MN",44.966134,-93.284017,Yardville,3,7,Loring Park,Central,3
+-93.275346,44.963954,491,02/27/2018 10:14am,Snow Emergency,"123 19th st e,Minneapolis,MN",44.963954,-93.275346,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.274307,44.963726,492,02/27/2018 10:24am,Snow Emergency,"143 19th st e,Minneapolis,MN",44.963726,-93.274307,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.27529,44.964437,493,02/27/2018 10:39am,Snow Emergency,"1825 stevens Ave S,Minneapolis,MN",44.964437,-93.27529,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.275291,44.964525,494,02/27/2018 11:05am,Snow Emergency,"1811 Stevens ave s ,Minneapolis,MN",44.964525,-93.275291,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.274973,44.963413,495,02/27/2018 11:11am,Snow Emergency,"1913 stevens Ave S,Minneapolis,MN",44.963413,-93.274973,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.282871,44.963947,496,02/27/2018 11:24am,Snow Emergency,"301 RIDGEWOOD AVE S,Minneapolis,MN",44.963947,-93.282871,Yardville,3,7,Steven's Square - Loring Heights,Central,3
+-93.276109,44.963955,497,02/27/2018 11:26am,Snow Emergency,"109 19TH ST E,Minneapolis,MN",44.963955,-93.276109,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.274941,44.966029,498,02/27/2018 11:30am,Snow Emergency,"1705 Stevens ave s,Minneapolis,MN",44.966029,-93.274941,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.274029,44.963782,499,02/27/2018 11:33am,Snow Emergency,"1905 2nd ave s,Minneapolis,MN",44.963782,-93.274029,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.27529,44.964449,500,02/27/2018 11:36am,Snow Emergency,"1823 Stevens ave s,Minneapolis,MN",44.964449,-93.27529,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.273366,44.964586,501,02/27/2018 11:39am,Snow Emergency,"213 18th st e ,Minneapolis,MN",44.964586,-93.273366,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.307828,44.981588,502,02/27/2018 11:58am,Snow Emergency,"2121 4TH AVE N,Minneapolis,MN",44.981588,-93.307828,Yardville,3,5,Harrison,Near North,3
+-93.271618,44.965219,503,02/27/2018 12:08pm,Snow Emergency,"321 18th st e,Minneapolis,MN",44.965219,-93.271618,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.271104,44.965106,504,02/27/2018 12:12pm,Snow Emergency,"331 18th st e,Minneapolis,MN",44.965106,-93.271104,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.274028,44.963943,505,02/27/2018 12:14pm,Snow Emergency,"1901 2nd ave s,Minneapolis,MN",44.963943,-93.274028,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.281071,44.964131,506,02/27/2018 12:32pm,Snow Emergency,"1900 Pillsbury ave s,Minneapolis,MN",44.964131,-93.281071,Yardville,3,7,Steven's Square - Loring Heights,Central,3
+-93.274028,44.96416,507,02/27/2018 12:33pm,Snow Emergency,"1829 2nd Ave s ,Minneapolis,MN",44.96416,-93.274028,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.27373,44.964107,508,02/27/2018 12:36pm,Snow Emergency,"1831 2ND AVE S,Minneapolis,MN",44.964107,-93.27373,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.27335,44.964819,509,02/27/2018 12:39pm,Snow Emergency,"215 18TH ST E,Minneapolis,MN",44.964819,-93.27335,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.281777,44.963583,510,02/27/2018 12:41pm,Snow Emergency,"223 Ridgewood ave s,Minneapolis,MN",44.963583,-93.281777,Yardville,3,7,Steven's Square - Loring Heights,Central,3
+-93.271116,44.96382,511,02/27/2018 12:42pm,Snow Emergency,"331 19th st ,Minneapolis,MN",44.96382,-93.271116,Yardville,3,6,Steven's Square - Loring Heights,Central,3
+-93.272797,44.953634,512,02/27/2018 12:55pm,Snow Emergency,"2721 3rd av s,Minneapolis,MN",44.953634,-93.272797,Yardville,3,10,Whittier,Powderhorn,3
+-93.272798,44.953684,513,02/27/2018 12:55pm,Snow Emergency,"2711 3rd ave s ,Minneapolis,MN",44.953684,-93.272798,Yardville,3,10,Whittier,Powderhorn,3
+-93.261876,44.967995,514,02/27/2018 12:58pm,Snow Emergency,"819 15th St e,Minneapolis,MN",44.967995,-93.261876,Yardville,3,6,Elliot Park,Central,3
+-93.237405,45.021521,515,02/25/2018 09:07pm,Snow Emergency,"2936 JOHNSON ST NE,Minneapolis,MN",45.021521,-93.237405,Yardville,1,1,Audubon Park,Northeast,2
+-93.27206,45.016324,516,02/26/2018 01:14am,Snow Emergency,"2641 Marshall St NE,Minneapolis,MN",45.016324,-93.27206,Yardville,1,1,Marshall Terrace,Northeast,2
+-93.271437,45.009282,517,02/26/2018 01:17am,Snow Emergency,"2111 Marshall St NE,Minneapolis,MN",45.009282,-93.271437,Yardville,1,3,Bottineau,Northeast,2
+-93.270819,45.002316,518,02/26/2018 01:24am,Snow Emergency,"1427 Marshall St NE,Minneapolis,MN",45.002316,-93.270819,Yardville,1,3,Sheridan,Northeast,2
+-93.234021,45.024237,519,02/26/2018 01:24am,Snow Emergency,"1843 31st ave ,Minneapolis,MN",45.024237,-93.234021,Yardville,1,1,Waite Park,Northeast,2
+-93.267486,44.999817,520,02/26/2018 01:45pm,Snow Emergency,"112 12th ave ne,Minneapolis,MN",44.999817,-93.267486,Yardville,2,3,Sheridan,Northeast,2
+-93.241276,45.005144,521,02/26/2018 01:48pm,Snow Emergency,"1702 pierce st ne,Minneapolis,MN",45.005144,-93.241276,Yardville,2,1,Northeast Park,Northeast,2
+-93.237492,45.005014,522,02/26/2018 01:49pm,Snow Emergency,"1700 Johnson st ne,Minneapolis,MN",45.005014,-93.237492,Yardville,2,1,Northeast Park,Northeast,2
+-93.249396,45.010191,523,02/26/2018 01:52pm,Snow Emergency,"2214 jackson st ne,Minneapolis,MN",45.010191,-93.249396,Yardville,2,1,Holland,Northeast,2
+-93.244074,45.014082,524,02/26/2018 01:55pm,Snow Emergency,"2526 taylor st ne,Minneapolis,MN",45.014082,-93.244074,Yardville,2,1,Audubon Park,Northeast,2
+-93.242499,45.012805,525,02/26/2018 01:57pm,Snow Emergency,"2418 filmore st ne,Minneapolis,MN",45.012805,-93.242499,Yardville,2,1,Windom Park,Northeast,2
+-93.262686,45.007281,526,02/26/2018 01:58pm,Snow Emergency,"336 19th ave ne,Minneapolis,MN",45.007281,-93.262686,Yardville,2,1,Holland,Northeast,2
+-93.251231,45.007305,527,02/26/2018 02:00pm,Snow Emergency,"1838 quincy st ne,Minneapolis,MN",45.007305,-93.251231,Yardville,2,1,Logan Park,Northeast,2
+-93.248612,45.010662,528,02/26/2018 02:31pm,Snow Emergency,"906 23rd ave ne,Minneapolis,MN",45.010662,-93.248612,Yardville,2,1,Holland,Northeast,2
+-93.25668,45.006239,529,02/26/2018 02:33pm,Snow Emergency,"634 18th ave ne,Minneapolis,MN",45.006239,-93.25668,Yardville,2,1,Logan Park,Northeast,2
+-93.249118,45.015187,530,02/26/2018 02:34pm,Snow Emergency,"2604 jackson st ne,Minneapolis,MN",45.015187,-93.249118,Yardville,2,1,Holland,Northeast,2
+-93.253358,45.013518,531,02/26/2018 02:36pm,Snow Emergency,"2510 howard st ne,Minneapolis,MN",45.013518,-93.253358,Yardville,2,1,Holland,Northeast,2
+-93.268928,45.015884,532,02/26/2018 02:48pm,Snow Emergency,"2630 California St ne,Minneapolis,MN",45.015884,-93.268928,Yardville,2,1,Marshall Terrace,Northeast,2
+-93.242369,45.014386,533,02/26/2018 02:49pm,Snow Emergency,"2536 filmore st ne,Minneapolis,MN",45.014386,-93.242369,Yardville,2,1,Audubon Park,Northeast,2
+-93.246063,45.017539,534,02/26/2018 02:51pm,Snow Emergency,"2720 polk st ne,Minneapolis,MN",45.017539,-93.246063,Yardville,2,1,Audubon Park,Northeast,2
+-93.253687,45.011984,535,02/26/2018 02:52pm,Snow Emergency,"680 24th ave ne,Minneapolis,MN",45.011984,-93.253687,Yardville,2,1,Holland,Northeast,2
+-93.258707,45.035301,536,02/26/2018 04:53am,Snow Emergency,"532 37th Ave NE,Minneapolis,MN",45.035301,-93.258707,Yardville,1,1,Columbia Park,Northeast,2
+-93.257241,45.035271,537,02/26/2018 04:56am,Snow Emergency,"572 37th Ave NE,Minneapolis,MN",45.035271,-93.257241,Yardville,1,1,Columbia Park,Northeast,2
+-93.257521,45.035555,538,02/26/2018 05:36am,Snow Emergency,"562 37th Ave NE,Minneapolis,MN",45.035555,-93.257521,Yardville,1,1,Columbia Park,Northeast,2
+-93.256943,45.035306,539,02/26/2018 05:38am,Snow Emergency,"582 37th Ave NE,Minneapolis,MN",45.035306,-93.256943,Yardville,1,1,Columbia Park,Northeast,2
+-93.254165,44.992024,540,02/26/2018 08:45am,Snow Emergency,"248 6th st ne,Minneapolis,MN",44.992024,-93.254165,Yardville,2,3,St. Anthony East,Northeast,2
+-93.257291,44.993017,541,02/26/2018 08:55am,Snow Emergency,"416 4th ave ne,Minneapolis,MN",44.993017,-93.257291,Yardville,2,3,St. Anthony West,Northeast,2
+-93.251231,44.993397,542,02/26/2018 08:57am,Snow Emergency,"802 3rd ave ne,Minneapolis,MN",44.993397,-93.251231,Yardville,2,3,St. Anthony East,Northeast,2
+-93.26024,44.994564,543,02/26/2018 09:01am,Snow Emergency,"306 6th ave ne,Minneapolis,MN",44.994564,-93.26024,Yardville,2,3,St. Anthony West,Northeast,2
+-93.254237,44.996901,544,02/26/2018 09:09am,Snow Emergency,"674 summer st ne,Minneapolis,MN",44.996901,-93.254237,Yardville,2,3,St. Anthony East,Northeast,2
+-93.231756,44.992833,545,02/26/2018 09:14am,Snow Emergency,"1166 14th ave se,Minneapolis,MN",44.992833,-93.231756,Yardville,2,1,Como,University,2
+-93.232048,44.991731,546,02/26/2018 09:15am,Snow Emergency,"1126 14th ave se,Minneapolis,MN",44.991731,-93.232048,Yardville,2,1,Como,University,2
+-93.253149,44.996748,547,02/26/2018 09:29am,Snow Emergency,"688 Summer st ne,Minneapolis,MN",44.996748,-93.253149,Yardville,2,3,St. Anthony East,Northeast,2
+-93.231753,44.993161,548,02/26/2018 09:30am,Snow Emergency,"1176 14th ave SE,Minneapolis,MN",44.993161,-93.231753,Yardville,2,1,Como,University,2
+-93.232048,44.991681,549,02/26/2018 09:32am,Snow Emergency,"1124 14th ave Se,Minneapolis,MN",44.991681,-93.232048,Yardville,2,1,Como,University,2
+-93.259573,44.996106,550,02/26/2018 09:46am,Snow Emergency,"402 7th ave ne,Minneapolis,MN",44.996106,-93.259573,Yardville,2,3,St. Anthony West,Northeast,2
+-93.262889,44.997699,551,02/26/2018 09:52am,Snow Emergency,"308 9th ave ne,Minneapolis,MN",44.997699,-93.262889,Yardville,2,3,St. Anthony West,Northeast,2
+-93.266781,44.996348,552,02/26/2018 09:54am,Snow Emergency,"124 9th ave ne,Minneapolis,MN",44.996348,-93.266781,Yardville,2,3,St. Anthony West,Northeast,2
+-93.231738,44.991631,553,02/26/2018 09:57am,Snow Emergency,"1122 14th ave se,Minneapolis,MN",44.991631,-93.231738,Yardville,2,1,Como,University,2
+-93.262556,44.99764,554,02/26/2018 10:07am,Snow Emergency,"306 9th ave ne,Minneapolis,MN",44.99764,-93.262556,Yardville,2,3,St. Anthony West,Northeast,2
+-93.258073,44.997702,555,02/26/2018 10:15am,Snow Emergency,"718 6th st ne,Minneapolis,MN",44.997702,-93.258073,Yardville,2,3,St. Anthony West,Northeast,2
+-93.236208,45.015825,556,02/26/2018 10:53am,Snow Emergency,"2626 Ulysses st ne,Minneapolis,MN",45.015825,-93.236208,Yardville,2,1,Audubon Park,Northeast,2
+-93.262827,45.015119,557,02/26/2018 10:55am,Snow Emergency,"344 26th ave ne,Minneapolis,MN",45.015119,-93.262827,Yardville,2,1,Holland,Northeast,2
+-93.269707,45.001746,558,02/26/2018 11:03am,Snow Emergency,"1400 Grand st ne,Minneapolis,MN",45.001746,-93.269707,Yardville,2,3,Sheridan,Northeast,2
+-93.268009,45.000094,559,02/26/2018 11:04am,Snow Emergency,"1208 Main st ne,Minneapolis,MN",45.000094,-93.268009,Yardville,2,3,Sheridan,Northeast,2
+-93.258194,45.011593,560,02/26/2018 11:06am,Snow Emergency,"2312 7th st ne,Minneapolis,MN",45.011593,-93.258194,Yardville,2,1,Holland,Northeast,2
+-93.258194,45.011593,561,02/26/2018 11:09am,Snow Emergency,"2312 7th st ne,Minneapolis,MN",45.011593,-93.258194,Yardville,2,1,Holland,Northeast,2
+-93.258223,45.010462,562,02/26/2018 11:13am,Snow Emergency,"2212 7th st ne,Minneapolis,MN",45.010462,-93.258223,Yardville,2,1,Holland,Northeast,2
+-93.264628,45.011977,563,02/26/2018 11:17am,Snow Emergency,"2324 3rd st ne,Minneapolis,MN",45.011977,-93.264628,Yardville,2,3,Bottineau,Northeast,2
+-93.256592,45.004983,564,02/26/2018 11:44am,Snow Emergency,"1630 adams st ne,Minneapolis,MN",45.004983,-93.256592,Yardville,2,1,Logan Park,Northeast,2
+-93.264854,45.000534,565,02/26/2018 11:46am,Snow Emergency,"1230 3rd st ne,Minneapolis,MN",45.000534,-93.264854,Yardville,2,3,Sheridan,Northeast,2
+-93.256252,44.996131,566,02/26/2018 11:47am,Snow Emergency,"634 adams st ne,Minneapolis,MN",44.996131,-93.256252,Yardville,2,3,St. Anthony East,Northeast,2
+-93.231043,45.02812,567,02/26/2018 11:50am,Snow Emergency,"3310 cleveland st ne,Minneapolis,MN",45.02812,-93.231043,Yardville,2,1,Waite Park,Northeast,2
+-93.256586,45.001281,568,02/26/2018 11:51am,Snow Emergency,"1310 adams st ne,Minneapolis,MN",45.001281,-93.256586,Yardville,2,1,Logan Park,Northeast,2
+-93.255247,44.99802,569,02/26/2018 11:52am,Snow Emergency,"738 jefferson st ne,Minneapolis,MN",44.99802,-93.255247,Yardville,2,3,St. Anthony East,Northeast,2
+-93.255237,45.002268,570,02/26/2018 11:54am,Snow Emergency,"1406 jefferson st ne,Minneapolis,MN",45.002268,-93.255237,Yardville,2,1,Logan Park,Northeast,2
+-93.255,45.00151,571,02/26/2018 11:57am,Snow Emergency,"1318 jefferson st ne,Minneapolis,MN",45.00151,-93.255,Yardville,2,1,Logan Park,Northeast,2
+-93.24883,44.995567,572,02/26/2018 12:05pm,Snow Emergency,"612 VanBuren st ne,Minneapolis,MN",44.995567,-93.24883,Yardville,2,3,St. Anthony East,Northeast,2
+-93.248879,44.997544,573,02/26/2018 12:06pm,Snow Emergency,"718 VanBuren st ne,Minneapolis,MN",44.997544,-93.248879,Yardville,2,3,St. Anthony East,Northeast,2
+-93.246832,45.015855,574,02/26/2018 12:09am,Snow Emergency,"2625 Central Ave NE,Minneapolis,MN",45.015855,-93.246832,Yardville,1,1,Audubon Park,Northeast,2
+-93.247552,45.027623,575,02/26/2018 12:18am,Snow Emergency,"3300 Central Ave NE,Minneapolis,MN",45.027623,-93.247552,Yardville,1,1,Columbia Park,Northeast,2
+-93.247432,45.023081,576,02/26/2018 12:20am,Snow Emergency,"3048 Central Ave NE,Minneapolis,MN",45.023081,-93.247432,Yardville,1,1,Columbia Park,Northeast,2
+-93.270819,45.002316,577,02/26/2018 12:31am,Snow Emergency,"1427 Marshall St NE,Minneapolis,MN",45.002316,-93.270819,Yardville,1,3,Sheridan,Northeast,2
+-93.252294,44.995093,578,02/26/2018 12:31pm,Snow Emergency,"749 spring st ne,Minneapolis,MN",44.995093,-93.252294,Yardville,2,3,St. Anthony East,Northeast,2
+-93.243812,44.995383,579,02/26/2018 12:32pm,Snow Emergency,"606 taylor st ne,Minneapolis,MN",44.995383,-93.243812,Yardville,2,3,Beltrami,Northeast,2
+-93.240515,44.994977,580,02/26/2018 12:43pm,Snow Emergency,"1306 spring st ne,Minneapolis,MN",44.994977,-93.240515,Yardville,2,3,Beltrami,Northeast,2
+-93.256522,44.996215,581,02/26/2018 12:45pm,Snow Emergency,"638 adams st ne,Minneapolis,MN",44.996215,-93.256522,Yardville,2,3,St. Anthony East,Northeast,2
+-93.255717,45.005099,582,02/26/2018 12:47pm,Snow Emergency,"648 17th ave ne,Minneapolis,MN",45.005099,-93.255717,Yardville,2,1,Logan Park,Northeast,2
+-93.255217,45.001843,583,02/26/2018 12:48pm,Snow Emergency,"1330 jefferson st ne,Minneapolis,MN",45.001843,-93.255217,Yardville,2,1,Logan Park,Northeast,2
+-93.255217,45.001843,584,02/26/2018 12:49pm,Snow Emergency,"1330 jefferson st ne,Minneapolis,MN",45.001843,-93.255217,Yardville,2,1,Logan Park,Northeast,2
+-93.254997,44.999899,585,02/26/2018 12:53pm,Snow Emergency,"1140 Jefferson st ne,Minneapolis,MN",44.999899,-93.254997,Yardville,2,1,Logan Park,Northeast,2
+-93.270819,45.002316,586,02/26/2018 12:54am,Snow Emergency,"1427 Marshall St NE,Minneapolis,MN",45.002316,-93.270819,Yardville,1,3,Sheridan,Northeast,2
+-93.271139,45.001007,587,02/26/2018 12:56am,Snow Emergency,"1348 Marshall St NE,Minneapolis,MN",45.001007,-93.271139,Yardville,1,3,Sheridan,Northeast,2
+-93.258563,45.003288,588,02/26/2018 12:56pm,Snow Emergency,"604 15th ave ne,Minneapolis,MN",45.003288,-93.258563,Yardville,2,3,Sheridan,Northeast,2
+-93.243509,44.994125,589,02/26/2018 12:59pm,Snow Emergency,"430 taylor st ne,Minneapolis,MN",44.994125,-93.243509,Yardville,2,3,Beltrami,Northeast,2
+-93.25083,45.006923,590,02/27/2018 12:41pm,Snow Emergency,"803 1th st e,Minneapolis,MN",45.006923,-93.25083,Yardville,3,1,Logan Park,Northeast,2
+-93.271432,44.987548,591,02/25/2018 10:02pm,Snow Emergency,"404 1st st n ,Minneapolis,MN",44.987548,-93.271432,Yardville,1,3,North Loop,Central,1
+-93.279118,44.990919,592,02/25/2018 10:13pm,Snow Emergency,"900 2nd st N,Minneapolis,MN",44.990919,-93.279118,Yardville,1,3,North Loop,Central,1
+-93.287993,45.00025,593,02/25/2018 10:46pm,Snow Emergency,"2100 Lyndale ave n,Minneapolis,MN",45.00025,-93.287993,Yardville,1,5,Hawthorne,Near North,1
+-93.287698,45.001645,594,02/25/2018 10:49pm,Snow Emergency,"2200 Lyndale Ave N,Minneapolis,MN",45.001645,-93.287698,Yardville,1,5,Hawthorne,Near North,1
+-93.273345,44.98723,595,02/25/2018 10:50pm,Snow Emergency,"500 BLOCK 2 st n,Minneapolis,MN",44.98723,-93.273345,Yardville,1,3,North Loop,Central,1
+-93.273389,44.988448,596,02/25/2018 10:55pm,Snow Emergency,"502 1st st n,Minneapolis,MN",44.988448,-93.273389,Yardville,1,3,North Loop,Central,1
+-93.287978,45.007733,597,02/25/2018 11:07pm,Snow Emergency,"2700-2899 LYNDALE AVE N,Minneapolis,MN",45.007733,-93.287978,Yardville,1,5,Hawthorne,Near North,1
+-93.274734,44.99028,598,02/25/2018 11:08pm,Snow Emergency,"720 1st st n,Minneapolis,MN",44.99028,-93.274734,Yardville,1,3,North Loop,Central,1
+-93.288021,45.013111,599,02/25/2018 11:14pm,Snow Emergency,"3200 Lyndale Ave N,Minneapolis,MN",45.013111,-93.288021,Yardville,1,4,McKinley,Camden,1
+-93.288048,45.018628,600,02/25/2018 11:36pm,Snow Emergency,"3500 BLOCK LYNDALE AVE N,Minneapolis,MN",45.018628,-93.288048,Yardville,1,4,McKinley,Camden,1
+-93.281331,44.989493,601,02/25/2018 11:37pm,Snow Emergency,"920 3rd st n,Minneapolis,MN",44.989493,-93.281331,Yardville,1,3,North Loop,Central,1
+-93.287841,45.015031,602,02/25/2018 11:37pm,Snow Emergency,"3300 lyndale ave n,Minneapolis,MN",45.015031,-93.287841,Yardville,1,4,McKinley,Camden,1
+-93.287841,45.015031,603,02/25/2018 11:38pm,Snow Emergency,"3300 Lyndale ave n,Minneapolis,MN",45.015031,-93.287841,Yardville,1,4,McKinley,Camden,1
+-93.287623,45.009759,604,02/25/2018 11:39pm,Snow Emergency,"2900 lyndale n ,Minneapolis,MN",45.009759,-93.287623,Yardville,1,5,Hawthorne,Near North,1
+-93.28776,45.018627,605,02/25/2018 11:40pm,Snow Emergency,"3500 Lyndale ave n,Minneapolis,MN",45.018627,-93.28776,Yardville,1,4,McKinley,Camden,1
+-93.287788,45.022311,606,02/25/2018 11:41pm,Snow Emergency,"3700 Lyndale Ave N,Minneapolis,MN",45.022311,-93.287788,Yardville,1,4,McKinley,Camden,1
+-93.281524,44.988842,607,02/25/2018 11:52pm,Snow Emergency,"915 3rd st n,Minneapolis,MN",44.988842,-93.281524,Yardville,1,3,North Loop,Central,1
+-93.292063,44.988817,608,02/26/2018 01:10am,Snow Emergency,"1100 van white Blvd ,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.288048,45.018628,609,02/26/2018 01:10am,Snow Emergency,"3500-3599 LYNDALE AVE N,Minneapolis,MN",45.018628,-93.288048,Yardville,1,4,McKinley,Camden,1
+-93.292063,44.988817,610,02/26/2018 01:12am,Snow Emergency,"1100 van white blvd,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.309505,44.992261,611,02/26/2018 01:12pm,Snow Emergency,"1340 QUEEN AVE N,Minneapolis,MN",44.992261,-93.309505,Yardville,2,5,Willard - Hay,Near North,1
+-93.306818,44.999446,612,02/26/2018 01:12pm,Snow Emergency,"1918 Oliver Ave. N.,Minneapolis,MN",44.999446,-93.306818,Yardville,2,5,Willard - Hay,Near North,1
+-93.281492,44.98713,613,02/26/2018 01:18am,Snow Emergency,"821 4th st n,Minneapolis,MN",44.98713,-93.281492,Yardville,1,5,North Loop,Central,1
+-93.293873,44.984487,614,02/26/2018 01:26am,Snow Emergency,"600 Van White Memorial Blvd,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.310463,44.994449,615,02/26/2018 01:27pm,Snow Emergency,"1508 russell ave n,Minneapolis,MN",44.994449,-93.310463,Yardville,2,5,Willard - Hay,Near North,1
+-93.291966,44.985948,616,02/26/2018 01:29am,Snow Emergency,"600-720 VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.985948,-93.291966,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.301634,44.992917,617,02/26/2018 01:30pm,Snow Emergency,"1344 knox ave n,Minneapolis,MN",44.992917,-93.301634,Yardville,2,5,Near - North,Near North,1
+-93.293061,45.020015,618,02/26/2018 01:36pm,Snow Emergency,"3544 DuPont ave n,Minneapolis,MN",45.020015,-93.293061,Yardville,2,4,McKinley,Camden,1
+-93.293103,44.986582,619,02/26/2018 01:37am,Snow Emergency,"801 van white ,Minneapolis,MN",44.986582,-93.293103,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.294768,44.989214,620,02/26/2018 01:37pm,Snow Emergency,"1210 11th Ave N,Minneapolis,MN",44.989214,-93.294768,Yardville,2,5,Near - North,Near North,1
+-93.291603,45.0218,621,02/26/2018 01:38pm,Snow Emergency,"3650 Colfax ave n,Minneapolis,MN",45.0218,-93.291603,Yardville,2,4,McKinley,Camden,1
+-93.279952,44.986503,622,02/26/2018 01:39am,Snow Emergency,"701 4th st n,Minneapolis,MN",44.986503,-93.279952,Yardville,1,5,North Loop,Central,1
+-93.293103,44.986582,623,02/26/2018 01:40am,Snow Emergency,"801 van white ,Minneapolis,MN",44.986582,-93.293103,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.292792,45.014542,624,02/26/2018 01:40pm,Snow Emergency,"3242 DuPont ave n,Minneapolis,MN",45.014542,-93.292792,Yardville,2,4,McKinley,Camden,1
+-93.292795,45.017388,625,02/26/2018 01:42pm,Snow Emergency,"3418 DuPont ave n,Minneapolis,MN",45.017388,-93.292795,Yardville,2,4,McKinley,Camden,1
+-93.291966,44.985948,626,02/26/2018 01:47am,Snow Emergency,"720 van whitee blvd,Minneapolis,MN",44.985948,-93.291966,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.293873,44.984487,627,02/26/2018 01:49am,Snow Emergency,"600 van white blvd,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.293873,44.984487,628,02/26/2018 01:51am,Snow Emergency,"600 BLOCK VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.309395,44.98624,629,02/26/2018 01:56pm,Snow Emergency,"800 QUEEN AVE N,Minneapolis,MN",44.98624,-93.309395,Yardville,2,5,Willard - Hay,Near North,1
+-93.278607,44.987188,630,02/26/2018 01:58am,Snow Emergency,"741 3rd st n,Minneapolis,MN",44.987188,-93.278607,Yardville,1,3,North Loop,Central,1
+-93.295399,44.985604,631,02/26/2018 02:08pm,Snow Emergency,"1202 7th Ave. N.,Minneapolis,MN",44.985604,-93.295399,Yardville,2,5,Near - North,Near North,1
+-93.309503,44.991977,632,02/26/2018 02:11pm,Snow Emergency,"1324 queen ave n,Minneapolis,MN",44.991977,-93.309503,Yardville,2,5,Willard - Hay,Near North,1
+-93.292063,44.988817,633,02/26/2018 02:14am,Snow Emergency,"1100-1198 VAN WHITE MEMORIAL BLVD,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.310444,44.993939,634,02/26/2018 02:20pm,Snow Emergency,"1420 RUSSELL AVE N,Minneapolis,MN",44.993939,-93.310444,Yardville,2,5,Willard - Hay,Near North,1
+-93.294391,44.9856,635,02/26/2018 02:26pm,Snow Emergency,"1130 7th ave n,Minneapolis,MN",44.9856,-93.294391,Yardville,2,5,Near - North,Near North,1
+-93.293873,44.984487,636,02/26/2018 02:29am,Snow Emergency,"600 van white,Minneapolis,MN",44.984487,-93.293873,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.293782,44.998804,637,02/26/2018 02:30am,Snow Emergency,"1900 Emerson av n,Minneapolis,MN",44.998804,-93.293782,Yardville,1,5,Near - North,Near North,1
+-93.292063,44.988817,638,02/26/2018 02:32am,Snow Emergency,"1100 van white Blvd ,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.291206,45.038633,639,02/26/2018 02:37am,Snow Emergency,"4600 Bryant Ave n,Minneapolis,MN",45.038633,-93.291206,Yardville,1,4,Lind - Bohanon,Camden,1
+-93.295427,44.985604,640,02/26/2018 02:38pm,Snow Emergency,"1204 7th ave n,Minneapolis,MN",44.985604,-93.295427,Yardville,2,5,Near - North,Near North,1
+-93.311879,44.985512,641,02/26/2018 02:46pm,Snow Emergency,"710 SHERIDAN AVE N,Minneapolis,MN",44.985512,-93.311879,Yardville,2,5,Willard - Hay,Near North,1
+-93.287564,44.985665,642,02/26/2018 02:48pm,Snow Emergency,"1016 7th Ave. N.,Minneapolis,MN",44.985665,-93.287564,Yardville,2,5,North Loop,Central,1
+-93.295591,45.01522,643,02/26/2018 02:56am,Snow Emergency,"3300-3399 FREEMONT AVE N,Minneapolis,MN",45.01522,-93.295591,Yardville,1,4,Folwell,Camden,1
+-93.295474,45.029726,644,02/26/2018 03:10am,Snow Emergency,"4100 Fremont Ave n,Minneapolis,MN",45.029726,-93.295474,Yardville,1,4,Webber - Camden,Camden,1
+-93.305448,45.024065,645,02/26/2018 03:41am,Snow Emergency,"1900 Dowling ave n ,Minneapolis,MN",45.024065,-93.305448,Yardville,1,4,Folwell,Camden,1
+-93.295603,45.016915,646,02/26/2018 03:58am,Snow Emergency,"3400-3499 FREEMONT AVE N,Minneapolis,MN",45.016915,-93.295603,Yardville,1,4,Folwell,Camden,1
+-93.294132,45.003898,647,02/26/2018 05:12am,Snow Emergency,"2400-2499 EMERSON AV N,Minneapolis,MN",45.003898,-93.294132,Yardville,1,5,Jordan,Near North,1
+-93.290697,44.986773,648,02/26/2018 08:13am,Snow Emergency,"826 aldrich ave n,Minneapolis,MN",44.986773,-93.290697,Yardville,2,5,Sumner - Glenwood,Near North,1
+-93.290868,44.987249,649,02/26/2018 08:18am,Snow Emergency,"906 aldrich ave n,Minneapolis,MN",44.987249,-93.290868,Yardville,2,5,Sumner - Glenwood,Near North,1
+-93.290773,44.988278,650,02/26/2018 08:37am,Snow Emergency,"1028 ALDRICH AVE N,Minneapolis,MN",44.988278,-93.290773,Yardville,2,5,Sumner - Glenwood,Near North,1
+-93.298184,44.990894,651,02/26/2018 08:56am,Snow Emergency,"1202 Humboldt Ave. N.,Minneapolis,MN",44.990894,-93.298184,Yardville,2,5,Near - North,Near North,1
+-93.298548,45.001794,652,02/26/2018 09:25am,Snow Emergency,"2206 irving ave n,Minneapolis,MN",45.001794,-93.298548,Yardville,2,5,Jordan,Near North,1
+-93.299213,44.992477,653,02/26/2018 09:27am,Snow Emergency,"1320 Irving Ave. N.,Minneapolis,MN",44.992477,-93.299213,Yardville,2,5,Near - North,Near North,1
+-93.299091,44.999189,654,02/26/2018 09:28am,Snow Emergency,"1906 irving ave n,Minneapolis,MN",44.999189,-93.299091,Yardville,2,5,Near - North,Near North,1
+-93.299161,44.990655,655,02/26/2018 09:29am,Snow Emergency,"1214 IRVING AVE N,Minneapolis,MN",44.990655,-93.299161,Yardville,2,5,Near - North,Near North,1
+-93.28494,45.000543,656,02/26/2018 09:44am,Snow Emergency,"2124 4th st n,Minneapolis,MN",45.000543,-93.28494,Yardville,2,5,Hawthorne,Near North,1
+-93.286194,45.004994,657,02/26/2018 09:48am,Snow Emergency,"2504 6th st n,Minneapolis,MN",45.004994,-93.286194,Yardville,2,5,Hawthorne,Near North,1
+-93.299442,44.990849,658,02/26/2018 09:51am,Snow Emergency,"1226 Irving Ave N,Minneapolis,MN",44.990849,-93.299442,Yardville,2,5,Near - North,Near North,1
+-93.284668,45.004089,659,02/26/2018 09:51am,Snow Emergency,"2410 4th st n ,Minneapolis,MN",45.004089,-93.284668,Yardville,2,5,Hawthorne,Near North,1
+-93.300702,44.990816,660,02/26/2018 09:53am,Snow Emergency,"1224 JAMES ANE N,Minneapolis,MN",44.990816,-93.300702,Yardville,2,5,Near - North,Near North,1
+-93.284613,45.00421,661,02/26/2018 09:54am,Snow Emergency,"2414 4th st n,Minneapolis,MN",45.00421,-93.284613,Yardville,2,5,Hawthorne,Near North,1
+-93.30032,44.990788,662,02/26/2018 10:04am,Snow Emergency,"1222 james ave n,Minneapolis,MN",44.990788,-93.30032,Yardville,2,5,Near - North,Near North,1
+-93.299438,44.992533,663,02/26/2018 10:09am,Snow Emergency,"1322 Irving ave n ,Minneapolis,MN",44.992533,-93.299438,Yardville,2,5,Near - North,Near North,1
+-93.303178,44.99895,664,02/26/2018 10:16am,Snow Emergency,"1920 Logan Ave N,Minneapolis,MN",44.99895,-93.303178,Yardville,2,5,Willard - Hay,Near North,1
+-93.304467,44.99541,665,02/26/2018 10:18am,Snow Emergency,"1616 MORGAN AVE N,Minneapolis,MN",44.99541,-93.304467,Yardville,2,5,Willard - Hay,Near North,1
+-93.284943,45.013733,666,02/26/2018 10:36am,Snow Emergency,"3216 4th st n,Minneapolis,MN",45.013733,-93.284943,Yardville,2,4,McKinley,Camden,1
+-93.303224,44.987485,667,02/26/2018 10:39am,Snow Emergency,"916 LOGAN AVE N,Minneapolis,MN",44.987485,-93.303224,Yardville,2,5,Near - North,Near North,1
+-93.284646,45.013536,668,02/26/2018 10:41am,Snow Emergency,"3210 4th St n,Minneapolis,MN",45.013536,-93.284646,Yardville,2,4,McKinley,Camden,1
+-93.304246,44.99091,669,02/26/2018 10:43am,Snow Emergency,"1238 Morgan Ave N,Minneapolis,MN",44.99091,-93.304246,Yardville,2,5,Near - North,Near North,1
+-93.286489,45.015005,670,02/26/2018 10:43am,Snow Emergency,"3302 6th st n,Minneapolis,MN",45.015005,-93.286489,Yardville,2,4,McKinley,Camden,1
+-93.286117,45.010175,671,02/26/2018 10:45am,Snow Emergency,"2918 6th st n,Minneapolis,MN",45.010175,-93.286117,Yardville,2,5,Hawthorne,Near North,1
+-93.304139,44.990493,672,02/26/2018 10:51am,Snow Emergency,"1220 morgan ave n,Minneapolis,MN",44.990493,-93.304139,Yardville,2,5,Near - North,Near North,1
+-93.304172,44.99315,673,02/26/2018 10:55am,Snow Emergency,"1402 morgan ave n,Minneapolis,MN",44.99315,-93.304172,Yardville,2,5,Willard - Hay,Near North,1
+-93.303205,44.992057,674,02/26/2018 11:00am,Snow Emergency,"1314 Logan Ave N,Minneapolis,MN",44.992057,-93.303205,Yardville,2,5,Willard - Hay,Near North,1
+-93.303204,44.991788,675,02/26/2018 11:06am,Snow Emergency,"1306 LOGAN AVE N,Minneapolis,MN",44.991788,-93.303204,Yardville,2,5,Willard - Hay,Near North,1
+-93.301417,44.987273,676,02/26/2018 11:22am,Snow Emergency,"826 Elwood Ave N,Minneapolis,MN",44.987273,-93.301417,Yardville,2,5,Near - North,Near North,1
+-93.301555,44.988472,677,02/26/2018 11:27am,Snow Emergency,"1030 KNOX AE N,Minneapolis,MN",44.988472,-93.301555,Yardville,2,5,Near - North,Near North,1
+-93.286432,45.012065,678,02/26/2018 11:31am,Snow Emergency,"3108 6TH ST N,Minneapolis,MN",45.012065,-93.286432,Yardville,2,5,Hawthorne,Near North,1
+-93.286429,45.012245,679,02/26/2018 11:32am,Snow Emergency,"3124 6th st n,Minneapolis,MN",45.012245,-93.286429,Yardville,2,5,Hawthorne,Near North,1
+-93.302873,44.989965,680,02/26/2018 11:34am,Snow Emergency,"1206 logan ave n,Minneapolis,MN",44.989965,-93.302873,Yardville,2,5,Near - North,Near North,1
+-93.28907,45.024864,681,02/26/2018 11:34am,Snow Emergency,"3830 Aldrich av n,Minneapolis,MN",45.024864,-93.28907,Yardville,2,4,Webber - Camden,Camden,1
+-93.28907,45.024864,682,02/26/2018 11:34am,Snow Emergency,"3830 aldrich,Minneapolis,MN",45.024864,-93.28907,Yardville,2,4,Webber - Camden,Camden,1
+-93.301664,44.992069,683,02/26/2018 11:37am,Snow Emergency,"1312 knox ave n,Minneapolis,MN",44.992069,-93.301664,Yardville,2,5,Near - North,Near North,1
+-93.301953,44.990633,684,02/26/2018 11:43am,Snow Emergency,"1228 Knox Ave N,Minneapolis,MN",44.990633,-93.301953,Yardville,2,5,Near - North,Near North,1
+-93.301627,44.990803,685,02/26/2018 11:54am,Snow Emergency,"1234 KNOX AVE N,Minneapolis,MN",44.990803,-93.301627,Yardville,2,5,Near - North,Near North,1
+-93.272769,44.987603,686,02/26/2018 12:00am,Snow Emergency,"515 1st st n,Minneapolis,MN",44.987603,-93.272769,Yardville,1,3,North Loop,Central,1
+-93.301635,44.992589,687,02/26/2018 12:00pm,Snow Emergency,"1332 Knox Ave N,Minneapolis,MN",44.992589,-93.301635,Yardville,2,5,Near - North,Near North,1
+-93.274993,44.989832,688,02/26/2018 12:03am,Snow Emergency,"716 1st st n,Minneapolis,MN",44.989832,-93.274993,Yardville,1,3,North Loop,Central,1
+-93.287776,45.027711,689,02/26/2018 12:06am,Snow Emergency,"4000 Lyndale Ave N,Minneapolis,MN",45.027711,-93.287776,Yardville,1,4,Webber - Camden,Camden,1
+-93.288049,45.022309,690,02/26/2018 12:07am,Snow Emergency,"3700 BLOCK LYNDALE AVE N,Minneapolis,MN",45.022309,-93.288049,Yardville,1,4,McKinley,Camden,1
+-93.284305,44.987974,691,02/26/2018 12:08am,Snow Emergency,"1009 5th st n,Minneapolis,MN",44.987974,-93.284305,Yardville,1,5,North Loop,Central,1
+-93.281562,44.98887,692,02/26/2018 12:29am,Snow Emergency,"921 3rd st n,Minneapolis,MN",44.98887,-93.281562,Yardville,1,3,North Loop,Central,1
+-93.292792,45.018044,693,02/26/2018 12:29pm,Snow Emergency,"3438 DuPont ave n,Minneapolis,MN",45.018044,-93.292792,Yardville,2,4,McKinley,Camden,1
+-93.289042,45.021873,694,02/26/2018 12:32pm,Snow Emergency,"3654 Aldrich ave n,Minneapolis,MN",45.021873,-93.289042,Yardville,2,4,McKinley,Camden,1
+-93.306696,44.986464,695,02/26/2018 12:33pm,Snow Emergency,"810 Oliver Ave N,Minneapolis,MN",44.986464,-93.306696,Yardville,2,5,Near - North,Near North,1
+-93.28903,45.021764,696,02/26/2018 12:33pm,Snow Emergency,"3650 Aldrich ave n,Minneapolis,MN",45.021764,-93.28903,Yardville,2,4,McKinley,Camden,1
+-93.290313,45.020806,697,02/26/2018 12:35pm,Snow Emergency,"3614 Bryant av n,Minneapolis,MN",45.020806,-93.290313,Yardville,2,4,McKinley,Camden,1
+-93.292063,44.988817,698,02/26/2018 12:39am,Snow Emergency,"1100 Van White Memorial blvd,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.303208,44.990953,699,02/26/2018 12:44pm,Snow Emergency,"1240 logan ave n,Minneapolis,MN",44.990953,-93.303208,Yardville,2,5,Near - North,Near North,1
+-93.305706,44.993845,700,02/26/2018 12:47pm,Snow Emergency,"1424 newton ave n,Minneapolis,MN",44.993845,-93.305706,Yardville,2,5,Willard - Hay,Near North,1
+-93.306616,45.000139,701,02/26/2018 12:49pm,Snow Emergency,"1942 OLIVER AVE N,Minneapolis,MN",45.000139,-93.306616,Yardville,2,5,Willard - Hay,Near North,1
+-93.277539,44.985084,702,02/26/2018 12:55am,Snow Emergency,"518 4th st n,Minneapolis,MN",44.985084,-93.277539,Yardville,1,3,North Loop,Central,1
+-93.292063,44.988817,703,02/26/2018 12:56am,Snow Emergency,"1100 van white Blvd ,Minneapolis,MN",44.988817,-93.292063,Yardville,1,5,Sumner - Glenwood,Near North,1
+-93.293469,44.989251,704,02/26/2018 12:57am,Snow Emergency,"1101 Van White Memorial blvd,Minneapolis,MN",44.989251,-93.293469,Yardville,1,5,Near - North,Near North,1
+-93.293469,44.989251,705,02/26/2018 12:59am,Snow Emergency,"1101 van white ,Minneapolis,MN",44.989251,-93.293469,Yardville,1,5,Near - North,Near North,1
+-93.280637,44.995216,706,02/27/2018 01:11pm,Snow Emergency,"211 16th Ave N,Minneapolis,MN",44.995216,-93.280637,Yardville,3,5,Near - North,Near North,1
+-93.285325,45.01369,707,02/27/2018 08:25am,Snow Emergency,"3213 4th St n,Minneapolis,MN",45.01369,-93.285325,Yardville,3,4,McKinley,Camden,1
+-93.285251,45.001135,708,02/27/2018 08:33am,Snow Emergency,"2133 4th st n ,Minneapolis,MN",45.001135,-93.285251,Yardville,3,5,Hawthorne,Near North,1
+-93.289658,45.02689,709,02/27/2018 09:21am,Snow Emergency,"3939 aldrich ave n ,Minneapolis,MN",45.02689,-93.289658,Yardville,3,4,Webber - Camden,Camden,1
+-93.292145,45.024447,710,02/27/2018 09:33am,Snow Emergency,"3815 Colfax Ave n ,Minneapolis,MN",45.024447,-93.292145,Yardville,3,4,Webber - Camden,Camden,1
+-93.305975,44.987068,711,02/27/2018 09:41am,Snow Emergency,"903 Newton Ave. N.,Minneapolis,MN",44.987068,-93.305975,Yardville,3,5,Near - North,Near North,1
+-93.293363,45.011601,712,02/27/2018 10:06am,Snow Emergency,"3007 dupont Ave n ,Minneapolis,MN",45.011601,-93.293363,Yardville,3,5,Hawthorne,Near North,1
+-93.292149,45.013676,713,02/27/2018 10:14am,Snow Emergency,"3215 Colfax Ave n ,Minneapolis,MN",45.013676,-93.292149,Yardville,3,4,McKinley,Camden,1
+-93.305725,44.989506,714,02/27/2018 10:20am,Snow Emergency,"1125 Newton Ave N,Minneapolis,MN",44.989506,-93.305725,Yardville,3,5,Near - North,Near North,1
+-93.30599,44.995745,715,02/27/2018 10:30am,Snow Emergency,"1615 NEWTON AVE N,Minneapolis,MN",44.995745,-93.30599,Yardville,3,5,Willard - Hay,Near North,1
+-93.307311,44.985491,716,02/27/2018 10:41am,Snow Emergency,"711 Oliver Ave N,Minneapolis,MN",44.985491,-93.307311,Yardville,3,5,Near - North,Near North,1
+-93.289534,45.003912,717,02/27/2018 10:51am,Snow Emergency,"2403 aldrich ave n ,Minneapolis,MN",45.003912,-93.289534,Yardville,3,5,Hawthorne,Near North,1
+-93.313644,45.015436,718,02/27/2018 10:57am,Snow Emergency,"3311 Thomas Ave n,Minneapolis,MN",45.015436,-93.313644,Yardville,3,4,Cleveland,Camden,1
+-93.289636,45.014508,719,02/27/2018 11:02am,Snow Emergency,"3243 aldrich ave n ,Minneapolis,MN",45.014508,-93.289636,Yardville,3,4,McKinley,Camden,1
+-93.307347,44.985607,720,02/27/2018 11:05am,Snow Emergency,"715 OLIVER AVE N,Minneapolis,MN",44.985607,-93.307347,Yardville,3,5,Near - North,Near North,1
+-93.290787,45.009895,721,02/27/2018 11:35am,Snow Emergency,"2909 Bryant Ave n ,Minneapolis,MN",45.009895,-93.290787,Yardville,3,5,Hawthorne,Near North,1
+-93.301994,44.989697,722,02/27/2018 11:38am,Snow Emergency,"1703 12TH AVE N,Minneapolis,MN",44.989697,-93.301994,Yardville,3,5,Near - North,Near North,1
+-93.312366,44.987912,723,02/27/2018 11:43am,Snow Emergency,"2521 Oake Park Ave N,Minneapolis,MN",44.987912,-93.312366,Yardville,3,5,Willard - Hay,Near North,1
+-93.293063,45.019615,724,02/27/2018 11:57am,Snow Emergency,"3537 dupont Ave n ,Minneapolis,MN",45.019615,-93.293063,Yardville,3,4,McKinley,Camden,1
+-93.314891,45.000264,725,02/27/2018 12:26pm,Snow Emergency,"2019 Upton Ave N,Minneapolis,MN",45.000264,-93.314891,Yardville,3,5,Willard - Hay,Near North,1
+-93.303241,44.989695,726,02/27/2018 12:34pm,Snow Emergency,"1803 12TH AVE N,Minneapolis,MN",44.989695,-93.303241,Yardville,3,5,Near - North,Near North,1
+-93.293376,45.021056,727,02/27/2018 12:47pm,Snow Emergency,"3623 dupont Ave n ,Minneapolis,MN",45.021056,-93.293376,Yardville,3,4,Folwell,Camden,1
+-93.291988,45.025623,728,02/27/2018 12:49pm,Snow Emergency,"1009 39th ave n ,Minneapolis,MN",45.025623,-93.291988,Yardville,3,4,Webber - Camden,Camden,1
