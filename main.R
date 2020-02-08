@@ -108,15 +108,27 @@ tows <- transform(tow_dataset, date = as.Date(date, format = "%m/%d/%y")) %>% as
 # Mapping #
 ###########
 
-bbox <- make_bbox(lon = tags$x, lat = tags$y, f = .1)
+# In order to get the legend working properly, need to combine tickets and tows into one tibble
+# mutate new column "Type" with "ticket"/"tow"
+
+bbox <- make_bbox(lon = tags$x, lat = tags$y, f = .5)
 my_map <- get_map(location = bbox, maptype = "roadmap", source = "google", zoom = 12, scale = 2)
 
 ggmap(my_map) +
   geom_point(data = tags,
-             mapping = aes(x = x, y = y), color = "black", size = 1, alpha = 0.25
+             mapping = aes(x = x, y = y, fill = "Tickets"), color = "black", size = 0.8, alpha = 0.2
   ) +
   geom_point(data = tows,
-             mapping = aes(x = x, y = y), color = "red", size = 1, alpha = 0.25
-  )
+             mapping = aes(x = x, y = y), color = "red", size = 0.8, alpha = 0.2,
+  ) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.title.y=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank(),
+  ) +
+  scale_fill_manual(name = "Type", values = c("Tickets" = "black")) +
+  guides(colour = guide_legend(override.aes = list(alpha=1)))
   #geom_line(data = emergency_routes,
   #          mapping = )
